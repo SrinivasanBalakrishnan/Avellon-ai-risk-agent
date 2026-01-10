@@ -1,32 +1,26 @@
 # agent/topic_generator.py
 
-from openai import OpenAI
-from agent.prompts import SYSTEM_PROMPT
+def generate_topics(alerts):
+    high = []
+    medium = []
 
-client = OpenAI()
+    for alert in alerts:
+        title = alert["title"]
+        priority = alert["priority"]
 
-def generate_topics(prioritized_alerts):
-    """
-    Sends prioritized alerts to the AI and generates
-    executive-level LinkedIn topic ideas.
-    """
+        if priority == "HIGH":
+            high.append(f"- {title}")
+        elif priority == "MEDIUM":
+            medium.append(f"- {title}")
 
-    input_text = "\n".join([
-        f"[{a['priority']}] {a['title']} - {a['summary']}"
-        for a in prioritized_alerts
-        if a["priority"] in ["HIGH", "MEDIUM"]
-    ])
+    output = ""
 
-    if not input_text.strip():
-        return "No significant risks detected today."
+    if high:
+        output += "🔥 HIGH PRIORITY GLOBAL RISKS\n"
+        output += "\n".join(high) + "\n\n"
 
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": input_text}
-        ]
-    )
+    if medium:
+        output += "🟡 MEDIUM PRIORITY WATCHLIST\n"
+        output += "\n".join(medium) + "\n\n"
 
-    return response.choices[0].message.content
-
+    return output if output else "No major global risks detected today."
