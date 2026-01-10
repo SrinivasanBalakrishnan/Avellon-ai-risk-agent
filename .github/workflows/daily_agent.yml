@@ -13,7 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          # This token fixes the "403 Permission Denied" error
           token: ${{ secrets.MY_GIT_TOKEN }}
 
       - name: Set up Python
@@ -23,11 +22,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          # Removed 'openai' from here
           pip install feedparser
 
       - name: Run Avellon AI Agent
-        # Removed 'OPENAI_API_KEY' section
         run: |
           python agent/fetch_alerts.py
 
@@ -37,10 +34,10 @@ jobs:
           git config --global user.email "agent@avellon.ai"
           git add outputs/daily_topics.md
           
-          # Added --allow-empty to prevent the workflow from failing if there's no news
+          # Don't crash if no changes
           git commit -m "Daily risk topics update" --allow-empty
           
-          # 👇 THIS IS THE FIX for the [rejected] error
+          # 👇 THIS IS THE CRITICAL FIX
           git pull --rebase origin main
           
           git push
