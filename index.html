@@ -8,80 +8,74 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-   
+    
     <style>
+        /* --- 1. GLOBAL RESET & THEME --- */
         :root {
-            --bg-body: #0f172a;
-            --bg-card: #1e293b;
-            --bg-hover: #334155;
-            --text-main: #f8fafc;
-            --text-muted: #cbd5e1;      /* improved contrast */
-            --text-subtle: #94a3b8;
-            --border: #334155;
-            --accent: #3b82f6;
+            --bg-body: #0f172a;       /* Deep Slate Background */
+            --bg-card: #1e293b;       /* Lighter Slate Card */
+            --bg-hover: #334155;      /* Hover State */
+            --text-main: #f8fafc;     /* White Text */
+            --text-muted: #94a3b8;    /* Grey Text */
+            --border: #334155;        /* Subtle Borders */
             
             /* Category Colors */
-            --geo: #ef4444;
-            --eco: #10b981;
-            --cyber: #8b5cf6;
-            --lead: #f59e0b;
-            
-            /* Risk Levels */
-            --risk-high: #ef4444;
-            --risk-med: #f59e0b;
-            --risk-low: #10b981;
+            --geo: #ef4444;           /* Red */
+            --eco: #10b981;           /* Green */
+            --cyber: #8b5cf6;         /* Purple */
+            --lead: #f59e0b;          /* Orange */
+            --accent: #3b82f6;        /* Blue Brand Color */
 
+            /* Risk Levels */
+            --risk-high: #ef4444;     /* Critical (Red) */
+            --risk-med: #f59e0b;      /* Medium (Yellow) */
+            --risk-low: #10b981;      /* Low (Green) */
+            
             /* Radii */
             --radius-sm: 8px;
             --radius-md: 12px;
-            --radius-pill: 9999px;
-        }
-
-        * {
-            box-sizing: border-box;
         }
 
         body {
-            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-family: 'Inter', sans-serif;
             background-color: var(--bg-body);
             color: var(--text-main);
             margin: 0;
             padding: 0;
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
         }
 
-        /* ── HEADER & NAV ── */
+        /* --- 2. HEADER & NAVIGATION --- */
         .navbar {
-            background: rgba(15, 23, 42, 0.92);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(10px);
             border-bottom: 1px solid var(--border);
-            padding: 16px 32px;
+            padding: 15px 30px;
             position: sticky;
             top: 0;
-            z-index: 1000;
+            z-index: 100;
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
 
         .brand {
-            font-size: 19px;
+            font-size: 18px;
             font-weight: 700;
-            letter-spacing: -0.4px;
+            letter-spacing: -0.5px;
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 12px; 
         }
 
+        /* Blue Dot Logo */
         .brand-dot {
             height: 10px;
             width: 10px;
-            background: var(--accent);
+            background-color: var(--accent);
             border-radius: 50%;
-            box-shadow: 0 0 12px rgba(59, 130, 246, 0.5);
+            box-shadow: 0 0 10px var(--accent);
         }
 
         .status-badge {
@@ -89,28 +83,28 @@
             color: var(--text-muted);
             font-weight: 500;
             background: #1e293b;
-            padding: 6px 14px;
-            border-radius: var(--radius-pill);
+            padding: 6px 12px;
+            border-radius: 20px;
             border: 1px solid var(--border);
             display: flex;
             align-items: center;
             gap: 6px;
         }
 
-        /* ── ANALYTICS PANEL ── */
+        /* --- 3. ANALYTICS PANEL --- */
         .analytics-panel {
-            max-width: 1440px;
-            margin: 32px auto;
-            padding: 0 24px;
+            max-width: 1400px;
+            margin: 30px auto;
+            padding: 0 20px;
             display: grid;
-            grid-template-columns: 2fr 1fr;
-            gap: 24px;
+            grid-template-columns: 2fr 1fr; /* Chart takes 2/3, List takes 1/3 */
+            gap: 20px;
         }
 
         .viz-card {
             background: var(--bg-card);
             border: 1px solid var(--border);
-            border-radius: var(--radius-md);
+            border-radius: 12px;
             padding: 24px;
             display: flex;
             flex-direction: column;
@@ -128,148 +122,96 @@
             align-items: center;
         }
 
-        /* Country List */
-        .country-list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
+        /* Country List Styles */
+        .country-list { list-style: none; padding: 0; margin: 0; }
+        .country-item { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .country-item:last-child { border-bottom: none; }
+        
+        .country-name { font-weight: 500; font-size: 15px; display: flex; align-items: center; gap: 10px; }
+        .risk-dot { height: 8px; width: 8px; border-radius: 50%; }
+        
+        .risk-val { font-size: 12px; font-weight: 700; padding: 4px 8px; border-radius: 4px; min-width: 20px; text-align: center; }
+        .val-high { background: rgba(239, 68, 68, 0.2); color: var(--risk-high); }
+        .val-med { background: rgba(245, 158, 11, 0.2); color: var(--risk-med); }
+        .val-low { background: rgba(16, 185, 129, 0.2); color: var(--risk-low); }
 
-        .country-item {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 14px 0;
-            border-bottom: 1px solid rgba(255,255,255,0.06);
-        }
-
-        .country-item:last-child {
-            border-bottom: none;
-        }
-
-        .country-name {
-            font-weight: 500;
-            font-size: 15px;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .risk-dot {
-            height: 10px;
-            width: 10px;
-            border-radius: 50%;
-        }
-
-        .risk-val {
-            font-size: 12px;
-            font-weight: 700;
-            padding: 4px 10px;
-            border-radius: 6px;
-            min-width: 28px;
-            text-align: center;
-        }
-
-        .val-high { background: rgba(239,68,68,0.18); color: var(--risk-high); }
-        .val-med  { background: rgba(245,158,11,0.18);  color: var(--risk-med); }
-        .val-low  { background: rgba(16,185,129,0.18);  color: var(--risk-low); }
-
-        /* ── CONTROLS ── */
+        /* --- 4. CONTROLS --- */
         .controls {
-            max-width: 1440px;
-            margin: 0 auto 24px;
-            padding: 0 24px;
+            max-width: 1400px;
+            margin: 0 auto 20px;
+            padding: 0 20px;
             display: flex;
             flex-wrap: wrap;
-            gap: 16px;
+            gap: 15px;
             justify-content: space-between;
             align-items: center;
         }
 
         .filter-group {
             display: flex;
-            gap: 10px;
+            gap: 8px;
             overflow-x: auto;
-            padding-bottom: 6px;
+            padding-bottom: 5px; 
         }
 
         .filter-btn {
             background: transparent;
             border: 1px solid var(--border);
             color: var(--text-muted);
-            padding: 9px 18px;
-            border-radius: var(--radius-sm);
+            padding: 8px 16px;
+            border-radius: 6px;
             font-size: 13px;
             font-weight: 500;
             cursor: pointer;
-            transition: all 0.18s ease;
+            transition: all 0.2s;
             white-space: nowrap;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
         }
 
-        .filter-btn:hover {
-            background: var(--bg-hover);
-            color: white;
-            border-color: #475569;
-        }
-
-        .filter-btn.active {
-            background: var(--accent);
-            color: white;
-            border-color: var(--accent);
-            box-shadow: 0 0 0 3px rgba(59,130,246,0.18);
-            font-weight: 600;
-        }
-
+        .filter-btn:hover { background: var(--bg-hover); color: white; }
+        .filter-btn.active { background: var(--accent); color: white; border-color: var(--accent); font-weight: 600; }
+        
         .count-badge {
-            background: rgba(255,255,255,0.12);
-            padding: 3px 7px;
-            border-radius: 5px;
-            font-size: 11px;
+            background: rgba(255,255,255,0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 10px;
         }
-
-        .filter-btn.active .count-badge {
-            background: rgba(0,0,0,0.25);
-        }
+        .filter-btn.active .count-badge { background: rgba(0,0,0,0.2); color: inherit; }
 
         .search-box {
             background: var(--bg-card);
             border: 1px solid var(--border);
             color: white;
-            padding: 11px 16px;
-            border-radius: var(--radius-sm);
+            padding: 10px 15px;
+            border-radius: 6px;
             width: 280px;
-            font-family: inherit;
+            font-family: 'Inter', sans-serif;
             font-size: 14px;
-            transition: border-color 0.2s, box-shadow 0.2s;
+            transition: border-color 0.2s;
         }
+        .search-box:focus { outline: none; border-color: var(--accent); }
 
-        .search-box:focus {
-            outline: none;
-            border-color: var(--accent);
-            box-shadow: 0 0 0 3px rgba(59,130,246,0.15);
-        }
-
-        /* ── MAIN GRID ── */
+        /* --- 5. DASHBOARD GRID --- */
         .container {
-            max-width: 1440px;
+            max-width: 1400px;
             margin: 0 auto;
-            padding: 0 24px 80px;
+            padding: 0 20px 60px;
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); 
             gap: 24px;
             align-items: start;
         }
 
-        /* ── INTELLIGENCE CARD ── */
+        /* --- 6. INTELLIGENCE CARD --- */
         .card {
             background: var(--bg-card);
             border: 1px solid var(--border);
-            border-radius: var(--radius-md);
-            padding: 32px;
-            transition: all 0.22s ease;
+            border-radius: 12px;
+            padding: 24px;
+            transition: transform 0.2s, box-shadow 0.2s;
             display: flex;
             flex-direction: column;
             position: relative;
@@ -277,123 +219,83 @@
 
         .card:hover {
             transform: translateY(-4px);
-            box-shadow: 0 16px 40px -12px rgba(0,0,0,0.45);
+            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
             border-color: #475569;
         }
 
+        /* Risk Borders */
         .border-high { border-left: 4px solid var(--risk-high); }
-        .border-med  { border-left: 4px solid var(--risk-med);  }
-        .border-low  { border-left: 4px solid var(--risk-low);  }
+        .border-med { border-left: 4px solid var(--risk-med); }
+        .border-low { border-left: 4px solid var(--risk-low); }
 
         .card-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 16px;
+            margin-bottom: 15px;
         }
 
         .category-tag {
-            font-size: 11.5px;
+            font-size: 10px;
             font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 0.6px;
-            padding: 5px 11px;
-            border-radius: 6px;
+            letter-spacing: 0.5px;
+            padding: 4px 8px;
+            border-radius: 4px;
         }
 
-        .tag-geo   { color: var(--geo);   background: rgba(239,68,68,0.14);   border: 1px solid rgba(239,68,68,0.26); }
-        .tag-eco   { color: var(--eco);   background: rgba(16,185,129,0.14);  border: 1px solid rgba(16,185,129,0.26); }
-        .tag-cyber { color: var(--cyber); background: rgba(139,92,246,0.14); border: 1px solid rgba(139,92,246,0.26); }
-        .tag-lead  { color: var(--lead);  background: rgba(245,158,11,0.14); border: 1px solid rgba(245,158,11,0.26); }
-        .tag-gen   { color: var(--text-muted); background: rgba(148,163,184,0.14); border: 1px solid rgba(148,163,184,0.26); }
+        /* Category Tag Styles */
+        .tag-geo { color: var(--geo); background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.2); }
+        .tag-eco { color: var(--eco); background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.2); }
+        .tag-cyber { color: var(--cyber); background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.2); }
+        .tag-lead { color: var(--lead); background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2); }
+        .tag-gen { color: var(--text-muted); background: rgba(148, 163, 184, 0.1); border: 1px solid rgba(148, 163, 184, 0.2); }
 
-        .card-date {
-            font-size: 12px;
-            color: var(--text-subtle);
-        }
+        .card-date { font-size: 11px; color: var(--text-muted); }
 
         .card-title {
             font-size: 17px;
             font-weight: 600;
             color: var(--text-main);
             text-decoration: none;
-            margin: 0 0 14px 0;
-            line-height: 1.42;
+            margin-bottom: 12px;
+            line-height: 1.5;
             display: block;
         }
-
-        .card-title:hover {
-            color: var(--accent);
-        }
+        .card-title:hover { color: var(--accent); }
 
         .card-summary {
-            font-size: 14.5px;
+            font-size: 14px;
             color: #cbd5e1;
-            line-height: 1.7;
-            margin-bottom: 24px;
-            flex-grow: 1;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            flex-grow: 1; 
         }
 
         .card-footer {
-            padding-top: 16px;
-            border-top: 1px solid rgba(255,255,255,0.06);
-            font-size: 12px;
-            color: var(--text-subtle);
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            font-size: 11px;
+            color: #64748b;
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
+        
+        .source-badge { font-weight: 500; color: #94a3b8; display: flex; align-items: center; gap: 5px; }
+        .read-more { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 12px; letter-spacing: 0.5px; }
+        .read-more:hover { text-decoration: underline; }
 
-        .source-badge {
-            font-weight: 500;
-            color: var(--text-subtle);
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-
-        .read-more {
-            color: var(--accent);
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 12px;
-            letter-spacing: 0.4px;
-        }
-
-        .read-more:hover {
-            text-decoration: underline;
-        }
-
-        #loading {
-            text-align: center;
-            padding: 120px 20px;
-            color: var(--text-muted);
-            font-weight: 300;
-            letter-spacing: 1px;
-            font-size: 15px;
-        }
-
-        /* ── RESPONSIVE ── */
-        @media (max-width: 1100px) {
-            .analytics-panel {
-                grid-template-columns: 1fr;
-            }
-        }
-
+        /* Loading & Error States */
+        #loading { text-align: center; padding: 100px; color: var(--text-muted); font-weight: 300; letter-spacing: 1px; }
+        
+        /* Mobile Tweaks */
         @media (max-width: 900px) {
-            .container {
-                grid-template-columns: 1fr;
-            }
-            .controls {
-                flex-direction: column;
-                align-items: stretch;
-            }
-            .search-box {
-                width: 100%;
-            }
-            .navbar {
-                padding: 16px 20px;
-            }
+            .analytics-panel { grid-template-columns: 1fr; } 
+            .container { grid-template-columns: 1fr; }
+            .controls { flex-direction: column; align-items: stretch; }
+            .search-box { width: 100%; box-sizing: border-box; }
+            .navbar { padding: 15px 20px; }
         }
     </style>
 </head>
@@ -410,7 +312,7 @@
     <div class="analytics-panel">
         <div class="viz-card">
             <div class="viz-title">Global Risk Intensity by Sector</div>
-            <div style="flex-grow:1; position:relative; min-height:280px;">
+            <div style="flex-grow:1; position: relative; min-height: 250px;">
                 <canvas id="riskChart"></canvas>
             </div>
         </div>
@@ -434,32 +336,32 @@
             <button class="filter-btn" id="btn-CYBER" onclick="filterData('CYBER & TECH')">Cyber</button>
             <button class="filter-btn" id="btn-LEAD" onclick="filterData('LEADERSHIP')">Leadership</button>
         </div>
-        <input type="text" id="searchInput" class="search-box" placeholder="Search signals (e.g. 'Trade', 'NATO', 'China')..." onkeyup="handleSearch()">
+        <input type="text" id="searchInput" class="search-box" placeholder="Search signals (e.g. 'Trade', 'NATO')..." onkeyup="handleSearch()">
     </div>
 
     <div id="loading">ESTABLISHING SECURE CONNECTION...</div>
     <div id="grid-container" class="container"></div>
 
     <script>
-        // ── Your existing JavaScript remains unchanged ──
-        // Just make sure you keep your current logic
-        // The visual changes are all in CSS
+        let allRiskItems = []; // Master data storage
 
-        let allRiskItems = [];
-
+        // 1. Fetch Data
         fetch('outputs/dashboard_data.json')
             .then(r => r.json())
             .then(data => {
                 document.getElementById('loading').style.display = 'none';
                 
+                // Update Timestamp
                 document.getElementById('last-updated-badge').innerText = `Last Scan: ${data.generated_at}`;
-                
+
+                // Process News Items
                 Object.keys(data.items).forEach(category => {
                     data.items[category].forEach(item => {
-                        allRiskItems.push({ ...item, category });
+                        allRiskItems.push({ ...item, category: category });
                     });
                 });
 
+                // Update UI Components
                 updateButtonCounts(data.stats);
                 renderChart(data.industry_risks);
                 renderCountryList(data.top_countries);
@@ -467,11 +369,157 @@
             })
             .catch(err => {
                 console.error(err);
-                document.getElementById('loading').innerHTML = 
-                    "<span style='color:var(--risk-high)'>⚠ SIGNAL LOST: Unable to retrieve intelligence data.</span>";
+                document.getElementById('loading').innerHTML = "<span style='color:var(--geo)'>⚠ SIGNAL LOST: Unable to retrieve intelligence data.</span>";
             });
 
-        // ... rest of your script (renderChart, renderCountryList, renderGrid, etc.) remains the same ...
+        // 2. Render Risk Chart (Bar Chart)
+        function renderChart(industries) {
+            if(!industries) return;
+            const ctx = document.getElementById('riskChart').getContext('2d');
+            
+            const labels = industries.map(i => i.name);
+            const data = industries.map(i => i.score);
+            const colors = data.map(score => score >= 8 ? '#ef4444' : score >= 4 ? '#f59e0b' : '#10b981');
+
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Risk Score',
+                        data: data,
+                        backgroundColor: colors,
+                        borderRadius: 4,
+                        barThickness: 20
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: { beginAtZero: true, grid: { color: '#334155' }, ticks: { color: '#94a3b8' } },
+                        x: { grid: { display: false }, ticks: { color: '#94a3b8', font: {size: 10} } }
+                    },
+                    plugins: { legend: { display: false } }
+                }
+            });
+        }
+
+        // 3. Render Top Countries List
+        function renderCountryList(countries) {
+            const container = document.getElementById('country-list-container');
+            container.innerHTML = '';
+            
+            if(!countries || countries.length === 0) {
+                container.innerHTML = '<li style="color:#64748b; padding:10px;">No specific country threats detected.</li>';
+                return;
+            }
+
+            countries.forEach(c => {
+                let colorClass = 'val-low';
+                let dotColor = '#10b981';
+                
+                // Risk Logic
+                if(c.score >= 5) { colorClass = 'val-high'; dotColor = '#ef4444'; }
+                else if(c.score >= 3) { colorClass = 'val-med'; dotColor = '#f59e0b'; }
+
+                const html = `
+                    <li class="country-item">
+                        <div class="country-name">
+                            <div class="risk-dot" style="background:${dotColor}"></div>
+                            ${c.name}
+                        </div>
+                        <div class="risk-val ${colorClass}">LVL ${c.score}</div>
+                    </li>
+                `;
+                container.innerHTML += html;
+            });
+        }
+
+        // 4. Render News Grid
+        function renderGrid(items) {
+            const container = document.getElementById('grid-container');
+            container.innerHTML = ''; // Clear
+
+            if(items.length === 0) {
+                container.innerHTML = '<div style="grid-column: 1/-1; text-align:center; color:#64748b; padding:40px;">No intelligence found matching criteria.</div>';
+                return;
+            }
+
+            items.forEach(item => {
+                let tagClass = 'tag-gen';
+                if(item.category === 'GEOPOLITICS') tagClass = 'tag-geo';
+                if(item.category === 'GLOBAL ECONOMY') tagClass = 'tag-eco';
+                if(item.category === 'CYBER & TECH') tagClass = 'tag-cyber';
+                if(item.category === 'LEADERSHIP') tagClass = 'tag-lead';
+
+                let borderClass = 'border-low';
+                if(item.risk_color === 'red') borderClass = 'border-high';
+                if(item.risk_color === 'yellow') borderClass = 'border-med';
+
+                const cardHTML = `
+                    <div class="card ${borderClass}">
+                        <div class="card-header">
+                            <span class="category-tag ${tagClass}">${item.category}</span>
+                            <span class="card-date">${item.published}</span>
+                        </div>
+                        <a href="${item.link}" target="_blank" class="card-title">${item.title}</a>
+                        <div class="card-summary">${item.summary}</div>
+                        <div class="card-footer">
+                            <span class="source-badge">📡 ${item.source}</span>
+                            <a href="${item.link}" target="_blank" class="read-more">ANALYZE →</a>
+                        </div>
+                    </div>
+                `;
+                container.innerHTML += cardHTML;
+            });
+        }
+
+        // 5. Button Counts
+        function updateButtonCounts(stats) {
+            if(!stats) return;
+            const total = Object.values(stats).reduce((a, b) => a + b, 0);
+            
+            const setBtn = (id, label, count) => {
+                const btn = document.getElementById(id);
+                if(btn) btn.innerHTML = `${label} <span class="count-badge">${count || 0}</span>`;
+            };
+
+            setBtn('btn-ALL', 'All Signals', total);
+            setBtn('btn-GEO', 'Geopolitics', stats['GEOPOLITICS']);
+            setBtn('btn-ECO', 'Economy', stats['GLOBAL ECONOMY']);
+            setBtn('btn-CYBER', 'Cyber', stats['CYBER & TECH']);
+            setBtn('btn-LEAD', 'Leadership', stats['LEADERSHIP']);
+        }
+
+        // 6. Filtering Logic
+        function filterData(category) {
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            
+            let btnId = 'btn-ALL';
+            if(category === 'GEOPOLITICS') btnId = 'btn-GEO';
+            if(category === 'GLOBAL ECONOMY') btnId = 'btn-ECO';
+            if(category === 'CYBER & TECH') btnId = 'btn-CYBER';
+            if(category === 'LEADERSHIP') btnId = 'btn-LEAD';
+            document.getElementById(btnId).classList.add('active');
+
+            if (category === 'ALL') {
+                renderGrid(allRiskItems);
+            } else {
+                const filtered = allRiskItems.filter(item => item.category === category);
+                renderGrid(filtered);
+            }
+        }
+
+        // 7. Search Logic
+        function handleSearch() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = allRiskItems.filter(item => 
+                item.title.toLowerCase().includes(query) || 
+                item.summary.toLowerCase().includes(query)
+            );
+            renderGrid(filtered);
+        }
     </script>
 </body>
 </html>
