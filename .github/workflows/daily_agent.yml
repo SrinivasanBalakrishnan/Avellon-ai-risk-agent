@@ -26,7 +26,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser
+          # Added nltk and numpy for the new Risk Analysis Engine
+          pip install feedparser nltk numpy
 
       - name: Run Avellon AI Agent
         run: |
@@ -40,7 +41,7 @@ jobs:
           # Add the entire folder to catch new files
           git add outputs/
           
-          # 👇 THE FIX IS HERE: "[skip ci]" stops the infinite loop
+          # [skip ci] prevents infinite loops
           git commit -m "Daily Enterprise Intelligence Update [skip ci]" --allow-empty
           
           # Sync and Push safely
