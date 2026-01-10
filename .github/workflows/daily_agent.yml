@@ -1,4 +1,38 @@
-.github/
- └── workflows/
-     └── daily_agent.yml
-name: Daily Risk Agent
+name: Daily Avellon Risk Agent
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # Runs daily at 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser openai
+
+      - name: Run Avellon AI Agent
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python agent/fetch_alerts.py
+
+      - name: Commit output
+        run: |
+          git config --global user.name "avellon-agent"
+          git config --global user.email "agent@avellon.ai"
+          git add outputs/daily_topics.md
+          git commit -m "Daily risk topics update" || echo "No changes"
+          git push
+
