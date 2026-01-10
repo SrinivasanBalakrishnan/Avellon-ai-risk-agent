@@ -37,13 +37,12 @@ jobs:
           git config --global user.name "avellon-agent"
           git config --global user.email "agent@avellon.ai"
           
-          # 👇 CRITICAL UPDATE: Add the entire folder to catch new files
-          # This captures EXECUTIVE_BRIEF.md and CONTENT_STUDIO.md
+          # Add the entire folder to catch new files
           git add outputs/
           
-          # Commit the changes (allows empty to prevent crashing if no news)
-          git commit -m "Daily Enterprise Intelligence Update" --allow-empty
+          # 👇 THE FIX IS HERE: "[skip ci]" stops the infinite loop
+          git commit -m "Daily Enterprise Intelligence Update [skip ci]" --allow-empty
           
-          # ROBUST SYNC: Pull latest changes, then push
+          # Sync and Push safely
           git pull origin main --rebase
           git push origin main
