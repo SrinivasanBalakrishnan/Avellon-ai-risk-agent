@@ -1,1 +1,98 @@
-# Daily Global Risk Topics – Avellon Intelligence
+# Daily Global Risk Topics – Avellon Intelligence (2026-01-10)
+
+🔥 HIGH PRIORITY GLOBAL RISKS
+- <b>Wars</b> without declarations: The American way - The Times of India
+- Venezuelan currency plunges as <b>economy</b> choked by US blockade - <b>Financial</b> Times
+- Anti‑<b>war</b> Action Committee marches on Mar‑a‑Lago demanding hands off Venezuela
+- Protests in Iran Escalate as Internet is Shut Off; Plus, Is AIPAC's Influence in US Politics Declining?
+- Iran condemns US remarks, slams sanctions as <b>economic war</b> - Samaa TV
+- Global security threats 2026: Enduring conflicts, hybrid <b>warfare</b>, and new frontiers of instability
+- Compliance Landscape in Venezuela Following Nicolas Maduro's Removal from Power
+- <b>TRADE</b> SECRETS—W.D. Wis.: Summary judgment and <b>sanctions</b> awarded against Allstate ...
+- How North Korea's Extractive System Adapts to External Shocks
+- Japan Ramps Up U.S. Alliance to Counter China's Rare Earth Leverage
+- Korea Zinc's Strategic US Critical Minerals Investment Plan - Discovery Alert
+- Australia, India invited to G7 meeting on critical minerals: US treasury secretary - Dawn
+- Australia will join G7 countries to discuss critical minerals in Washington next week
+- Japan-China Rare Earth Trade Restrictions Threaten Global Supply Chains
+
+🟡 MEDIUM PRIORITY WATCHLIST
+- Understanding the Cyber <b>Risks</b> Flooding the Water and Wastewater Systems Sector
+- Lukoil's Fire Sale and the New Era of Sanctions-by-Ownership | OilPrice.com
+- Russia's shadow <b>war</b> with us is just starting – be ready for trouble | The Independent
+- How special forces became modern <b>warfare's</b> go-to solution - <b>Financial</b> Times
+- Post-<b>war economic</b> order under threat: Desjardins | Investment Executive
+- Trump's <b>War</b> on Labor Data Didn't Change the <b>Economic</b> Outlook - NOTUS
+- The <b>war</b> in Ukraine is leading Russian Railways to <b>financial</b> collapse
+- Hands Off Venezuela: US imperialism must be stopped - REBEL News Ireland
+- Cuba enters phase of greater vulnerability after Maduro's capture - Yahoo
+- The Era of Global Free Trade Is Over: Time for the Era of Strategic Partnerships | ITIF
+- China probes competition among food delivery platforms to curb price <b>war</b>
+- America, Russia And Other Warships Head To India: What's Coming Next? | The Swamp
+- Chinese experts criticize Japanese official's rare earth claim, calling it wishful, infeasible ...
+- Geopolitical Unrest Threatens Global Rare Earth <b>Supply Chains</b> - Discovery Alert
+- Markets Rally on Maduro's Capture in Venezuela – But Questions Remain
+- The impact of uncertainty on corporate borrowing in the euro area | CEPR - VoxEU
+- VanEck Sees Bitcoin at $2.9M by 2050 as <b>Debt</b> Risks Rise | MEXC News
+- Why Trump's Russia <b>sanctions</b> Bill could effectively end India's exports to US
+- India Responds to US Russia Oil <b>Sanctions</b> Bill, Rejects <b>Trade</b> Deal Claims and Defends ...
+- Trump's Russia <b>Sanctions</b> Bill Could Cripple India–US <b>Trade</b>
+- UPSC Mains Current Affairs for 10 January 2026
+- U.S.-India <b>trade</b> deal stalled because Modi didn't call Trump, Lutnick says
+- Exclusive: CIA highlighted Cuba's grim economy but gave mixed view on government falling
+- EU states back record South America <b>trade</b> accord after 25 years - Yahoo Finance UK
+- Russia's Parallel Imports of Western Goods Fall Nearly 50% in 2025 - The Moscow Times
+- White House Signals Green Light For India To Buy Venezuelan Oil | News18 - YouTube
+- India denies US <b>trade</b> deal stalled because 'Modi didn't call Trump' - BBC
+- E.U. and South America to Form Free-<b>Trade</b> Zone With 700 Million People - The New York Times
+- Lukoil's Fire Sale and the New Era of <b>Sanctions</b>-by-Ownership | OilPrice.com
+- America ने 500% टैरिफ लगाया तो...? ट्रंप की धमकी पर India का करारा जवाब - YouTube
+- EU Parliament eyes freezing US <b>trade</b> deal over Trump's Greenland threats – POLITICO
+- ​Fearing de-dollarisation: On the U.S., oil and the petrodollar - The Hindu
+- India <b>trade</b> deal delayed after Modi did not call Trump, Lutnick says - Anadolu
+- L&amp;T <b>Semiconductor</b> Technologies announces India's Cellular IoT Module business
+- Aero-engine team tackles <b>semiconductor</b> vacuum equipment. Multiple product performances ... - 36氪
+- In a fragmenting world, India backs rules-based global economic system, says Shaktikanta Das
+- The ASEAN AI Dilemma: From Zero-Sum Rivalry to Digital Strategic Autonomy
+- TSMC's Trade Theft Cases Aren't a 'Bad Look' for Taiwan - The Diplomat
+- PHDCCI Brings Industry Together to Discuss India's <b>Semiconductor</b> Rise and Global Partnerships
+- A Look At Monolithic Power Systems (MPWR) Valuation After AI Fueled <b>Semiconductor</b> ...
+- Why India's Deep-Tech Moment Matters to the Global Chip Industry - EE Times
+- Trump Hails Intel's U.S. Chip Manufacturing Push After White House Meet | Whalesbook
+- China Urges Stronger Chip Ties with Korea: The Only Wish for Korea? - Businesskorea
+- SK Square Plans to Pursue Trillion-won Big Deals in <b>Semiconductor</b> and AI - Businesskorea
+- 2026: The Year <b>Supply Chain</b> Teams Take Back Control of Their Software
+- Net Asset <b>Value</b>(s) - Business Wire
+- Inside Trump's <b>Semiconductor</b> Tariff Bluff - Analytics India Magazine
+- TSMC Posts Strong Q4 as AI Demand Fuels Surge in Orders - Prism Media
+- EB-2 NIW and <b>Semiconductor</b> Manufacturing Priority - The National Law Review
+- Strategic <b>Semiconductor</b> ETF Picks as China's Inflation Hits Three-Year High
+- Micron Sets Groundbreaking for $100B Chip Megafab in Upstate NY
+- Phillips O'Brien on Venezuela and More - Paul Krugman
+- Farewell, forever wars, hello empire? The week that <b>changed</b> the world - CNN
+- Why This Time Is Different for Iran by Vali Nasr - Project Syndicate
+- Greenland's <b>Rare Earths</b> Aren't All That - Foreign Policy
+- We Visited Greenland's Only Fully Operational Mine - Business Insider
+- Freedom from China? The mine at the centre of Europe's push for <b>rare earth metals</b> - The Guardian
+- Why China is taking on Japan in a new fight over <b>rare earths</b> - The Washington Post
+- Chinese state-owned firm halts new <b>rare earth</b> contracts with Japan - The Mainichi
+- Caught in China's magnet grip, India's auto industry looks at home for <b>rare</b>-<b>earth</b> security
+- Greenland: What you need to know
+- Why does the United States want to buy Greenland? | New Scientist
+- Combating China's <b>Rare</b>-<b>Earth</b> Grip - PressReader
+- Litinsky, MP Materials CEO, sells $19.2 million in stock - Investing.com India
+- Golden sponge absorbing tomorrow's <b>metals</b> — 12,000 tonnes each year for 20 years
+- GM says it will take a $6 billion charge in latest major EV write-down - Sherwood News
+- Japan to Test Deep-Sea <b>Rare Earth</b> Mining in Landmark Trials
+- Ucore's Louisiana Gambit: From Demonstration Hours to Strategic Separation
+- China Curbs <b>Rare Earth</b> Exports to Japanese Companies after Dual-Use Ban, WSJ Reports
+- Greenland's natural resources explained: Why the island holds vast minerals, oil and <b>rare earths</b>
+- Coast Guard releases new report on <b>Port</b> Newark cargo ship fire that killed 2 firefighters
+- Chinese, Russian, Iranian Warships Gather Near South Africa for Multilateral Drill
+- Putin's 3rd Revenge Strike In 24 Hours: Ukraine Panics As Russia BOMBS 2 Ships In Black <b>Sea</b>
+- Will for Peace 2026 Naval Exercise: Global <b>Maritime</b> Security Implications - Discovery Alert
+- Warships at the Cape: Why &quot;Will for Peace 2026&quot; Matters for Oil, Minerals, and America's ...
+- AI-Driven Warehousing: The Future of Inventory Accuracy, Speed, and <b>Resilience</b>
+- The future depends on copper, but a coming <b>shortage</b>… - inkl
+- Greenlanders unnerved as <b>Arctic</b> island finds itself in geopolitical storm - BBC News
+
