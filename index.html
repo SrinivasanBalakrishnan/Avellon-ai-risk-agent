@@ -4,10 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Avellon Intelligence | Global Command</title>
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     
     <style>
         /* --- 1. GLOBAL RESET & THEME --- */
@@ -30,10 +34,6 @@
             --risk-high: #ef4444;     /* Critical (Red) */
             --risk-med: #f59e0b;      /* Medium (Yellow) */
             --risk-low: #10b981;      /* Low (Green) */
-            
-            /* Radii */
-            --radius-sm: 8px;
-            --radius-md: 12px;
         }
 
         body {
@@ -54,7 +54,7 @@
             padding: 15px 30px;
             position: sticky;
             top: 0;
-            z-index: 100;
+            z-index: 1000;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -97,7 +97,7 @@
             margin: 30px auto;
             padding: 0 20px;
             display: grid;
-            grid-template-columns: 2fr 1fr; /* Chart takes 2/3, List takes 1/3 */
+            grid-template-columns: 1fr 1fr; /* 50% Chart, 50% Map */
             gap: 20px;
         }
 
@@ -105,35 +105,44 @@
             background: var(--bg-card);
             border: 1px solid var(--border);
             border-radius: 12px;
-            padding: 24px;
+            padding: 20px;
             display: flex;
             flex-direction: column;
+            position: relative;
+            min-height: 350px;
         }
 
         .viz-title {
             font-size: 13px;
             font-weight: 600;
             color: var(--text-muted);
-            margin-bottom: 20px;
+            margin-bottom: 15px;
             text-transform: uppercase;
             letter-spacing: 0.6px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+            z-index: 500; /* Ensure title sits above map */
         }
 
-        /* Country List Styles */
-        .country-list { list-style: none; padding: 0; margin: 0; }
-        .country-item { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
-        .country-item:last-child { border-bottom: none; }
-        
-        .country-name { font-weight: 500; font-size: 15px; display: flex; align-items: center; gap: 10px; }
-        .risk-dot { height: 8px; width: 8px; border-radius: 50%; }
-        
-        .risk-val { font-size: 12px; font-weight: 700; padding: 4px 8px; border-radius: 4px; min-width: 20px; text-align: center; }
-        .val-high { background: rgba(239, 68, 68, 0.2); color: var(--risk-high); }
-        .val-med { background: rgba(245, 158, 11, 0.2); color: var(--risk-med); }
-        .val-low { background: rgba(16, 185, 129, 0.2); color: var(--risk-low); }
+        /* MAP CONTAINER STYLES */
+        #riskMap {
+            height: 100%;
+            width: 100%;
+            border-radius: 8px;
+            background: #0f172a;
+            z-index: 1;
+        }
+
+        /* Custom Map Popup Styles */
+        .leaflet-popup-content-wrapper, .leaflet-popup-tip {
+            background: var(--bg-card);
+            color: var(--text-main);
+            box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+            border: 1px solid var(--border);
+        }
+        .leaflet-popup-content {
+            margin: 10px;
+            font-size: 12px;
+            font-family: 'Inter', sans-serif;
+        }
 
         /* --- 4. CONTROLS --- */
         .controls {
@@ -194,7 +203,7 @@
         }
         .search-box:focus { outline: none; border-color: var(--accent); }
 
-        /* --- 5. DASHBOARD GRID --- */
+        /* --- 5. GRID --- */
         .container {
             max-width: 1400px;
             margin: 0 auto;
@@ -205,7 +214,7 @@
             align-items: start;
         }
 
-        /* --- 6. INTELLIGENCE CARD --- */
+        /* --- 6. CARD STYLES --- */
         .card {
             background: var(--bg-card);
             border: 1px solid var(--border);
@@ -244,7 +253,7 @@
             border-radius: 4px;
         }
 
-        /* Category Tag Styles */
+        /* Dynamic Category Colors */
         .tag-geo { color: var(--geo); background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.2); }
         .tag-eco { color: var(--eco); background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.2); }
         .tag-cyber { color: var(--cyber); background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.2); }
@@ -296,6 +305,7 @@
             .controls { flex-direction: column; align-items: stretch; }
             .search-box { width: 100%; box-sizing: border-box; }
             .navbar { padding: 15px 20px; }
+            .viz-card { min-height: 300px; }
         }
     </style>
 </head>
@@ -310,6 +320,7 @@
     </nav>
 
     <div class="analytics-panel">
+        
         <div class="viz-card">
             <div class="viz-title">Global Risk Intensity by Sector</div>
             <div style="flex-grow:1; position: relative; min-height: 250px;">
@@ -317,14 +328,12 @@
             </div>
         </div>
 
-        <div class="viz-card">
-            <div class="viz-title">
-                High Risk Zones
-                <span class="count-badge" style="background:#334155">TOP 5</span>
+        <div class="viz-card" style="padding: 0; overflow: hidden;">
+            <div id="riskMap"></div>
+            
+            <div class="viz-title" style="position: absolute; top: 15px; left: 15px; background: rgba(15,23,42,0.85); padding: 6px 12px; border-radius: 6px; border: 1px solid var(--border); pointer-events: none;">
+                Critical Chokepoints
             </div>
-            <ul class="country-list" id="country-list-container">
-                <li style="color:#64748b; font-size:13px; padding:10px;">Initializing geopolitical scan...</li>
-            </ul>
         </div>
     </div>
 
@@ -342,29 +351,40 @@
     <div id="loading">ESTABLISHING SECURE CONNECTION...</div>
     <div id="grid-container" class="container"></div>
 
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
     <script>
-        let allRiskItems = []; // Master data storage
+        let allRiskItems = [];
+        let map;
+
+        // --- MAP COORDINATES (Lat, Lon) for Specific Chokepoints ---
+        const chokepointCoords = {
+            "Strait of Hormuz": [26.5667, 56.2500],
+            "Bab el-Mandeb (Red Sea)": [12.5833, 43.3333],
+            "Malacca Strait": [4.1667, 99.5000],
+            "Panama Canal": [9.1000, -79.7000],
+            "Taiwan Strait": [24.0000, 119.0000],
+            "Turkish Straits": [40.7000, 28.5000],
+            "Cape of Good Hope": [-34.3548, 18.4698]
+        };
 
         // 1. Fetch Data
         fetch('outputs/dashboard_data.json')
             .then(r => r.json())
             .then(data => {
                 document.getElementById('loading').style.display = 'none';
-                
-                // Update Timestamp
                 document.getElementById('last-updated-badge').innerText = `Last Scan: ${data.generated_at}`;
 
-                // Process News Items
                 Object.keys(data.items).forEach(category => {
                     data.items[category].forEach(item => {
                         allRiskItems.push({ ...item, category: category });
                     });
                 });
 
-                // Update UI Components
+                // Initialize Visuals
                 updateButtonCounts(data.stats);
                 renderChart(data.industry_risks);
-                renderCountryList(data.top_countries);
+                initMap(data.top_chokepoints); // Start the Map
                 renderGrid(allRiskItems);
             })
             .catch(err => {
@@ -372,11 +392,55 @@
                 document.getElementById('loading').innerHTML = "<span style='color:var(--geo)'>⚠ SIGNAL LOST: Unable to retrieve intelligence data.</span>";
             });
 
-        // 2. Render Risk Chart (Bar Chart)
+        // --- 2. LEAFLET MAP LOGIC ---
+        function initMap(chokepoints) {
+            // Create Map (Centered on global view)
+            map = L.map('riskMap').setView([20.0, 10.0], 1);
+
+            // Add Dark Matter Tiles (CartoDB) - "War Room" Style
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; OpenStreetMap &copy; CARTO',
+                subdomains: 'abcd',
+                maxZoom: 19
+            }).addTo(map);
+
+            if(!chokepoints) return;
+
+            // Add Markers
+            chokepoints.forEach(cp => {
+                const coords = chokepointCoords[cp.name];
+                if (coords) {
+                    // Determine Color & Size based on Risk
+                    let color = '#10b981'; // Green
+                    let radius = 80000;    // Base size
+                    
+                    if (cp.score >= 4) { 
+                        color = '#ef4444'; // Red
+                        radius = 250000;   // Big pulsing circle
+                    } else if (cp.score >= 2.5) {
+                        color = '#f59e0b'; // Yellow
+                        radius = 150000;
+                    }
+
+                    // Draw Circle
+                    L.circle(coords, {
+                        color: color,
+                        fillColor: color,
+                        fillOpacity: 0.5,
+                        radius: radius
+                    }).addTo(map)
+                    .bindPopup(`
+                        <strong style="color:${color}; font-size:13px">${cp.name}</strong><br>
+                        Risk Level: <b>${cp.score}</b>
+                    `);
+                }
+            });
+        }
+
+        // --- 3. CHART LOGIC ---
         function renderChart(industries) {
             if(!industries) return;
             const ctx = document.getElementById('riskChart').getContext('2d');
-            
             const labels = industries.map(i => i.name);
             const data = industries.map(i => i.score);
             const colors = data.map(score => score >= 8 ? '#ef4444' : score >= 4 ? '#f59e0b' : '#10b981');
@@ -405,41 +469,10 @@
             });
         }
 
-        // 3. Render Top Countries List
-        function renderCountryList(countries) {
-            const container = document.getElementById('country-list-container');
-            container.innerHTML = '';
-            
-            if(!countries || countries.length === 0) {
-                container.innerHTML = '<li style="color:#64748b; padding:10px;">No specific country threats detected.</li>';
-                return;
-            }
-
-            countries.forEach(c => {
-                let colorClass = 'val-low';
-                let dotColor = '#10b981';
-                
-                // Risk Logic
-                if(c.score >= 5) { colorClass = 'val-high'; dotColor = '#ef4444'; }
-                else if(c.score >= 3) { colorClass = 'val-med'; dotColor = '#f59e0b'; }
-
-                const html = `
-                    <li class="country-item">
-                        <div class="country-name">
-                            <div class="risk-dot" style="background:${dotColor}"></div>
-                            ${c.name}
-                        </div>
-                        <div class="risk-val ${colorClass}">LVL ${c.score}</div>
-                    </li>
-                `;
-                container.innerHTML += html;
-            });
-        }
-
-        // 4. Render News Grid
+        // --- 4. GRID LOGIC ---
         function renderGrid(items) {
             const container = document.getElementById('grid-container');
-            container.innerHTML = ''; // Clear
+            container.innerHTML = ''; 
 
             if(items.length === 0) {
                 container.innerHTML = '<div style="grid-column: 1/-1; text-align:center; color:#64748b; padding:40px;">No intelligence found matching criteria.</div>';
@@ -475,7 +508,7 @@
             });
         }
 
-        // 5. Button Counts
+        // --- 5. UTILS ---
         function updateButtonCounts(stats) {
             if(!stats) return;
             const total = Object.values(stats).reduce((a, b) => a + b, 0);
@@ -492,10 +525,8 @@
             setBtn('btn-LEAD', 'Leadership', stats['LEADERSHIP']);
         }
 
-        // 6. Filtering Logic
         function filterData(category) {
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            
             let btnId = 'btn-ALL';
             if(category === 'GEOPOLITICS') btnId = 'btn-GEO';
             if(category === 'GLOBAL ECONOMY') btnId = 'btn-ECO';
@@ -511,7 +542,6 @@
             }
         }
 
-        // 7. Search Logic
         function handleSearch() {
             const query = document.getElementById('searchInput').value.toLowerCase();
             const filtered = allRiskItems.filter(item => 
