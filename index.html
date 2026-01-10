@@ -3,122 +3,379 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Avellon Intelligence | OPS CENTER v1</title>
+    <title>Avellon Intelligence | Global Command</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
     <style>
-        :root { --bg: #0f172a; --card: #1e293b; --text: #e2e8f0; --accent: #3b82f6; --geo: #ef4444; --cyber: #10b981; --eco: #f59e0b; }
-        body { font-family: 'Segoe UI', sans-serif; background-color: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        /* --- 1. GLOBAL RESET & THEME --- */
+        :root {
+            --bg-body: #0f172a;       /* Deep Slate Background */
+            --bg-card: #1e293b;       /* Lighter Slate Card */
+            --bg-hover: #334155;      /* Hover State */
+            --text-main: #f8fafc;     /* White Text */
+            --text-muted: #94a3b8;    /* Grey Text */
+            --border: #334155;        /* Subtle Borders */
+            
+            /* Category Colors */
+            --geo: #ef4444;           /* Red for War/Geo */
+            --eco: #10b981;           /* Green for Economy */
+            --cyber: #8b5cf6;         /* Purple for Cyber */
+            --lead: #f59e0b;          /* Orange for Leadership */
+            --accent: #3b82f6;        /* Blue Brand Color */
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* --- 2. HEADER & NAVIGATION --- */
+        .navbar {
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            padding: 15px 30px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .brand {
+            font-size: 18px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .brand-dot {
+            height: 10px;
+            width: 10px;
+            background-color: var(--accent);
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--accent);
+        }
+
+        .status-badge {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-weight: 500;
+            background: #1e293b;
+            padding: 6px 12px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* --- 3. CONTROLS (SEARCH & FILTER) --- */
+        .controls {
+            max-width: 1400px;
+            margin: 30px auto 20px;
+            padding: 0 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding-bottom: 5px; /* Scrollbar spacing */
+        }
+
+        .filter-btn {
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-muted);
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .filter-btn:hover { background: var(--bg-hover); color: white; }
+        .filter-btn.active { background: var(--text-main); color: var(--bg-body); border-color: white; font-weight: 600; }
         
-        /* Header */
-        .top-bar { display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px; border-bottom: 1px solid #334155; }
-        .brand { font-size: 20px; font-weight: bold; letter-spacing: 2px; }
-        .brand span { color: var(--accent); }
-        .classification { font-size: 10px; background: #333; padding: 4px 8px; border-radius: 4px; color: #aaa; border: 1px solid #555; }
+        .count-badge {
+            background: rgba(255,255,255,0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 10px;
+        }
+        .filter-btn.active .count-badge { background: rgba(0,0,0,0.2); color: inherit; }
 
-        /* Stats Grid */
-        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0; }
-        .stat-card { background: var(--card); padding: 20px; border-radius: 8px; border-left: 4px solid #555; }
-        .stat-number { font-size: 28px; font-weight: bold; }
-        .stat-label { font-size: 12px; color: #94a3b8; text-transform: uppercase; }
+        .search-box {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: white;
+            padding: 10px 15px;
+            border-radius: 6px;
+            width: 250px;
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            transition: border-color 0.2s;
+        }
+        .search-box:focus { outline: none; border-color: var(--accent); }
 
-        /* Content Grid */
-        .content-area { display: grid; grid-template-columns: 1fr; gap: 30px; }
-        .category-section { margin-bottom: 20px; }
-        .cat-title { font-size: 18px; margin-bottom: 15px; border-left: 3px solid var(--accent); padding-left: 10px; display: flex; align-items: center; }
+        /* --- 4. DASHBOARD GRID --- */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px 60px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); /* Responsive Masonry */
+            gap: 20px;
+            align-items: start;
+        }
+
+        /* --- 5. INTELLIGENCE CARD DESIGN --- */
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 24px;
+            transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+            border-color: #475569;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .category-tag {
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+
+        /* Dynamic Category Colors */
+        .tag-geo { color: var(--geo); background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.2); }
+        .tag-eco { color: var(--eco); background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.2); }
+        .tag-cyber { color: var(--cyber); background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.2); }
+        .tag-lead { color: var(--lead); background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2); }
+        .tag-gen { color: var(--text-muted); background: rgba(148, 163, 184, 0.1); border: 1px solid rgba(148, 163, 184, 0.2); }
+
+        .card-date { font-size: 11px; color: var(--text-muted); }
+
+        .card-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-main);
+            text-decoration: none;
+            margin-bottom: 12px;
+            line-height: 1.5;
+            display: block;
+        }
+        .card-title:hover { color: var(--accent); }
+
+        .card-summary {
+            font-size: 14px;
+            color: #cbd5e1;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            flex-grow: 1; 
+        }
+
+        .card-footer {
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            font-size: 11px;
+            color: #64748b;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
         
-        /* News Cards */
-        .news-item { background: var(--card); padding: 15px; margin-bottom: 10px; border-radius: 6px; transition: transform 0.2s; }
-        .news-item:hover { transform: translateX(5px); background: #273548; }
-        .news-title { color: white; font-weight: 600; text-decoration: none; display: block; margin-bottom: 5px; }
-        .news-meta { font-size: 11px; color: #64748b; }
-        .news-summary { font-size: 13px; color: #94a3b8; margin-top: 8px; line-height: 1.4; }
+        .source-badge { font-weight: 500; color: #94a3b8; display: flex; align-items: center; gap: 5px; }
+        .read-more { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 11px; letter-spacing: 0.5px; }
+        .read-more:hover { text-decoration: underline; }
 
-        /* Colors */
-        .c-geo { border-color: var(--geo); color: var(--geo); }
-        .c-cyber { border-color: var(--cyber); color: var(--cyber); }
-        .c-eco { border-color: var(--eco); color: var(--eco); }
-
-        @media (min-width: 900px) { .content-area { grid-template-columns: 1fr 1fr; } }
+        /* Loading & Error States */
+        #loading { text-align: center; padding: 100px; color: var(--text-muted); font-weight: 300; letter-spacing: 1px; }
+        
+        /* Mobile Tweaks */
+        @media (max-width: 600px) {
+            .container { grid-template-columns: 1fr; }
+            .controls { flex-direction: column; align-items: stretch; }
+            .search-box { width: 100%; box-sizing: border-box; }
+            .navbar { padding: 15px 20px; }
+        }
     </style>
 </head>
 <body>
 
-<div class="top-bar">
-    <div class="brand">AVELLON <span>INTELLIGENCE</span></div>
-    <div class="classification">INTERNAL / OPS USE ONLY</div>
-</div>
+    <nav class="navbar">
+        <div class="brand">
+            <div class="brand-dot"></div>
+            AVELLON INTELLIGENCE
+        </div>
+        <div id="last-updated-badge" class="status-badge">● Live Feed</div>
+    </nav>
 
-<div id="loading">Connecting to Intelligence Feed...</div>
-
-<div id="dashboard" style="display:none;">
-    <div class="stats-grid">
-        <div class="stat-card" style="border-color: var(--geo)">
-            <div class="stat-number" id="count-geo">0</div>
-            <div class="stat-label">Geopolitical Risks</div>
+    <div class="controls">
+        <div class="filter-group">
+            <button class="filter-btn active" id="btn-ALL" onclick="filterData('ALL')">All Signals</button>
+            <button class="filter-btn" id="btn-GEO" onclick="filterData('GEOPOLITICS')">Geopolitics</button>
+            <button class="filter-btn" id="btn-ECO" onclick="filterData('GLOBAL ECONOMY')">Economy</button>
+            <button class="filter-btn" id="btn-CYBER" onclick="filterData('CYBER & TECH')">Cyber</button>
+            <button class="filter-btn" id="btn-LEAD" onclick="filterData('LEADERSHIP')">Leadership</button>
         </div>
-        <div class="stat-card" style="border-color: var(--eco)">
-            <div class="stat-number" id="count-eco">0</div>
-            <div class="stat-label">Economic Signals</div>
-        </div>
-        <div class="stat-card" style="border-color: var(--cyber)">
-            <div class="stat-number" id="count-cyber">0</div>
-            <div class="stat-label">Cyber Threats</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number" id="last-updated">-</div>
-            <div class="stat-label">Last Scan</div>
-        </div>
+        <input type="text" id="searchInput" class="search-box" placeholder="Search signals (e.g. 'Trade', 'NATO')..." onkeyup="handleSearch()">
     </div>
 
-    <div class="content-area">
-        <div id="col-1"></div> <div id="col-2"></div> </div>
-</div>
+    <div id="loading">ESTABLISHING SECURE CONNECTION...</div>
+    <div id="grid-container" class="container"></div>
 
-<script>
-    fetch('outputs/dashboard_data.json')
-        .then(r => r.json())
-        .then(data => {
-            document.getElementById('loading').style.display = 'none';
-            document.getElementById('dashboard').style.display = 'block';
+    <script>
+        let allRiskItems = []; // Master data storage
 
-            // Update Stats
-            document.getElementById('count-geo').innerText = data.stats["GEOPOLITICS"] || 0;
-            document.getElementById('count-eco').innerText = data.stats["GLOBAL ECONOMY"] || 0;
-            document.getElementById('count-cyber').innerText = data.stats["CYBER & TECH"] || 0;
-            document.getElementById('last-updated').innerText = data.generated_at;
-
-            // Render Columns
-            const col1 = document.getElementById('col-1');
-            const col2 = document.getElementById('col-2');
-
-            // Helper to create sections
-            function createSection(title, items, colorClass, parent) {
-                if(!items || items.length === 0) return;
-                let html = `<div class="category-section">
-                    <div class="cat-title ${colorClass}">${title}</div>`;
+        // 1. Fetch Data
+        fetch('outputs/dashboard_data.json')
+            .then(r => r.json())
+            .then(data => {
+                document.getElementById('loading').style.display = 'none';
                 
-                items.forEach(item => {
-                    html += `
-                        <div class="news-item">
-                            <a href="${item.link}" target="_blank" class="news-title">${item.title}</a>
-                            <div class="news-meta">${item.source} • ${item.published}</div>
-                            <div class="news-summary">${item.summary}</div>
-                        </div>`;
+                // Update Timestamp
+                document.getElementById('last-updated-badge').innerText = `Last Scan: ${data.generated_at}`;
+
+                // Flatten Data Structure for Grid
+                Object.keys(data.items).forEach(category => {
+                    data.items[category].forEach(item => {
+                        allRiskItems.push({ ...item, category: category });
+                    });
                 });
-                html += `</div>`;
-                parent.innerHTML += html;
+
+                // Update Button Counts
+                updateButtonCounts(data.stats);
+
+                // Initial Render
+                renderGrid(allRiskItems);
+            })
+            .catch(err => {
+                console.error(err);
+                document.getElementById('loading').innerHTML = "<span style='color:var(--geo)'>⚠ SIGNAL LOST: Unable to retrieve intelligence data.</span>";
+            });
+
+        // 2. Dynamic Button Counts
+        function updateButtonCounts(stats) {
+            const total = Object.values(stats).reduce((a, b) => a + b, 0);
+            
+            // Helper to safe update
+            const setBtn = (id, label, count) => {
+                const btn = document.getElementById(id);
+                if(btn) btn.innerHTML = `${label} <span class="count-badge">${count || 0}</span>`;
+            };
+
+            setBtn('btn-ALL', 'All Signals', total);
+            setBtn('btn-GEO', 'Geopolitics', stats['GEOPOLITICS']);
+            setBtn('btn-ECO', 'Economy', stats['GLOBAL ECONOMY']);
+            setBtn('btn-CYBER', 'Cyber', stats['CYBER & TECH']);
+            setBtn('btn-LEAD', 'Leadership', stats['LEADERSHIP']);
+        }
+
+        // 3. Render Grid Function
+        function renderGrid(items) {
+            const container = document.getElementById('grid-container');
+            container.innerHTML = ''; // Clear
+
+            if(items.length === 0) {
+                container.innerHTML = '<div style="grid-column: 1/-1; text-align:center; color:#64748b; padding:40px;">No intelligence found matching criteria.</div>';
+                return;
             }
 
-            // Distribute Categories
-            createSection("GEOPOLITICS", data.items["GEOPOLITICS"], "c-geo", col1);
-            createSection("LEADERSHIP", data.items["LEADERSHIP"], "c-accent", col1);
-            createSection("GLOBAL ECONOMY", data.items["GLOBAL ECONOMY"], "c-eco", col2);
-            createSection("CYBER & TECH", data.items["CYBER & TECH"], "c-cyber", col2);
-        })
-        .catch(e => {
-            document.getElementById('loading').innerHTML = "SYSTEM OFFLINE: No Intelligence Data Found.<br>Please check workflows.";
-            document.getElementById('loading').style.color = "red";
-        });
-</script>
+            items.forEach(item => {
+                // Style Logic
+                let tagClass = 'tag-gen';
+                if(item.category === 'GEOPOLITICS') tagClass = 'tag-geo';
+                if(item.category === 'GLOBAL ECONOMY') tagClass = 'tag-eco';
+                if(item.category === 'CYBER & TECH') tagClass = 'tag-cyber';
+                if(item.category === 'LEADERSHIP') tagClass = 'tag-lead';
 
+                const cardHTML = `
+                    <div class="card">
+                        <div class="card-header">
+                            <span class="category-tag ${tagClass}">${item.category}</span>
+                            <span class="card-date">${item.published}</span>
+                        </div>
+                        <a href="${item.link}" target="_blank" class="card-title">${item.title}</a>
+                        <div class="card-summary">${item.summary}</div>
+                        <div class="card-footer">
+                            <span class="source-badge">📡 ${item.source}</span>
+                            <a href="${item.link}" target="_blank" class="read-more">ANALYZE →</a>
+                        </div>
+                    </div>
+                `;
+                container.innerHTML += cardHTML;
+            });
+        }
+
+        // 4. Filtering Logic
+        function filterData(category) {
+            // UI Toggle
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            
+            // Find specific button based on category click (simple mapping)
+            let btnId = 'btn-ALL';
+            if(category === 'GEOPOLITICS') btnId = 'btn-GEO';
+            if(category === 'GLOBAL ECONOMY') btnId = 'btn-ECO';
+            if(category === 'CYBER & TECH') btnId = 'btn-CYBER';
+            if(category === 'LEADERSHIP') btnId = 'btn-LEAD';
+            document.getElementById(btnId).classList.add('active');
+
+            // Data Filter
+            if (category === 'ALL') {
+                renderGrid(allRiskItems);
+            } else {
+                const filtered = allRiskItems.filter(item => item.category === category);
+                renderGrid(filtered);
+            }
+        }
+
+        // 5. Search Logic
+        function handleSearch() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = allRiskItems.filter(item => 
+                item.title.toLowerCase().includes(query) || 
+                item.summary.toLowerCase().includes(query)
+            );
+            renderGrid(filtered);
+        }
+    </script>
 </body>
 </html>
