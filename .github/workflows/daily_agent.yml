@@ -36,6 +36,11 @@ jobs:
           git config --global user.name "avellon-agent"
           git config --global user.email "agent@avellon.ai"
           git add outputs/daily_topics.md
+          
           # Added --allow-empty to prevent the workflow from failing if there's no news
           git commit -m "Daily risk topics update" --allow-empty
+          
+          # 👇 THIS IS THE FIX for the [rejected] error
+          git pull --rebase origin main
+          
           git push
