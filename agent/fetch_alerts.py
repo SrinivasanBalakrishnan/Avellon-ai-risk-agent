@@ -7,7 +7,7 @@ import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 from datetime import datetime
 
-# --- SETUP INTELLIGENCE BRAIN (NEW) ---
+# --- SETUP INTELLIGENCE BRAIN ---
 # Download the lexicon (dictionary) for sentiment analysis if not present
 try:
     nltk.data.find('sentiment/vader_lexicon.zip')
@@ -37,37 +37,42 @@ CATEGORIES = {
 
 # 2. Industry Mapping
 INDUSTRIES = {
-    "ENERGY": ["oil", "gas", "pipeline", "nuclear", "grid", "power", "renewables", "lithium", "coal", "barrel"],
+    "ENERGY": ["oil", "gas", "pipeline", "nuclear", "grid", "power", "renewables", "lithium", "coal", "barrel", "lng"],
     "FINANCE": ["bank", "currency", "inflation", "stock", "crypto", "debt", "imf", "rate", "equity", "bond"],
     "DEFENSE": ["military", "weapon", "missile", "army", "navy", "defense", "drone", "aerospace", "fighter"],
     "TECH": ["cyber", "ai", "chip", "semiconductor", "data", "software", "cloud", "platform", "server"],
-    "TRADE": ["supply chain", "cargo", "port", "tariff", "shipping", "logistics", "import", "export", "freight"]
+    "LOGISTICS": ["supply chain", "cargo", "port", "tariff", "shipping", "container", "freight", "vessel", "transit"]
 }
 
-# 3. Country Mapping
-COUNTRIES = [
-    "USA", "China", "Russia", "India", "UK", "Germany", "France", "Japan", "Israel", "Iran", 
-    "Ukraine", "Taiwan", "North Korea", "South Korea", "Brazil", "Saudi Arabia", "Canada", "Mexico", "Turkey"
-]
+# 3. GLOBAL CHOKEPOINTS (Replaced Countries)
+# Mapping specific names to broad keywords to catch all relevant news
+CHOKEPOINTS = {
+    "Strait of Hormuz": ["hormuz", "persian gulf", "oil tanker", "iran coast", "oman gulf"],
+    "Bab el-Mandeb (Red Sea)": ["bab el-mandeb", "red sea", "houthi", "suez", "yemen coast", "aden"],
+    "Malacca Strait": ["malacca", "singapore strait", "south china sea passage"],
+    "Panama Canal": ["panama canal", "gatun", "panama drought"],
+    "Taiwan Strait": ["taiwan strait", "taipei water", "china sea"],
+    "Turkish Straits": ["bosphorus", "dardanelles", "black sea access"],
+    "Cape of Good Hope": ["good hope", "cape route", "africa tip"]
+}
 
 # 4. Severity Keywords
-HIGH_RISK_TERMS = ["war", "attack", "crisis", "crash", "sanction", "nuclear", "invasion", "collapse", "conflict", "dead", "kill"]
-MED_RISK_TERMS = ["tariff", "protest", "inflation", "hack", "breach", "tension", "dispute", "warning", "ban", "restriction"]
+HIGH_RISK_TERMS = ["war", "attack", "crisis", "crash", "sanction", "nuclear", "invasion", "collapse", "conflict", "dead", "kill", "blocked", "closed"]
+MED_RISK_TERMS = ["tariff", "protest", "inflation", "hack", "breach", "tension", "dispute", "warning", "ban", "restriction", "delay", "reroute"]
 
 # 5. Marketing Hooks
 HOOKS = [
-    "This changes everything for global trade...",
-    "Why smart executives are watching this region closely...",
-    "The hidden risk no one is talking about...",
-    "A lesson in modern power dynamics from today's headlines..."
+    "Supply chain alert: Critical chokepoint activity detected...",
+    "Why logistics leaders are watching this waterway today...",
+    "The hidden risk in global trade corridors...",
+    "Strategic analysis: Disruption signals in key passage..."
 ]
 
-# --- NEW CONTEXTUAL ENGINE ---
+# --- CONTEXTUAL ENGINE ---
 
 def analyze_risk_context(text):
     """
     Calculates a risk score based on both KEYWORDS and SENTIMENT.
-    This prevents 'Peace Treaty' from being flagged as 'War'.
     """
     text_lower = text.lower()
     
@@ -77,29 +82,31 @@ def analyze_risk_context(text):
     elif any(term in text_lower for term in MED_RISK_TERMS): base_score = 2
 
     # B. Get Sentiment Score (-1.0 to +1.0)
-    # Negative = Fear/Anger/Bad News | Positive = Happiness/Good News
     sentiment = sia.polarity_scores(text)['compound']
 
     # C. Apply Contextual Weighting
     final_score = base_score
 
     if sentiment < -0.3: 
-        # Negative Context + High Keyword = AMPLIFY RISK
-        # Example: "War kills thousands" (Sentinel: -0.8) -> Score Boost
-        final_score += 1.5 
+        final_score += 1.5 # Amplify Risk
     elif sentiment > 0.3:
-        # Positive Context + High Keyword = DAMPEN RISK
-        # Example: "Peace treaty ends war" (Sentinel: +0.7) -> Score Drop
-        final_score -= 1.5
+        final_score -= 1.5 # Dampen Risk
     
-    # Ensure score stays within reasonable bounds (1 to 5)
     return max(1, min(5, round(final_score, 1)))
 
 def extract_entities(text):
     text_lower = text.lower()
-    found_countries = [c for c in COUNTRIES if c.lower() in text_lower]
+    
+    # Find Chokepoints (Check values in dictionary)
+    found_chokepoints = []
+    for name, keywords in CHOKEPOINTS.items():
+        if any(k in text_lower for k in keywords):
+            found_chokepoints.append(name)
+
+    # Find Industries
     found_industries = [ind for ind, kw in INDUSTRIES.items() if any(k in text_lower for k in kw)]
-    return found_countries, found_industries
+    
+    return found_chokepoints, found_industries
 
 def categorize_item(text):
     text = text.lower()
@@ -111,7 +118,7 @@ def categorize_item(text):
 # --- MAIN LOOP ---
 
 def fetch_and_process():
-    print("Avellon Intelligence: Scanning Global Feeds with Context Engine...")
+    print("Avellon Intelligence: Scanning Global Chokepoints...")
     
     if not os.path.exists(FEED_FILE):
         print(f"Warning: {FEED_FILE} not found. Using default feeds.")
@@ -123,7 +130,8 @@ def fetch_and_process():
     processed_data = {cat: [] for cat in CATEGORIES.keys()}
     processed_data["GENERAL UPDATES"] = []
     
-    country_risk_map = {c: 0 for c in COUNTRIES}
+    # Counters
+    chokepoint_risk_map = {c: 0 for c in CHOKEPOINTS.keys()}
     industry_risk_map = {i: 0 for i in INDUSTRIES.keys()}
 
     seen_titles = set()
@@ -142,16 +150,15 @@ def fetch_and_process():
                 full_text = f"{entry.title} {entry.get('summary', '')}"
                 category = categorize_item(full_text)
                 
-                # --- NEW: CONTEXTUAL SCORING ---
-                # Replaced simple 'get_risk_level' with AI-based 'analyze_risk_context'
+                # --- SCORING ---
                 risk_score = analyze_risk_context(full_text)
-                countries, industries = extract_entities(full_text)
+                chokepoints, industries = extract_entities(full_text)
                 
-                # Update Counters (Accumulate Risk)
-                for c in countries: country_risk_map[c] += risk_score
+                # Update Counters
+                for cp in chokepoints: chokepoint_risk_map[cp] += risk_score
                 for i in industries: industry_risk_map[i] += risk_score
 
-                # Determine UI Color (Adjusted for new 1-5 scale)
+                # Determine Color
                 risk_color = "red" if risk_score >= 3.5 else "yellow" if risk_score >= 2.5 else "green"
 
                 item = {
@@ -169,21 +176,21 @@ def fetch_and_process():
             print(f"Failed to parse {url}: {e}")
 
     # Sort & Rank
-    top_countries = sorted(country_risk_map.items(), key=lambda x: x[1], reverse=True)[:5]
+    top_chokepoints = sorted(chokepoint_risk_map.items(), key=lambda x: x[1], reverse=True)[:5]
     top_industries = sorted(industry_risk_map.items(), key=lambda x: x[1], reverse=True)
 
     print(f"Scan complete. {total_scanned} items processed.")
-    return processed_data, top_countries, top_industries
+    return processed_data, top_chokepoints, top_industries
 
-def generate_reports(data, top_countries, top_industries):
+def generate_reports(data, top_chokepoints, top_industries):
     today = datetime.utcnow().strftime("%d %B %Y")
 
     # 1. DASHBOARD DATA
     dashboard_json = {
         "generated_at": today,
         "stats": {k: len(v) for k, v in data.items()},
-        # Round scores to 1 decimal place for cleaner UI
-        "top_countries": [{"name": c[0], "score": round(c[1], 1)} for c in top_countries if c[1] > 0],
+        # Send Chokepoints instead of Countries
+        "top_chokepoints": [{"name": c[0], "score": round(c[1], 1)} for c in top_chokepoints],
         "industry_risks": [{"name": i[0], "score": round(i[1], 1)} for i in top_industries],
         "items": data
     }
@@ -198,10 +205,10 @@ def generate_reports(data, top_countries, top_industries):
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
-## 🌍 TOP RISK ZONES (Contextual Rank)
+## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
 """
-    for c in top_countries:
-        if c[1] > 0: brief_content += f"- **{c[0]}** (Risk Score: {round(c[1], 1)})\n"
+    for cp in top_chokepoints:
+        if cp[1] > 0: brief_content += f"- **{cp[0]}** (Risk Score: {round(cp[1], 1)})\n"
     
     brief_content += "\n---\n"
 
@@ -255,8 +262,8 @@ def generate_reports(data, top_countries, top_industries):
     print(f"Success! Reports generated:\n1. {DASHBOARD_DATA} (Dashboard)\n2. {BRIEF_FILE} (Internal)\n3. {CONTENT_FILE} (Marketing)")
 
 def run_agent():
-    data, top_countries, top_industries = fetch_and_process()
-    generate_reports(data, top_countries, top_industries)
+    data, top_chokepoints, top_industries = fetch_and_process()
+    generate_reports(data, top_chokepoints, top_industries)
 
 if __name__ == "__main__":
     run_agent()
