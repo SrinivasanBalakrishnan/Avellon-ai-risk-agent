@@ -60,17 +60,17 @@
 **► How the U.K. Is Undermining US <b>Indo</b>-<b>Pacific Security</b> - RealClearDefense**
 > *As Parliament reviews the transfer of the Chagos Islands to Mauritius, US access to the Diego Garcia base is no longer assured....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.realcleardefense.com/2026/01/10/how_the_uk_is_undermining_us_indo-pacific_security_1157962.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3o-44sV5uenXmINdKFdmCh))
 
+**► <b>Regime change</b> in Iran would be welcome | The Independent**
+> *Editorial: Iran's unremittingly harsh leadership faces one of the most serious challenges to its theocratic rule since the Islamic Republic was&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/voices/editorials/iran-protests-regime-ayatollah-russia-collapse-b2897648.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1qaeLQCiwIBo_w3m5sqLUG))
+
 **► The Ayatollah's <b>Regime</b> Is Crumbling - by Michael Doran - The Free Press**
 > *As repression has intensified and casualties have mounted, the protests have hardened into open demands for <b>regime change</b>. No matter what happens&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thefp.com/p/the-ayatollahs-regime-is-crumbling&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1rKMpRZ-T5hztnGIWrRoJI))
 
+**► Why Pakistan Does Not Want Iran's <b>Government</b> to Fall - The National Interest**
+> *Yet the idea that the tactical success of the Venezuela operation indicates that the United States could execute a smooth <b>regime change</b> in Iran is a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nationalinterest.org/blog/silk-road-rivalries/why-pakistan-does-not-want-irans-government-to-fall&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw02NTxWLawGBrALAnalM1TZ))
+
 **► Iran <b>regime</b> 'cornered' and 'extremely vulnerable' as deadly protests spread | CBC News**
 > *They're hoping that they could really, basically bring about <b>regime change</b> in Iran.&quot; U.S. ready to intervene. U.S. President Donald Trump has&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/world/iran-protest-us-israel-pressure-9.7040592&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0XY1lhhg1HEvyHKEjGw1-4))
-
-**► Iran protests latest: Tehran says it has arrested 100 'armed rioters' after threatening death penalty**
-> *... government forces, as protests demanding <b>regime change</b> entered their 13th day. Recommended....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/news/world/middle-east/iran-protests-live-ayatollah-trump-internet-blackout-news-b2897956.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2jnvzjKm5WM6Nmf2JfpEKF))
-
-**► Why are Iranians protesting and what does it mean for the <b>regime</b>? - CNN**
-> *Authorities have also sought to differentiate between economic protesters and those calling for <b>regime change</b>, branding the latter as “rioters” and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnn.com/2026/01/09/world/iran-protests-explained-intl&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2Y5qeUGUssOnoUlMMMPZmB))
 
 
 ## 🏛 GENERAL UPDATES
