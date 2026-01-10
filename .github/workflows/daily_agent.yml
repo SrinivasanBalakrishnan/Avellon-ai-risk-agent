@@ -1,9 +1,9 @@
 name: Daily Avellon Risk Agent
 
 on:
-  schedule:
-    - cron: '0 2 * * *'   # Runs daily at 02:00 UTC
   workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
 
 jobs:
   run-agent:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
@@ -35,4 +35,3 @@ jobs:
           git add outputs/daily_topics.md
           git commit -m "Daily risk topics update" || echo "No changes"
           git push
-
