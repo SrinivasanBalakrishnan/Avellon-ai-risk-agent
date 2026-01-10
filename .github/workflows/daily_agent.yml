@@ -35,3 +35,7 @@ jobs:
           git add outputs/daily_topics.md
           git commit -m "Daily risk topics update" || echo "No changes"
           git push
+
+          
+permissions:
+  contents: write
