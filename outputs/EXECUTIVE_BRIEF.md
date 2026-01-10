@@ -4,12 +4,10 @@
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
-## 🌍 TOP RISK ZONES (Contextual Rank)
-- **India** (Risk Score: 50.5)
-- **Russia** (Risk Score: 41.5)
-- **China** (Risk Score: 27.5)
-- **Iran** (Risk Score: 22.0)
-- **UK** (Risk Score: 21.0)
+## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
+- **Taiwan Strait** (Risk Score: 10.0)
+- **Strait of Hormuz** (Risk Score: 1)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
 ---
 
