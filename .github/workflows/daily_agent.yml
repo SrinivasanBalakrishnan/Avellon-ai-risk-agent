@@ -1,9 +1,12 @@
 name: Daily Avellon Risk Agent
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:      # Allows manual trigger button
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * *"   # Runs automatically at 2:00 AM
+  push:                   # Runs automatically when you save/push code
+    branches:
+      - main
 
 jobs:
   run-agent:
@@ -14,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.MY_GIT_TOKEN }}
-          fetch-depth: 0 # 👈 CRITICAL FIX: Downloads full history so git commands work
+          fetch-depth: 0  # CRITICAL: Downloads full history so git commands work
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,15 +32,18 @@ jobs:
         run: |
           python agent/fetch_alerts.py
 
-      - name: Commit output
+      - name: Commit Enterprise Reports
         run: |
           git config --global user.name "avellon-agent"
           git config --global user.email "agent@avellon.ai"
-          git add outputs/daily_topics.md
           
-          # Commit if changes exist
-          git commit -m "Daily risk topics update" --allow-empty
+          # 👇 CRITICAL UPDATE: Add the entire folder to catch new files
+          # This captures EXECUTIVE_BRIEF.md and CONTENT_STUDIO.md
+          git add outputs/
           
-          # 👈 ROBUST SYNC: Pull latest changes, then push
+          # Commit the changes (allows empty to prevent crashing if no news)
+          git commit -m "Daily Enterprise Intelligence Update" --allow-empty
+          
+          # ROBUST SYNC: Pull latest changes, then push
           git pull origin main --rebase
           git push origin main
