@@ -4,12 +4,12 @@
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
-## 🌍 HIGH RISK COUNTRIES (Top 5)
-- **India** (Risk Level: 43)
-- **Russia** (Risk Level: 40)
-- **China** (Risk Level: 22)
-- **UK** (Risk Level: 18)
-- **Iran** (Risk Level: 18)
+## 🌍 TOP RISK ZONES (Contextual Rank)
+- **India** (Risk Score: 50.5)
+- **Russia** (Risk Score: 41.5)
+- **China** (Risk Score: 27.5)
+- **Iran** (Risk Score: 22.0)
+- **UK** (Risk Score: 21.0)
 
 ---
 
@@ -17,13 +17,13 @@
 **🟢 Imagery from Venezuela Shows a Surgical Strike, Not Shock and Awe - CSIS**
 > *<b>Energy Security</b> and Climate Change Program &middot; Renewing American Innovation &middot; Strategic Technologies Program &middot; Wadhwani AI Center. <b>Global</b> Development....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/analysis/imagery-venezuela-shows-surgical-strike-not-shock-and-awe&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1KFJ0OiwjOmQNQxD0d3h0Z))
 
-**🔴 Lukoil's Fire Sale and the New Era of Sanctions-by-Ownership | OilPrice.com**
+**🟡 Lukoil's Fire Sale and the New Era of Sanctions-by-Ownership | OilPrice.com**
 > *... <b>global energy</b> geopolitics. All of this is achieved by setting up ... In a world where energy <b>security</b> and national <b>security</b> have merged&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Lukoils-Fire-Sale-and-the-New-Era-of-Sanctions-by-Ownership.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1zpYt_20-rnrsUzXC6aH5L))
 
-**🔴 Russia's shadow <b>war</b> with us is just starting – be ready for trouble | The Independent**
+**🟡 Russia's shadow <b>war</b> with us is just starting – be ready for trouble | The Independent**
 > *Less familiar, however, according to security experts, is the notion of <b>economic warfare</b>. Key to this, to use their parlance, are non-state actors&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/voices/russia-putin-ukraine-war-b2897569.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1LUcYabyvN8mCTHXjB5Q_y))
 
-**🔴 How special forces became modern <b>warfare's</b> go-to solution - <b>Financial</b> Times**
+**🟢 How special forces became modern <b>warfare's</b> go-to solution - <b>Financial</b> Times**
 > *For western democracies their attraction is the answer that they offer to the basic questions of modern <b>warfare</b>. Who to kill? Who should do the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/a269a24a-04ea-4166-a978-bee35f094f08&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3OOKa5xpOdlt4BPvuc4oTb))
 
 **🔴 <b>Wars</b> without declarations: The American way - The Times of India**
@@ -34,13 +34,13 @@
 **🔴 Oil Traders Face New Iran <b>Risks</b> Days After Venezuela Crisis - Bloomberg.com**
 > *... <b>geopolitical risks</b>. “With CTAs, index flows and options dealers, there is the tailwind in terms of financial flows,” said EA's Taylor said. — With&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-01-09/oil-traders-confront-new-iran-risks-days-after-venezuela-crisis&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3BAAbKO_8grlrGMnEC1aqQ))
 
-**🟢 JPMorgan M&amp;A global head Aiyengar says rising <b>risks</b> to drive surge in deals | Reuters**
+**🟡 JPMorgan M&amp;A global head Aiyengar says rising <b>risks</b> to drive surge in deals | Reuters**
 > *Record M&amp;A deals in 2025 despite market volatility &middot; CEOs seek scale to weather economic and <b>geopolitical</b> storms &middot; M&amp;A driven by political turmoil, AI&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/legal/transactional/jpmorgan-ma-global-head-aiyengar-says-rising-risks-drive-surge-deals-2026-01-09/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1fLVmiuMVzV4-4eK-7y6ZT))
 
-**🟢 Loonie's short‑term pain tees up potential long‑term gain for plans**
+**🟡 Loonie's short‑term pain tees up potential long‑term gain for plans**
 > *... risk-sensitive currency” in an environment of “elevated <b>geopolitical risk</b>.” Canada recently posted a smaller‑than‑expected trade deficit and that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.benefitsandpensionsmonitor.com/news/industry-news/loonies-shortterm-pain-tees-up-potential-longterm-gain-for-plans/392948&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2H2yIsNzKgVl6554KQBd0k))
 
-**🟡 U.S. Weekly Update – Before the Ball Drops: Investors Position for the Year Ahead**
+**🟢 U.S. Weekly Update – Before the Ball Drops: Investors Position for the Year Ahead**
 > *... <b>geopolitical risks</b> and tariff uncertainty. Despite the large inflow in U.S. Money Market Funds, U.S. Equity Funds remained in positive territory&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://lipperalpha.refinitiv.com/reports/2026/01/u-s-weekly-update-before-the-ball-drops-investors-position-for-the-year-ahead/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0dq3QibKcpskWB-GQU9Wfh))
 
 **🟢 'Iran's massive fossil fuel reserves': Why the country remains geopolitically critical - WION**
@@ -48,19 +48,19 @@
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟡 Market Watch – Jan. 9, 2026 | rdnewsnow.com**
+**🔴 Market Watch – Jan. 9, 2026 | rdnewsnow.com**
 > *... risk appetite; crude swung on Venezuela headlines and tariff talk ... Government bond yields moved lower early in the week on <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rdnewsnow.com/2026/01/09/market-watch-jan-9-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1MFiN19J0Z9AUk4B9XpxjQ))
 
 **🟢 Iran and Greenland: <b>Geopolitical Risks</b> For Forex**
 > *Just as markets were beginning to adjust to the situation in Venezuela, new <b>geopolitical risks</b> have emerged, which could leave markets on edge&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forexfactory.com/news/1378492-iran-and-greenland-geopolitical-risks-for-forex&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0IcT2VvcPb1l2gi7Ufq3LS))
 
-**🟡 Nifty Prediction For January 12: Trade Tensions, <b>Geopolitical Risks</b> Weigh; Key Support ...**
+**🟢 Nifty Prediction For January 12: Trade Tensions, <b>Geopolitical Risks</b> Weigh; Key Support ...**
 > *Indian markets may open cautiously as fresh US tariff threats, <b>geopolitical risks</b> and continued foreign fund outflows weigh on investor sentiment,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.news18.com/business/markets/nifty-prediction-for-january-12-trade-tensions-geopolitical-risks-weigh-key-support-seen-at-25600-ws-l-9821339.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3gxrrGYcDSC3_6-67e0Ebq))
 
 **🟢 Trump Promises &quot;Total <b>Security</b>&quot; to Executives of the <b>World's</b> Largest Oil Companies**
 > *US President Donald Trump met with executives from the <b>world's</b> largest oil companies at the White House to discuss expanding oil production in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTSOrLke5LOM&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1wzQN0zcrGQmJM4yaLJJ6X))
 
-**🟡 India Responds to Trump's '500% Russia Tariff' Bill, US Withdrawal from Solar Alliance**
+**🟢 India Responds to Trump's '500% Russia Tariff' Bill, US Withdrawal from Solar Alliance**
 > *'We are guided by the evolving dynamics of the <b>global</b> market and by the imperative to <b>secure</b> affordable <b>energy</b> from diverse sources to meet the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.thewire.in/article/diplomacy/india-responds-to-trumps-500-russia-tariff-bill-us-withdrawal-from-solar-alliance&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0NvvQ23B6-6G5EyDG07zhV))
 
 
@@ -71,7 +71,7 @@
 **🟢 <b>Regime change</b> in Iran would be welcome | The Independent**
 > *Editorial: Iran's unremittingly harsh leadership faces one of the most serious challenges to its theocratic rule since the Islamic Republic was&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/voices/editorials/iran-protests-regime-ayatollah-russia-collapse-b2897648.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1qaeLQCiwIBo_w3m5sqLUG))
 
-**🟡 The Ayatollah's <b>Regime</b> Is Crumbling - by Michael Doran - The Free Press**
+**🔴 The Ayatollah's <b>Regime</b> Is Crumbling - by Michael Doran - The Free Press**
 > *As repression has intensified and casualties have mounted, the protests have hardened into open demands for <b>regime change</b>. No matter what happens&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thefp.com/p/the-ayatollahs-regime-is-crumbling&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1rKMpRZ-T5hztnGIWrRoJI))
 
 **🟢 Why Pakistan Does Not Want Iran's <b>Government</b> to Fall - The National Interest**
