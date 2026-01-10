@@ -12,9 +12,9 @@ OUTPUT_DIR = "outputs"
 # Output Files
 BRIEF_FILE = os.path.join(OUTPUT_DIR, "EXECUTIVE_BRIEF.md")
 CONTENT_FILE = os.path.join(OUTPUT_DIR, "CONTENT_STUDIO.md")
-DASHBOARD_DATA = os.path.join(OUTPUT_DIR, "dashboard_data.json") # <--- NEW: Data for your Website
+DASHBOARD_DATA = os.path.join(OUTPUT_DIR, "dashboard_data.json")
 
-# --- ENTERPRISE INTELLIGENCE LOGIC ---
+# --- INTELLIGENCE LEXICONS (NEW FEATURES) ---
 
 # 1. Topic Classifiers (Filters Signal from Noise)
 CATEGORIES = {
@@ -24,7 +24,26 @@ CATEGORIES = {
     "LEADERSHIP": ["election", "parliament", "ceo", "resignation", "scandal", "protest", "policy", "regime"]
 }
 
-# 2. LinkedIn "Hook" Templates (For Marketing)
+# 2. Industry Mapping (For Data Viz)
+INDUSTRIES = {
+    "ENERGY": ["oil", "gas", "pipeline", "nuclear", "grid", "power", "renewables", "lithium", "coal"],
+    "FINANCE": ["bank", "currency", "inflation", "stock", "crypto", "debt", "imf", "rate", "equity"],
+    "DEFENSE": ["military", "weapon", "missile", "army", "navy", "defense", "drone", "aerospace"],
+    "TECH": ["cyber", "ai", "chip", "semiconductor", "data", "software", "cloud", "platform"],
+    "TRADE": ["supply chain", "cargo", "port", "tariff", "shipping", "logistics", "import", "export"]
+}
+
+# 3. Country Mapping (Major Players)
+COUNTRIES = [
+    "USA", "China", "Russia", "India", "UK", "Germany", "France", "Japan", "Israel", "Iran", 
+    "Ukraine", "Taiwan", "North Korea", "South Korea", "Brazil", "Saudi Arabia", "Canada"
+]
+
+# 4. Severity Keywords (Calculates Red/Yellow/Green)
+HIGH_RISK_TERMS = ["war", "attack", "crisis", "crash", "sanction", "nuclear", "invasion", "collapse"]
+MED_RISK_TERMS = ["tariff", "protest", "inflation", "hack", "breach", "tension", "dispute", "warning"]
+
+# 5. LinkedIn "Hook" Templates
 HOOKS = [
     "This changes everything for global trade...",
     "Why smart executives are watching this region closely...",
@@ -32,8 +51,24 @@ HOOKS = [
     "A lesson in modern power dynamics from today's headlines..."
 ]
 
+# --- HELPER FUNCTIONS ---
+
+def get_risk_level(text):
+    """Calculates a risk score (1-3) based on severity keywords."""
+    text = text.lower()
+    score = 1 # Default Low
+    if any(term in text for term in HIGH_RISK_TERMS): score = 3 # Critical
+    elif any(term in text for term in MED_RISK_TERMS): score = 2 # Medium
+    return score
+
+def extract_entities(text):
+    """Finds mention of specific countries and industries."""
+    text_lower = text.lower()
+    found_countries = [c for c in COUNTRIES if c.lower() in text_lower]
+    found_industries = [ind for ind, kw in INDUSTRIES.items() if any(k in text_lower for k in kw)]
+    return found_countries, found_industries
+
 def categorize_item(text):
-    """Assigns a category based on keywords."""
     text = text.lower()
     for category, keywords in CATEGORIES.items():
         if any(word in text for word in keywords):
@@ -43,7 +78,6 @@ def categorize_item(text):
 def fetch_and_process():
     print("Avellon Intelligence: Scanning Global Feeds...")
     
-    # 1. Check if feed file exists
     if not os.path.exists(FEED_FILE):
         print(f"Warning: {FEED_FILE} not found. Using default feeds.")
         feeds = ["http://feeds.bbci.co.uk/news/world/rss.xml"] 
@@ -51,74 +85,102 @@ def fetch_and_process():
         with open(FEED_FILE, "r") as f:
             feeds = [line.strip() for line in f.readlines() if line.strip()]
 
-    # Initialize data structure
+    # Initialize data structures
     processed_data = {cat: [] for cat in CATEGORIES.keys()}
     processed_data["GENERAL UPDATES"] = []
+    
+    # Analytics Counters
+    country_risk_map = {c: 0 for c in COUNTRIES}
+    industry_risk_map = {i: 0 for i in INDUSTRIES.keys()}
 
     seen_titles = set()
     total_scanned = 0
 
-    # 2. Parse feeds
     for url in feeds:
         try:
             print(f"Fetching: {url}")
             feed = feedparser.parse(url)
             
-            # Get top 8 entries per feed
-            for entry in feed.entries[:8]:
+            for entry in feed.entries[:10]: # Increased scan depth slightly
                 if entry.title in seen_titles: continue
                 seen_titles.add(entry.title)
                 total_scanned += 1
 
-                # Analyze & Categorize
                 full_text = f"{entry.title} {entry.get('summary', '')}"
                 category = categorize_item(full_text)
                 
-                # Structure Data
+                # --- NEW ANALYTICS LOGIC ---
+                risk_score = get_risk_level(full_text)
+                countries, industries = extract_entities(full_text)
+                
+                # Update Counters
+                for c in countries: country_risk_map[c] += risk_score
+                for i in industries: industry_risk_map[i] += risk_score
+
+                # Determine Color
+                risk_color = "red" if risk_score >= 3 else "yellow" if risk_score == 2 else "green"
+
                 item = {
                     "title": entry.title,
                     "link": entry.link,
                     "summary": entry.summary[:200] + "..." if "summary" in entry else "No detail available.",
                     "source": feed.feed.get("title", "Global Wire"),
-                    "published": entry.get("published", datetime.utcnow().strftime("%Y-%m-%d")) # Added for Dashboard
+                    "published": entry.get("published", datetime.utcnow().strftime("%Y-%m-%d")),
+                    "risk_score": risk_score, # For sorting
+                    "risk_color": risk_color  # For UI
                 }
                 processed_data[category].append(item)
                 
         except Exception as e:
             print(f"Failed to parse {url}: {e}")
 
-    print(f"Scan complete. {total_scanned} items processed.")
-    return processed_data
+    # Calculate Top Risks
+    top_countries = sorted(country_risk_map.items(), key=lambda x: x[1], reverse=True)[:5]
+    top_industries = sorted(industry_risk_map.items(), key=lambda x: x[1], reverse=True)
 
-def generate_reports(data):
+    print(f"Scan complete. {total_scanned} items processed.")
+    return processed_data, top_countries, top_industries
+
+def generate_reports(data, top_countries, top_industries):
     today = datetime.utcnow().strftime("%d %B %Y")
 
-    # --- 1. GENERATE DASHBOARD DATA (NEW FEATURE) ---
-    # This creates the hidden JSON file that powers your internal website
+    # --- 1. GENERATE DASHBOARD DATA (UPDATED FOR VIZ) ---
     dashboard_json = {
         "generated_at": today,
         "stats": {k: len(v) for k, v in data.items()},
+        "top_countries": [{"name": c[0], "score": c[1]} for c in top_countries if c[1] > 0],
+        "industry_risks": [{"name": i[0], "score": i[1]} for i in top_industries],
         "items": data
     }
     
     with open(DASHBOARD_DATA, "w", encoding="utf-8") as f:
         json.dump(dashboard_json, f, indent=4)
     
-    # --- 2. THE EXECUTIVE BRIEF (UNCHANGED) ---
+    # --- 2. THE EXECUTIVE BRIEF ---
     brief_content = f"""# AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
 **Date:** {today}
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
+## 🌍 HIGH RISK COUNTRIES (Top 5)
 """
+    # Add High Risk Country List to Brief
+    for country, score in top_countries:
+        if score > 0:
+            brief_content += f"- **{country}** (Risk Level: {score})\n"
+
+    brief_content += "\n---\n"
+
     has_news = False
     for category, items in data.items():
         if not items: continue
         has_news = True
         brief_content += f"\n## 🏛 {category}\n"
-        for item in items[:5]: # Top 5 per category
-            brief_content += f"**► {item['title']}**\n"
+        for item in items[:5]:
+            # Add visual indicator to text brief
+            icon = "🔴" if item['risk_color'] == "red" else "🟡" if item['risk_color'] == "yellow" else "🟢"
+            brief_content += f"**{icon} {item['title']}**\n"
             brief_content += f"> *{item['summary']}* ([Source]({item['link']}))\n\n"
 
     if not has_news:
@@ -136,10 +198,7 @@ def generate_reports(data):
 """
     for category, items in data.items():
         if not items or category == "GENERAL UPDATES": continue
-        
-        # Take the top story from a major category and frame it as a post
         top_story = items[0]
-        
         content_output += f"## 📝 DRAFT POST: {category.title()} Angle\n"
         content_output += f"**Source News:** {top_story['title']}\n\n"
         content_output += "**LinkedIn Hook Options:**\n"
@@ -164,8 +223,9 @@ def generate_reports(data):
     print(f"Success! Reports generated:\n1. {DASHBOARD_DATA} (Dashboard)\n2. {BRIEF_FILE} (Internal)\n3. {CONTENT_FILE} (Marketing)")
 
 def run_agent():
-    data = fetch_and_process()
-    generate_reports(data)
+    # Unpack the new return values
+    data, top_countries, top_industries = fetch_and_process()
+    generate_reports(data, top_countries, top_industries)
 
 if __name__ == "__main__":
     run_agent()
