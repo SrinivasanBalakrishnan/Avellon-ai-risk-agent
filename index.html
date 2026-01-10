@@ -56,15 +56,14 @@
             letter-spacing: -0.5px;
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 12px; /* Slightly increased gap for image */
         }
 
-        .brand-dot {
-            height: 10px;
-            width: 10px;
-            background-color: var(--accent);
-            border-radius: 50%;
-            box-shadow: 0 0 10px var(--accent);
+        /* REPLACED BLUE DOT CSS WITH LOGO IMAGE CSS */
+        .brand-logo {
+            height: 28px; /* Sets perfect height for navbar */
+            width: auto;  /* Maintains aspect ratio */
+            border-radius: 4px; /* Slight rounding in case JPG is square */
         }
 
         .status-badge {
@@ -242,7 +241,7 @@
 
     <nav class="navbar">
         <div class="brand">
-            <div class="brand-dot"></div>
+            <img src="avellon-logo.jpg" alt="Avellon Logo" class="brand-logo">
             AVELLON INTELLIGENCE
         </div>
         <div id="last-updated-badge" class="status-badge">● Live Feed</div>
