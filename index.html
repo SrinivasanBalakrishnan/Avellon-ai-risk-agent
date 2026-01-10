@@ -62,13 +62,16 @@
             letter-spacing: -0.5px;
             display: flex;
             align-items: center;
-            gap: 12px; 
+            gap: 10px; 
         }
 
-        .brand-logo {
-            height: 28px; 
-            width: auto;  
-            border-radius: 4px; 
+        /* RESTORED BLUE DOT STYLE */
+        .brand-dot {
+            height: 10px;
+            width: 10px;
+            background-color: var(--accent);
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--accent);
         }
 
         .status-badge {
@@ -84,7 +87,7 @@
             gap: 6px;
         }
 
-        /* --- 3. ANALYTICS PANEL (NEW) --- */
+        /* --- 3. ANALYTICS PANEL --- */
         .analytics-panel {
             max-width: 1400px;
             margin: 30px auto;
@@ -296,7 +299,7 @@
 
     <nav class="navbar">
         <div class="brand">
-            <img src="avellon-logo.jpg" alt="Avellon Logo" class="brand-logo">
+            <div class="brand-dot"></div>
             AVELLON INTELLIGENCE
         </div>
         <div id="last-updated-badge" class="status-badge">● Live Feed</div>
