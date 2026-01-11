@@ -1,5 +1,5 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 10 January 2026
+**Date:** 11 January 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
@@ -7,7 +7,6 @@
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
 - **Taiwan Strait** (Risk Score: 10.0)
 - **Strait of Hormuz** (Risk Score: 1)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
 ---
 
