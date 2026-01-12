@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 11 January 2026
+**Date:** 12 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Imagery from Venezuela Shows a Surgical Strike, Not Shock and Awe - CSIS
+**Source News:** China's Rare Earth Dominance: Strategic Control and Global Vulnerability - Discovery Alert
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Imagery from Venezuela Shows a Surgical Strike, Not Shock and Awe - CSIS
+- **The News:** China's Rare Earth Dominance: Strategic Control and Global Vulnerability - Discovery Alert
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil Traders Face New Iran <b>Risks</b> Days After Venezuela Crisis - Bloomberg.com
+**Source News:** Covid-19: Diversifying <b>supply</b>-<b>chain</b> through technology and visibility | The Daily Star
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Traders Face New Iran <b>Risks</b> Days After Venezuela Crisis - Bloomberg.com
+- **The News:** Covid-19: Diversifying <b>supply</b>-<b>chain</b> through technology and visibility | The Daily Star
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Market Watch – Jan. 9, 2026 | rdnewsnow.com
+**Source News:** Trump's Foreign Policy, <b>Credit</b> Card Cap, Venezuela's Oil Interest: This Week In Economy
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Market Watch – Jan. 9, 2026 | rdnewsnow.com
+- **The News:** Trump's Foreign Policy, <b>Credit</b> Card Cap, Venezuela's Oil Interest: This Week In Economy
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** How the U.K. Is Undermining US <b>Indo</b>-<b>Pacific Security</b> - RealClearDefense
+**Source News:** Behind the riots: Israel-Pahlavi nexus and the delusion of '<b>regime change</b>' in Iran - Press TV
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How the U.K. Is Undermining US <b>Indo</b>-<b>Pacific Security</b> - RealClearDefense
+- **The News:** Behind the riots: Israel-Pahlavi nexus and the delusion of '<b>regime change</b>' in Iran - Press TV
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

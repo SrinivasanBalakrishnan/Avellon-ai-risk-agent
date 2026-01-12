@@ -1,98 +1,93 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 11 January 2026
+**Date:** 12 January 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 10.0)
-- **Strait of Hormuz** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 Imagery from Venezuela Shows a Surgical Strike, Not Shock and Awe - CSIS**
-> *<b>Energy Security</b> and Climate Change Program &middot; Renewing American Innovation &middot; Strategic Technologies Program &middot; Wadhwani AI Center. <b>Global</b> Development....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/analysis/imagery-venezuela-shows-surgical-strike-not-shock-and-awe&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1KFJ0OiwjOmQNQxD0d3h0Z))
+**🟢 China's Rare Earth Dominance: Strategic Control and Global Vulnerability - Discovery Alert**
+> *... <b>supply chain disruptions</b> or escalating geopolitical tensions. Strategic ... Short-term supply disruption acceptance becomes a calculated&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/china-rare-earth-leverage-strategic-vulnerabilities-2026/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3yLQbB_JI1FhCoeVYzpyfT))
 
-**🟡 Lukoil's Fire Sale and the New Era of Sanctions-by-Ownership | OilPrice.com**
-> *... <b>global energy</b> geopolitics. All of this is achieved by setting up ... In a world where energy <b>security</b> and national <b>security</b> have merged&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Lukoils-Fire-Sale-and-the-New-Era-of-Sanctions-by-Ownership.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1zpYt_20-rnrsUzXC6aH5L))
+**🟢 China's Rare Earth Export Controls Reshape Global <b>Supply Chains</b> - Discovery Alert**
+> *The framework incorporates lessons from earlier <b>supply disruptions</b>, including provisions for graduated responses based on diplomatic relations and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/china-rare-earth-export-controls-2026-supply-chain/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw2UR6xsQVV_Nuf-sZftvy2z))
 
-**🟡 Russia's shadow <b>war</b> with us is just starting – be ready for trouble | The Independent**
-> *Less familiar, however, according to security experts, is the notion of <b>economic warfare</b>. Key to this, to use their parlance, are non-state actors&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/voices/russia-putin-ukraine-war-b2897569.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1LUcYabyvN8mCTHXjB5Q_y))
+**🟡 Why Choosing a China Air Freight Forwarder for Urgent Cargo Supports Critical <b>Supply Chains</b>**
+> *... <b>Supply Chain</b> Reliability during <b>Disruptions</b>. Global <b>supply chains</b> face multiple risks, from port congestion and flight schedule <b>disruptions</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.desmoinesregister.com/press-release/story/20435/why-choosing-a-china-air-freight-forwarder-for-urgent-cargo-supports-critical-supply-chains/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw2eFRz6dHe2Wc4m6ulqXOmx))
 
-**🟢 How special forces became modern <b>warfare's</b> go-to solution - <b>Financial</b> Times**
-> *For western democracies their attraction is the answer that they offer to the basic questions of modern <b>warfare</b>. Who to kill? Who should do the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/a269a24a-04ea-4166-a978-bee35f094f08&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3OOKa5xpOdlt4BPvuc4oTb))
+**🟢 Asia Tech Surges Past US on AI; Investors Chase <b>Semiconductor</b> Gains | Whalesbook**
+> *Fueled by intense artificial intelligence demand and robust <b>semiconductor supply chain</b> fundamentals, investors are rotating capital towards the region&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/news/English/Tech/Asia-Tech-Surges-Past-US-on-AI-Investors-Chase-Semiconductor-Gains/69630798ef4ed95f980fc797&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw2Tvh4NunUhMqvPls9_C-gS))
 
-**🔴 <b>Wars</b> without declarations: The American way - The Times of India**
-> *<b>Economic warfare</b>: Conflict beyond battlefield. Warfare is not limited to bullets and bombs. While the US economy is capable of sustaining&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/world/us/wars-without-declarations-the-american-way/articleshow/126451347.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0MFR1F2FUc96s8RifD5jMu))
+**🟢 Asia's Tech Sector Outpaces US in Global AI Race - УНН**
+> *Economic strategists at Goldman Sachs and Citigroup note that Asian companies occupy a strategic place in the <b>semiconductor supply chain</b>, and their&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://unn.ua/en/news/asias-tech-sector-outpaces-us-in-global-ai-race&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw3I__0daFjk3ImFxQgH-SP2))
 
 
 ## 🏛 CYBER & TECH
-**🔴 Oil Traders Face New Iran <b>Risks</b> Days After Venezuela Crisis - Bloomberg.com**
-> *... <b>geopolitical risks</b>. “With CTAs, index flows and options dealers, there is the tailwind in terms of financial flows,” said EA's Taylor said. — With&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-01-09/oil-traders-confront-new-iran-risks-days-after-venezuela-crisis&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3BAAbKO_8grlrGMnEC1aqQ))
+**🟢 Covid-19: Diversifying <b>supply</b>-<b>chain</b> through technology and visibility | The Daily Star**
+> *These limitations are creating serious <b>supply</b>-<b>chain disruptions</b>, production delays and distribution slowdowns, resulting in major impediments for many&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thedailystar.net/youth/careers/news/covid-19-diversifying-supply-chain-through-technology-and-visibility-1899745&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw0tdpF3t2QcrZ1HueNuyPpa))
 
-**🟡 JPMorgan M&amp;A global head Aiyengar says rising <b>risks</b> to drive surge in deals | Reuters**
-> *Record M&amp;A deals in 2025 despite market volatility &middot; CEOs seek scale to weather economic and <b>geopolitical</b> storms &middot; M&amp;A driven by political turmoil, AI&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/legal/transactional/jpmorgan-ma-global-head-aiyengar-says-rising-risks-drive-surge-deals-2026-01-09/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1fLVmiuMVzV4-4eK-7y6ZT))
+**🟢 China's Rare Earth Dominance Shapes Humanoid Robot Manufacturing - Discovery Alert**
+> *These controls create potential supply <b>disruption</b> ... However, they illustrate the magnitude of <b>supply chain</b> expansion necessary to support widespread&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/humanoid-robotics-rare-earth-elements-2026/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw1HlXC-Eo92-xRGhQkpzeuL))
 
-**🟡 Loonie's short‑term pain tees up potential long‑term gain for plans**
-> *... risk-sensitive currency” in an environment of “elevated <b>geopolitical risk</b>.” Canada recently posted a smaller‑than‑expected trade deficit and that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.benefitsandpensionsmonitor.com/news/industry-news/loonies-shortterm-pain-tees-up-potential-longterm-gain-for-plans/392948&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2H2yIsNzKgVl6554KQBd0k))
+**🟢 Rare Earth Elements in Life Sciences: Ten Transformative Trends for 2026 and the Critical ...**
+> *... <b>Supply Chain</b> Management. January 10, 2026. Leave a Comment. Highlights ... Unlike consumer electronics, where supply <b>disruptions</b> create inconvenience,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rareearthexchanges.com/news/rare-earth-elements-in-life-sciences-ten-transformative-trends-for-2026-and-the-critical-imperative-for-global-supply-chain-management/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3p6v6Xk721irVUGNUgdMv8))
 
-**🟢 U.S. Weekly Update – Before the Ball Drops: Investors Position for the Year Ahead**
-> *... <b>geopolitical risks</b> and tariff uncertainty. Despite the large inflow in U.S. Money Market Funds, U.S. Equity Funds remained in positive territory&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://lipperalpha.refinitiv.com/reports/2026/01/u-s-weekly-update-before-the-ball-drops-investors-position-for-the-year-ahead/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0dq3QibKcpskWB-GQU9Wfh))
+**🟡 Storm Elli disrupts VW <b>supply chain</b>, Golf line paused - SpeedMe.ru**
+> *... forced Volkswagen to pause Golf production in Wolfsburg as snow snarled logistics; Emden was halted. <b>Supply chain</b> strains may cause more <b>disruptions</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://speedme.ru/en/posts/id23997-storm-elli-disrupts-vw-supply-chain-golf-line-paused&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw258k7QbHiX4k6jSLLgKcqd))
 
-**🟢 'Iran's massive fossil fuel reserves': Why the country remains geopolitically critical - WION**
-> *... <b>energy security</b> of the <b>world</b> economy. A natural gas giant Second-largest <b>global</b> reserves. 2 / 7. (Photograph: AFP). A natural gas giant Second&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wionews.com/photos/-iran-s-massive-fossil-fuel-reserves-why-the-country-remains-geopolitically-critical-1767886427165&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1znLUtX5F3fbZn5Whid3K1))
+**🟡 Prudent Insurance Brokers releases RISE 2025-26 risk survey - Mediabrief.com**
+> *... <b>supply chain disruption</b>, and business interruption. While 71% of organisations aim to strengthen risk management, only 48% focus on developing a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mediabrief.com/prudent-insurance-brokers-rise-2025-26-reveals-cyber-risk-supply-chain-disruption-as-top-enterprise-concerns/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw1rlq8U87MOyP-oUe14S2Cn))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Market Watch – Jan. 9, 2026 | rdnewsnow.com**
-> *... risk appetite; crude swung on Venezuela headlines and tariff talk ... Government bond yields moved lower early in the week on <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rdnewsnow.com/2026/01/09/market-watch-jan-9-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1MFiN19J0Z9AUk4B9XpxjQ))
+**🟢 Trump's Foreign Policy, <b>Credit</b> Card Cap, Venezuela's Oil Interest: This Week In Economy**
+> *... <b>sovereign debt</b> and currency <b>crisis</b>, according to economist Peter Schiff. Read the full article here. Trump's 10% Credit Card Cap Sparks Backlash....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.benzinga.com/markets/macro-economic-events/26/01/49831397/trumps-foreign-policy-credit-card-cap-venezuelas-oil-interest-this-week-in-economy&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0CyWysO6Y3rgiUv_q1c-MG))
 
-**🟢 Iran and Greenland: <b>Geopolitical Risks</b> For Forex**
-> *Just as markets were beginning to adjust to the situation in Venezuela, new <b>geopolitical risks</b> have emerged, which could leave markets on edge&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forexfactory.com/news/1378492-iran-and-greenland-geopolitical-risks-for-forex&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0IcT2VvcPb1l2gi7Ufq3LS))
+**🟡 Can Germany ditch the Euro? - Robin J Brooks | Substack**
+> *At various points in the 2011/12 <b>sovereign debt crisis</b>, appreciation pressure on the Swiss Franc became extreme and the Swiss National Bank was forced&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://robinjbrooks.substack.com/p/can-germany-ditch-the-euro&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1mxJ8GFtOiev4Sfb4B-IKY))
 
-**🟢 Nifty Prediction For January 12: Trade Tensions, <b>Geopolitical Risks</b> Weigh; Key Support ...**
-> *Indian markets may open cautiously as fresh US tariff threats, <b>geopolitical risks</b> and continued foreign fund outflows weigh on investor sentiment,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.news18.com/business/markets/nifty-prediction-for-january-12-trade-tensions-geopolitical-risks-weigh-key-support-seen-at-25600-ws-l-9821339.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3gxrrGYcDSC3_6-67e0Ebq))
+**🟢 Venezuela's <b>Debt Crisis</b> Could Soon See Resolution After Maduro's Exit**
+> *... <b>sovereign debt</b> restructuring since Greece's 2012 default, the Financial Times reports. Investors and creditors are cautiously optimistic that an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://slguardian.org/venezuelas-debt-crisis-could-soon-see-resolution-after-maduros-exit/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1Q6CaTdsXp4B6d-UIh2WLQ))
 
-**🟢 Trump Promises &quot;Total <b>Security</b>&quot; to Executives of the <b>World's</b> Largest Oil Companies**
-> *US President Donald Trump met with executives from the <b>world's</b> largest oil companies at the White House to discuss expanding oil production in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTSOrLke5LOM&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1wzQN0zcrGQmJM4yaLJJ6X))
+**🟢 Argentina Fully Repays $20 Billion US Currency Swap After Market <b>Crisis</b>**
+> *Since the repayment, the peso has strengthened about 2 percent compared to pre-election levels, while Argentine <b>sovereign bonds</b> have surged as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://slguardian.org/argentina-fully-repays-20-billion-us-currency-swap-after-market-crisis/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2bD2B9FNxE6NyBFxVTGGm2))
 
-**🟢 India Responds to Trump's '500% Russia Tariff' Bill, US Withdrawal from Solar Alliance**
-> *'We are guided by the evolving dynamics of the <b>global</b> market and by the imperative to <b>secure</b> affordable <b>energy</b> from diverse sources to meet the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.thewire.in/article/diplomacy/india-responds-to-trumps-500-russia-tariff-bill-us-withdrawal-from-solar-alliance&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0NvvQ23B6-6G5EyDG07zhV))
+**🟡 Sri Lanka's ticking <b>debt</b> clock | The Morning - Themorning.lk**
+> *Restructuring a <b>crisis</b>. Sri Lanka's <b>sovereign debt</b> restructuring took 983 days to complete, making it the third-longest since 2010. Under the terms&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.themorning.lk/articles/VdapcYD7kSCoxStMZ83z&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw15ByRoJpHOjBovQyLa2zji))
 
 
 ## 🏛 LEADERSHIP
-**🟢 How the U.K. Is Undermining US <b>Indo</b>-<b>Pacific Security</b> - RealClearDefense**
-> *As Parliament reviews the transfer of the Chagos Islands to Mauritius, US access to the Diego Garcia base is no longer assured....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.realcleardefense.com/2026/01/10/how_the_uk_is_undermining_us_indo-pacific_security_1157962.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3o-44sV5uenXmINdKFdmCh))
+**🟡 Behind the riots: Israel-Pahlavi nexus and the delusion of '<b>regime change</b>' in Iran - Press TV**
+> *... deepening alliance between the Israeli regime and Pahlavi monarchists, bent on destabilizing the country and engineering “<b>regime change</b>.”...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.presstv.ir/Detail/2026/01/11/762193/behind-riots-israel-pahlavi-nexus-delusion-regime-change-iran&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3caoT1CXQgHbAlH6-25BMa))
 
-**🟢 <b>Regime change</b> in Iran would be welcome | The Independent**
-> *Editorial: Iran's unremittingly harsh leadership faces one of the most serious challenges to its theocratic rule since the Islamic Republic was&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/voices/editorials/iran-protests-regime-ayatollah-russia-collapse-b2897648.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1qaeLQCiwIBo_w3m5sqLUG))
+**🔴 Woke 'liberals' clash with Iran protesters in Washington calling for <b>regime change</b> - YouTube**
+> *A group of anti-ICE protesters have clashed with a crowd of people calling for <b>regime change</b> in Iran. The clash took place in Bellevue, Washington&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DCTl1MeL8dR4&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw28_tISKQVdJShQzINIVS1b))
 
-**🔴 The Ayatollah's <b>Regime</b> Is Crumbling - by Michael Doran - The Free Press**
-> *As repression has intensified and casualties have mounted, the protests have hardened into open demands for <b>regime change</b>. No matter what happens&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thefp.com/p/the-ayatollahs-regime-is-crumbling&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1rKMpRZ-T5hztnGIWrRoJI))
+**🔴 Iran's protests seem different this time. Is the <b>regime</b> on the brink? - The Washington Post**
+> *“What distinguishes the current moment is a profound collapse of legitimacy and people's increasing demand for <b>regime change</b>,” noted Abbas Milani&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonpost.com/world/2026/01/11/iran-protests-regime-change-different-history/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw13qvPByvQYPhDuV4GrU0Um))
 
-**🟢 Why Pakistan Does Not Want Iran's <b>Government</b> to Fall - The National Interest**
-> *Yet the idea that the tactical success of the Venezuela operation indicates that the United States could execute a smooth <b>regime change</b> in Iran is a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nationalinterest.org/blog/silk-road-rivalries/why-pakistan-does-not-want-irans-government-to-fall&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw02NTxWLawGBrALAnalM1TZ))
+**🔴 Elon Musk's X dumps Islamic Republic flag as deadly protests rage on in Tehran**
+> *... its site with the old Shah-era lion and sun flag, as deadly protests demanding <b>regime change</b> in Tehran enter their 14th consecutive day....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2026/01/10/world-news/elon-musks-x-dumps-islamic-republic-flag-amid-deadly-nationwide-protests-calling-for-regime-change/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2n36gElLiXM2oyAIXNmCm-))
 
-**🟡 Iran <b>regime</b> 'cornered' and 'extremely vulnerable' as deadly protests spread | CBC News**
-> *They're hoping that they could really, basically bring about <b>regime change</b> in Iran.&quot; U.S. ready to intervene. U.S. President Donald Trump has&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/world/iran-protest-us-israel-pressure-9.7040592&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0XY1lhhg1HEvyHKEjGw1-4))
+**🟡 Washington anti-ICE agitators clash with crowd calling for Iran <b>regime change</b> - Fox News**
+> *A crowd calling for <b>regime change</b> in Tehran clashed with a small group of anti-ICE agitators in downtown Bellevue, Washington, Saturday....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/video/6387571344112&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0q37ZBWCKSvCTDsuv9wbIF))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Canadian companies poured money into Latin America. Trump's Donroe Doctrine threatens ...**
-> *Donald Trump's maneuvers in Venezuela are creating a heightened <b>geopolitical risk</b> for Canadian businesses in the region....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/business/article-trump-latin-america-monroe-donroe-doctrine-stability/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1Nk61843ZsFYoS22AVShT3))
+**🟢 LebanonSlots Reports Progress on <b>Port Congestion</b> Solution at Sepanggar Port Sabah**
+> *Sepanggar <b>Port</b>, located in the Sabah region of Malaysia, is a critical hub for the state's industrial and commercial activities....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.8newsnow.com/news/cdc-reports-increased-suicide-rates-across-u-s/%3Fy-news-26347354-2026-01-12-lebanonslots-progress-port-congestion-sepanggar-sabah&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw2-W4V66SAuW2xGdmOyRLdu))
 
-**🟢 <b>Geopolitics</b> Is The Biggest <b>Risk</b> To Investor Sentiment Right Now - BW Businessworld**
-> *Anil Joshi, Unicorn India Ventures, unpacks the role of improved unit economics, India's macroeconomic strength and the opening of new&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessworld.in/article/geopolitics-is-the-biggest-risk-to-investor-sentiment-right-now-586720&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw36Cj9ZDr0c4CNax_B5YOMX))
+**🟢 Interim solutions for <b>port congestion</b> - PressReader**
+> *KOTA KINABALU: Proposals for interim solutions to address <b>congestion</b> at Sepanggar <b>Port</b> will be tabled in the State Cabinet in the near future....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/malaysia/the-borneo-post-sabah/20260112/281505052604309&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw2MUAiY5Z2jVp911DCW6ktN))
 
-**🟢 Gold, Bitcoin and REITs: What investors should consider for their portfolios in 2026**
-> *... <b>geopolitical risk</b> following Maduro's capture. “Mr Trump's unprecedented actions in Venezuela have disrupted the world order even further and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.straitstimes.com/business/gold-bitcoin-and-reits-what-investors-should-consider-for-their-portfolios-in-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ra4TQsh2O-1JxNjuEoci1))
+**🟢 Urgent action on waste management in Sukau following UNESCO recognition**
+> *Interim Proposal to Address Sepanggar Port&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nabalunews.com/post/urgent-action-on-waste-management-in-sukau-following-unesco-recognition&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw0Az8uEFqS733Vu7hzOb3fZ))
 
-**🟢 Defense minister Koizumi to visit U.S. next week to reaffirm strong alliance - Japan Today**
-> *... face of an increasingly severe <b>security</b> environment in the <b>Asia</b>-<b>Pacific</b> region. Koizumi told a regular press conference that he will deliver…...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://japantoday.com/category/politics/update1-japan-defense-minister-to-visit-u.s.-next-week-to-reaffirm-strong-alliance&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw14gPcRDAU9mDoS0Xl9fhaq))
-
-**🟢 U.S. Army Activates Unit for Dark Eagle Hypersonic Missile System in <b>Indo</b>-<b>Pacific</b> Strategy**
-> *He emphasized the complex and evolving nature of the <b>security</b> landscape in the <b>Indo</b>-<b>Pacific</b>, highlighting its importance to global stability: “Our&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.ssbcrack.com/u-s-army-activates-unit-for-dark-eagle-hypersonic-missile-system-in-indo-pacific-strategy/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1XMJAW9BntJ0p9sElLb2Rl))
+**🟢 Seafood export zone planned at Karachi's Korangi - Pakistan - DAWN.COM**
+> *... <b>shipping routes</b>. Published in Dawn, January 11th, 2026. Follow Dawn Business on X, LinkedIn, Instagram and Facebook for insights on business&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dawn.com/news/1966289&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0jodOwzczq1pWJ3YMRnoJ9))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
