@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 January 2026
+**Date:** 13 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** China's Rare Earth Dominance: Strategic Control and Global Vulnerability - Discovery Alert
+**Source News:** Working towards a new era of data-driven <b>energy</b> technology | <b>World</b> Economic Forum
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** China's Rare Earth Dominance: Strategic Control and Global Vulnerability - Discovery Alert
+- **The News:** Working towards a new era of data-driven <b>energy</b> technology | <b>World</b> Economic Forum
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Covid-19: Diversifying <b>supply</b>-<b>chain</b> through technology and visibility | The Daily Star
+**Source News:** Gold, silver notch record highs on safe-haven demand, Fed rate-cut bets | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Covid-19: Diversifying <b>supply</b>-<b>chain</b> through technology and visibility | The Daily Star
+- **The News:** Gold, silver notch record highs on safe-haven demand, Fed rate-cut bets | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Trump's Foreign Policy, <b>Credit</b> Card Cap, Venezuela's Oil Interest: This Week In Economy
+**Source News:** How Trump and Putin turned <b>risk</b> into a $160bn market - The Times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump's Foreign Policy, <b>Credit</b> Card Cap, Venezuela's Oil Interest: This Week In Economy
+- **The News:** How Trump and Putin turned <b>risk</b> into a $160bn market - The Times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Behind the riots: Israel-Pahlavi nexus and the delusion of '<b>regime change</b>' in Iran - Press TV
+**Source News:** Gold Rises Amid <b>Geopolitical Risks</b> - WSJ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Behind the riots: Israel-Pahlavi nexus and the delusion of '<b>regime change</b>' in Iran - Press TV
+- **The News:** Gold Rises Amid <b>Geopolitical Risks</b> - WSJ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
