@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 14 January 2026
+**Date:** 15 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Geopolitical <b>energy</b> war: China's strategic role amid US aggression in Venezuela, Iran
+**Source News:** Why Venezuela's Air Defenses Never Fired | <b>Geopolitical</b> Monitor
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Geopolitical <b>energy</b> war: China's strategic role amid US aggression in Venezuela, Iran
+- **The News:** Why Venezuela's Air Defenses Never Fired | <b>Geopolitical</b> Monitor
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Egypt–Djibouti Renewable <b>Energy</b> Alliance Strengthens Regional Sustainability And <b>Energy Security</b>
+**Source News:** Roubini Sees AI Boom Offsetting <b>Risks</b> From Trump to <b>Geopolitics</b> - Bloomberg.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Egypt–Djibouti Renewable <b>Energy</b> Alliance Strengthens Regional Sustainability And <b>Energy Security</b>
+- **The News:** Roubini Sees AI Boom Offsetting <b>Risks</b> From Trump to <b>Geopolitics</b> - Bloomberg.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Climate Variability Emerges as Both Risk and Opportunity for the <b>Global Energy</b> Transition
+**Source News:** Enverus releases 2026 Global Energy Outlook highlighting commodity price pressure ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Climate Variability Emerges as Both Risk and Opportunity for the <b>Global Energy</b> Transition
+- **The News:** Enverus releases 2026 Global Energy Outlook highlighting commodity price pressure ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Why Arab states are silent about Iran's unrest - The Economist
+**Source News:** Report: Saudis urge US to opt for limited strikes in Iran | The Jerusalem Post
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why Arab states are silent about Iran's unrest - The Economist
+- **The News:** Report: Saudis urge US to opt for limited strikes in Iran | The Jerusalem Post
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

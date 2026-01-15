@@ -1,98 +1,97 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 14 January 2026
+**Date:** 15 January 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 7)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 2.5)
+- **Taiwan Strait** (Risk Score: 9.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Geopolitical <b>energy</b> war: China's strategic role amid US aggression in Venezuela, Iran**
-> *China, despite being an economic superpower, holds less than 2 percent of <b>global</b> oil reserves. This makes <b>energy security</b> a major strategic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestandard.com.hk/the-standard-stands/article/321401/Geopolitical-energy-war-Chinas-strategic-role-amid-US-aggression-in-Venezuela-Iran&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2WM_kSXVh1duNBX_hF_EZl))
+**🟢 Why Venezuela's Air Defenses Never Fired | <b>Geopolitical</b> Monitor**
+> *Cognitive Warfare acts as a strategic multiplier by shaping <b>risk</b> perception, redefining escalation thresholds, and transforming deterrence into&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/why-venezuelas-air-defenses-never-fired/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw30WRNzQo-crkzNgiGMaYPp))
 
-**🟡 16th IRENA Assembly Concludes With Record 1,500+ <b>Global</b> Leaders, Highlighting ... - SolarQuarter**
-> *... Global Leaders, Highlighting Renewables As Key To Energy <b>Security</b> And Economic Competitiveness ... <b>global energy</b> transition toward a more <b>secure</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://solarquarter.com/2026/01/13/16th-irena-assembly-concludes-with-record-1500-global-leaders-highlighting-renewables-as-key-to-energy-security-and-economic-competitiveness/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2-JYZa24WwDMX3nMwvy8s3))
+**🟡 MPs step up calls to block Chinese mega-embassy - BBC**
+> *... financial data, and access that would give the Chinese Communist Party a launch pad for <b>economic warfare</b> against our nation&quot;. She added that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/cz6ygl9zd7go&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3PdoU1g7ew380OYeRvDHz5))
 
-**🔴 Iran holds pro-government rally as regime seeks to downplay protests - The Guardian**
-> *Ghalibaf said Iran was fighting a four-front war: an “<b>economic war</b>, psychological warfare, military war against the US and Israel, and today a war&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/global-development/2026/jan/12/iran-protests-crackdown-toll-foreign-minister&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0oRtixQJaQwXkwOz_CxKDD))
+**🔴 Bitcoin, XRP surge amid rising US-Iran tensions - Crypto - TheStreet**
+> *<b>Economic warfare</b> expands as tariffs and sanctions loom. On Jan. 13, Trump further escalated pressure by announcing a 25% tariff on any country&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestreet.com/crypto/markets/bitcoin-xrp-surge-amid-rising-us-iran-tensions&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw23BNL61qQPMtAAMCIwWQAz))
 
-**🟢 Silver Is Surging: But That's Not the Story - Crisis Magazine**
-> *Historically, such conditions were understood plainly. They were described as tribute, as bondage, or as <b>economic warfare</b>. Today they are described as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://crisismagazine.com/opinion/silver-is-surging-but-thats-not-the-story&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1bi8pRKZskVulp3Q5BKPaB))
+**🟢 Department of <b>War</b> Announces $1 Billion Direct-to-Supplier Investment to Secure the U.S. ...**
+> *... <b>War</b> for Acquisition and Sustainment, the <b>Economic</b> Defense Unit, the Office of Strategic Capital, and the Military Departments. industrial base&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.war.gov/News/Releases/Release/Article/4376463/department-of-war-announces-1-billion-direct-to-supplier-investment-to-secure-t/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1z5DSkgCAQwafwbnJudPaD))
 
-**🔴 Unearthing a rare earth <b>war</b> – 13 January 2026 | O Heraldo**
-> *These curbs could tanta mount to an <b>economic war</b> fare. Decades of ignoring in vestment in rare earths have left the Western na tions, including&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.heraldgoa.in/edit/unearthing-a-rare-earth-war/460596/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3vmsDQy0VeRk303sMwf_2V))
+**🟡 The UK is expected to approve a 'mega' Chinese embassy in London despite objections**
+> *... financial information between London's two main financial districts. ... <b>economic warfare</b> against our nation.” Dissidents have also been among&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://abcnews.go.com/International/wireStory/uk-expected-approve-mega-chinese-embassy-london-despite-129192936&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1Bl8rdL0Kq3Mr6FlEF3wXP))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Egypt–Djibouti Renewable <b>Energy</b> Alliance Strengthens Regional Sustainability And <b>Energy Security</b>**
-> *Discussions include creating a stable policy environment to encourage <b>international</b> developers and financial institutions to take part in Djibouti's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://solarquarter.com/2026/01/13/egypt-djibouti-renewable-energy-alliance-strengthens-regional-sustainability-and-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Yqux04Q8VWlWohFKYJsBJ))
+**🔴 Roubini Sees AI Boom Offsetting <b>Risks</b> From Trump to <b>Geopolitics</b> - Bloomberg.com**
+> *Roubini argues that the gains from AI could outweigh the combined drag of tariffs, fiscal <b>risks</b> and <b>geopolitical</b> shocks by a four-to-one ratio, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-01-13/roubini-sees-ai-boom-offsetting-risks-from-trump-to-geopolitics&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Ke1UEXuN7uD8PNFujO_tE))
 
-**🟢 How AI could unlock capacity and strengthen <b>energy security</b> | <b>World</b> Economic Forum**
-> *Unlocking hidden power: Using AI to drive efficiency and improve <b>energy security</b>. Jan 13, 2026. Engineers of wind turbine. <b>Energy security</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.weforum.org/stories/2026/01/power-efficiency-ai-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2GtHGoGkiv5vPb9rXP88hU))
+**🟡 Allianz <b>Risk</b> Barometer 2026 - Business interruption**
+> *... risks in the global top 10. <b>Geopolitical risks</b> are putting supply chains under increasing pressure, but as risks rise, just 3% of respondents view&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://commercial.allianz.com/news-and-insights/expert-risk-articles/allianz-risk-barometer-2026-business-interruption.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3wBcnv7-JXPP5qKOmKJKRl))
 
-**🟢 From Restraint to Readiness: Tokyo's 2026 Defence Budget**
-> *... <b>Indo</b>-<b>Pacific security</b> threats ... Tokyo's approach to bolstering deterrence capabilities in an <b>Indo</b>-<b>Pacific security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.orfonline.org/expert-speak/from-restraint-to-readiness-tokyo-s-2026-defence-budget&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1cr3DRcSGSIX1ER_aI8V0x))
+**🟢 WEF Global Cybersecurity Outlook 2026 flags AI acceleration, <b>geopolitical</b> fractures**
+> *The report tracks how rapid AI adoption, <b>geopolitical</b> fragmentation, and deepening cyber inequity are redefining the <b>threat</b> landscape for economies&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://industrialcyber.co/reports/wef-global-cybersecurity-outlook-2026-flags-ai-acceleration-geopolitical-fractures-calls-for-shared-responsibility/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3JOz4pr5hneleOvWfvUbtX))
 
-**🔴 US urges Huang to avoid partisan national <b>security</b> disputes: source - Taipei Times**
-> *Unity would be a win-win outcome for the <b>Indo</b>-<b>Pacific</b> region, Taiwan and the TPP, the source added. Huang had previously told US counterparts in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.taipeitimes.com/News/taiwan/archives/2026/01/13/2003850538&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2yzhQA8ppGvIIJzyCZ5YON))
+**🟢 AI governance and <b>geopolitical risks</b> dominate legal sector outlook for 2026 – study**
+> *AI governance and <b>geopolitical risks</b> dominate legal sector outlook for 2026 – study. 13 January 2026. Law firm leaders enter 2026 facing significant&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globallegalpost.com/news/ai-governance-and-geopolitical-risks-dominate-legal-sector-outlook-for-2026-study-1894947572&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3BfkEELwIP7xX4sLaz77j2))
 
-**🟢 <b>China</b> reiterates readiness to engage in 'candid dialogue' with PH - Manila Bulletin**
-> *... <b>tensions</b> in the West Philippine Sea. The embassy said &quot;there is no such ... Related Tags. Chinese embassy West Philippine Sea <b>South China Sea</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mb.com.ph/2026/01/13/china-reiterates-readiness-to-engage-in-candid-dialogue-with-ph&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1DELk2gUyQZzVxNnt_Pal6))
+**🔴 <b>Chinese</b> Embassy refutes Philippines' 'unfounded and misleading' claims on SCS**
+> *In a statement released on Monday, the Philippine National Maritime Council claimed that <b>tensions</b> in the <b>South China Sea</b> are “direct result” of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/china/global-times/20260114/281543707313902&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw0A3A6npvA0TRp3M0xdSr2p))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Climate Variability Emerges as Both Risk and Opportunity for the <b>Global Energy</b> Transition**
-> *... <b>global energy</b> demand compared with the 1991–2020 average. These ... <b>security</b> and ensuring that rapidly growing renewable capacity delivers&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://wmo.int/news/media-centre/climate-variability-emerges-both-risk-and-opportunity-global-energy-transition&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2wKjWMbva8Pb8EPzZsvdmF))
+**🟢 Enverus releases 2026 Global Energy Outlook highlighting commodity price pressure ...**
+> *... <b>geopolitical risks</b> such as evolving conditions in Venezuela and Iran that continue to influence global oil supply sentiment. Enverus' latest&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.enverus.com/newsroom/enverus-releases-2026-global-energy-outlook-highlighting-commodity-price-pressure-increasing-strain-on-power-systems-and-geopolitical-shifts-in-oil-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1M7_FuvtoTh1K89IunyVe6))
 
-**🟢 From Blueprint to Reality: A Stronger Business Case for Shared <b>Energy</b> Infrastructure**
-> *A <b>global</b> industrial transformation is underway. Shifting geopolitics are pushing <b>energy security</b> and competitiveness up corporate agendas....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.weforum.org/publications/from-blueprint-to-reality-a-stronger-business-case-for-shared-energy-infrastructure/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1qveCA8UqLXY50HNyca2iX))
+**🔴 An Oil Price Shock Could Rattle Markets and the Economy, Analysts Say - Business Insider**
+> *Analysts have flagged the <b>risk</b> of an oil price shock as <b>geopolitical</b> tensions escalate. Oil prices have climbed 10% in the last week amid tensions&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessinsider.com/oil-prices-supply-shock-brent-crude-iran-venezuela-2026-1&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0O_zUSr9boGZxp9gcWL7Pq))
 
-**🟡 Industrial Transformation in ASEAN: A Cluster-Driven Model for Regional and <b>Global</b> Collaboration**
-> *As its economies expand, dependence on fossil fuels, fragmented policies and high financing costs risk undermining <b>energy security</b>, competitiveness&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.weforum.org/publications/industrial-transformation-in-asean-a-cluster-driven-model-for-regional-and-global-collaboration/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0RgNmnRrbrgBO-xN5LSoHD))
+**🟢 Global Oil Prices Rise Amid Iran Unrest and <b>Geopolitical Risk</b> Premium | NewsX - YouTube**
+> *Global oil prices rise amid escalating unrest in Iran, with analysts citing a $3–4 per barrel <b>geopolitical risk</b> premium....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DwoC4mlyscrA&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1TTYWo6IGUgVK0KEM7WzNU))
 
-**🟢 Marsh's Kolodner: Inside the new era of <b>energy security</b>, surging demand for electrons**
-> *“Number one, hands down, is the importance of <b>energy security</b>, not just here in the U.S. but really <b>globally</b>,” Michael Kolodner, managing director as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theinsurer.com/tv/close-quarter/marshs-kolodner-inside-the-new-era-of-energy-security-surging-demand-for-2026-01-12-2/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw31K89FKMU6cuEF9cg0ABtx))
+**🔴 <b>China</b> courts Canada as Carney visits, urging distance from Washington - TRT World**
+> *<b>China</b> retaliated with tariffs on Canadian goods, including canola, seafood and pork, compounding <b>tensions</b> already inflamed by Ottawa's 25 percent&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.trtworld.com/article/0bb696cf18e4&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw0AJRd3Bg2kRKAxIS-uBywG))
 
-**🟢 Federal <b>Energy</b> Innovation Investment: Congress Reasserts Itself**
-> *... <b>energy</b> technologies to China and other <b>global</b> competitors. More From ... <b>Energy Security</b> and Climate Change Program &middot; <b>Energy</b> and Climate Policy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/article/federal-energy-innovation-investment-congress-reasserts-itself&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0EwGC8ZKh9v6cV1dBMwdVP))
+**🟡 HACF Presents 'the Greek <b>Debt Crisis</b> and Its Aftermath' on January 14**
+> *The <b>National</b> Herald featured Columbia Business School Professor Charles Calomiris in coverage of an event examining the Greek <b>debt crisis</b> and its&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://business.columbia.edu/faculty/press/hacf-presents-greek-debt-crisis-and-its-aftermath-january-14&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw14Ceta_K3ysOQonXIv4i2z))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Why Arab states are silent about Iran's unrest - The Economist**
-> *Many Arabs wondered if the prospect of <b>regime change</b> in Tehran offered a chance to throw off Iran's yoke in their own countries. Pan-Arab news&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.economist.com/middle-east-and-africa/2026/01/13/why-arab-states-are-silent-about-irans-unrest&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1CTmimFvynWXdiHa_smm-d))
+**🟡 Report: Saudis urge US to opt for limited strikes in Iran | The Jerusalem Post**
+> *Saudi Arabia to US: Iran strikes should be targeted, rather than seeking <b>regime change</b> - N12 &middot; A Saudi royal source told N12 that Trump should pursue&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/middle-east/iran-news/article-883356&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1Iz0gV9jftG2Va0An6vNkq))
 
-**🟢 Even without <b>regime change</b> in Iran, Netanyahu and Trump can still reshape Middle East**
-> *Much of the talk about Iran has been focused on whether the <b>regime</b> of Supreme Leader Ayatollah Ali Khamenei can be toppled....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/middle-east/iran-news/article-883255&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1ScLkEoMJZExkXtxu6SPNR))
+**🟢 A Historic Opportunity for <b>Regime Change</b> in Iran | National Review**
+> *A Historic Opportunity for <b>Regime Change</b> in Iran. Fires are lit as protesters rally in Tehran, Iran, January 8, 2026 (Anonymous/Getty Images). Share...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nationalreview.com/2026/01/a-historic-opportunity-for-regime-change-in-iran/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1bfRvTsy8N7aZPqLzKQu3y))
 
-**🟢 Iranian Living in NL Calling for <b>Regime Change</b> in Native Country - VOCM**
-> *An Iranian living in Newfoundland and Labrador is among those calling for <b>regime change</b> in his native country.......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://vocm.com/2026/01/13/iran-tensions-regime-change/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0a-6a57ktcWg0gVn6zdal_))
+**🔴 Khamenei <b>Regime Change</b> Next? | US-Iran Rising Tensions | India First With Gaurav Sawant**
+> *This news bulletin covers the escalating crisis in Iran amid a <b>regime</b> crackdown on nationwide protests, with unconfirmed reports citing thousands&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhpDLCK3tU2U&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0Sen0mGsnaw2tgJ2rSQjFJ))
 
-**🟢 Iran Unrest: Has the <b>Regime</b> Won This Round? | Firstpost PoV | N18G - YouTube**
-> *... regime. Will the protesters be able to topple the ... Quincy Institute's Trita Parsi on Why <b>Regime Change</b> in Iran Is Harder Than Many Think....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DRJ0IbbhttL4&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2oSTQsPOWWr9T-Y-EaB-li))
+**🟡 The Tharallah Headquarters Unveiled: The Hidden Infrastructure Blocking <b>Regime Change</b> in Iran**
+> *The Islamic Republic has used this context to frame domestic dissent as a security threat rather than the expression of social or <b>political</b> grievances&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.unitedagainstnucleariran.com/tharallah-headquarters-unveiled-hidden-infrastructure-blocking-regime-change-iran&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0WImc8-FqTnf_SavdcSfF6))
 
-**🟢 RAM Ratings affirms MTT <b>Shipping's</b> ratings at AA3/Stable/P1 - RAM Holdings Berhad**
-> *... <b>volatile freight rates</b>, and the reinstatement of Sarawak's cabotage policy in June 2024. In November 2025, MTT Shipping and Logistics Berhad – the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ram.com.my/pressrelease/%3Fprviewid%3D7191&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw0o7n2TbbKQ24wH7Eoto5MQ))
+**🟢 Trump's <b>Regime Change</b> Recipe Live: 9-Step Escalation To 'New' Iran - YouTube**
+> *... <b>regime change</b> in Iran. How realistic is this roadmap, what signals are coming from Washington and Tehran, and where does rhetoric end and real&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DqyFv01nrKhE&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1l4AgUMurqOcFAe3YBZd0Y))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 US revokes record 100,000 visas in <b>security</b> push - India News Stream**
-> *Gandhinagar: Prime Minister Narendra Modi and German Chancellor Friedrich Merz on Monday reaffirmed their commitment to a free and open <b>Indo</b>-<b>Pacific</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indianewsstream.com/us-revokes-record-100000-visas-in-security-push/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0J9xDEAMF2qiypa2OMANQ7))
+**🔴 Brent crude recovers to $65 as <b>geopolitical risk</b> premium rises - Equiti**
+> *Brent crude recovers to $65 as <b>geopolitical risk</b> premium rises. The Brent futures contract closed with an appreciation of 2.5%, accumulating an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.equiti.com/jo-en/news/trade-reviews/brent-crude-recovers-to-65-as-geopolitical-risk-premium-rises/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2cuxUYuWUe8fY6csOjInTN))
 
-**🟢 Japan defense chief, U.S. <b>Indo</b>-<b>Pacific</b> commander share <b>security</b> concerns - Kyodo News**
-> *Japanese Defense Minister Shinjiro Koizumi and Adm. Samuel Paparo, commander of the U.S. <b>Indo</b>-<b>Pacific</b> Command, on Monday agreed that the regional&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://english.kyodonews.net/articles/-/68424&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw05LexL1DPWCgewyJrdLpwz))
+**🔴 Allianz <b>Risk</b> Barometer 2026**
+> *Meanwhile, Political <b>Risks</b> and Violence climbs from #9 to #7, driven by increasing concerns over <b>geopolitical</b> volatility and conflicts around the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://commercial.allianz.com/news-and-insights/news/allianz-risk-barometer-2026.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0750EF1PHGDT7A2MIRFTDG))
 
-**🟢 A year when Manila diversified security partners, swept by the momentum of 2024**
-> *... <b>South China Sea</b>, signal Manila's intent to deepen multilateral maritime collaboration. ... <b>tensions</b> in the West Philippine Sea. The move&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/rapplerdotcom/posts/a-year-when-manila-diversified-security-partners-swept-by-the-momentum-of-2024/1411000907728640/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw10-t3w2OxAdl0POc45pUst))
+**🟢 NMC won't reply point-by-point to <b>China</b> statements on WPS dispute | GMA News Online**
+> *AFP defends PH alliance with US over WPS amid Venezuela <b>tension</b> &middot; PCG ... US Navy rescues 3 Filipino fishers in <b>South China Sea</b>. “Just like two&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gmanetwork.com/news/topstories/nation/972839/nmc-won-t-reply-point-by-point-to-china-statements-on-wps-dispute/story/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw12G0emGdoI063Mcqn1heBz))
 
-**🟢 Statement of the Deputy Spokesperson of the <b>Chinese</b> Embassy in the Philippines in ...**
-> *To determine who is responsible for heightened <b>tensions</b> in the <b>South China Sea</b>, one only needs to see who has been provoking trouble. In 1999, the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ph.china-embassy.gov.cn/eng/sgfyrbt/202601/t20260113_11811547.htm&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw0SAGF1FoSu-ouy_Ep_gVlA))
+**🟢 US Navy Supercarrier Makes Bold Moves in Disputed <b>South China Sea</b> – What Happens Next?**
+> *In a part of the world known for <b>tension</b> as much as turquoise waters, the mighty USS Abraham Lincoln is making some serious waves. Last week, this&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://glassalmanac.com/us-navy-supercarrier-makes-bold-moves-in-disputed-south-china-sea-what-happens-next/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1HCNe8Ey_HCvSPZE9ZbEgq))
 
-**🟢 Japan embarks on its first deep-sea <b>rare earth</b> mining expedition - Oceanographic Magazine**
-> *The move is Japan's first attempt at sourcing <b>rare earth elements</b> (REEs) domestically, with an ambition to reduce dependency on Chinese supplies. The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oceanographicmagazine.com/news/japan-embarks-on-its-first-deep-sea-rare-earth-mining-expedition/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2pDFjk2yBVQgMW2TFVmuko))
+**🟢 What U.S.-<b>China</b> cooperation means for the world - Washington Times**
+> *The scheduled April meeting between President Trump and Chinese leader Xi Jinping will hopefully ease <b>tension</b> related to the <b>South China Sea</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.washingtontimes.com/news/2026/jan/13/us-china-cooperation-means-world/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2WiYORwsQ7byQ-rI-ddg-j))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
