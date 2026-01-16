@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 15 January 2026
+**Date:** 16 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Why Venezuela's Air Defenses Never Fired | <b>Geopolitical</b> Monitor
+**Source News:** Strategic Conference Themes to Lay Out the <b>Global Energy</b> Transformation: India Energy Week 2026
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why Venezuela's Air Defenses Never Fired | <b>Geopolitical</b> Monitor
+- **The News:** Strategic Conference Themes to Lay Out the <b>Global Energy</b> Transformation: India Energy Week 2026
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Roubini Sees AI Boom Offsetting <b>Risks</b> From Trump to <b>Geopolitics</b> - Bloomberg.com
+**Source News:** Record breaking auction for offshore wind secured to take back control of Britain's <b>energy</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Roubini Sees AI Boom Offsetting <b>Risks</b> From Trump to <b>Geopolitics</b> - Bloomberg.com
+- **The News:** Record breaking auction for offshore wind secured to take back control of Britain's <b>energy</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Enverus releases 2026 Global Energy Outlook highlighting commodity price pressure ...
+**Source News:** The Climate Question That Economists Cannot Answer - The Atlantic
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Enverus releases 2026 Global Energy Outlook highlighting commodity price pressure ...
+- **The News:** The Climate Question That Economists Cannot Answer - The Atlantic
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Report: Saudis urge US to opt for limited strikes in Iran | The Jerusalem Post
+**Source News:** INTERVIEW: U.S. Can Balance Western Hemisphere, <b>Indo</b>-<b>Pacific</b> Policies | Nippon.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Report: Saudis urge US to opt for limited strikes in Iran | The Jerusalem Post
+- **The News:** INTERVIEW: U.S. Can Balance Western Hemisphere, <b>Indo</b>-<b>Pacific</b> Policies | Nippon.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
