@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 January 2026
+**Date:** 17 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Strategic Conference Themes to Lay Out the <b>Global Energy</b> Transformation: India Energy Week 2026
+**Source News:** New <b>Security</b> Era: Japan, U.S. Deepen Cooperation Against China in <b>Indo</b>-<b>Pacific</b> Region
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Strategic Conference Themes to Lay Out the <b>Global Energy</b> Transformation: India Energy Week 2026
+- **The News:** New <b>Security</b> Era: Japan, U.S. Deepen Cooperation Against China in <b>Indo</b>-<b>Pacific</b> Region
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Record breaking auction for offshore wind secured to take back control of Britain's <b>energy</b>
+**Source News:** Gold Edges Lower Amid Abating <b>Geopolitical Risks</b> - WSJ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Record breaking auction for offshore wind secured to take back control of Britain's <b>energy</b>
+- **The News:** Gold Edges Lower Amid Abating <b>Geopolitical Risks</b> - WSJ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The Climate Question That Economists Cannot Answer - The Atlantic
+**Source News:** Oil traders wrestle with <b>geopolitical</b> trifecta and elusive glut | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Climate Question That Economists Cannot Answer - The Atlantic
+- **The News:** Oil traders wrestle with <b>geopolitical</b> trifecta and elusive glut | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** INTERVIEW: U.S. Can Balance Western Hemisphere, <b>Indo</b>-<b>Pacific</b> Policies | Nippon.com
+**Source News:** The Case for <b>Regime Change</b> in Iran - WSJ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** INTERVIEW: U.S. Can Balance Western Hemisphere, <b>Indo</b>-<b>Pacific</b> Policies | Nippon.com
+- **The News:** The Case for <b>Regime Change</b> in Iran - WSJ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
