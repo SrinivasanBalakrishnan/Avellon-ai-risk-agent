@@ -1,0 +1,36 @@
+name: VANTAGE Intelligence Scan
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Runs every 4 hours
+  workflow_dispatch:      # Allows you to click "Run Now" manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Crucial: Allows the script to save data back to the repo
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install feedparser nltk
+
+      - name: Run Intelligence Engine
+        run: python agent/fetch_alerts.py
+
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name 'VANTAGE-BOT'
+          git config --global user.email 'bot@avellon.ai'
+          git add outputs/dashboard_data.json
+          git commit -m "📡 VANTAGE: Updated Intelligence Feed" || exit 0
+          git push
