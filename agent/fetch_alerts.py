@@ -1,5 +1,25 @@
 # agent/fetch_alerts.py
+import os
+if not os.path.exists("outputs"):
+    os.makedirs("outputs")
 
+# 2. UPDATE THE "generate_reports" function to allow Cross-Origin (CORS) just in case
+def generate_reports(data, top_chokepoints, top_industries):
+    today = datetime.utcnow().strftime("%d %B %Y %H:%M UTC") # Added Time
+
+    dashboard_json = {
+        "generated_at": today,
+        "stats": {k: len(v) for k, v in data.items()},
+        "top_chokepoints": [{"name": c[0], "score": round(c[1], 1)} for c in top_chokepoints],
+        "industry_risks": [{"name": i[0], "score": round(i[1], 1)} for i in top_industries],
+        "items": data
+    }
+    
+    # Save to the specific path matching the HTML fetch
+    with open("outputs/dashboard_data.json", "w", encoding="utf-8") as f:
+        json.dump(dashboard_json, f, indent=4)
+        
+    print("✅ VANTAGE Data Updated Successfully.")
 import feedparser
 import os
 import json
