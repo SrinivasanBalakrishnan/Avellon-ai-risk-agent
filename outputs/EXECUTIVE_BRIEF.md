@@ -6,7 +6,7 @@
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
 - **Taiwan Strait** (Risk Score: 14.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 6.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.0)
 
 ---
 
