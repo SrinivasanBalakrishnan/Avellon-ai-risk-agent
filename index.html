@@ -3,309 +3,201 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Avellon Intelligence | Global Command</title>
-    
+    <title>VANTAGE | Global Risk Command</title>
+    <meta name="description" content="Real-time geopolitical risk intelligence and supply chain monitoring.">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     
-    <style>
-        /* --- 1. GLOBAL RESET & THEME --- */
-        :root {
-            --bg-body: #0f172a;       /* Deep Slate Background */
-            --bg-card: #1e293b;       /* Lighter Slate Card */
-            --bg-hover: #334155;      /* Hover State */
-            --text-main: #f8fafc;     /* White Text */
-            --text-muted: #94a3b8;    /* Grey Text */
-            --border: #334155;        /* Subtle Borders */
-            
-            /* Category Colors */
-            --geo: #ef4444;           /* Red */
-            --eco: #10b981;           /* Green */
-            --cyber: #8b5cf6;         /* Purple */
-            --lead: #f59e0b;          /* Orange */
-            --accent: #3b82f6;        /* Blue Brand Color */
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-            /* Risk Levels */
-            --risk-high: #ef4444;     /* Critical (Red) */
-            --risk-med: #f59e0b;      /* Medium (Yellow) */
-            --risk-low: #10b981;      /* Low (Green) */
+    <style>
+        /* --- 2. VANTAGE ENTERPRISE THEME --- */
+        :root {
+            --bg-body: #050505;       /* Void Black */
+            --bg-panel: #0f1115;      /* Panel Grey */
+            --bg-card: #16191f;       /* Card Grey */
+            --border: #2a2f3a;        /* Subtle Border */
+            
+            --accent: #00f2ff;        /* Cyan (System OK) */
+            --alert: #ff2a6d;         /* Red (Critical) */
+            --warn: #ffcc00;          /* Yellow (Warning) */
+            --text-main: #e2e8f0;     
+            --text-muted: #94a3b8;
+
+            --font-head: 'Space Grotesk', sans-serif;
+            --font-body: 'Inter', sans-serif;
         }
 
+        * { box-sizing: border-box; }
+        
         body {
-            font-family: 'Inter', sans-serif;
+            margin: 0; padding: 0;
             background-color: var(--bg-body);
             color: var(--text-main);
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            -webkit-font-smoothing: antialiased;
+            font-family: var(--font-body);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden; /* App-like feel */
         }
 
-        /* --- 2. HEADER & NAVIGATION --- */
+        /* --- 3. NAVIGATION (The Sales Funnel) --- */
         .navbar {
-            background: rgba(15, 23, 42, 0.95);
+            height: 60px;
+            background: rgba(5, 5, 5, 0.95);
             backdrop-filter: blur(10px);
             border-bottom: 1px solid var(--border);
-            padding: 15px 30px;
-            position: sticky;
-            top: 0;
-            z-index: 1000;
             display: flex;
             justify-content: space-between;
             align-items: center;
+            padding: 0 25px;
+            z-index: 1000;
         }
 
         .brand {
-            font-size: 18px;
+            font-family: var(--font-head);
+            font-size: 20px;
             font-weight: 700;
             letter-spacing: -0.5px;
-            display: flex;
-            align-items: center;
-            gap: 12px; 
+            color: #fff;
+            display: flex; align-items: center; gap: 10px;
+        }
+        .brand span { color: var(--accent); }
+
+        .nav-actions { display: flex; gap: 15px; align-items: center; }
+
+        .live-badge {
+            font-size: 11px; font-weight: 600; color: var(--accent);
+            border: 1px solid rgba(0, 242, 255, 0.3);
+            padding: 4px 10px; border-radius: 4px;
+            animation: pulse 2s infinite;
         }
 
-        /* Blue Dot Logo */
-        .brand-dot {
-            height: 10px;
-            width: 10px;
-            background-color: var(--accent);
-            border-radius: 50%;
-            box-shadow: 0 0 10px var(--accent);
-        }
-
-        .status-badge {
-            font-size: 12px;
-            color: var(--text-muted);
-            font-weight: 500;
-            background: #1e293b;
-            padding: 6px 12px;
-            border-radius: 20px;
-            border: 1px solid var(--border);
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-
-        /* --- 3. ANALYTICS PANEL --- */
-        .analytics-panel {
-            max-width: 1400px;
-            margin: 30px auto;
-            padding: 0 20px;
-            display: grid;
-            grid-template-columns: 1fr 1fr; /* 50% Chart, 50% Map */
-            gap: 20px;
-        }
-
-        .viz-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            position: relative;
-            min-height: 350px;
-        }
-
-        .viz-title {
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--text-muted);
-            margin-bottom: 15px;
-            text-transform: uppercase;
-            letter-spacing: 0.6px;
-            z-index: 500; /* Ensure title sits above map */
-        }
-
-        /* MAP CONTAINER STYLES */
-        #riskMap {
-            height: 100%;
-            width: 100%;
-            border-radius: 8px;
-            background: #0f172a;
-            z-index: 1;
-        }
-
-        /* Custom Map Popup Styles */
-        .leaflet-popup-content-wrapper, .leaflet-popup-tip {
-            background: var(--bg-card);
-            color: var(--text-main);
-            box-shadow: 0 3px 14px rgba(0,0,0,0.4);
-            border: 1px solid var(--border);
-        }
-        .leaflet-popup-content {
-            margin: 10px;
-            font-size: 12px;
-            font-family: 'Inter', sans-serif;
-        }
-
-        /* --- 4. CONTROLS --- */
-        .controls {
-            max-width: 1400px;
-            margin: 0 auto 20px;
-            padding: 0 20px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .filter-group {
-            display: flex;
-            gap: 8px;
-            overflow-x: auto;
-            padding-bottom: 5px; 
-        }
-
-        .filter-btn {
-            background: transparent;
-            border: 1px solid var(--border);
-            color: var(--text-muted);
-            padding: 8px 16px;
-            border-radius: 6px;
-            font-size: 13px;
-            font-weight: 500;
-            cursor: pointer;
+        /* The "Money Button" */
+        .core-btn {
+            background: #fff; color: #000;
+            font-family: var(--font-head); font-weight: 700; font-size: 13px;
+            padding: 8px 16px; border-radius: 2px;
+            text-decoration: none; text-transform: uppercase;
             transition: all 0.2s;
-            white-space: nowrap;
-            display: flex;
-            align-items: center;
-            gap: 6px;
         }
+        .core-btn:hover { background: var(--accent); box-shadow: 0 0 15px var(--accent); }
 
-        .filter-btn:hover { background: var(--bg-hover); color: white; }
-        .filter-btn.active { background: var(--accent); color: white; border-color: var(--accent); font-weight: 600; }
-        
-        .count-badge {
-            background: rgba(255,255,255,0.1);
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-size: 10px;
-        }
-        .filter-btn.active .count-badge { background: rgba(0,0,0,0.2); color: inherit; }
-
-        .search-box {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            color: white;
-            padding: 10px 15px;
-            border-radius: 6px;
-            width: 280px;
-            font-family: 'Inter', sans-serif;
-            font-size: 14px;
-            transition: border-color 0.2s;
-        }
-        .search-box:focus { outline: none; border-color: var(--accent); }
-
-        /* --- 5. GRID --- */
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 0 20px 60px;
+        /* --- 4. DASHBOARD LAYOUT --- */
+        .dashboard-container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); 
-            gap: 24px;
-            align-items: start;
-        }
-
-        /* --- 6. CARD STYLES --- */
-        .card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 24px;
-            transition: transform 0.2s, box-shadow 0.2s;
-            display: flex;
-            flex-direction: column;
+            grid-template-columns: 400px 1fr; /* Sidebar Fixed | Map Flexible */
+            flex-grow: 1;
+            overflow: hidden;
             position: relative;
         }
 
-        .card:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
-            border-color: #475569;
+        /* SIDEBAR (Intelligence Feed) */
+        .sidebar {
+            background: var(--bg-panel);
+            border-right: 1px solid var(--border);
+            display: flex; flex-direction: column;
+            overflow: hidden;
         }
 
-        /* Risk Borders */
-        .border-high { border-left: 4px solid var(--risk-high); }
-        .border-med { border-left: 4px solid var(--risk-med); }
-        .border-low { border-left: 4px solid var(--risk-low); }
+        .sidebar-header { padding: 20px; border-bottom: 1px solid var(--border); }
+        
+        /* Stats Row */
+        .stats-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 20px; }
+        .stat-card { background: var(--bg-card); padding: 10px; border-radius: 4px; border-left: 2px solid var(--border); }
+        .stat-val { font-family: var(--font-head); font-size: 24px; font-weight: 700; display: block; }
+        .stat-label { font-size: 10px; text-transform: uppercase; color: var(--text-muted); letter-spacing: 1px; }
 
-        .card-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
+        /* Filters & Search */
+        .controls { display: flex; flex-direction: column; gap: 10px; }
+        .search-box {
+            background: #000; border: 1px solid var(--border);
+            color: #fff; padding: 10px; width: 100%;
+            font-family: var(--font-body); font-size: 13px;
+            border-radius: 4px; outline: none;
         }
+        .search-box:focus { border-color: var(--accent); }
 
-        .category-tag {
-            font-size: 10px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            padding: 4px 8px;
-            border-radius: 4px;
+        .filter-tags { display: flex; gap: 5px; flex-wrap: wrap; }
+        .filter-btn {
+            background: transparent; border: 1px solid var(--border);
+            color: var(--text-muted); font-size: 11px; padding: 4px 8px;
+            cursor: pointer; border-radius: 3px; transition: 0.2s;
         }
+        .filter-btn:hover, .filter-btn.active { background: var(--bg-card); color: #fff; border-color: var(--text-muted); }
 
-        /* Dynamic Category Colors */
-        .tag-geo { color: var(--geo); background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.2); }
-        .tag-eco { color: var(--eco); background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.2); }
-        .tag-cyber { color: var(--cyber); background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.2); }
-        .tag-lead { color: var(--lead); background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2); }
-        .tag-gen { color: var(--text-muted); background: rgba(148, 163, 184, 0.1); border: 1px solid rgba(148, 163, 184, 0.2); }
-
-        .card-date { font-size: 11px; color: var(--text-muted); }
-
-        .card-title {
-            font-size: 17px;
-            font-weight: 600;
-            color: var(--text-main);
-            text-decoration: none;
-            margin-bottom: 12px;
-            line-height: 1.5;
-            display: block;
+        /* Feed List */
+        .feed-list {
+            flex-grow: 1; overflow-y: auto; padding: 20px;
+            display: flex; flex-direction: column; gap: 15px;
         }
+        /* Custom Scrollbar */
+        .feed-list::-webkit-scrollbar { width: 6px; }
+        .feed-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+        /* Cards */
+        .intel-card {
+            background: var(--bg-card); border: 1px solid var(--border);
+            padding: 15px; border-radius: 6px; transition: transform 0.2s;
+            position: relative;
+        }
+        .intel-card:hover { transform: translateX(5px); border-color: #444; }
+        
+        .card-meta { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 10px; color: var(--text-muted); }
+        .risk-badge { font-weight: 700; padding: 2px 6px; border-radius: 2px; }
+        
+        .card-title { font-size: 14px; font-weight: 600; color: #fff; margin-bottom: 8px; line-height: 1.4; display: block; text-decoration: none; }
         .card-title:hover { color: var(--accent); }
+        .card-snippet { font-size: 12px; color: #aaa; line-height: 1.5; }
 
-        .card-summary {
-            font-size: 14px;
-            color: #cbd5e1;
-            line-height: 1.6;
-            margin-bottom: 20px;
-            flex-grow: 1; 
+        /* --- 5. MAP AREA --- */
+        .map-wrapper { position: relative; height: 100%; width: 100%; background: #000; }
+        #riskMap { width: 100%; height: 100%; z-index: 1; }
+
+        .map-overlay-title {
+            position: absolute; top: 20px; left: 20px; z-index: 500;
+            background: rgba(5,5,5,0.9); border: 1px solid var(--border);
+            padding: 10px 15px; border-radius: 4px; pointer-events: none;
         }
+        .map-h1 { margin: 0; font-family: var(--font-head); font-size: 14px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 2px; }
 
-        .card-footer {
-            padding-top: 15px;
-            border-top: 1px solid rgba(255,255,255,0.05);
-            font-size: 11px;
-            color: #64748b;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        /* Locked Feature Overlay (The Upsell) */
+        .locked-feature {
+            position: absolute; bottom: 80px; right: 20px; z-index: 500;
+            background: rgba(5,5,5,0.95); border: 1px solid var(--alert);
+            padding: 15px; border-radius: 4px; width: 250px;
+            box-shadow: 0 0 20px rgba(255, 42, 109, 0.1);
         }
-        
-        .source-badge { font-weight: 500; color: #94a3b8; display: flex; align-items: center; gap: 5px; }
-        .read-more { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 12px; letter-spacing: 0.5px; }
-        .read-more:hover { text-decoration: underline; }
+        .lock-icon { font-size: 12px; color: var(--alert); font-weight: 700; margin-bottom: 5px; display: block; }
+        .lock-text { font-size: 11px; color: #ccc; margin-bottom: 10px; line-height: 1.4; }
+        .lock-link { color: #fff; font-size: 11px; font-weight: 700; text-decoration: underline; cursor: pointer;}
 
-        /* Loading & Error States */
-        #loading { text-align: center; padding: 100px; color: var(--text-muted); font-weight: 300; letter-spacing: 1px; }
+        /* --- 6. TICKER --- */
+        .ticker-wrap {
+            position: fixed; bottom: 0; width: 100%; height: 30px;
+            background: var(--accent); color: #000;
+            overflow: hidden; z-index: 2000;
+            display: flex; align-items: center;
+        }
+        .ticker { display: inline-block; white-space: nowrap; animation: ticker 40s linear infinite; padding-left: 100%; }
+        .ticker-item { display: inline-block; padding: 0 30px; font-family: var(--font-head); font-weight: 700; font-size: 12px; text-transform: uppercase; }
         
-        /* Mobile Tweaks */
+        @keyframes ticker { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+
+        /* Mobile Responsive */
         @media (max-width: 900px) {
-            .analytics-panel { grid-template-columns: 1fr; } 
-            .container { grid-template-columns: 1fr; }
-            .controls { flex-direction: column; align-items: stretch; }
-            .search-box { width: 100%; box-sizing: border-box; }
-            .navbar { padding: 15px 20px; }
-            .viz-card { min-height: 300px; }
+            body { overflow: auto; height: auto; }
+            .dashboard-container { grid-template-columns: 1fr; display: flex; flex-direction: column-reverse; }
+            .map-wrapper { height: 400px; }
+            .sidebar { height: auto; border-top: 1px solid var(--border); }
+            .feed-list { max-height: 500px; }
+            .brand { font-size: 16px; }
+            .core-btn { font-size: 10px; padding: 6px 12px; }
         }
     </style>
 </head>
@@ -313,51 +205,76 @@
 
     <nav class="navbar">
         <div class="brand">
-            <div class="brand-dot"></div>
-            AVELLON INTELLIGENCE
+            VANTAGE <span>// COMMAND</span>
         </div>
-        <div id="last-updated-badge" class="status-badge">● Live Feed</div>
+        <div class="nav-actions">
+            <span id="last-updated" class="live-badge">CONNECTING...</span>
+            <a href="https://avellon.ai/solutions" target="_blank" class="core-btn">Access Avellon Core</a>
+        </div>
     </nav>
 
-    <div class="analytics-panel">
+    <div class="dashboard-container">
         
-        <div class="viz-card">
-            <div class="viz-title">Global Risk Intensity by Sector</div>
-            <div style="flex-grow:1; position: relative; min-height: 250px;">
-                <canvas id="riskChart"></canvas>
-            </div>
-        </div>
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="stats-row">
+                    <div class="stat-card" style="border-color: var(--alert);">
+                        <span class="stat-val" id="stat-high-risk">0</span>
+                        <span class="stat-label">Critical Alerts</span>
+                    </div>
+                    <div class="stat-card" style="border-color: var(--accent);">
+                        <span class="stat-val" id="stat-total">0</span>
+                        <span class="stat-label">Signals Scanned</span>
+                    </div>
+                </div>
 
-        <div class="viz-card" style="padding: 0; overflow: hidden;">
-            <div id="riskMap"></div>
+                <div style="height: 100px; margin-bottom: 20px;">
+                    <canvas id="miniChart"></canvas>
+                </div>
+
+                <div class="controls">
+                    <input type="text" id="searchInput" class="search-box" placeholder="Filter signals (e.g. 'Strait', 'Cyber')..." onkeyup="handleSearch()">
+                    <div class="filter-tags">
+                        <button class="filter-btn active" onclick="filterData('ALL')">ALL</button>
+                        <button class="filter-btn" onclick="filterData('GEOPOLITICS')">GEO</button>
+                        <button class="filter-btn" onclick="filterData('GLOBAL ECONOMY')">ECO</button>
+                        <button class="filter-btn" onclick="filterData('CYBER & TECH')">CYBER</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="feed-list" class="feed-list">
+                <div style="text-align:center; color: #666; font-size: 12px; margin-top: 50px;">
+                    Initializing Secure Uplink...
+                </div>
+            </div>
+        </aside>
+
+        <main class="map-wrapper">
+            <div class="map-overlay-title">
+                <h1 class="map-h1">Global Chokepoint Monitor</h1>
+            </div>
             
-            <div class="viz-title" style="position: absolute; top: 15px; left: 15px; background: rgba(15,23,42,0.85); padding: 6px 12px; border-radius: 6px; border: 1px solid var(--border); pointer-events: none;">
-                Critical Chokepoints
+            <div id="riskMap"></div>
+
+            <div class="locked-feature">
+                <span class="lock-icon">🔒 RESTRICTED FEATURE</span>
+                <div class="lock-text">Supply Chain Impact Simulation is locked. Enterprise license required.</div>
+                <a class="lock-link" href="https://avellon.ai" target="_blank">UPGRADE TO CORE ></a>
             </div>
-        </div>
+        </main>
     </div>
 
-    <div class="controls">
-        <div class="filter-group">
-            <button class="filter-btn active" id="btn-ALL" onclick="filterData('ALL')">All Signals</button>
-            <button class="filter-btn" id="btn-GEO" onclick="filterData('GEOPOLITICS')">Geopolitics</button>
-            <button class="filter-btn" id="btn-ECO" onclick="filterData('GLOBAL ECONOMY')">Economy</button>
-            <button class="filter-btn" id="btn-CYBER" onclick="filterData('CYBER & TECH')">Cyber</button>
-            <button class="filter-btn" id="btn-LEAD" onclick="filterData('LEADERSHIP')">Leadership</button>
+    <div class="ticker-wrap">
+        <div class="ticker" id="ticker-content">
+            <div class="ticker-item">/// SYSTEM INITIALIZING /// VANTAGE INTELLIGENCE /// ESTABLISHING SATELLITE LINK ///</div>
         </div>
-        <input type="text" id="searchInput" class="search-box" placeholder="Search signals (e.g. 'Trade', 'NATO')..." onkeyup="handleSearch()">
     </div>
-
-    <div id="loading">ESTABLISHING SECURE CONNECTION...</div>
-    <div id="grid-container" class="container"></div>
-
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
     <script>
-        let allRiskItems = [];
+        // --- CONFIG & STATE ---
         let map;
-
-        // --- MAP COORDINATES (Lat, Lon) for Specific Chokepoints ---
+        let allRiskItems = [];
         const chokepointCoords = {
             "Strait of Hormuz": [26.5667, 56.2500],
             "Bab el-Mandeb (Red Sea)": [12.5833, 43.3333],
@@ -365,180 +282,181 @@
             "Panama Canal": [9.1000, -79.7000],
             "Taiwan Strait": [24.0000, 119.0000],
             "Turkish Straits": [40.7000, 28.5000],
-            "Cape of Good Hope": [-34.3548, 18.4698]
+            "Cape of Good Hope": [-34.3548, 18.4698],
+            "Suez Canal": [30.5852, 32.2654]
         };
 
-        // 1. Fetch Data
-        fetch('outputs/dashboard_data.json')
-            .then(r => r.json())
-            .then(data => {
-                document.getElementById('loading').style.display = 'none';
-                document.getElementById('last-updated-badge').innerText = `Last Scan: ${data.generated_at}`;
-
-                Object.keys(data.items).forEach(category => {
-                    data.items[category].forEach(item => {
-                        allRiskItems.push({ ...item, category: category });
-                    });
-                });
-
-                // Initialize Visuals
-                updateButtonCounts(data.stats);
-                renderChart(data.industry_risks);
-                initMap(data.top_chokepoints); // Start the Map
-                renderGrid(allRiskItems);
-            })
-            .catch(err => {
-                console.error(err);
-                document.getElementById('loading').innerHTML = "<span style='color:var(--geo)'>⚠ SIGNAL LOST: Unable to retrieve intelligence data.</span>";
-            });
-
-        // --- 2. LEAFLET MAP LOGIC ---
-        function initMap(chokepoints) {
-            // Create Map (Centered on global view)
-            map = L.map('riskMap').setView([20.0, 10.0], 1);
-
-            // Add Dark Matter Tiles (CartoDB) - "War Room" Style
+        // --- 1. INITIALIZE MAP (Dark Mode) ---
+        function initMap() {
+            map = L.map('riskMap', { zoomControl: false }).setView([25, 0], 2);
+            
+            // CartoDB Dark Matter Tiles
             L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-                attribution: '&copy; OpenStreetMap &copy; CARTO',
-                subdomains: 'abcd',
+                attribution: '&copy; VANTAGE INTELLIGENCE',
                 maxZoom: 19
             }).addTo(map);
 
-            if(!chokepoints) return;
+            // Move zoom control to top right
+            L.control.zoom({ position: 'topright' }).addTo(map);
+        }
 
-            // Add Markers
+        // --- 2. FETCH DATA ---
+        document.addEventListener("DOMContentLoaded", () => {
+            initMap();
+            
+            // Fetch the JSON generated by Python
+            fetch('outputs/dashboard_data.json')
+                .then(r => {
+                    if (!r.ok) throw new Error("HTTP error " + r.status);
+                    return r.json();
+                })
+                .then(data => {
+                    // Update UI
+                    document.getElementById('last-updated').innerText = "LIVE: " + data.generated_at;
+                    document.getElementById('last-updated').style.animation = "none";
+                    document.getElementById('last-updated').style.color = "#fff";
+
+                    // Flatten Items
+                    Object.keys(data.items).forEach(cat => {
+                        data.items[cat].forEach(item => {
+                            allRiskItems.push({ ...item, category: cat });
+                        });
+                    });
+
+                    // Update Metrics
+                    const criticalCount = allRiskItems.filter(i => i.risk_color === 'red').length;
+                    document.getElementById('stat-high-risk').innerText = criticalCount;
+                    document.getElementById('stat-total').innerText = allRiskItems.length;
+
+                    // Render All Components
+                    renderMapMarkers(data.top_chokepoints);
+                    renderMiniChart(data.industry_risks);
+                    renderFeed(allRiskItems);
+                    renderTicker(allRiskItems);
+                })
+                .catch(err => {
+                    console.error("Data Load Error:", err);
+                    document.getElementById('feed-list').innerHTML = `
+                        <div style="padding:20px; color:#ff2a6d; text-align:center;">
+                            <strong>⚠ OFFLINE MODE</strong><br>
+                            <span style="font-size:11px; color:#666">Unable to retrieve satellite feed. Ensure 'outputs/dashboard_data.json' exists.</span>
+                        </div>`;
+                });
+        });
+
+        // --- 3. RENDER FUNCTIONS ---
+
+        function renderMapMarkers(chokepoints) {
+            if (!chokepoints) return;
             chokepoints.forEach(cp => {
                 const coords = chokepointCoords[cp.name];
                 if (coords) {
-                    // Determine Color & Size based on Risk
-                    let color = '#10b981'; // Green
-                    let radius = 80000;    // Base size
+                    // Dynamic Sizing & Coloring
+                    let color = cp.score >= 3.5 ? '#ff2a6d' : (cp.score >= 2.5 ? '#ffcc00' : '#00f2ff');
+                    let radius = cp.score * 4; // Scale size by risk
                     
-                    if (cp.score >= 4) { 
-                        color = '#ef4444'; // Red
-                        radius = 250000;   // Big pulsing circle
-                    } else if (cp.score >= 2.5) {
-                        color = '#f59e0b'; // Yellow
-                        radius = 150000;
-                    }
-
-                    // Draw Circle
-                    L.circle(coords, {
-                        color: color,
-                        fillColor: color,
-                        fillOpacity: 0.5,
-                        radius: radius
+                    L.circleMarker(coords, {
+                        color: color, fillColor: color, fillOpacity: 0.6, radius: radius, weight: 1
                     }).addTo(map)
                     .bindPopup(`
-                        <strong style="color:${color}; font-size:13px">${cp.name}</strong><br>
-                        Risk Level: <b>${cp.score}</b>
+                        <div style="font-family:'Space Grotesk'; font-size:12px;">
+                            <strong style="color:${color}">${cp.name.toUpperCase()}</strong><br>
+                            RISK SCORE: <b>${cp.score}</b>
+                        </div>
                     `);
                 }
             });
         }
 
-        // --- 3. CHART LOGIC ---
-        function renderChart(industries) {
-            if(!industries) return;
-            const ctx = document.getElementById('riskChart').getContext('2d');
-            const labels = industries.map(i => i.name);
-            const data = industries.map(i => i.score);
-            const colors = data.map(score => score >= 8 ? '#ef4444' : score >= 4 ? '#f59e0b' : '#10b981');
+        function renderFeed(items) {
+            const container = document.getElementById('feed-list');
+            container.innerHTML = "";
+            
+            if (items.length === 0) {
+                container.innerHTML = "<div style='color:#666; text-align:center; margin-top:20px;'>No signals detected.</div>";
+                return;
+            }
 
+            // Sort by Risk (High to Low)
+            items.sort((a, b) => b.risk_score - a.risk_score);
+
+            items.forEach(item => {
+                // Determine Styles
+                let borderColor = '#2a2f3a';
+                let badgeColor = '#94a3b8';
+                let badgeBg = 'rgba(148, 163, 184, 0.1)';
+
+                if (item.risk_color === 'red') {
+                    borderColor = 'var(--alert)';
+                    badgeColor = 'var(--alert)';
+                    badgeBg = 'rgba(255, 42, 109, 0.1)';
+                } else if (item.risk_color === 'yellow') {
+                    borderColor = 'var(--warn)';
+                    badgeColor = 'var(--warn)';
+                    badgeBg = 'rgba(255, 204, 0, 0.1)';
+                }
+
+                container.innerHTML += `
+                    <div class="intel-card" style="border-left: 3px solid ${borderColor}">
+                        <div class="card-meta">
+                            <span class="risk-badge" style="color:${badgeColor}; background:${badgeBg}">${item.category}</span>
+                            <span>${item.published.substring(5, 16)}</span>
+                        </div>
+                        <a href="${item.link}" target="_blank" class="card-title">${item.title}</a>
+                        <div class="card-snippet">${item.summary}</div>
+                    </div>
+                `;
+            });
+        }
+
+        function renderMiniChart(industries) {
+            if (!industries) return;
+            const ctx = document.getElementById('miniChart').getContext('2d');
             new Chart(ctx, {
                 type: 'bar',
                 data: {
-                    labels: labels,
+                    labels: industries.map(i => i.name.substring(0,3)), // Short labels
                     datasets: [{
-                        label: 'Risk Score',
-                        data: data,
-                        backgroundColor: colors,
-                        borderRadius: 4,
-                        barThickness: 20
+                        data: industries.map(i => i.score),
+                        backgroundColor: industries.map(i => i.score > 3 ? '#ff2a6d' : '#00f2ff'),
+                        borderRadius: 2
                     }]
                 },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
                     scales: {
-                        y: { beginAtZero: true, grid: { color: '#334155' }, ticks: { color: '#94a3b8' } },
-                        x: { grid: { display: false }, ticks: { color: '#94a3b8', font: {size: 10} } }
-                    },
-                    plugins: { legend: { display: false } }
+                        x: { grid: { display: false }, ticks: { color: '#666', font: {size: 9} } },
+                        y: { display: false, min: 0, max: 5 }
+                    }
                 }
             });
         }
 
-        // --- 4. GRID LOGIC ---
-        function renderGrid(items) {
-            const container = document.getElementById('grid-container');
-            container.innerHTML = ''; 
-
-            if(items.length === 0) {
-                container.innerHTML = '<div style="grid-column: 1/-1; text-align:center; color:#64748b; padding:40px;">No intelligence found matching criteria.</div>';
-                return;
-            }
-
-            items.forEach(item => {
-                let tagClass = 'tag-gen';
-                if(item.category === 'GEOPOLITICS') tagClass = 'tag-geo';
-                if(item.category === 'GLOBAL ECONOMY') tagClass = 'tag-eco';
-                if(item.category === 'CYBER & TECH') tagClass = 'tag-cyber';
-                if(item.category === 'LEADERSHIP') tagClass = 'tag-lead';
-
-                let borderClass = 'border-low';
-                if(item.risk_color === 'red') borderClass = 'border-high';
-                if(item.risk_color === 'yellow') borderClass = 'border-med';
-
-                const cardHTML = `
-                    <div class="card ${borderClass}">
-                        <div class="card-header">
-                            <span class="category-tag ${tagClass}">${item.category}</span>
-                            <span class="card-date">${item.published}</span>
-                        </div>
-                        <a href="${item.link}" target="_blank" class="card-title">${item.title}</a>
-                        <div class="card-summary">${item.summary}</div>
-                        <div class="card-footer">
-                            <span class="source-badge">📡 ${item.source}</span>
-                            <a href="${item.link}" target="_blank" class="read-more">ANALYZE →</a>
-                        </div>
-                    </div>
-                `;
-                container.innerHTML += cardHTML;
+        function renderTicker(items) {
+            const ticker = document.getElementById('ticker-content');
+            let html = "";
+            items.slice(0, 10).forEach(item => {
+                let color = item.risk_color === 'red' ? '#ff2a6d' : '#fff';
+                html += `<div class="ticker-item" style="color:${color}">/// ${item.title} [RISK: ${item.risk_score}]</div>`;
             });
+            // Duplicate for smooth loop
+            ticker.innerHTML = html + html + html; 
         }
 
-        // --- 5. UTILS ---
-        function updateButtonCounts(stats) {
-            if(!stats) return;
-            const total = Object.values(stats).reduce((a, b) => a + b, 0);
-            
-            const setBtn = (id, label, count) => {
-                const btn = document.getElementById(id);
-                if(btn) btn.innerHTML = `${label} <span class="count-badge">${count || 0}</span>`;
-            };
-
-            setBtn('btn-ALL', 'All Signals', total);
-            setBtn('btn-GEO', 'Geopolitics', stats['GEOPOLITICS']);
-            setBtn('btn-ECO', 'Economy', stats['GLOBAL ECONOMY']);
-            setBtn('btn-CYBER', 'Cyber', stats['CYBER & TECH']);
-            setBtn('btn-LEAD', 'Leadership', stats['LEADERSHIP']);
-        }
-
+        // --- 4. FILTER & SEARCH LOGIC ---
+        
         function filterData(category) {
+            // Update Buttons
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            let btnId = 'btn-ALL';
-            if(category === 'GEOPOLITICS') btnId = 'btn-GEO';
-            if(category === 'GLOBAL ECONOMY') btnId = 'btn-ECO';
-            if(category === 'CYBER & TECH') btnId = 'btn-CYBER';
-            if(category === 'LEADERSHIP') btnId = 'btn-LEAD';
-            document.getElementById(btnId).classList.add('active');
+            event.target.classList.add('active');
 
             if (category === 'ALL') {
-                renderGrid(allRiskItems);
+                renderFeed(allRiskItems);
             } else {
-                const filtered = allRiskItems.filter(item => item.category === category);
-                renderGrid(filtered);
+                const filtered = allRiskItems.filter(i => i.category === category);
+                renderFeed(filtered);
             }
         }
 
@@ -548,8 +466,9 @@
                 item.title.toLowerCase().includes(query) || 
                 item.summary.toLowerCase().includes(query)
             );
-            renderGrid(filtered);
+            renderFeed(filtered);
         }
+
     </script>
 </body>
 </html>
