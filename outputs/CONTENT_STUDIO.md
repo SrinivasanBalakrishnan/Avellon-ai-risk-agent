@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 21 January 2026
+**Date:** 22 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** How North America can use renewable energy as a strategic anchor - WTW
+**Source News:** EDP CEO warns EU on lost urgency for <b>energy security</b>, renewables push | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How North America can use renewable energy as a strategic anchor - WTW
+- **The News:** EDP CEO warns EU on lost urgency for <b>energy security</b>, renewables push | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Global CPRI Claims Review 2025 - WTW
+**Source News:** Wall Street Falls as <b>Geopolitical Risk</b> Returns to the Forefront - Mexico Business News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Global CPRI Claims Review 2025 - WTW
+- **The News:** Wall Street Falls as <b>Geopolitical Risk</b> Returns to the Forefront - Mexico Business News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold Near $5,000? What's Driving Physical Gold Prices Higher and Why Long-Term ...
+**Source News:** Rupee slides to record low on global market woes; lack of RBI presence worsens fall
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold Near $5,000? What's Driving Physical Gold Prices Higher and Why Long-Term ...
+- **The News:** Rupee slides to record low on global market woes; lack of RBI presence worsens fall
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** How has the <b>Indo</b>-<b>Pacific Security</b> Environment Evolved? | Pacific Policy Pulse - YouTube
+**Source News:** 10 minutes of silence in Iran, but Gaza is a different battle for hearts and minds - Ynet News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How has the <b>Indo</b>-<b>Pacific Security</b> Environment Evolved? | Pacific Policy Pulse - YouTube
+- **The News:** 10 minutes of silence in Iran, but Gaza is a different battle for hearts and minds - Ynet News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
