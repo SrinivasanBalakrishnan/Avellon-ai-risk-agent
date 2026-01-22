@@ -1,23 +1,23 @@
 {
     "generated_at": "22 January 2026",
     "stats": {
-        "GEOPOLITICS": 41,
-        "CYBER & TECH": 53,
-        "GLOBAL ECONOMY": 26,
+        "GEOPOLITICS": 37,
+        "CYBER & TECH": 66,
+        "GLOBAL ECONOMY": 22,
         "LEADERSHIP": 8,
         "GENERAL UPDATES": 19
     },
     "top_chokepoints": [
         {
-            "name": "Bab el-Mandeb (Red Sea)",
-            "score": 4.5
-        },
-        {
             "name": "Taiwan Strait",
-            "score": 3
+            "score": 16.0
         },
         {
             "name": "Strait of Hormuz",
+            "score": 0
+        },
+        {
+            "name": "Bab el-Mandeb (Red Sea)",
             "score": 0
         },
         {
@@ -32,33 +32,78 @@
     "industry_risks": [
         {
             "name": "LOGISTICS",
-            "score": 131.5
+            "score": 152.5
         },
         {
             "name": "TECH",
-            "score": 119.5
+            "score": 148.0
         },
         {
             "name": "FINANCE",
-            "score": 98.5
+            "score": 92.5
         },
         {
             "name": "ENERGY",
-            "score": 38.5
+            "score": 24.0
         },
         {
             "name": "DEFENSE",
-            "score": 15.5
+            "score": 20.0
         }
     ],
     "items": {
         "GEOPOLITICS": [
             {
-                "title": "EDP CEO warns EU on lost urgency for <b>energy security</b>, renewables push | Reuters",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/davos/edp-ceo-warns-eu-lost-urgency-energy-security-renewables-push-2026-01-21/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0JyaPgYNdqkxz6SZrD9_uh",
-                "summary": "Reuters provides business, financial, national and <b>international</b> news to professionals via desktop terminals, the <b>world's</b> media organizations,&nbsp;......",
+                "title": "The Middle East's <b>Energy Security</b> - GIS Reports",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gisreportsonline.com/r/middle-east-power-future/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3R0GICn-Zx7apEc3RXjeqv",
+                "summary": "With <b>global energy</b> demand on the rise, the fossil fuel-rich region seeks to expand its energy capacity to include renewable and nuclear sources....",
                 "source": "Google Alert - Global Energy Security",
-                "published": "2026-01-21T18:46:57Z",
+                "published": "2026-01-22T07:01:29Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "Want to know what <b>global energy</b> consumption will look like in 2026?",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eiu.com/n/blogs/viewpoint-search-summarise-global-energy-consumption/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1I8Pv_uYwXmu8SeoExG_Bw",
+                "summary": "The ongoing shift towards <b>energy security</b> and diversification has accelerated the transition towards alternative <b>energy</b> sources and more efficient&nbsp;......",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-01-22T06:55:48Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "Why Ease of Doing Business Will Decide India's Clean <b>Energy</b> Manufacturing Future",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gktoday.in/from-deployment-to-dominance-why-ease-of-doing-business-will-decide-indias-clean-energy-manufacturing-future/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2jniTFrhWSlEzAiBHjMtGW",
+                "summary": "Why clean energy manufacturing is the next strategic frontier. <b>Globally</b>, <b>energy security</b> is increasingly being defined by access to clean energy \u2014&nbsp;......",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-01-22T04:43:19Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Venezuela, Energy <b>Warfare</b>, and the Global <b>War</b> in Ukraine - Second Line of Defense",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://sldinfo.com/2026/01/venezuela-energy-warfare-and-the-global-war-in-ukraine/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw01xficpuDPv9IeQwm2e1NA",
+                "summary": "... <b>economic warfare</b> across multiple theaters. Venezuela represents the opening of a new front in this wider campaign, one that targets the financial&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-01-22T06:58:43Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "Trump drops European tariff threat as he touts 'future' Greenland deal - Financial Times",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/1369a45e-e39b-4aaa-a347-b1800da7fd31&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1FvhTCemlXoD_D6YesCGXZ",
+                "summary": "Denmark welcomes Trump's call to pause trade <b>war</b>, says foreign minister ... Denmark's foreign minister Lars L\u00f8kke Rasmussen has said he welcomes US&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-01-22T04:59:41Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Breaking THE &quot;GREAT EXIT&quot;: Is Canada Moving Gold to China? - Binance",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/35394501901994&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3tpAjqYyIweaBI8LaS0FdN",
+                "summary": "... <b>Economic Warfare</b>.&quot; Fear of Freezes: After seeing the U.S. weaponize the dollar against other nations, Canadian entities are reportedly terrified&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-01-22T04:07:38Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
@@ -79,6 +124,15 @@
                 "published": "2026-01-22T02:31:33Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
+            },
+            {
+                "title": "Can China Win Round Two of the Trade <b>War</b>? - Asia Sentinel",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiasentinel.com/p/can-china-win-round-two-trade-war&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3kXh-sC1E88_05ZHNvrea5",
+                "summary": "... <b>economic warfare</b>. The goal was straightforward: use protectionist levies to shrink China's export engine, squeeze Beijing's growth and force&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-01-22T02:25:47Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
             },
             {
                 "title": "Watch: Trump's full remarks at the 2026 World <b>Economic</b> Forum - YouTube",
@@ -108,49 +162,22 @@
                 "risk_color": "green"
             },
             {
-                "title": "Ed Davey: Trump is acting like an international gangster - Liberal Democrat Voice",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.libdemvoice.org/ed-davey-trump-is-acting-like-an-international-gangster-79023.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2NZrWiGwAG6zOPNap-PrC4",
-                "summary": "... economy, our livelihoods, and our national security. By demanding control of Greenland and threatening <b>economic warfare</b> on allies who support its&nbsp;......",
+                "title": "Full text: What Trump said on India-Pakistan <b>war</b>, Greenland, Venezuela at Davos 2026",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianexpress.com/article/world/full-text-what-trump-said-india-pakistan-war-greenland-venezuela-davos-2026-10487607/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1K2KotF_MbeCUX7bkYs-vG",
+                "summary": "In the speech at the World <b>Economic</b> Forum, Trump said he was asking for &quot;a piece of ice, cold and poorly located.\u201d...",
                 "source": "Google Alert - Economic Warfare",
-                "published": "2026-01-21T22:56:41Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "The Canadian PM's Davos Speech Is Unmissable in a Time of \u201cRupture\u201d - Mother Jones",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.motherjones.com/politics/2026/01/mark-carney-davos-speech/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1XKJDNcSAhRu3it-uLAcWk",
-                "summary": "... economic coercion by bigger powers. ... Donald Trump pointing as he speaks. Trump Abruptly Drops His Threat of <b>Economic Warfare</b> Over Greenland....",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-01-21T22:01:57Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "FULL: Trump delivers special address at World <b>Economic</b> Forum, details Greenland deal framework",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBrCyKsQGe-o&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1zEPbFIcbgJ031R93e_r1R",
-                "summary": "... <b>War</b> II, stating, \u201cDenmark fell to Germany after just six hours of fighting, and was totally unable to defend either itself or Greenland. So the&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-01-21T21:35:05Z",
+                "published": "2026-01-21T23:24:09Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
-                "title": "Trump's Moves on Greenland - The New York Times",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/01/21/world/trumps-greenland-davos-isis-syria.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3mQLSZI7NbhEuUVBIZPkkq",
-                "summary": "... <b>economic warfare</b> if the United States did not obtain the Arctic territory. Advertisement. SKIP ADVERTISEMENT. 'We will remember'. Trump said he was&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-01-21T21:29:04Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "Trump Abruptly Drops His Threat of <b>Economic Warfare</b> Over Greenland - Mother Jones",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.motherjones.com/politics/2026/01/trump-davos-speech-greenland-tariffs-threats-nato/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0XdUVTherA8L8lNYbzhPnn",
-                "summary": "After previewing his plans to acquire Greenland through <b>economic warfare</b>, President Donald Trump abruptly announced that he would not impose tariffs&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-01-21T20:53:21Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "title": "EU, India To Sign <b>Security</b> And Defence Pact In New Delhi, Aim To Conclude FTA Talks: Kaja Kallas",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/videos/news/eu-india-to-sign-security-and-defence-pact-in-new-delhi-aim-to-conclude-fta-talks-kaja-kallas/videoshow/127095850.cms&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3wuxUFdcv7DRLXb6oGjHDr",
+                "summary": "... <b>security</b>, counterterrorism, cyber-defence and maritime domain awareness, with a focus on stability in the <b>Indo</b>-<b>Pacific</b> region. In parallel, the EU&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-01-22T04:01:28Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
             },
             {
                 "title": "Enhancing India's <b>Indo</b>-<b>Pacific</b> Approach - Maritime Fairtrade",
@@ -158,33 +185,6 @@
                 "summary": "Maritime <b>Security</b> and Strategic Autonomy &middot; Economic Growth and Trade Diversification &middot; Infrastructure and Technology Connectivity &middot; Climate Resilience&nbsp;......",
                 "source": "Google Alert - Indo-Pacific Security",
                 "published": "2026-01-22T00:54:10Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "The Impact of the US National <b>Security</b> Strategy's Blind Spot on North Korea",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.38north.org/2026/01/the-impact-of-the-us-national-security-strategys-blind-spot-on-north-korea/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1koswX2TzO3h2iomkQsm2W",
-                "summary": "North Korea no longer appears as a central concern within US <b>Indo</b>-<b>Pacific</b> strategy, and references to denuclearization are only confined to bilateral&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T20:42:10Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "9DASHLINE \u2014 South Korea's SSN debate: toward an East-Asian AUKUS",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.9dashline.com/article/south-koreas-ssn-debate-toward-an-east-asian-aukus&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1LBirb4immnoVp1ypr4nMG",
-                "summary": "... these expectations by signalling Seoul's commitment to <b>Indo</b>-<b>Pacific security</b> while adding industrial and operational depth to alliance deterrence....",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T17:35:36Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "Spain joins <b>Indo</b>-<b>Pacific</b> Oceans Initiative, elevates ties with India to strategic level",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newindianexpress.com/nation/2026/Jan/21/spain-joins-indo-pacific-oceans-initiative-elevates-ties-with-india-to-strategic-level&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0PanGRKREwYnqH3H_l8Xfy",
-                "summary": "... <b>Indo</b>-<b>Pacific</b>, strengthening maritime <b>security</b>, stability and development....",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T17:14:00Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -306,67 +306,40 @@
                 "risk_color": "red"
             },
             {
-                "title": "India's <b>semiconductor</b> and AI surge powers global economic transformation",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://kpmg.com/in/en/media/press-releases/2026/01/indias-semiconductor-and-ai-surge-powers-global-economic-transformation-kpmg-at-world-economic-forum-2026.html&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw2gdIjPAFBYRVIJriYWoF8V",
-                "summary": "As global <b>supply chains</b> diversify and technology governance becomes more distributed, India's strategic investments signal a new era of collaboration&nbsp;......",
+                "title": "GlobalWafers chair sees Taiwan's <b>semiconductor</b> edge, says AI is irreversible - digitimes",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com/news/a20260122PD235/globalwafers-ai-automotive-supply-chain-taiwan-2026.html&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw23988nDvviSfgXMC8jynPs",
+                "summary": "Tariff wars and AI demand reshape electronics <b>supply chain</b> structure in 2025 &middot; UMC expands US <b>supply chain</b> with 8-inch wafer MOU with Polar&nbsp;......",
                 "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-01-21T18:42:17Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "SEALSQ Signs MoU with the Government of Gujarat to Establish a 300-Million-Unit-Per ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://investingnews.com/sealsq-signs-mou-with-the-government-of-gujarat-to-establish-a-300-million-unit-per-year-post-quantum-semiconductor-center-in-india/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw3PMcAVWgzU8vK1ETbLdiNS",
-                "summary": "... semiconductor technologies, and the strengthening of India's strategic autonomy and resilience within the global <b>semiconductor supply chain</b>. Under&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-01-21T16:25:36Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Can you really price global <b>regime change</b>? - The Star",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/business/insight/2026/01/22/can-you-really-price-global-regime-change&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw35d_t7OhIkPA0ERD3mD6ks",
-                "summary": "United States President Donald Trump's latest foreign policy and trade war salvos are upsetting global markets, but the question is whether these&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T00:31:25Z",
+                "published": "2026-01-22T07:30:52Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
             {
-                "title": "Atlantic Strategic Minerals Weighs <b>Rare Earths</b> Plant in Virginia - TradingView",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/gurufocus:3c9cdedb0094b:0-atlantic-strategic-minerals-weighs-rare-earths-plant-in-virginia/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0uxajKA8WUmiVmcx_fT9TZ",
-                "summary": "Atlantic Strategic Minerals is weighing a potentially strategic expansion as it debates whether to build a <b>rare earths</b> processing facility at its&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T19:59:56Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Atlantic Strategic Minerals Weighs <b>Rare Earths</b> Plant in Virginia - Yahoo Finance UK",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://uk.finance.yahoo.com/news/atlantic-strategic-minerals-weighs-rare-192229927.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1SlsLk7-tuA7QTXoFhS92v",
-                "summary": "Speaking Tuesday, Scherb said the company already produces some <b>rare earth elements</b> as a byproduct alongside minerals such as ilmenite and zircon&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T19:30:43Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "ONE extends control inland with Thailand trucking service - <b>Port</b> Technology International",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.porttechnology.org/news/one-extends-control-inland-with-thailand-trucking-service/&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw10ScFEbKvsVydpRWEk3OnE",
-                "summary": "As <b>port congestion</b>, truck capacity and handover risk persist, products like ONE's Thailand trucking service reflect a wider shift towards carrier&nbsp;......",
-                "source": "Google Alert - Port Congestion",
-                "published": "2026-01-21T10:00:58Z",
+                "title": "Taiwan-US tariff deal to boost business, open <b>supply chain</b> doors - Nikkei Asia",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://asia.nikkei.com/economy/trade-war/trump-tariffs/taiwan-us-tariff-deal-to-boost-business-open-supply-chain-doors&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0Xi72hRRWumAfZEbjohJop",
+                "summary": "Opposition critics like Cheng have also warned that <b>semiconductor</b> projects in the U.S. will &quot;hollow out&quot; Taiwan's most critical industry. This is&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-01-22T04:51:11Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
-                "title": "A granularity-aware Transformer with Skip-pyramid attention mechanism for <b>port</b> vessel ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S0957417426001946&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw1FRGNmpMaUQYNRiBwip7wh",
-                "summary": "... <b>congestion</b> mitigation, and efficient <b>port</b> scheduling. Automatic identification systems (AIS) provide a rich data base for the prediction of vessel&nbsp;......",
-                "source": "Google Alert - Port Congestion",
-                "published": "2026-01-21T09:48:35Z",
-                "risk_score": 1.5,
+                "title": "Victory <b>Metals</b> CEO meets with Trump Administration on US critical mineral strategy",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://africanminingmarket.com/victory-metals-ceo-meets-with-trump-administration-on-us-critical-mineral-strategy/24673/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3Lq61u6I25ZFs7cyZO6JCf",
+                "summary": "... <b>rare earth elements</b> (HREEs). Mr Clark was accompanied by Victory's Senior Advisor for U.S. Strategic Engagement Ms Emma Doyle, the former Deputy&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-01-22T06:44:08Z",
+                "risk_score": 1,
                 "risk_color": "green"
+            },
+            {
+                "title": "Reopen state warehouses - Trinidad and Tobago Newsday",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://newsday.co.tt/2026/01/21/reopen-state-warehouses/&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw3qNmUmotvss0PsTXSLQYf2",
+                "summary": "... <b>port congestion</b>, but without the safety net. Instead, importers face escalating port fees, demurrage, and private storage costs, all of which&nbsp;......",
+                "source": "Google Alert - Port Congestion",
+                "published": "2026-01-22T04:23:35Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "Greenland's Strategic Assets: Arctic <b>Route</b>, Rare Earths",
@@ -378,15 +351,6 @@
                 "risk_color": "green"
             },
             {
-                "title": "CMA CGM recalls three services from Suez Canal transits - SAFETY4SEA",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://safety4sea.com/cma-cgm-recalls-three-services-from-suez-canal-transits/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1NpNvUZRZn4Cp75nBEtjng",
-                "summary": "UN Report warns of growing militant threat to key <b>maritime trade routes</b> &middot; December 31, 2025. Load More. Leave a Reply Cancel reply. Your email address&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-01-21T16:19:44Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
                 "title": "DLA Distribution Sigonella unveils new solar array, battery storage system",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dla.mil/About-DLA/News/News-Article-View/Article/4384325/dla-distribution-sigonella-unveils-new-solar-array-battery-storage-system/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw1VGrALvvlySaODf00PQHXO",
                 "summary": "In a significant step towards energy independence and operational <b>resilience</b>, Defense <b>Logistics</b> Agency Distribution Sigonella, Italy, unveiled its&nbsp;......",
@@ -394,6 +358,15 @@
                 "published": "2026-01-21T20:58:07Z",
                 "risk_score": 1.5,
                 "risk_color": "green"
+            },
+            {
+                "title": "Trump's Greenland Acquisition Plans Ignite <b>Trade</b> War Concerns at Davos",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ssbcrack.com/trumps-greenland-acquisition-plans-ignite-trade-war-concerns-at-davos/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw2Rn9LrV6B00vgw8fUxe1x8",
+                "summary": "Although these <b>routes</b> are being eyed for future commercial use, they also intensify geopolitical interests, especially among nations with <b>Arctic</b>&nbsp;......",
+                "source": "Google Alert - Arctic Trade Routes",
+                "published": "2026-01-22T05:13:55Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "Why did Donald Trump rule out Greenland invasion? US President explains military limits ...",
@@ -410,15 +383,6 @@
                 "summary": "Furthermore, the opening of <b>Arctic shipping routes</b> through climate-induced ice reduction has fundamentally altered global trade calculations....",
                 "source": "Google Alert - Arctic Trade Routes",
                 "published": "2026-01-21T18:11:39Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Greenland's Strategic Assets: <b>Arctic Route</b>, Rare Earths",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chosun.com/english/world-en/2026/01/22/XQJ6JVA4ZZCFRI2QNRM7AEJVDU/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw2p9cVMqer8DraPquyVgkgG",
-                "summary": "Greenlands Strategic Assets: Arctic Route, Rare Earths U.S. strategic interest grows as melting ice unlocks resources and <b>Arctic shipping routes</b>&nbsp;......",
-                "source": "Google Alert - Arctic Trade Routes",
-                "published": "2026-01-21T15:55:15Z",
                 "risk_score": 1,
                 "risk_color": "green"
             }
@@ -488,30 +452,111 @@
                 "risk_color": "green"
             },
             {
-                "title": "<b>Energy</b>, Geopolitics &amp; The Future Of Oil: Indian Oil Chairman Speaks At Davos 2026",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dw0fjz7qAL_0&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1AXgh96tO4iUteNM0c13I7",
-                "summary": "... <b>global energy</b> landscape, geopolitics, and India's long-term energy <b>security</b> strategy. With energy dominating conversations at this year's record&nbsp;......",
+                "title": "MERE hosts 2025 Mitsubishi Development Sustainability Lecture - UNSW",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.unsw.edu.au/news/2026/01/mere-hosts-2025-mitsubishi-development-sustainability-lecture&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1_AkHApXX59TMDlfGbLBzt",
+                "summary": "... <b>global energy</b> exporter and the implications this carries for emissions, energy equity and <b>security</b> worldwide. Drawing on national and international&nbsp;......",
                 "source": "Google Alert - Global Energy Security",
-                "published": "2026-01-21T18:51:16Z",
+                "published": "2026-01-22T04:31:35Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "NATO chief says Ukraine must remain top priority over Greenland dispute - Anadolu Ajans\u0131",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/europe/nato-chief-says-ukraine-must-remain-top-priority-over-greenland-dispute/3806489&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1JMDio_6167t_17mFIMML5",
-                "summary": "<b>Security</b> of Euro-Atlantic, <b>Indo</b>-<b>Pacific</b> 'indivisible,' Japanese&nbsp;......",
+                "title": "Pentagon Approves Four P-8A Aircraft Sale to Country with Strongest Passport in the World",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://aviationa2z.com/index.php/2026/01/22/pentagon-approves-four-p-8a-aircraft-sale-to-singapore/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2dDd7EgYbOPq5MNzrM8uNl",
+                "summary": "Regional <b>Security</b> Impact. Once delivered, Singapore will become the <b>Asia</b>-<b>Pacific</b> region's fifth operator of the P-8A Poseidon, joining Australia, New&nbsp;......",
                 "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T18:53:24Z",
+                "published": "2026-01-22T06:18:23Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Maritime <b>Security</b> Challenges Discussed at DIMDEX Naval Commanders Conference",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://maritimefairtrade.org/maritime-security-challenges-discussed-at-dimdex-naval-commanders-conference/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0m1EgeG1GE2LrzKPjn1SsW",
+                "summary": "Enhancing India's <b>Indo</b>-<b>Pacific</b> Approach. January 22, 2026. India-Japan Talks on Economic <b>Security</b>, Cultural Ties, and AI Collaboration. January 22&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-01-22T06:06:32Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Why Did the US Navy Just Send a Strike Force into the <b>Indo</b>-<b>Pacific</b>? - The National Interest",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://nationalinterest.org/blog/buzz/why-did-us-navy-just-send-strike-force-into-indo-pacific-sa-012126&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0ODwBY7wVm3j4YNA_XH6x8",
+                "summary": "Beyond a vague commitment to \u201cmaintaining peace and <b>security</b>,\u201d it is not yet clear what the Tripoli Expeditionary Strike Group's aims in the&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-01-22T03:02:34Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Wu Xinbo Says We Are Witnessing Yet Another Turning Point in China\u2013U.S. Relations",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pekingnology.com/p/wu-xinbo-says-we-are-witnessing-yet&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3U9zj_RHAfsUGJsda06MEv",
+                "summary": "... <b>Indo</b>-<b>Pacific</b>. In the Trump 2.0 version of the National <b>Security</b> Strategy, the <b>Indo</b>-<b>Pacific</b> is listed after the Western Hemisphere, but it remains&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-01-22T02:07:41Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "India-Japan Talks on Economic <b>Security</b>, Cultural Ties, and AI Collaboration",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://maritimefairtrade.org/india-japan-talks-on-economic-security-cultural-ties-and-ai-collaboration/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1lsQirl-YX7HBW6jNzjw_R",
+                "summary": "... <b>Security</b>, Onoda Kimi, in Tokyo. The dialogue centered on ... Such efforts aim to solidify their positions in the <b>Indo</b>-<b>Pacific</b> region&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-01-22T00:54:06Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Trump's first year back: Has US <b>security</b> grown stronger or more isolated? - TVP World",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://tvpworld.com/91160541/from-ukraine-to-iran-why-trumps-first-year-back-worries-us-allies&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3eK4JTYN5QxC0NC-DR_lK3",
+                "summary": "... <b>security</b> strategy has made the country stronger or more isolated. To assess ... <b>Indo</b>-<b>Pacific</b>. At the core of the problem, he said, is Trump's&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-01-21T23:52:45Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "<b>South China Sea</b> code of conduct expected to be finalised this year",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://themalaysianreserve.com/2026/01/22/south-china-sea-code-of-conduct-expected-to-be-finalised-this-year/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3q5DBCfJX1FtOd6_26HLD2",
+                "summary": "Mohamad said the code sets conduct principles to prevent <b>tension</b> and ensure the <b>South China Sea</b> remains a free and safe maritime route for trade....",
+                "source": "Google Alert - South China Sea Tension",
+                "published": "2026-01-22T05:53:49Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Fences around renovated section of EDSA Busway collapse due to strong winds - ABS-CBN",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.abs-cbn.com/news/nation/2026/1/21/fences-around-renovated-section-of-edsa-busway-collapse-due-to-strong-winds-1827&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw09-azBTNIkFTLSDvNSp1X8",
+                "summary": "New Chinese envoy calls for dialogue, restraint amid <b>South China Sea tensions</b> ... 'MANAGING' TENSION. While acknowledging maritime disputes, Jing&nbsp;......",
+                "source": "Google Alert - South China Sea Tension",
+                "published": "2026-01-22T05:12:13Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "New Chinese envoy calls for dialogue, restraint amid <b>South China Sea tensions</b> - ABS-CBN",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.abs-cbn.com/news/nation/2026/1/22/new-chinese-envoy-calls-for-dialogue-restraint-amid-south-china-sea-tensions-1300&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3xb0hh8YkTLR2CSKp29amn",
+                "summary": "Jing stressed that disagreements at <b>sea</b> are only one aspect of bilateral ties, echoing President Ferdinand Marcos Jr.'<b>s</b> remark that \u201cour differences&nbsp;......",
+                "source": "Google Alert - South China Sea Tension",
+                "published": "2026-01-22T05:10:12Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "<b>South China Sea</b> Code of Conduct 70pct agreed, says Tok Mat",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nst.com.my/news/nation/2026/01/1361883/south-china-sea-code-conduct-70pct-agreed-says-tok-mat&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2MhfKjzT341oIHf1TJyWB0",
+                "summary": "The <b>South China Sea</b> has long been a source of <b>tension</b>, with several nations laying overlapping claims to its islands, reefs and surrounding waters....",
+                "source": "Google Alert - South China Sea Tension",
+                "published": "2026-01-22T04:29:34Z",
                 "risk_score": 2,
                 "risk_color": "green"
             },
             {
-                "title": "The new Cyber Trinity: Humans, AI agents, and trust in <b>Asia</b>/<b>Pacific</b> - IDC",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.idc.com/resource-center/blog/the-new-cyber-trinity-humans-ai-agents-and-trust-in-asia-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw25B590ZM3bmty1RLGEokwf",
-                "summary": "Cybersecurity professional monitoring AI-driven <b>security</b> systems in an enterprise operations environment. <b>Asia</b>/<b>Pacific</b> enterprises are entering a new&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T18:20:48Z",
-                "risk_score": 1,
+                "title": "<b>Chinese</b> ships increased in Bajo de Masinloc in 2025 \u2014PCG - GMA Network",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gmanetwork.com/news/topstories/nation/973739/chinese-ships-increased-in-bajo-de-masinloc-in-2025-pcg/story/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw26zl6pFbzaQEmGkWouz8LV",
+                "summary": "<b>Tensions</b> continue as Beijing claims almost all of the <b>South China Sea</b>, a conduit for more than $3 trillion of annual shipborne commerce, including&nbsp;......",
+                "source": "Google Alert - South China Sea Tension",
+                "published": "2026-01-22T03:44:26Z",
+                "risk_score": 2,
                 "risk_color": "green"
             },
             {
@@ -632,11 +677,56 @@
                 "risk_color": "red"
             },
             {
+                "title": "Japan exports rose despite US tariffs and China tensions | snaps - ING Think",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://think.ing.com/snaps/japan-exports-rose-in-december-despite-us-tariffs/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw2RbEzGqqxEtPNSpaRb5Ve_",
+                "summary": "The main export driver appears to be intra-regional trade, particularly within the <b>semiconductor supply chain</b>. Exports to Taiwan (up 20.7&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-01-22T07:40:47Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Budget 2026 could drive a power shift in India's <b>semiconductor</b> push - The Economic Times",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/economy/policy/budget-2026-india-semiconductor-industry-growth-impact-expansion-plans/articleshow/127104589.cms&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0yG6vRLWb15ODgzBTcRA3D",
+                "summary": "... supply chains in India. Popular in Economy. 1. Tariffs be damned ... <b>semiconductor value chain</b>. Learning from ISM 1.0's bottlenecks. Delays&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-01-22T06:12:01Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "DSV Breaks Ground On New Arizona Regional Headquarters In Mesa",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.azcommerce.com/news-events/news/2026/1/dsv-groundbreaking/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw1gdrmGFDT4ygHF-cj1vWFj",
+                "summary": "... <b>semiconductor supply chain</b>,&quot; said Mesa Mayor Mark Freeman. &quot;By bringing multiple logistics divisions under one roof in our city, DSV is creating&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-01-22T05:08:46Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Global Industry Bets on Bharat as Trusted <b>Supply</b>-<b>Chain</b> Partner: Vaishnaw - Sarkaritel.com",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sarkaritel.com/global-industry-bets-on-bharat-as-trusted-supply-chain-partner-vaishnaw/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0w30iSYKP5JGdC1fjWcPhq",
+                "summary": "... <b>supply</b>-<b>chain</b> partner, largely due to its advancements in <b>semiconductor</b> and artificial intelligence ecosystems. He emphasized Bharat's&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-01-22T04:01:03Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "From Pax Silica to Hypergravity: Central Asia's Place in the New Technological Era",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://thediplomat.com/2026/01/from-pax-silica-to-hypergravity-central-asias-place-in-the-new-technological-era/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw1x6IXUR6KafAYeEwlHD4jH",
                 "summary": "Increasingly, the main venues of geopolitical competition revolve around <b>semiconductor supply chains</b>, computing power, laboratories, and scientific&nbsp;......",
                 "source": "Google Alert - Semiconductor Supply Chain",
                 "published": "2026-01-22T03:21:03Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "With chips, investments and defense hikes Taiwan aims to appease Trump. Will it work?",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2026/01/22/asia-pacific/politics/taiwan-trump-china-appeasement/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw37gj-EhhSNHGLgBJeRSb2v",
+                "summary": "... <b>semiconductor supply chains</b> in the United States. \u201cThe chip-focused trade deal was the biggest ask by the Trump administration, and now that they&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-01-22T03:02:07Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -650,76 +740,85 @@
                 "risk_color": "green"
             },
             {
-                "title": "DSV broke ground on new Arizona regional headquarters",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dsv.com/en-us/about-dsv/press/news/us/2026/01/dsv-broke-ground-on-new-arizona-regional-headquarters&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw1OhHia1oQH37gCVCtCrRB1",
-                "summary": "... <b>semiconductor supply chain</b>,\u201d said Mesa Vice Mayor Scott Somers. \u201cMesa has made intentional investments in infrastructure and education to support&nbsp;......",
+                "title": "Governor Abbott Announces Texas <b>Semiconductor</b> Innovation Fund Grant To Texas Tech University",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://gov.texas.gov/news/post/governor-abbott-announces-texas-semiconductor-innovation-fund-grant-to-texas-tech-university&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0CdKVFf8X9gNdYPnnLgrXB",
+                "summary": "\u201cBy supporting advanced <b>semiconductor</b> research and workforce training at Texas Tech, we're strengthening our <b>supply chain</b>, preparing Texans for&nbsp;......",
                 "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-01-21T22:27:03Z",
+                "published": "2026-01-22T02:02:54Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Buoyed by Venezuela interference, Trump now seeks <b>regime change</b> in Cuba: Report",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.presstv.ir/Detail/2026/01/22/762717/US-Trump-Cuba-regime-change-Venezuela-Maduro-oil&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1m-Qt61LcOKs_mbZv82ZHH",
+                "summary": "The administration of US President Donald Trump is reportedly preparing a new <b>regime</b>-<b>change</b> push against Cuba, less than a month after the forcible&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-01-22T07:45:16Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Cuba <b>REGIME CHANGE</b> by end of 2026? Trump wants it to 'cement his legacy', claims report - WION",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wionews.com/world/cuba-regime-change-by-end-of-2026-trump-wants-it-to-cement-his-legacy-claims-report-1769060740681/amp&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1-UwWSwE1VZedOsXKKELy1",
+                "summary": "But why Cuba? Donald Trump's administration is actively seeking <b>regime change</b> in Cuba by the end of 2026, something the US president thinks would '&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-01-22T06:33:18Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "How the Iranian <b>Regime</b> Breaks | Foreign Affairs",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.foreignaffairs.com/iran/how-iranian-regime-breaks&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1yrcD7b8gPmpNRNbTM9YXw",
+                "summary": "What Kind of <b>Change</b> Is Coming to Iran? Karim Sadjadpour &middot; Iran's Perilous Path Back to Power &middot; Tehran Has Few Options, but&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-01-22T05:53:44Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "After Venezuela, Trump trains guns at Cuba for <b>regime change</b>: Report - Hindustan Times",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hindustantimes.com/world-news/after-venezuela-trump-trains-guns-at-cuba-for-regime-change-report-101769059414497.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1JE3YITkO9JpEmf6co4QWu",
+                "summary": "The officials of the Trump administration are now looking for insiders in the Cuban <b>government</b> who can help broker a deal aimed at ending the&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-01-22T05:52:36Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Oil vs. <b>rare earths</b>: Which will shape the global economy's future? - Yahoo Finance",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/oil-vs-rare-earths-shape-060116306.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0teSQPqiwTt0hVISiORSs4",
+                "summary": "China has <b>rare earth metals</b>,\u201d Chinese statesman Deng Xiaoping said in the 1980s, at a time when oil defined global power. Decades on, the remark&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-01-22T06:31:11Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Oil vs. <b>rare earths</b>: Which will shape the global economy's future? | Euronews",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.euronews.com/business/2026/01/22/oil-vs-rare-earths-which-will-shape-the-global-economys-future&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2KIriK9exrltaPpriFZIh8",
+                "summary": "Oil shaped the last century, but <b>rare earths</b> may shape the next. As economies electrify and AI expands, control over critical materials is&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-01-22T06:01:29Z",
                 "risk_score": 2.5,
                 "risk_color": "yellow"
             },
             {
-                "title": "EU and UK Cybersecurity Rules for the <b>Semiconductor</b> Sector - Morrison Foerster",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mofo.com/resources/insights/260121-cybersecurity-at-the-core-eu-and-uk-cybersecurity-rules&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0Bc0wSN4Cj6h7Iux6aB_cH",
-                "summary": "... <b>semiconductor supply chain</b> in scope. In particular, the following covered entities should consider how NIS2 may directly apply to them&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-01-21T20:41:55Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "A Semi-<b>semiconductor</b> Tariff - AAF - The American Action Forum",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.americanactionforum.org/research/a-semi-semiconductor-tariff/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw3e2jwl7Aar95wY5Qnx6xVh",
-                "summary": "The tariff is intended to promote national security and domestic <b>supply chains</b>. At face value, this tariff impacts roughly $240 billion worth of U.S.&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-01-21T19:07:04Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "U.S. to Cut Tariffs on Imports from Taiwan in Exchange for <b>Semiconductor</b> Investment",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.strtrade.com/trade-news-resources/str-trade-report/trade-report/january/u-s-to-cut-tariffs-on-imports-from-taiwan-in-exchange-for-semiconductor-investment&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw3atROzjR0QFa9OkYA-5lXR",
-                "summary": "... <b>semiconductor supply chains</b> and secure America's technological and industrial leadership.\u201d However, it is unclear when the agreement and the&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-01-21T18:01:02Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "The Taiwan-US tariff agreement - Taipei Times",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taipeitimes.com/News/editorials/archives/2026/01/22/2003850999&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0d0HV4q6GOCBvNbmrk5XVB",
-                "summary": "It provides predictable, systematic security for the entire <b>semiconductor supply chain</b>. Particularly important is the US' commitment that raw&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-01-21T16:57:24Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Iran in Revolt | Kayhan Valadbaygi - Phenomenal World",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phenomenalworld.org/analysis/iran-in-revolt/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1NeyCLjQVaC9qYnR6CuMvt",
-                "summary": "... <b>regime change</b> from Washington. And then, in a matter of days, the momentum ebbed away. The government appeared to regain control, using what one&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T03:27:37Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "The US-Israeli Agenda in Iran - Drop Site News",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dropsitenews.com/p/us-israel-iran-foad-izadi-trump-khamenei-protest-regime-change&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2nkcIE0lAWnQA2FQfErTBy",
-                "summary": "... <b>regime change</b>. The Martyr and Veterans Affairs Foundation\u2014an Iranian government-funded body\u2014put the death toll at just over 3,100, including over&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T02:32:20Z",
+                "title": "US uranium firm strikes $300 mn deal for Australian miner amid Trump-China tussle",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/world/race-for-rare-earths-us-uranium-firm-strikes-300-mn-deal-for-australian-miner-amid-trump-china-tussle-13971189.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3JI2M_9YGSTKZuDzP1FdC_",
+                "summary": "The deal aims to establish a premier &quot;mines-to-metal&quot; supply chain for <b>rare earths</b>, essential components for permanent magnets used in defence,&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-01-22T05:52:08Z",
                 "risk_score": 2.5,
                 "risk_color": "yellow"
             },
             {
-                "title": "Why Iran's <b>Regime</b> Didn't Collapse - Foreign Policy",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://foreignpolicy.com/2026/01/21/iran-regime-collapse-islamic-republic-structure/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0hdMpgyxVLxQPkCRp7zv5D",
-                "summary": "The central issue is not whether Iranians want <b>change</b> but why sustained ... The central issue is not whether Iranians want change but why sustained&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T00:40:42Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
+                "title": "<b>Rare earths</b> in focus: State price floors against Chinese dominance - GOLDINVEST.de",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://goldinvest.de/en/rare-earths-in-focus-state-price-floors-against-chinese-dominance/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1Vghm-tR10TagHFL8fEF8g",
+                "summary": "Lynas <b>Rare Earths</b> (ASX: LYC; WKN: 871899) made an interesting point in the debate about critical raw materials in connection with the presentation&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-01-22T05:10:34Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "Cooperation or Coercion? The Costs of U.S. Trade Policy for the Energy Transition",
@@ -727,24 +826,6 @@
                 "summary": "Upstream bottlenecks in critical materials such as nickel, polysilicon, and <b>rare</b>-<b>earth elements</b> further constrain domestic deployment....",
                 "source": "Google Alert - Rare Earth Elements",
                 "published": "2026-01-22T01:27:46Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Ionic <b>Rare Earths</b> gains US trading access via OTCQB listing - Proactive Investors",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.proactiveinvestors.com/companies/news/1086053/ionic-rare-earths-gains-us-trading-access-via-otcqb-listing-1086053.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1BL6ryAzXX580ZasFgn_tJ",
-                "summary": "Ionic <b>Rare Earths</b> Ltd (ASX:IXR, OTC:IXRRF) has received approval for its ordinary shares to trade on the OTCQB\u00ae Venture Market in the United&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-22T00:15:26Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "The Greenland Gambit: Trading the <b>World's</b> Most Dangerous Real Estate Deal",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://investorplace.com/hypergrowthinvesting/2026/01/the-greenland-gambit-trading-the-worlds-most-dangerous-real-estate-deal/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1JfHudWOKZUSoxaHhs-YTq",
-                "summary": "Trump's Greenland acquisition is all about <b>rare earths</b>, uranium, and AI. Here are the 11 stocks that explode when the U.S. secures the deal....",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T18:35:53Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -772,6 +853,15 @@
                 "summary": "... port of Felixstowe in the East of England ... <b>port congestion</b>, and cut operational costs. By providing accessible&nbsp;......",
                 "source": "Google Alert - Port Congestion",
                 "published": "2026-01-21T12:25:25Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "<b>Maritime</b> Information Services: <b>Shipping</b> Summit | Navigating the Future of <b>Shipping</b>",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hellenicshippingnews.com/events/maritime-information-services-shipping-summit-navigating-the-future-of-shipping-2/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0Hoi3Xd4Ts3HmFTf4jaiGY",
+                "summary": "09:25 \u2013 Global market dynamics \u2013 how <b>trade routes</b>, geopolitics &amp; economics influence strategies. 10:55 \u2013 From strategy to action \u2013 aligning digital&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-01-22T04:05:11Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -812,12 +902,12 @@
                 "risk_color": "green"
             },
             {
-                "title": "Container vessel specialist Danaos dives into LNG with Alaska project investment",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rivieramm.com/news-content-hub/container-vessel-specialist-danaos-dives-into-lng-with-alaska-project-investment-87497&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw2ZpXBM2s81bIUVkg60HdWb",
-                "summary": "\u201cOne of Alaska LNG's major competitive advantages is our short <b>shipping</b> distance to Asia, featuring canal-free <b>routes</b> that avoid contested waters. The&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-01-21T16:58:43Z",
-                "risk_score": 1,
+                "title": "Real-time <b>resilience</b> assessment of urban road network under rainfall based on adaptive ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S0957417425046627&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw10-nnIJmI7iCykvE9fmTOV",
+                "summary": "Transportation Research Part C: Emerging Technologies. (2017). P.N. Duy et al. <b>Resilient transport</b> systems to reduce urban vulnerability&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-01-22T05:05:26Z",
+                "risk_score": 2,
                 "risk_color": "green"
             },
             {
@@ -853,15 +943,6 @@
                 "summary": "... <b>logistics</b>, and improving <b>resilience</b> to disruptions. Against this backdrop, technology cooperation between China and other developing countries is&nbsp;......",
                 "source": "Google Alert - Logistics Resilience",
                 "published": "2026-01-21T15:27:27Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Cost, Competition, and Complexity: Redefining Automotive Supply Chains for the Next Century",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.streetinsider.com/ACCESS%2BNewswire/Cost%252C%2BCompetition%252C%2Band%2BComplexity%253A%2BRedefining%2BAutomotive%2BSupply%2BChains%2Bfor%2Bthe%2BNext%2BCentury/25872457.html&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0i5CSJBj_hK83P6GO6V5lI",
-                "summary": "The result is greater agility, <b>resilience</b> ... <b>Resilient logistics</b> networks are essential to keeping factories running and customers supplied....",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-01-21T14:32:11Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -967,21 +1048,12 @@
                 "risk_color": "green"
             },
             {
-                "title": "Fracking for Oil and Gas Goes <b>Global</b> - Bloomberg.com",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/features/2026-01-21/fracking-for-oil-and-gas-goes-global&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0g8rro4GHyLbpw2qIWZdZt",
-                "summary": "Together, the shifts reflect a broader tension playing out across economies: climate ambition colliding with the realities of <b>energy security</b>. For&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-01-21T20:37:44Z",
-                "risk_score": 2,
-                "risk_color": "green"
-            },
-            {
-                "title": "<b>Energy</b> regulatory trends to watch in 2026: The role of <b>energy</b> in Canada's economic <b>security</b>",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dentons.com/en/insights/newsletters/2026/january/14/global-regulatory-trends-to-watch/dentons-canadian-regulatory-trends-to-watch-in-2026/energy-regulatory-trends-to-watch-in-2026-the-role-of-energy&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2EccLSPtzne_XsgU1EwsSQ",
-                "summary": "... <b>energy</b> development while ensuring that such development aligns with <b>international</b> environmental requirements. For export markets that prioritize&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-01-21T19:25:06Z",
-                "risk_score": 1,
+                "title": "What Would a Fiscal <b>Crisis</b> Look Like? | Committee for a Responsible Federal Budget",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.crfb.org/papers/what-would-fiscal-crisis-look&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1eMlh9f1mGQjmoqmlAcfr1",
+                "summary": "Perhaps more comparable to a <b>sovereign debt crisis</b> \u2013 albeit on a much smaller scale \u2013 a modest but rapid increase in U.S. Treasury rates led to the&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-01-22T03:23:58Z",
+                "risk_score": 1.5,
                 "risk_color": "green"
             },
             {
@@ -1012,15 +1084,6 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "Gold Extends Powerful Rally as <b>Crisis</b> Over Greenland Worsens - Bloomberg.com",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-01-20/gold-and-silver-near-record-highs-on-worsening-greenland-crisis&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3bob4PpbpBI5u7wgZ8tB9D",
-                "summary": "... <b>crisis</b> over Greenland and a meltdown in Japanese <b>government debt</b> supported haven demand. The US threatened tariffs on eight European nations which&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-01-21T08:28:56Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
                 "title": "An Open Letter to European Leaders - by Brian O'Neill - The Contrarian",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://contrarian.substack.com/p/an-open-letter-to-european-leaders&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw1mlhg0wc5BW_Hhkk4Skss7",
                 "summary": "In the Americas, he will test whether he can punish governments openly for political alignment: tariffs and <b>trade restrictions</b> tied to leaders he&nbsp;......",
@@ -1028,24 +1091,6 @@
                 "published": "2026-01-21T21:05:26Z",
                 "risk_score": 3.5,
                 "risk_color": "red"
-            },
-            {
-                "title": "Contrarian Investing Views That Could Shape Markets in 2026 | Morgan Stanley",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morganstanley.com/insights/articles/contrarian-investing-views-shaping-markets-2026&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw18ieF5ZVY9SMIhkotPBlbT",
-                "summary": "From The Americas. <b>Rare Earths</b> and Critical Minerals. Will the Industry ... elements in the U.S. to reduce reliance on China, the world's largest&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T19:29:06Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Resources Top 5: ASM merger with Energy Fuels set to create Western <b>rare earths</b> giant",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://stockhead.com.au/resources/resources-top-5-asm-merger-with-energy-fuels-set-to-create-western-rare-earths-giant/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3j387gVXRcsjDiVYe1l6nj",
-                "summary": "A <b>rare earths</b> merger, bonanza-grade gold hits and promising drill results sparked big moves across small-cap resources....",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T18:33:38Z",
-                "risk_score": 1,
-                "risk_color": "green"
             },
             {
                 "title": "Signal Ocean weekly dry market monitor: Chart of the week | Capesize ballasters",
@@ -1111,6 +1156,15 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "Lavrov: Greenland Not Denmark Part; Trump Tariffs Violate EU <b>Trade</b> - Bhaskar English",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bhaskarenglish.in/international/news/russia-lavrov-greenland-trump-nato-dispute-natural-part-of-denmark-137006969.html&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw3zfhVSzvthx3rC7OKYJuBW",
+                "summary": "... <b>trade</b> agreements. ... Progress has depended heavily on cooperation with Russia, particularly via the Northern Sea <b>Route</b> along Russia's <b>Arctic</b> coastline....",
+                "source": "Google Alert - Arctic Trade Routes",
+                "published": "2026-01-22T00:36:19Z",
+                "risk_score": 2,
+                "risk_color": "green"
+            },
+            {
                 "title": "Help Students Understand Why Greenland is in the News - CFR Education",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://education.cfr.org/blog/help-students-understand-why-greenland-news&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw0K7dgc65ENJVKZvjjtAk1m",
                 "summary": "Reason 1: Trade Routes. As Greenland's ice sheets continue to melt, <b>Arctic trade routes</b> are becoming easier to navigate, enabling faster trade&nbsp;......",
@@ -1127,69 +1181,60 @@
                 "published": "2026-01-21T17:25:51Z",
                 "risk_score": 1,
                 "risk_color": "green"
-            },
-            {
-                "title": "I will not yield to Trump's pressure on Greenland, says PM - BBC",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/c98j90y2y6lo&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw24y0u5V0QqzF7nq3M86L2F",
-                "summary": "\u200b\u200bA map of the <b>Arctic</b> region centred on Greenland, which is shown in. Trade. Melting ice, due to climate change, means <b>shipping routes</b> are opening&nbsp;......",
-                "source": "Google Alert - Arctic Trade Routes",
-                "published": "2026-01-21T17:02:38Z",
-                "risk_score": 1,
-                "risk_color": "green"
             }
         ],
         "LEADERSHIP": [
             {
-                "title": "10 minutes of silence in Iran, but Gaza is a different battle for hearts and minds - Ynet News",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ynetnews.com/opinions-analysis/article/b1jru40bwe&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1ILCCwHFShVHFnWR5ycrZ1",
-                "summary": "That's why most experts agree: any <b>regime change</b> in Iran must come from within. What's striking is that influence operations don't work the same&nbsp;......",
+                "title": "Trump seeking '<b>regime change</b>' in Cuba' by end of the year: US media report - Al Jazeera",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/1/22/trump-seeking-regime-change-in-cuba-by-end-of-the-year-us-media-report&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0yipHHJWuI39ta31C8UfRp",
+                "summary": "The Wall Street Journal reports the White House is seeking Cuban officials willing to cut a deal on <b>regime change</b>....",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T03:05:04Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Iranian-British Actress Nazanin Boniadi Urges Hollywood to Stand With Iran's Protesters",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hollywoodreporter.com/news/politics-news/nazanin-boniadi-interview-iran-global-silence-1236480501/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1godJe2Rz3inmgUkoL46bK",
-                "summary": "Political leaders in the West, including President Trump, have hinted at <b>regime change</b>. What do you believe external governments should \u2014 and&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T02:52:41Z",
+                "published": "2026-01-22T08:06:59Z",
                 "risk_score": 2,
                 "risk_color": "green"
             },
             {
-                "title": "US seeks Cuba <b>regime change</b> after Venezuela precedent - investingLive",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/news/here-we-go-again-wsj-us-seeks-cuba-regime-change-after-venezuela-precedent-20260122/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3oRVTdPP9EWxdggdTjRQFG",
-                "summary": "WSJ reports US seeking Cuba <b>regime change</b> by year-end. Strategy follows Venezuela leadership removal. Focus on economic pressure and internal&nbsp;......",
+                "title": "How a <b>regime change</b> in Iran could impact Asia - ABC News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/asia/how-regime-change-in-iran-could-affect-asia/106249666&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2yI36kFMmC8NwWe-EY1Jk0",
+                "summary": "Iran's rulers have been shaken by mass protests with many calling for <b>regime change</b>. Is that realistic and what might that mean for the rest of&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T02:27:29Z",
+                "published": "2026-01-22T07:25:51Z",
+                "risk_score": 2,
+                "risk_color": "green"
+            },
+            {
+                "title": "Report: Trump administration began working on <b>regime change</b> in Cuba by year's end",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ynetnews.com/article/grav4f24u&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0lsQq78HinXRSIUkNPePvb",
+                "summary": "Following the capture of Venezuelan President Nicolas Maduro, the Wall Street Journal reported that the U.S. administration has begun working&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-01-22T07:06:58Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "For decades many have predicted the downfall of Cuba's <b>regime</b>. Is this time different?",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.miamiherald.com/news/nation-world/world/americas/cuba/article314351290.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0OHTspZauZCwS53RMFBAQv",
-                "summary": "However different Cuba's currently economic and political scenario is, any <b>regime change</b> efforts by the Trump administration will face an old&nbsp;......",
+                "title": "Illiberal Imperialism or Geopolitical Poker? Prospects for Democratic Resilience in Latin ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.iconnectblog.com/illiberal-imperialism-or-geopolitical-poker-prospects-for-democratic-resilience-in-latin-america-after-the-us-intervention-in-venezuela/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0S7AKcjNDBqnqa51Mlf56V",
+                "summary": "These range from criminal jurisdiction and the precedent such action sets to the likelihood of <b>regime change</b> in Venezuela and the scope for&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T02:05:06Z",
+                "published": "2026-01-22T06:07:07Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "The U.S. Is Actively Seeking <b>Regime Change</b> in Cuba by the End of the Year - WSJ",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/world/americas/the-u-s-is-actively-seeking-regime-change-in-cuba-by-the-end-of-the-year-1d0f178a&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw08t7JkUBkL9mASf1jc73H8",
-                "summary": "Emboldened by the U.S. ouster of Venezuelan President Nicol\u00e1s Maduro, the Trump administration is searching for Cuban <b>government</b> insiders who can help&nbsp;......",
+                "title": "WSJ: US seeking <b>regime change</b> in Cuba after ousting Venezuela's Maduro - Report.az",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://report.az/en/other-countries/wsj-us-seeking-regime-change-in-cuba-after-ousting-venezuela-s-maduro&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1MRe7wKhEhH97AZ0VlP5yx",
+                "summary": "The Trump administration is looking to achieve <b>regime change</b> in Cuba by the end of the year, according to US officials who spoke to The Wall&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T02:00:56Z",
+                "published": "2026-01-22T05:24:38Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "Iran gives rise to a generation saying enough of Islam - Israel Hayom",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.israelhayom.com/2026/01/21/iran-gives-rise-to-a-generation-saying-enough-of-islam/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3SIB2C0gv9qahstt_k5Jvb",
-                "summary": "This time, demonstrators are no longer demanding policy changes but calling openly for <b>regime change</b>. For Iran's rulers, the Islamic Revolution&nbsp;......",
+                "title": "Trump reportedly seeking <b>regime change</b> in Cuba after ousting Venezuela's Maduro",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dailymail.co.uk/news/article-15486633/trump-regime-change-cuba-nicolas-maduro-operation.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3qbcS7yNSL0KnBH-eWsDBk",
+                "summary": "Trump administration officials told The Wall Street Journal that the goal of the United States is to oust the Communist party in Cuba from power&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-01-22T01:22:22Z",
+                "published": "2026-01-22T04:06:46Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -1232,6 +1277,15 @@
                 "risk_color": "green"
             },
             {
+                "title": "PARK, Soyi \u2013 Graduate School of International Culture and Communication Studies,Waseda ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.waseda.jp/fire/gsiccs/news/2026/01/22/9345/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1rmV8oDpIi-mSR8DXlekA0",
+                "summary": "... <b>Indo</b>-<b>Pacific</b> Strategy. As <b>security</b>, economic resilience, and technological governance become increasingly interconnected in East Asia, effective&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-01-22T04:13:38Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Bleak economic growth and political instability plagued Solomon Islands in 2025",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://eastasiaforum.org/2026/01/22/bleak-economic-growth-and-political-instability-plagued-solomon-islands-in-2025/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1nTsaePBGgQHhG2C2_Ka-_",
                 "summary": "<b>Security</b> and geopolitical concerns drowned out the Solomon Islands ... Legitimacy is the missing piece in US\u2013China rivalry for the <b>Indo</b>-<b>Pacific</b>....",
@@ -1239,33 +1293,6 @@
                 "published": "2026-01-21T23:31:20Z",
                 "risk_score": 2.5,
                 "risk_color": "yellow"
-            },
-            {
-                "title": "Singapore cleared to buy four P-8A Poseidons for $2.3 billion - Breaking Defense",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://breakingdefense.com/2026/01/singapore-cleared-to-buy-four-p-8a-poseidons-for-2-3-billion/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2gg979fhPmx8NMu5sQw9JO",
-                "summary": "... <b>Security</b> Cooperation Agency. The approval also includes right MK 54 ... <b>Indo</b>-<b>Pacific</b> &middot; Navy &middot; P-8A Poseidon &middot; singapore. More from Breaking Defense&nbsp;....",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T18:21:49Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Why the Pentagon's <b>Security</b> Cooperation Activities Must Address Disaster Response",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://smallwarsjournal.com/2026/01/21/why-the-pentagons-security-cooperation-activities-must-address-disaster-response/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2kzFK-kGBu0Ip8dGvu2Cbq",
-                "summary": "The result is that their defense readiness erodes as global threats increase; adversaries exploit these gaps. In the <b>Indo</b>-<b>Pacific</b> \u2013 perhaps the most&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T18:00:55Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Unpacking Trump's National <b>Security</b> Strategy | Carnegie Endowment for International Peace",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://carnegieendowment.org/posts/2026/01/trump-national-security-strategy%3Flang%3Den&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2WlOAu2zi2SXrAXCfEIuzY",
-                "summary": "Since 1945, the United States has been the principal underwriter of Asia's <b>security</b> and economic orders. ... But <b>Indo</b>-<b>Pacific</b> countries are negotiating&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-01-21T17:15:40Z",
-                "risk_score": 1,
-                "risk_color": "green"
             },
             {
                 "title": "Riddell on <b>bonds</b>: Have you missed the EM fixed income rally? - Portfolio Adviser",
@@ -1277,31 +1304,40 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "Can Utah solve Trump's critical minerals dilemma? | KSL.com",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksl.com/article/51436025/can-utah-solve-trumps-critical-minerals-dilemma&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0krBbH2UPRAbZ3SklNWjaq",
-                "summary": "... rare earth mining, and more than 80% of the processing of cobalt, battery graphite and <b>rare</b>-<b>earth elements</b> globally. China supplies more than 50&nbsp;......",
+                "title": "Greenland Resources Reassays for Magnesium and Finds Critical Minerals Including <b>Rare</b> ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/greenland-resources-reassays-magnesium-finds-043000566.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0vCFZtVV7hcqjdfgfFf8K9",
+                "summary": "Gallium (Ga), another critical mineral in the US and the EU showed average values of 19.1 ppm. Light <b>Rare Earth Elements</b>. Element Symbol. Minimum (ppm)....",
                 "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T23:01:11Z",
+                "published": "2026-01-22T04:39:35Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "Ionic <b>Rare Earths</b> Targets U.S. Investors With OTCQB Listing to Advance Rare Earth Strategy",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/company-announcements/ionic-rare-earths-targets-u-s-investors-with-otcqb-listing-to-advance-rare-earth-strategy&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3kteh2gy_2JmkfKXUkCYpO",
-                "summary": "Ionic <b>Rare Earths</b> Limited ( ($AU:IXR) ) has issued an update. Ionic <b>Rare Earths</b> Limited has secured quotation of its ordinary shares on the U.S.&nbsp;......",
+                "title": "Annual Review of China's Export Controls in 2025 - Lexology",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lexology.com/library/detail.aspx%3Fg%3Df5961dc8-92fe-46c6-9e26-31c8389e5e18&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1UVHr2d1rl0ThkYjBUSS-D",
+                "summary": "Notably, the regulatory system for <b>rare earths</b> underwent a comprehensive upgrade, and controls on precursor chemicals were strengthened with targeted&nbsp;......",
                 "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T22:42:13Z",
+                "published": "2026-01-22T04:38:35Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "Donald Trump's grab for Greenland makes no sense - The Economist",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.economist.com/briefing/2026/01/21/donald-trumps-grab-for-greenland-makes-no-sense&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0P1nyPamCiPeOSwGB8za1R",
-                "summary": "... <b>rare</b>-<b>earth elements</b>. Nobody currently processes the stuff commercially. Getting a mine running in the Arctic can cost between two and nearly three&nbsp;......",
+                "title": "Top five <b>rare earths</b> projects to watch in 2026 - Indonesian Mining Association",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://ima-api.org/top-five-rare-earths-projects-to-watch-in-2026/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1L_GNJY1I0YcQLt-6K61OD",
+                "summary": "... <b>rare earth elements</b> outside China. Headquartered in Perth, Lynas operates the world-class Mt Weld <b>rare earths</b> mine in Western Australia, one of&nbsp;......",
                 "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-01-21T21:55:22Z",
+                "published": "2026-01-22T03:36:31Z",
                 "risk_score": 1,
                 "risk_color": "green"
+            },
+            {
+                "title": "Slow unloading, capacity limits choke Ctg <b>port</b>, importers asked to clear cargoes in 5 days",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tbsnews.net/economy/slow-unloading-capacity-limits-choke-ctg-port-importers-asked-clear-cargoes-5-days-1340541&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw1ur9tHMvHq-UhVvY5dY3rh",
+                "summary": "Chattogram <b>Port congestion</b> worsens due to acute lighter vessel shortage &middot; Record 176 mother vessels anchored, including 61 carrying essentials&nbsp;......",
+                "source": "Google Alert - Port Congestion",
+                "published": "2026-01-22T04:15:26Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
             },
             {
                 "title": "Shipping delay exposure and its structural cost for corporate decision makers",
@@ -1320,6 +1356,15 @@
                 "published": "2026-01-21T10:28:56Z",
                 "risk_score": 3.5,
                 "risk_color": "red"
+            },
+            {
+                "title": "Giant shippers start to cautiously resume navigation,when will the Red <b>Sea route</b> fully reopen?",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.globaltimes.cn/page/202601/1353896.shtml&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw2v2gMwrzjG2FGOnqy9pOg7",
+                "summary": "The <b>maritime shipping</b> industry is finally returning to normal.\u201d Bloomberg reported on Tuesday under this headline, saying that the <b>maritime</b>&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-01-22T04:40:31Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "Op-Ed: Arctic Bypass Emerges as Alternative to US-Centric <b>Shipping</b> Networks",
@@ -1358,6 +1403,15 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "Greenland meltdown: what does Trump's quest mean for the global order and China?",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://amp.scmp.com/news/china/diplomacy/article/3340715/greenland-meltdown-what-does-trumps-quest-mean-global-order-and-china&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw1Qyh2THYMVJuw0Gpmpi_hW",
+                "summary": "Overlooking key North Atlantic and <b>Arctic shipping lanes</b>, Greenland's importance has grown as Washington and its G7 partners have sought to reduce&nbsp;......",
+                "source": "Google Alert - Arctic Trade Routes",
+                "published": "2026-01-21T22:03:11Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Op-Ed: <b>Arctic</b> Bypass Emerges as Alternative to US-Centric <b>Shipping</b> Networks",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://maritime-executive.com/editorials/op-ed-arctic-bypass-yields-alternative-to-us-centric&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw3Z2niewa5FRvLr9EkNCxRR",
                 "summary": "The emerging question for US-linked maritime actors is whether American sea power is becoming less a guarantor of open <b>routes</b> and more an architect of&nbsp;......",
@@ -1374,15 +1428,6 @@
                 "published": "2026-01-21T18:04:43Z",
                 "risk_score": 3.5,
                 "risk_color": "red"
-            },
-            {
-                "title": "Global power struggles over the ocean's finite resources call for creative diplomacy",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theinvadingsea.com/2026/01/21/oceans-arctic-sea-ice-shipping-routes-climate-change-overfishing-minerals-deep-sea-mining/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw17vciErnl6txrPXJa48qND",
-                "summary": "As <b>Arctic</b> sea ice cover diminishes, <b>shipping routes</b> that were impassable most of the year are opening up....",
-                "source": "Google Alert - Arctic Trade Routes",
-                "published": "2026-01-21T16:41:08Z",
-                "risk_score": 1,
-                "risk_color": "green"
             }
         ]
     }
