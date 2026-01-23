@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 January 2026
+**Date:** 23 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** EDP CEO warns EU on lost urgency for <b>energy security</b>, renewables push | Reuters
+**Source News:** Greenland's Strategic Weight Extends Beyond Diplomacy - StoneX
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** EDP CEO warns EU on lost urgency for <b>energy security</b>, renewables push | Reuters
+- **The News:** Greenland's Strategic Weight Extends Beyond Diplomacy - StoneX
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Wall Street Falls as <b>Geopolitical Risk</b> Returns to the Forefront - Mexico Business News
+**Source News:** Claroty secures $150 million Series F as cyber threats to critical infrastructure drive rapid ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Wall Street Falls as <b>Geopolitical Risk</b> Returns to the Forefront - Mexico Business News
+- **The News:** Claroty secures $150 million Series F as cyber threats to critical infrastructure drive rapid ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Rupee slides to record low on global market woes; lack of RBI presence worsens fall
+**Source News:** Stock Market Today: Dow, S&amp;P 500, Nasdaq Rise; Trump Greenland Tariffs - Barron's
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rupee slides to record low on global market woes; lack of RBI presence worsens fall
+- **The News:** Stock Market Today: Dow, S&amp;P 500, Nasdaq Rise; Trump Greenland Tariffs - Barron's
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** 10 minutes of silence in Iran, but Gaza is a different battle for hearts and minds - Ynet News
+**Source News:** India and the <b>Indo</b>-<b>Pacific</b>: Strategy, <b>security</b> and cooperation - The Indian Sun
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 10 minutes of silence in Iran, but Gaza is a different battle for hearts and minds - Ynet News
+- **The News:** India and the <b>Indo</b>-<b>Pacific</b>: Strategy, <b>security</b> and cooperation - The Indian Sun
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
