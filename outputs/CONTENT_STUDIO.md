@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 23 January 2026
+**Date:** 24 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Greenland's Strategic Weight Extends Beyond Diplomacy - StoneX
+**Source News:** Trump Wants U.S. Investment in Venezuela, but Sanctions Still Complicate It
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Greenland's Strategic Weight Extends Beyond Diplomacy - StoneX
+- **The News:** Trump Wants U.S. Investment in Venezuela, but Sanctions Still Complicate It
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Claroty secures $150 million Series F as cyber threats to critical infrastructure drive rapid ...
+**Source News:** Buying frenzy lifts gold near $5000, silver past $100 as hedges against rising <b>geopolitical risk</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Claroty secures $150 million Series F as cyber threats to critical infrastructure drive rapid ...
+- **The News:** Buying frenzy lifts gold near $5000, silver past $100 as hedges against rising <b>geopolitical risk</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Stock Market Today: Dow, S&amp;P 500, Nasdaq Rise; Trump Greenland Tariffs - Barron's
+**Source News:** Oil Prices Surge on Renewed Iran <b>Risk</b>, Winter Storm Fears | Energy Intelligence
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Stock Market Today: Dow, S&amp;P 500, Nasdaq Rise; Trump Greenland Tariffs - Barron's
+- **The News:** Oil Prices Surge on Renewed Iran <b>Risk</b>, Winter Storm Fears | Energy Intelligence
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** India and the <b>Indo</b>-<b>Pacific</b>: Strategy, <b>security</b> and cooperation - The Indian Sun
+**Source News:** The Parallel Online World Where Iranians Were Free - The Atlantic
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India and the <b>Indo</b>-<b>Pacific</b>: Strategy, <b>security</b> and cooperation - The Indian Sun
+- **The News:** The Parallel Online World Where Iranians Were Free - The Atlantic
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
