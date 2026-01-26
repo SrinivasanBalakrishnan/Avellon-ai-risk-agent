@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 25 January 2026
+**Date:** 26 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Geopolitical risks</b> from Greenland to Hormuz could extend bullion record rally
+**Source News:** India <b>Energy</b> Reforms: Strategic Window for Change - Discovery Alert
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical risks</b> from Greenland to Hormuz could extend bullion record rally
+- **The News:** India <b>Energy</b> Reforms: Strategic Window for Change - Discovery Alert
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Trending stocks as Wall Street ends week lower amid <b>geopolitical</b> volatility | Seeking Alpha
+**Source News:** Gold sets new record beyond $5,000/oz amid safe-haven rush By Investing.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trending stocks as Wall Street ends week lower amid <b>geopolitical</b> volatility | Seeking Alpha
+- **The News:** Gold sets new record beyond $5,000/oz amid safe-haven rush By Investing.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** When trade deals stop meaning anything
+**Source News:** Asia FX Talk - USD may be at a pivotal juncture - MUFG Research
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** When trade deals stop meaning anything
+- **The News:** Asia FX Talk - USD may be at a pivotal juncture - MUFG Research
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Baker Hughes WEF Outlook Links <b>Geopolitics</b> Carbon Goals And Valuation - Simply Wall St
+**Source News:** Budget 2026 Income Tax Expectations Live Updates: Old tax <b>regime</b> to go ... - The Financial Express
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Baker Hughes WEF Outlook Links <b>Geopolitics</b> Carbon Goals And Valuation - Simply Wall St
+- **The News:** Budget 2026 Income Tax Expectations Live Updates: Old tax <b>regime</b> to go ... - The Financial Express
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
