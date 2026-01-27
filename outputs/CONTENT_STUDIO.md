@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 26 January 2026
+**Date:** 27 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** India <b>Energy</b> Reforms: Strategic Window for Change - Discovery Alert
+**Source News:** Ranked: Top 10 ETF Themes That Crushed the S&amp;P 500 in 2025 - Visual Capitalist
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India <b>Energy</b> Reforms: Strategic Window for Change - Discovery Alert
+- **The News:** Ranked: Top 10 ETF Themes That Crushed the S&amp;P 500 in 2025 - Visual Capitalist
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold sets new record beyond $5,000/oz amid safe-haven rush By Investing.com
+**Source News:** Gold smashes past $US5000 in frenzy fuelled by global upheaval - AFR
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold sets new record beyond $5,000/oz amid safe-haven rush By Investing.com
+- **The News:** Gold smashes past $US5000 in frenzy fuelled by global upheaval - AFR
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Asia FX Talk - USD may be at a pivotal juncture - MUFG Research
+**Source News:** Why renewables and electrification hold the keys to EU energy security | Chatham House
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia FX Talk - USD may be at a pivotal juncture - MUFG Research
+- **The News:** Why renewables and electrification hold the keys to EU energy security | Chatham House
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Budget 2026 Income Tax Expectations Live Updates: Old tax <b>regime</b> to go ... - The Financial Express
+**Source News:** Japan Wants Calm, China Not So Much - CNAS
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Budget 2026 Income Tax Expectations Live Updates: Old tax <b>regime</b> to go ... - The Financial Express
+- **The News:** Japan Wants Calm, China Not So Much - CNAS
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
