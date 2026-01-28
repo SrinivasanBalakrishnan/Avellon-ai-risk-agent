@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 27 January 2026
+**Date:** 28 January 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Ranked: Top 10 ETF Themes That Crushed the S&amp;P 500 in 2025 - Visual Capitalist
+**Source News:** ECB's Cipollone warns <b>geopolitical risks</b> could weigh on euro-area growth | investingLive
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Ranked: Top 10 ETF Themes That Crushed the S&amp;P 500 in 2025 - Visual Capitalist
+- **The News:** ECB's Cipollone warns <b>geopolitical risks</b> could weigh on euro-area growth | investingLive
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold smashes past $US5000 in frenzy fuelled by global upheaval - AFR
+**Source News:** Amid ongoing <b>geopolitical risks</b> and trade tensions, gold remains stable near its record high price
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold smashes past $US5000 in frenzy fuelled by global upheaval - AFR
+- **The News:** Amid ongoing <b>geopolitical risks</b> and trade tensions, gold remains stable near its record high price
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Why renewables and electrification hold the keys to EU energy security | Chatham House
+**Source News:** New Norway SWF council questions tech weightings, sovereign debt criteria | News | IPE
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why renewables and electrification hold the keys to EU energy security | Chatham House
+- **The News:** New Norway SWF council questions tech weightings, sovereign debt criteria | News | IPE
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Japan Wants Calm, China Not So Much - CNAS
+**Source News:** Securing the Indian Ocean: Elevating the India-Australia maritime partnership
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Japan Wants Calm, China Not So Much - CNAS
+- **The News:** Securing the Indian Ocean: Elevating the India-Australia maritime partnership
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
