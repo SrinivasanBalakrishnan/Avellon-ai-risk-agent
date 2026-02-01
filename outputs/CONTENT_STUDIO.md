@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 31 January 2026
+**Date:** 01 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Sustainable Finance Key Themes for 2026 | RBCCM
+**Source News:** <b>Energy Security</b> at Davos: <b>Global</b> Strategic Shift - Discovery Alert
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Sustainable Finance Key Themes for 2026 | RBCCM
+- **The News:** <b>Energy Security</b> at Davos: <b>Global</b> Strategic Shift - Discovery Alert
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil hovers near six-month high as investors track U.S.-Iran tensions - CNBC
+**Source News:** Moody's boosts Israel's credit outlook to stable as ceasefires in Gaza, Lebanon hold
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil hovers near six-month high as investors track U.S.-Iran tensions - CNBC
+- **The News:** Moody's boosts Israel's credit outlook to stable as ceasefires in Gaza, Lebanon hold
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Our view on central banks | articles | ING THINK
+**Source News:** Venezuelan oil and Florida gas price: A <b>risk</b> worth managing | Opinion - The News-Press
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Our view on central banks | articles | ING THINK
+- **The News:** Venezuelan oil and Florida gas price: A <b>risk</b> worth managing | Opinion - The News-Press
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** The U.S.-Japan Alliance Series: Today and Beyond - JAPAN HOUSE Los Angeles
+**Source News:** Income Tax Slabs Budget 2026 Live Updates: Will FM Sitharaman cheer salaried, middle ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The U.S.-Japan Alliance Series: Today and Beyond - JAPAN HOUSE Los Angeles
+- **The News:** Income Tax Slabs Budget 2026 Live Updates: Will FM Sitharaman cheer salaried, middle ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
