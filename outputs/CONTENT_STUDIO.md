@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 01 February 2026
+**Date:** 02 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Energy Security</b> at Davos: <b>Global</b> Strategic Shift - Discovery Alert
+**Source News:** Antimony Mining Companies: 7 Strategic Trends Shaping 2026 - Farmonaut
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Energy Security</b> at Davos: <b>Global</b> Strategic Shift - Discovery Alert
+- **The News:** Antimony Mining Companies: 7 Strategic Trends Shaping 2026 - Farmonaut
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Moody's boosts Israel's credit outlook to stable as ceasefires in Gaza, Lebanon hold
+**Source News:** Fac demand in Asia set to remain robust amid hi-tech boom, growing local capacity
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Moody's boosts Israel's credit outlook to stable as ceasefires in Gaza, Lebanon hold
+- **The News:** Fac demand in Asia set to remain robust amid hi-tech boom, growing local capacity
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Venezuelan oil and Florida gas price: A <b>risk</b> worth managing | Opinion - The News-Press
+**Source News:** Oil falls by nearly 3% on Iran talks, OPEC+ production pause - Yahoo Finance
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Venezuelan oil and Florida gas price: A <b>risk</b> worth managing | Opinion - The News-Press
+- **The News:** Oil falls by nearly 3% on Iran talks, OPEC+ production pause - Yahoo Finance
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Income Tax Slabs Budget 2026 Live Updates: Will FM Sitharaman cheer salaried, middle ...
+**Source News:** 'Something has to happen inside': US can't 'bomb' the Iranian <b>regime</b> out of existence
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Income Tax Slabs Budget 2026 Live Updates: Will FM Sitharaman cheer salaried, middle ...
+- **The News:** 'Something has to happen inside': US can't 'bomb' the Iranian <b>regime</b> out of existence
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
