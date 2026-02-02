@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** 'Something has to happen inside': US can't 'bomb' the Iranian <b>regime</b> out of existence
+**Source News:** Thousands rally to call for <b>regime change</b> in Iran - Yahoo News Canada
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 'Something has to happen inside': US can't 'bomb' the Iranian <b>regime</b> out of existence
+- **The News:** Thousands rally to call for <b>regime change</b> in Iran - Yahoo News Canada
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

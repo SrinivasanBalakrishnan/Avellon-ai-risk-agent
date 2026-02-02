@@ -5,7 +5,7 @@
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 6.5)
+- **Taiwan Strait** (Risk Score: 10.0)
 - **Strait of Hormuz** (Risk Score: 3.5)
 - **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
@@ -63,20 +63,20 @@
 
 
 ## 🏛 LEADERSHIP
+**🟢 Thousands rally to call for <b>regime change</b> in Iran - Yahoo News Canada**
+> *Thousands gathered in Toronto on Sunday to show support for the Iranian people as a deadly uprising sweeps through the Middle Eastern country....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ca.news.yahoo.com/thousands-rally-call-regime-change-022726046.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2WeEQr20e6GOZMSaZnekOR))
+
 **🟢 'Something has to happen inside': US can't 'bomb' the Iranian <b>regime</b> out of existence**
 > *... regime “out of existence”. “Something has to happen inside Iran for <b>regime change</b>,” he told Sky News Australia. “We can't bomb our way out of this.”...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DyiKibbJ2Rzw&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2zFl5JAGSSzl9WbZOWZdzM))
 
 **🟢 Thousands rally in Toronto to support Iran uprising, call for <b>regime change</b>**
 > *While protesters were initially focused on Iran's economy, demonstrators quickly pivoted to calling for <b>regime change</b>, with some supporting the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://toronto.citynews.ca/2026/02/01/thousands-rally-in-toronto-to-support-iran-uprising-call-for-regime-change/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3YDI361CjnUK_3tPOR7vSa))
 
+**🟢 What to know about sleep tracking devices - CTV News**
+> *... <b>regime change</b>. Video. Thousands rally in Toronto to support Iran uprising, call for <b>regime change</b> &middot; Vancouver &middot; 3 luxury yachts destroyed in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ctvnews.ca/ottawa/article/what-to-know-about-sleep-tracking-devices/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1R4OFeWZ9G1OG3e55FOf4-))
+
 **🟢 Not ready for robots in homes? The maker of a friendly new humanoid thinks it might <b>change</b> ...**
 > *... <b>regime change</b>. Video &middot; Thousands rally in Toronto to support Iran uprising, call for <b>regime change</b> &middot; Vancouver &middot; 3 luxury yachts destroyed in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ctvnews.ca/sci-tech/article/not-ready-for-robots-in-homes-the-maker-of-a-friendly-new-humanoid-thinks-it-might-change-your-mind/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1V5ZYxZg4Izxf8Q5RmOF_3))
-
-**🟢 Maria Corina Machado says transition is &quot;unstoppable&quot; from remnants of Maduro's <b>regime</b>**
-> *... <b>regime</b> is &quot;unstoppable.&quot; She argued that any positive <b>change</b> made by the interim <b>government</b> is due to pressure from the Trump administration but&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/maria-cornia-mahado-transtion-unstoppable-face-the-nation/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2WorqNSeH9qYLWfA0R3r0Q))
-
-**🟡 Scheduling new elections for Venezuela - The Washington Post**
-> *... regime has savagely tortured its critics. On Thursday, Rodriguez ... Considering the uneven success of U.S.-led <b>regime change</b> in the region&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonpost.com/opinions/2026/02/01/venezuela-elections-delcy-rodriguez-machado/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2VtSVHvwFFmxz6VM2Nk1Cn))
 
 
 ## 🏛 GENERAL UPDATES
