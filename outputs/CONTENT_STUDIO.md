@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 02 February 2026
+**Date:** 03 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Antimony Mining Companies: 7 Strategic Trends Shaping 2026 - Farmonaut
+**Source News:** Gold investors are rattled, but the selloff will build a stronger foundation - Metals Focus
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Antimony Mining Companies: 7 Strategic Trends Shaping 2026 - Farmonaut
+- **The News:** Gold investors are rattled, but the selloff will build a stronger foundation - Metals Focus
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Fac demand in Asia set to remain robust amid hi-tech boom, growing local capacity
+**Source News:** Dow, S&amp;P 500, Nasdaq jump to kick off February as gold, silver, bitcoin remain volatile
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Fac demand in Asia set to remain robust amid hi-tech boom, growing local capacity
+- **The News:** Dow, S&amp;P 500, Nasdaq jump to kick off February as gold, silver, bitcoin remain volatile
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil falls by nearly 3% on Iran talks, OPEC+ production pause - Yahoo Finance
+**Source News:** Gold and Silver Price Swings Favor Precious Metals Long Term
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil falls by nearly 3% on Iran talks, OPEC+ production pause - Yahoo Finance
+- **The News:** Gold and Silver Price Swings Favor Precious Metals Long Term
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Thousands rally to call for <b>regime change</b> in Iran - Yahoo News Canada
+**Source News:** Las Vegans take part in Los Angeles rally calling for Iran <b>regime change</b> - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Thousands rally to call for <b>regime change</b> in Iran - Yahoo News Canada
+- **The News:** Las Vegans take part in Los Angeles rally calling for Iran <b>regime change</b> - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
