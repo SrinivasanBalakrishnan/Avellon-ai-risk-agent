@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 03 February 2026
+**Date:** 04 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Gold investors are rattled, but the selloff will build a stronger foundation - Metals Focus
+**Source News:** Moody's Warns India Moving Away From Russian Oil Could Boost <b>Global</b> Prices, Inflation
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold investors are rattled, but the selloff will build a stronger foundation - Metals Focus
+- **The News:** Moody's Warns India Moving Away From Russian Oil Could Boost <b>Global</b> Prices, Inflation
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Dow, S&amp;P 500, Nasdaq jump to kick off February as gold, silver, bitcoin remain volatile
+**Source News:** Oil surges as tensions escalate with Iran - Petroleum Australia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Dow, S&amp;P 500, Nasdaq jump to kick off February as gold, silver, bitcoin remain volatile
+- **The News:** Oil surges as tensions escalate with Iran - Petroleum Australia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold and Silver Price Swings Favor Precious Metals Long Term
+**Source News:** When Family Offices' Long-Term Views Meet Near-Term Crises - Bloomberg.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold and Silver Price Swings Favor Precious Metals Long Term
+- **The News:** When Family Offices' Long-Term Views Meet Near-Term Crises - Bloomberg.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Las Vegans take part in Los Angeles rally calling for Iran <b>regime change</b> - YouTube
+**Source News:** <b>China</b> protests US detention of company employees | Operative Information Center
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Las Vegans take part in Los Angeles rally calling for Iran <b>regime change</b> - YouTube
+- **The News:** <b>China</b> protests US detention of company employees | Operative Information Center
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
