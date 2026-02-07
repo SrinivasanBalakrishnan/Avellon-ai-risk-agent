@@ -1,95 +1,98 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 06 February 2026
+**Date:** 07 February 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 7.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 4)
+- **Strait of Hormuz** (Risk Score: 6.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 Global <b>Geopolitical</b> Insight / Strategic Intelligence - Dow Jones**
-> *Forward-looking assessments identify <b>risks</b> and opportunities that arise from political, economic and <b>geopolitical</b> developments in your markets –&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dowjones.com/business-intelligence/risk/use-case/global-geopolitical-insight-strategic-intelligence/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3d269QV_tvfzA3oOoxECU7))
+**🟡 In conversation with Julie Su, Deputy Mayor of New York - Robert Reich**
+> *<b>Economic warfare</b> is the only thing the oligarchs, the business community will understand and act on. Call it a Surreptitious General Strike (Quiet&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://robertreich.substack.com/p/in-conversation-with-julie-su-deputy&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2wgs14ksgRp9dBnx6q32PS))
 
-**🔴 Trump claims again that he stopped <b>war</b> between India, Pakistan - The <b>Economic</b> Times**
-> *Donald Trump again claimed he stopped a <b>war</b>—and a potential nuclear conflict—between India and Pakistan, repeating the assertion twice in one day&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/india/trump-claims-again-that-he-stopped-war-between-india-pakistan/articleshow/127962793.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1ZCq8ORgi2qijDsLnBw7Cp))
+**🔴 'Trump punishes UN, international jurists to protect Israel' - Newspaper - DAWN.COM**
+> *... war crimes and crimes against humanity. ... “We will not tolerate these campaigns of political and <b>economic warfare</b>,” the State Department said....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dawn.com/news/1971540&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1KyJMA1DzeaCbZtIE_k8ok))
 
-**🟡 US Treasury Secretary Scott Bessent has clashed with Democratic Senator Elizabeth ... - Facebook**
-> *A protester blasted the Treasury chief for overseeing U.S. sanctions they called “<b>economic warfare</b>,” accusing the administration of policies that fuel&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/SkyNewsAustralia/posts/us-treasury-secretary-scott-bessent-has-clashed-with-democratic-senator-elizabet/1342775124546749/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0rPcuV2vu19ej7iISEBnJl))
+**🟢 Trump Trade <b>War</b> Contributes to <b>Economic</b> Illusion, Freight Market Data Indicates**
+> *Trump Trade <b>War</b> Contributes to <b>Economic</b> Illusion, Freight Market Data Indicates ... Global growth forecasts for 2026 present a relatively optimistic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://maritimefairtrade.org/trump-trade-war-contributes-to-economic-illusion-freight-market-data-indicates/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2sjTWCRKSdyAa3HUAKhtWF))
 
-**🟡 When <b>economic warfare</b> meets gunboat diplomacy: What to know about the US seizures of ...**
-> *Increasingly, the tactics used to seize these vessels blur the lines between <b>economic warfare</b> and old-fashioned gunboat diplomacy. Financial&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/dispatches/when-economic-warfare-meets-gunboat-diplomacy-what-to-know-about-the-us-seizures-of-shadow-fleet-tankers/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1lj6ZzvhBaOXExCWZRG55t))
+**🔴 TRUMP SIGNS ORDER THREATENING 25% TARIFFS ON ANY COUNTRY DOING ...**
+> *... <b>economic warfare</b> run on parallel tracks, with negotiations conducted with the proverbial gun on the table. Source: Reuters....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://x.com/MarioNawfal/status/2019914283983761672/photo/1&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1cDBRvsdJkkTeREVAqSTNj))
 
-**🟢 Opinion | After Davos, the search begins for what comes after the post-Cold <b>War</b> order**
-> *That period was defined by the imposition of a protectionist tariff strategy to gain <b>economic</b> and geopolitical leverage, an often combative approach&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/opinion/world-opinion/article/3342380/after-davos-search-begins-what-comes-after-post-cold-war-order&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2RYD5oplB0dvRqTaF3l6DT))
+**🟡 When <b>Economic Warfare</b> Meets Gunboat Diplomacy: What to Know About the U.S. Seizures ...**
+> *International Trade attorney Stephanie Connor wrote an article for the Atlantic Council addressing questions about the legal basis for U.S.&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hklaw.com/en/insights/publications/2026/02/when-economic-warfare-meets-gunboat-diplomacy&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3oysuvseuOLlQ7W4jCbbFc))
 
 
 ## 🏛 CYBER & TECH
-**🟡 Oil Falls Amid Signs of Easing Supply <b>Risks</b> - WSJ**
-> *... <b>geopolitical risk</b> premium remain in place,” the analysts add. Front-month WTI crude oil futures are 0.6% lower at $62.90/bbl; front-month Brent&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/finance/commodities-futures/oil-falls-amid-signs-of-easing-supply-risks-922863a2&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0jAzQtEHM11rIB06uJaBW9))
+**🟢 At Davos 2026, Sustainability Was Everywhere, Just Not in the Headlines | INN**
+> *... <b>geopolitical risk</b>, artificial intelligence, and economic uncertainty consistently circled back to environmental exposure and long-term resilience&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investingnews.com/at-davos-2026-sustainability-was-everywhere-just-not-in-the-headlines/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_wLtkdFWorZieLbIlTUVa))
 
-**🔴 Global MLCC market Polarizing in Q1 2026 amid tariffs, <b>geopolitical</b> tensions**
-> *While the U.S. tariffs and escalating <b>geopolitical risks</b> continue to increase supply chain uncertainty, the market for high-end MLCCs is sharply&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.communicationstoday.co.in/global-mlcc-market-polarizing-in-q1-2026-amid-tariffs-geopolitical-tensions/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2yC0qe2B59yDpcjQZhB6ld))
+**🟢 PwC platform to aid Taiwanese firms' US expansion - Taipei Times**
+> *... <b>geopolitical risk</b> and shifts in industrial policy reshape global manufacturing and market access strategies, PwC Taiwan chairman and CEO Patrick&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.taipeitimes.com/News/biz/archives/2026/02/07/2003851901&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3qEbvfw0et56XKYPEAyUs1))
 
-**🟡 Middle East Private Equity Roundup H2 2025 - Teneo**
-> *As macroeconomic and geopolitical pressures continue to shape investment ... <b>Geopolitical Risk</b> &middot; Government &amp; Public Affairs &middot; Organizational&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.teneo.com/insights/articles/middle-east-private-equity-roundup-h2-2025/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw38bgRUrSlSdRAk1-7b3ryt))
+**🟡 Silver crash is 'speculative unwinding,' not the end: Sunil Subramaniam predicts mid-teens ...**
+> *He points to ongoing dedollarisation and persistent <b>geopolitical risks</b> as key drivers, predicting mid-teen percentage gains for gold and silver by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/expert-view/silver-crash-is-speculative-unwinding-not-the-end-sunil-subramaniam-predicts-mid-teens-rally-ahead/articleshow/127978092.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2BUdGiGS5Fq7kfehmNZSXx))
 
-**🟢 Kim Bolton's Top Picks for Feb. 5, 2026 - BNN Bloomberg**
-> *Global financial markets began 2026 with gains, navigating high volatility as <b>geopolitical risk</b> increased. The strong performance trends from 2025&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bnnbloomberg.ca/markets/2026/02/05/kim-boltons-top-picks-for-feb-5-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3VFDg7OpArycTbBui_F-dG))
+**🟢 Supertankers Speed Through Strait of Hormuz as <b>Geopolitical Risk</b> Mounts - gCaptain**
+> *“Even when headline <b>geopolitical risk</b> cools, Hormuz remains a complex operating environment,” said Angelica Kemene, head of Optima Shipping&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gcaptain.com/supertankers-speed-through-strait-of-hormuz-as-geopolitical-risk-mounts/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2JPy9sAJAkVGsJr927NJ_w))
 
-**🟢 Buzz on the Bullboards: <b>Geopolitics</b> are back in the driver's seat | 2026-02-05 - Stockhouse**
-> *<b>Geopolitical risk</b> is re‑pricing assets againA renewed wave of geopolitical flashpoints has been rippling through markets, lifting traditional&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://stockhouse.com/opinion/buzz-on-the-bullboards/2026/02/05/buzz-on-bullboards-geopolitics-are-back-driver-s-seat&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Lr5swP-rqQTbZ4bylT23Y))
+**🔴 Oil set for first weekly decline in seven ahead of US-Iran talks - The Edge Malaysia**
+> *&quot;This should see the <b>geopolitical risk</b> premium remain in place.&quot; Any escalation of tension between the two nations could disrupt oil flows, since&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theedgemalaysia.com/node/792040&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Mc6PTrkc3ELVOpcP4TfON))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Russian oil discounts to China hit record as India demand <b>risks</b> mount - investingLive**
-> *... competition in Asia, pressuring alternative grades and keeping physical markets well supplied despite broader <b>geopolitical risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/russian-oil-discounts-to-china-hit-record-as-india-demand-risks-mount-20260205/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3-f2QZ-cPYT1BX55TK5_ky))
+**🟢 Business Cycle Funds Try To Time Regimes Not Stocks - Outlook Money**
+> *Thus, in an environment shaped by structurally higher inflation, tighter monetary conditions, and elevated <b>geopolitical risk</b>, business cycle mutual&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.outlookmoney.com/spotlight/business-cycle-funds-try-to-time-regimes-not-stocks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1W6STQeOm6XO-Wv_UqYBN6))
 
-**🟢 Shell CEO says oil market supply slightly long, balanced by <b>geopolitical risk</b> like Venezuela and Iran**
-> *Shell CEO says oil market supply slightly long, balanced by <b>geopolitical risk</b> like Venezuela and Iran ... -February 05, 2026 at 10:09 am EST&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketscreener.com/news/shell-ceo-says-oil-market-supply-slightly-long-balanced-by-geopolitical-risk-like-venezuela-and-ira-ce7e5ad8d981f625&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw00qD3gHzNwuICzVBhrtvo2))
+**🟢 Why U.S.–India Cooperation Is More Powerful When Aligned with the UAE and Israel**
+> *The question now is: How should this partnership be scaled for a <b>world</b> where <b>security</b>, trade, <b>energy</b> and technology are more interconnected than ever?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://southasianherald.com/why-u-s-india-cooperation-is-more-powerful-when-aligned-with-the-uae-and-israel/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw29nh9esXIdMlLph9-y0aw4))
 
-**🟢 India says it is open to commercial merits of crude supply from Venezuela - Reuters**
-> *&quot;Diversifying our <b>energy</b> sourcing in keeping with objective market conditions and evolving <b>international</b> dynamics is at the core of our strategy to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/india-says-it-is-open-commercial-merits-crude-supply-venezuela-2026-02-05/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1kq-gTR94TrmFI3svjw9CY))
+**🟡 Fragile foundations: Why renewable <b>energy</b> (Not GDP) drives Somalia's food <b>security</b>**
+> *In 2021, approximately 23 % of Africans faced food insecurity, twice the <b>world</b> average of 11 % (Khalid Anser et al., 2021). The problem was&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S2949824426000558&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3ujaTQBx3tiEx_VZcU64MZ))
 
-**🟢 Japan-Qatar Gas Tie-Up Highlights <b>Global</b> Push for <b>Energy Security</b>: Bousso**
-> *... <b>global</b> push for <b>energy security</b>. Get the Latest US Focused <b>Energy</b> News Delivered to You! It's FREE: Quick Sign-Up Here. Qatar's national oil and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energynow.com/2026/02/japan-qatar-gas-tie-up-highlights-global-push-for-energy-security-bousso/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0XxZi1rWC--UUS95DDINlg))
+**🟢 Cameroon Dangote Refinery Partnership Boosts <b>Energy Security</b> - Discovery Alert**
+> *This shift reflects broader geopolitical trends where regional powerhouses emerge as alternatives to traditional <b>international energy</b> suppliers. The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/regional-energy-security-partnerships-west-africa-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2tZjDUOJQHsmcgNAEzYyPU))
 
-**🟢 Japan-Qatar gas tie-up highlights <b>global</b> push for <b>energy security</b> - Tuoi tre news**
-> *Japan-Qatar gas tie-up highlights <b>global</b> push for <b>energy security</b>. LONDON -- Qatar's long-term deal to supply Japan's power giant JERA with liquefied&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.tuoitre.vn/japan-qatar-gas-tie-up-highlights-global-push-for-energy-security-103260205163200998.htm&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3NFhlmp3JEEWJP4G3OYcvE))
+**🟢 FG Positions Gas as Growth Engine, Unveils Plan for <b>World</b>-Class <b>Energy</b> Events Centre as ...**
+> *The Federal Government has reaffirmed its commitment to leveraging its oil and gas endowments to drive industrialization, <b>energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://fmino.gov.ng/fg-positions-gas-as-growth-engine-unveils-plan-for-world-class-energy-events-centre-as-nies-2026-closes/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2AkCm1wRVuRtdrly94ms9F))
 
 
 ## 🏛 LEADERSHIP
-**🟢 IISS appoints Dr Lucie Béraud-Sudreau as Shangri-La Dialogue Senior Fellow for <b>Indo</b> ...**
-> *... <b>Indo</b>-<b>Pacific</b> Defence Policy, Economics and Industry. Dr Béraud-Sudreau will take up the position at IISS–Asia in Singapore, with her research&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iiss.org/press/2026/01/iiss-appoints-dr-lucie-beraud-sudreau-as-shangri-la-dialogue-senior-fellow-for-indo-pacific-defence-policy-economics-and-industry/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0B7EbBlSlmVCnw323tDHUe))
+**🟢 Washington's Power Recalibration in the <b>Indo</b>-<b>Pacific</b> - FPIF - Foreign Policy in Focus**
+> *Canberra has long tethered its <b>security</b> to the reliability of the American “primary producer.” Yet the 2026 NDS introduces a new and demanding&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://fpif.org/washingtons-power-recalibration-in-the-indo-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3kQYEarOTqWG6PkKNW4M_q))
 
-**🟢 Cuba to the US: Yes to dialogue, but we will not discuss <b>regime change</b>**
-> *Cuba says it is ready for a “substantive” dialogue with the United States, but makes clear that it will not discuss any <b>changes</b> to its <b>political</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.protothema.gr/2026/02/05/cuba-to-the-us-yes-to-dialogue-but-we-will-not-discuss-regime-change/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2gcGPokGCXJYzzAFhFpIHW))
+**🟢 Iran's foreign minister: The wall of mistrust should be overcome - YouTube**
+> *Comments &middot; Politics Chat, February 5, 2026 &middot; Iranian Crown Prince Reza Pahlavi Says Iranians Are Ready for <b>Regime Change</b> | Real Talk | PragerU &middot; Blow to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DGlQ5k01TnLc&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1rrk5qZv583-oi2e_IdH6T))
 
-**🟢 Cuba's leader makes rare TV appearance as Hialeah mayor prepares for <b>regime change</b>**
-> *Cuban leader Miguel Diaz-Canel makes a rare TV appearance as Hialeah's mayor says he's preparing for <b>regime change</b> on the island....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nbcmiami.com/video/nbc-6-news/cubas-leader-makes-rare-tv-appearance-as-hialeah-mayor-prepares-for-regime-change/3760798/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2LlDzdKmWqrG-iiwTAOsqp))
+**🟡 US intervention in Iran: What Iranians inside and outside the country say - BBC**
+> *'<b>Regime change</b> should come from within'. Weeks after the deadly crackdowns on anti-government protests and the near-total internet blackout&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/cd0y0ld39y0o&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0z9CG5DTA1TUoBjAXkYG3k))
 
-**🟢 Global Power Struggles Over the Ocean's Finite Resources Call for Creative Diplomacy**
-> *How policymakers handle these challenges will affect food supplies, the price of goods and national security. &middot; <b>Arctic shipping</b>: New sea <b>lanes</b>, new&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://goodmenproject.com/featured-content/global-power-struggles-over-the-oceans-finite-resources-call-for-creative-diplomacy/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw2S9rVjU7wtnCBcEGgt7o26))
+**🟢 Donald Trump must strike Iran to create new Middle East | The Jerusalem Post**
+> *It won't bring about <b>regime change</b>; it will only rally Iranians around the regime. At best, it will bring to power an alternative Iranian dictator&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/opinion/article-885741&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw17JifTgljn0bihvAXlEMwB))
+
+**🟡 Two Defendants Sentenced to Prison for Conspiring to Illegally Export Weapons to South Sudan**
+> *... government. Defendants planned to install Ajak as the country's new president after the <b>regime change</b>. Defendants knew South Sudan was subject to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.justice.gov/opa/pr/two-defendants-sentenced-prison-conspiring-illegally-export-weapons-south-sudan&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw24fg_SLdJ10tQJLZJkGkSK))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 Is There Anything That Can Stop the Shekel? Ask Khamenei - Israel News**
-> *The single biggest <b>geopolitical risk</b> it faces disappears, foreign investment floods into Israel and the economy soars. Some analysts speculate that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.haaretz.com/israel-news/2026-02-05/ty-article/.premium/is-there-anything-that-can-stop-the-israeli-shekel-ask-khamenei/0000019c-2d57-d001-ad9f-7dff6fad0000&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2pn50ZeTie6mQGTD39kzFA))
+**🟢 Business linkages: the growing priority for Baltic organizations amid rising <b>geopolitical</b> and ...**
+> *... <b>geopolitical risks</b>, and growing expectations for corporate transparency. ... risk. Demand for business linkage insights reaches new highs....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.baltictimes.com/business_linkages__the_growing_priority_for_baltic_organizations_amid_rising_geopolitical_and_compliance_pressures/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ra7VSyw_bBWGuuYCfOWUn))
 
-**🟢 Australian premier arrives in <b>Indonesia</b> for <b>security</b> pact - Anadolu**
-> *<b>Asia</b> - <b>Pacific</b>. Australian premier arrives in Indonesia for <b>security</b> pact. Indonesian President Prabowo Subianto is set to host Australian Prime&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/asia-pacific/australian-premier-arrives-in-indonesia-for-security-pact/3821845&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0eVZHGCMVEIzNuzt0WHnGl))
+**🟢 The Trump Administration's Skyrocketing Critical Mineral Strategy - Steptoe**
+> *... <b>risk</b> of overreliance and concentration across geographies. ... At the same time, this strategy carries meaningful <b>geopolitical</b> and execution <b>risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/the-trump-administrations-skyrocketing-critical-mineral-strategy.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ZuxDM20DWpZW5Y7F2-YQi))
 
-**🟢 US hopes to challenge China's critical minerals dominance with new trading bloc**
-> *China controls the processing of about 90 per cent of <b>rare earths</b> — a category of critical minerals crucial for all kinds of technology. It also&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-02-06/us-pitches-new-critical-minerals-trading-bloc/106309202&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0Fed9sNV8RTiBR2f995-Oe))
+**🟢 Why Investment Screening Keeps Tightening: Alliance Theory, Family Office Portfolio Strategy**
+> *Many family offices approach <b>geopolitical risk</b> through scenario planning – mapping multiple possible futures and assigning probabilities. This&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wealthbriefing.com/html/article.php/why-investment-screening-keeps-tightening%253A-alliance-theory%252Cfamily-office-portfolio-strategy&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2J-UikpPWhrD8lDYjPa6ww))
 
-**🟢 A $3 Billion Reason to Buy This <b>Rare Earths</b> Stock - Barchart.com**
-> *USA <b>Rare Earth</b> is a critical <b>metals</b> mining company forecast to expand at a rapid pace, driven by U.S. government investments....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.barchart.com/story/news/51022/a-3-billion-reason-to-buy-this-rare-earths-stock&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2gppXQU01esl9VKD6Ma_oX))
+**🟡 Philippines has a crucial role in <b>Indo</b>-<b>Pacific</b> - Weekly Blitz**
+> *Regrettably, however, this vast geographical region still lacks an appropriate collective <b>security</b> architecture for its defence necessary for its&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://weeklyblitz.net/2026/02/07/philippines-has-a-crucial-role-in-indo-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2OMrI1KTGRE6nMsgWK6TA4))
 
-**🟢 3 <b>Rare Earths</b> Stocks to Buy as Trump Announces Project Vault - Yahoo Finance**
-> *Project Vault's nearly $12 billion <b>rare earths</b> stockpile plan, launched to counter China's grip on critical minerals, puts these names in the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/3-rare-earths-stocks-buy-140002499.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2ljvphxn1Sz3BKkwUfY_Ur))
+**🟡 Naval Mobile Construction Battalion 11 returns to <b>Indo</b>-<b>Pacific</b> - DVIDS**
+> *The return of NMCB-11 to the <b>Indo</b>-<b>Pacific</b> comes at a critical time for regional <b>security</b> and cooperation. The battalion's mission emphasizes&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dvidshub.net/news/557581/naval-mobile-construction-battalion-11-returns-indo-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2DPlAzcERiS5pdXeyVfZTu))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
