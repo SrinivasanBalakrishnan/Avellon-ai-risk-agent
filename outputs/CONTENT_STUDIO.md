@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 07 February 2026
+**Date:** 08 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** In conversation with Julie Su, Deputy Mayor of New York - Robert Reich
+**Source News:** THIS IS WHY BITCOIN DUMPED NON STOP FROM $126000 TO $60000. - Binance
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** In conversation with Julie Su, Deputy Mayor of New York - Robert Reich
+- **The News:** THIS IS WHY BITCOIN DUMPED NON STOP FROM $126000 TO $60000. - Binance
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** At Davos 2026, Sustainability Was Everywhere, Just Not in the Headlines | INN
+**Source News:** Gold Prices Swing as Investors Watch Market Volatility in Munich and Beyond
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** At Davos 2026, Sustainability Was Everywhere, Just Not in the Headlines | INN
+- **The News:** Gold Prices Swing as Investors Watch Market Volatility in Munich and Beyond
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Business Cycle Funds Try To Time Regimes Not Stocks - Outlook Money
+**Source News:** India-US Trade Pact Faces <b>Geopolitical</b> Test Amid Russian Oil Mandate - Whalesbook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Business Cycle Funds Try To Time Regimes Not Stocks - Outlook Money
+- **The News:** India-US Trade Pact Faces <b>Geopolitical</b> Test Amid Russian Oil Mandate - Whalesbook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Washington's Power Recalibration in the <b>Indo</b>-<b>Pacific</b> - FPIF - Foreign Policy in Focus
+**Source News:** Most Labour MPs Believe The Starmer Era Is Over – But No One Is Ready To Replace Him
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Washington's Power Recalibration in the <b>Indo</b>-<b>Pacific</b> - FPIF - Foreign Policy in Focus
+- **The News:** Most Labour MPs Believe The Starmer Era Is Over – But No One Is Ready To Replace Him
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
