@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 08 February 2026
+**Date:** 09 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** THIS IS WHY BITCOIN DUMPED NON STOP FROM $126000 TO $60000. - Binance
+**Source News:** Oil Prices Today Fall More Than 1% as US-Iran Conflict Fears Ease After Nuclear Talks
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** THIS IS WHY BITCOIN DUMPED NON STOP FROM $126000 TO $60000. - Binance
+- **The News:** Oil Prices Today Fall More Than 1% as US-Iran Conflict Fears Ease After Nuclear Talks
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold Prices Swing as Investors Watch Market Volatility in Munich and Beyond
+**Source News:** Cybersecurity Tops India Inc <b>Risk</b> List As Tech, <b>Geopolitics</b> Reshape Business Priorities
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold Prices Swing as Investors Watch Market Volatility in Munich and Beyond
+- **The News:** Cybersecurity Tops India Inc <b>Risk</b> List As Tech, <b>Geopolitics</b> Reshape Business Priorities
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** India-US Trade Pact Faces <b>Geopolitical</b> Test Amid Russian Oil Mandate - Whalesbook
+**Source News:** Silver and gold crash after speculative frenzy: Is the bull run over or just taking a breather?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India-US Trade Pact Faces <b>Geopolitical</b> Test Amid Russian Oil Mandate - Whalesbook
+- **The News:** Silver and gold crash after speculative frenzy: Is the bull run over or just taking a breather?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Most Labour MPs Believe The Starmer Era Is Over – But No One Is Ready To Replace Him
+**Source News:** <b>Security</b> tightened in Sydney for Israeli President Herzog's visit to Australia amid calls for protest
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Most Labour MPs Believe The Starmer Era Is Over – But No One Is Ready To Replace Him
+- **The News:** <b>Security</b> tightened in Sydney for Israeli President Herzog's visit to Australia amid calls for protest
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
