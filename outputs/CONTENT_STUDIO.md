@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 11 February 2026
+**Date:** 12 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** How Argentina's Lithium and Uranium Boom Could Undermine Its <b>Energy</b> Sovereignty | OilPrice.com
+**Source News:** Sanctions <b>Risk</b> Update for 2026 | Cassels.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How Argentina's Lithium and Uranium Boom Could Undermine Its <b>Energy</b> Sovereignty | OilPrice.com
+- **The News:** Sanctions <b>Risk</b> Update for 2026 | Cassels.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Tariff uncertainty and <b>geopolitical risk</b> create “cautious trade environment” - DC Velocity
+**Source News:** Argentina's 5 straight months of surging inflation undercount the severity, economists say
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Tariff uncertainty and <b>geopolitical risk</b> create “cautious trade environment” - DC Velocity
+- **The News:** Argentina's 5 straight months of surging inflation undercount the severity, economists say
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Trade <b>risk</b> and optimal trade policy: Lessons from food security | CEPR - VoxEU
+**Source News:** Oil Jumps as <b>Geopolitical Risks</b> Mount and Stockpiles Shrink - TradingPedia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trade <b>risk</b> and optimal trade policy: Lessons from food security | CEPR - VoxEU
+- **The News:** Oil Jumps as <b>Geopolitical Risks</b> Mount and Stockpiles Shrink - TradingPedia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Japan's election result redraws political lines across <b>Indo</b>-<b>Pacific</b>
+**Source News:** Trump says he 'insisted' to Netanyahu that Iran talks go on, as PM stresses 'security needs'
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Japan's election result redraws political lines across <b>Indo</b>-<b>Pacific</b>
+- **The News:** Trump says he 'insisted' to Netanyahu that Iran talks go on, as PM stresses 'security needs'
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
