@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 February 2026
+**Date:** 13 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Sanctions <b>Risk</b> Update for 2026 | Cassels.com
+**Source News:** Oil set for weekly drop as Iran <b>risks</b> recede, oversupply concerns | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Sanctions <b>Risk</b> Update for 2026 | Cassels.com
+- **The News:** Oil set for weekly drop as Iran <b>risks</b> recede, oversupply concerns | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Argentina's 5 straight months of surging inflation undercount the severity, economists say
+**Source News:** Grok Shows the World What Ungoverned AI Looks Like - Geopolitical Monitor
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Argentina's 5 straight months of surging inflation undercount the severity, economists say
+- **The News:** Grok Shows the World What Ungoverned AI Looks Like - Geopolitical Monitor
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Jumps as <b>Geopolitical Risks</b> Mount and Stockpiles Shrink - TradingPedia
+**Source News:** A new energy is taking over: Five forces defining the next phase of the <b>global energy</b> transition
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Jumps as <b>Geopolitical Risks</b> Mount and Stockpiles Shrink - TradingPedia
+- **The News:** A new energy is taking over: Five forces defining the next phase of the <b>global energy</b> transition
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump says he 'insisted' to Netanyahu that Iran talks go on, as PM stresses 'security needs'
+**Source News:** Japan's 2026 Lower House Election Results - Edelman Global Advisory
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump says he 'insisted' to Netanyahu that Iran talks go on, as PM stresses 'security needs'
+- **The News:** Japan's 2026 Lower House Election Results - Edelman Global Advisory
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
