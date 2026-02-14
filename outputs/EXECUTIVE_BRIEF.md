@@ -1,99 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 13 February 2026
+**Date:** 14 February 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 12.0)
+- **Taiwan Strait** (Risk Score: 8.0)
 - **Strait of Hormuz** (Risk Score: 4.5)
 - **Bab el-Mandeb (Red Sea)** (Risk Score: 3)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Oil set for weekly drop as Iran <b>risks</b> recede, oversupply concerns | Reuters**
-> *Oil prices are lower &quot;amid signs the U.S. is seeking more time to reach a nuclear deal with Iran, reducing the near-term <b>geopolitical risk</b> premium,&quot;&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/oil-set-weekly-drop-iran-risks-recede-oversupply-concerns-2026-02-13/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ehxw--eCY3dmsj_UCT5SE))
+**🟢 Tajikistan Outlook Revised To Positive On Strengt | S&amp;P Global Ratings**
+> *... <b>geopolitical risks</b> in the region, including sanctions. We could also lower the ratings if the government's financing options tightened, for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3517691&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2PGr_2H6TgxC3dv8qOuxAC))
 
-**🔴 Will Iran Shut the Strait of Hormuz if War Erupts? - Caspianpost.com**
-> *Any potential military conflict between the United States and Iran would pose a serious threat to <b>global energy security</b> and could result in the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://caspianpost.com/iran/will-iran-shut-the-strait-of-hormuz-if-war-erupts&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2NUmJm8ww09biVeAl0Aejc))
+**🟡 DOE publishes 26 Genesis Mission AI challenges for <b>energy</b> and national <b>security</b>**
+> *... <b>secure</b> our <b>energy</b> future, and keep America at the forefront of <b>global</b> innovation.” Among the nuclear <b>energy</b>–related challenges described in the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ans.org/news/2026-02-13/article-7758/doe-publishes-26-genesis-mission-ai-challenges-for-energy-and-national-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2mvwhL7MWf6hUwcA3u6sw-))
 
-**🟡 new era of climate action can deliver stability in an unstable <b>world</b> - UNFCCC**
-> *The fact is renewables are the clearest, cheapest path to <b>energy security</b> and sovereignty – shielding countries and economies from shocks&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://unfccc.int/news/un-climate-chief-in-istanbul-new-era-of-climate-action-can-deliver-stability-in-an-unstable-world&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2x0jUBevhAX8zpGW0jYyxW))
+**🟡 Trump considering rolling back tariffs on steel, aluminum: <b>Financial</b> Times - YouTube**
+> *It would be a rare concession from Trump, who has made tariffs his signature <b>economic</b> ... Go to channel <b>Warfare</b> Hits <b>Economy</b> &middot; US Navy's “Invisible&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdXgZ5OjDpKM&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0ZgrgVeHe6HAMcyZSdZ1ew))
 
-**🟢 Letter: A valuable insight into why China backs Putin - <b>Financial</b> Times**
-> *... <b>economic warfare</b> experts fear the most” was enlightening. His assertion that China aids Vladimir Putin's war in Ukraine in order to gain a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/eed3751c-5c0a-46d1-b1bc-0ffe729cfef8&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2j_8ycOHguBqwp4AFFERL-))
+**🔴 How Israel is eroding life for Palestinians in the West Bank - Mondoweiss**
+> *It unfolds in three seemingly unrelated processes: <b>financial warfare</b> against Palestinian economic life, state-backed settler terror, and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mondoweiss.net/2026/02/how-israel-is-eroding-life-for-palestinians-in-the-west-bank/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3d2ZkkGjOJo1R9yyNnRJAP))
 
-**🟢 Ukrainian Drone Strike on Russian Refinery Disrupts Energy - Discovery Alert**
-> *... <b>economic warfare</b> and energy security trends. The systematic approach to infrastructure targeting reveals sophisticated operational planning that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/strategic-infrastructure-targeting-conflicts-energy-2026/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw17p3fnemKmEFDR4t9JutwG))
+**🔴 How Foreign Non-Tariff Attacks Threaten American Innovation**
+> *Global trade is evolving into a form of mercantilist <b>economic warfare</b> where foreign nations use discriminatory regulations to target the U.S. tech&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://itif.org/publications/2026/02/13/foreign-non-tariff-attacks-threaten-american-innovation/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0qQfyJEEwU6sfecCrOxPf2))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Grok Shows the World What Ungoverned AI Looks Like - Geopolitical Monitor**
-> *A recent landmark report is sounding the alarm on the <b>risks</b> of unregulated AI advancement. Will governments listen?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/grok-shows-the-world-what-ungoverned-ai-looks-like/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ppiuYyCqczkWxWcuujWGj))
+**🟡 Beyond landed cost: A resilient-grid supply chain playbook for the commercial EV sector**
+> *... <b>geopolitical risk</b>, supplier economics, and working capital. Why lowest landed cost is no longer sufficient. Traditional sourcing models typically&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.scmr.com/article/beyond-landed-cost-a-resilient-grid-supply-chain-playbook-for-the-commercial-ev-sector&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3DPbbgf_PkXNxId3mHVJr5))
 
-**🟢 Europe's Clean Energy Push Creates New <b>Geopolitical Risks</b> | OilPrice.com**
-> *The rapid expansion of renewable resources and increased liquefied natural gas (LNG) imports from the U.S. have created new <b>risks</b>, including strain on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Europes-Clean-Energy-Push-Creates-New-Geopolitical-Risks.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0YNPqDh9ihSZCn55816rg-))
+**🟢 Case Study: Arm's People Data Census 2025 - WTW**
+> *<b>Geopolitical Risk</b> &middot; IFRS 17 Solutions &middot; Innovation at Work &middot; Modernising Benefits &middot; Pay Trends &middot; Supply Chain Risks and Trade Uncertainty. Research&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wtwco.com/en-nz/insights/2026/02/case-study-arms-people-data-census-2025&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0n_ev5wTGpCrpEw8hwvkcJ))
 
-**🟢 Oil prices fall on supply forecast, easing <b>risk</b> - Reuters**
-> *&quot;The fact that President Trump continues to negotiate with Iran would lead to a reduction of <b>geopolitical risk</b>,&quot; said Andrew Lipow, president of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/oil-prices-rise-concerns-about-us-iran-tensions-2026-02-12/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2zyeNQIo9Vy2jz-dcSoB9R))
+**🟡 Governance in a <b>risk</b> era defined by <b>geopolitical</b> uncertainty | Accounting Today**
+> *Around the world, audit, <b>risk</b> and accounting teams are grappling with rising <b>geopolitical</b> and macroeconomic uncertainty....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.accountingtoday.com/opinion/governance-in-a-risk-era-defined-by-geopolitical-uncertainty&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw23wZlGuuqYMheVsvnlPHsF))
 
-**🔴 Crisis Management Annual Review 2026 - WTW**
-> *Escalating <b>geopolitical</b> conflict &middot; Surge in <b>threat</b> and active assailant incidents &middot; Kidnap and extortion <b>risks</b> evolving rapidly &middot; Gen Z led protests&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wtwco.com/en-ph/insights/2026/02/crisis-management-annual-review-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw20UlLl8gFEEZ9XEauiHBmy))
+**🟢 Beazley survey shows what's driving 2026 insurance demand**
+> *The January 2026 <b>Risk</b> &amp; Resilience survey indicates that environmental, <b>geopolitical</b> ... <b>Geopolitics</b>, trade policy and cyber <b>risks</b> rewire corporate <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.insurancebusinessmag.com/uk/news/breaking-news/beazley-survey-shows-whats-driving-2026-insurance-demand-565269.aspx&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0lw8M2eDTnRfQW3f700Shs))
 
-**🟢 Midad Energy's Bid for Lukoil Assets: Regulatory Challenges Ahead | GBAF**
-> *... <b>geopolitical risk</b>. Geopolitical Context. The agreement, signed in late January, covers all of the targeted assets, the sources said. Midad agreed&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/exclusive-saudi-backed-midad-signs-term-sheet-lukoil/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1y2ZGF3GZsfbhBxkitsWAj))
+**🟢 The Rise of “Watt's Law” and Why Power Could Put a Ceiling on American Innovation - CSIS**
+> *<b>Energy Security</b> and Climate Change Program &middot; Renewing American Innovation ... <b>energy</b> policy is a pillar of winning the <b>global</b> AI race. To keep&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/analysis/rise-watts-law-and-why-power-could-put-ceiling-american-innovation&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw09WX0Q8NTaloU1AYTKWp7S))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 A new energy is taking over: Five forces defining the next phase of the <b>global energy</b> transition**
-> *The momentum of the <b>global energy</b> transition now appears unstoppable: markets around the world are betting on renewables for their energy <b>security</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessgreen.com/opinion/4525590/energy-taking-forces-defining-phase-global-energy-transition&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3XD_Qq3-vnD6zOHCVru_fG))
+**🟢 US inflation slows markedly, lifting stocks and gold - Equiti**
+> *... <b>geopolitical risks</b>. By Daniel Mejía | 2m ago. Copied. SHARE ... Oil prices steady amidst mixed signals: OPEC production plans and <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.equiti.com/jo-en/news/market-news/us-inflation-slows-markedly-lifting-stocks-and-gold/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3k9OAmYrl5UhmyjUCEkDtJ))
 
-**🟢 Europe's Clean <b>Energy</b> Push Creates New Geopolitical Risks | OilPrice.com**
-> *&quot;Europe's <b>energy security</b> is being redrawn by shifting <b>global</b> power plays - from America's <b>energy</b> dominance to China's technological monopoly&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Europes-Clean-Energy-Push-Creates-New-Geopolitical-Risks.amp.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2igyZxGs1-eJPznOUDOYZb))
+**🟢 The BR International Trade Report: February 2026 | Blank Rome LLP - JDSupra**
+> *... <b>geopolitical risk</b> issues impacting businesses domestically and abroad. We invite you to share this resource with your colleagues. Recent&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/the-br-international-trade-report-5758763/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05-GuZ_hvi_ZxnKIArSRbA))
 
-**🟢 Open Call: Research and Innovation Project in Heating and Cooling (Sweden)**
-> *The Swedish <b>Energy</b> Agency has announced approximately SEK 30 million to fund research and innovation projects that strengthen the <b>security</b> of supply&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www2.fundsforngos.org/research/open-call-research-and-innovation-project-in-heating-and-cooling-sweden/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1skKlraq3gLol1PGTQNKwL))
+**🟢 Lukoil Seeks West Qurna-2 Settlement With Iraq - MEES**
+> *Assess future risks and opportunities. I Accept Mees Terms of Use. Unlock Content. Countries: Iraq. Sections: <b>Geopolitical Risk</b> Corporate Oil &amp; Gas....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mees.com/2026/2/13/geopolitical-risk/lukoil-seeks-west-qurna-2-settlement-with-iraq/87f156b0-08e2-11f1-b12d-87465201858b&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1z1OvcGAe1q_viwwvi3zGZ))
 
-**🟢 How Europe can shape—not fear—the US hydrocarbon-state - Atlantic Council**
-> *The Global Energy Center develops and promotes pragmatic and nonpartisan policy solutions designed to advance <b>global energy security</b>, enhance economic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/blogs/energysource/how-europe-can-shape-not-fear-the-us-hydrocarbon-state/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3Yc3_TYMiRIWqDH-WGEPfO))
+**🔴 Crude Prices Slip as <b>Geopolitical Risks</b> Ease - Nasdaq**
+> *Crude oil and gasoline prices are under pressure today, falling to 1.5-week lows. The easing of US-Iran tensions has lowered <b>geopolitical risks</b> and is&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nasdaq.com/articles/crude-prices-slip-geopolitical-risks-ease&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1LF-kvmsGFcBv7PAHzfKIT))
 
-**🟢 HGEO Leadership on the <b>Global</b> Stage: India <b>Energy</b> Week**
-> *... secure energy supply. Supporting <b>Global Energy Security</b> through U.S. Coal Exports....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energy.gov/hgeo/articles/hgeo-leadership-global-stage-india-energy-week&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1C2QC6o77kRcWcojFY5wfR))
+**🟢 China and Climate: January 2026 | Council on Foreign Relations**
+> *Upheaval of the <b>international</b> order carries implications for the <b>global</b> climate and <b>energy</b> landscape. ... <b>energy security</b>. Newsletter. China&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/articles/china-and-climate-january-2026&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0toYxOz2uczzhVt1u77KKa))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Japan's 2026 Lower House Election Results - Edelman Global Advisory**
-> *<b>Geopolitical Risk</b> Environment Shaping Japan's Business Outlook. United States. President Donald Trump's visit to Japan last October featured&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.edelmanglobaladvisory.com/insights/japans-2026-lower-house-election-results&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0vcIvU0JeqNeabG73hVRME))
+**🟢 Tracking the Munich Security Conference: How “Wrecking-Ball Politics” is Transforming ... - Steptoe**
+> *Europe, Transatlantic Relationship, Defense Policy, <b>Geopolitical Risks</b>. Overview. Today and through the weekend, security officials and policymakers&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/tracking-the-munich-security-conference-how-wrecking-ball-politics-is-transforming-transatlantic-relations.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1DIuNoHV1eUBmyZeDIFkK3))
 
-**🟢 The Right Deal: Topple Iran; Peace in Gaza/W Bank | Ira Straus | The Times of Israel**
-> *“Finish off Iran” means <b>regime change</b> – the good wholesale <b>regime change</b> that America did so many times in the past, from 1776 to 1945. And it did&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://blogs.timesofisrael.com/the-right-deal-topple-iran-peace-in-gaza-w-bank/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0wCKLs0rPhXWkcKvSG_Kch))
+**🟢 India, South Korea review ties at 6th Foreign Policy and <b>Security</b> Dialogue - The Tribune**
+> *... <b>Indo</b>-<b>Pacific</b>. The two sides noted that the ROK's recently announced <b>Indo</b>-<b>Pacific</b> Strategy provides an opportunity to deepen bilateral cooperation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tribuneindia.com/news/world/india-south-korea-review-ties-at-6th-foreign-policy-and-security-dialogue/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw18U7SqV4o2XHCs7pNaBfBA))
 
-**🟢 Laura Dogu and Washington's <b>Regime</b>-<b>Change</b> Playbook: Nicaragua, Honduras, Venezuela**
-> *At the start of her term, she had relatively cordial relations with the <b>government</b>. That <b>changed</b> after President Daniel Ortega was reelected in 2016&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pressenza.com/2026/02/laura-dogu-and-washingtons-regime-change-playbook-nicaragua-honduras-venezuela/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3c9jLEBg9aLnef7iXoIIwd))
+**🟢 ENSO shapes salinity regimes and fish migration in the <b>China Seas</b> - Nature**
+> *... China coast and the 34 isohaline retreating entirely from the <b>South China Sea</b> and much of the East China Sea (Fig. 1c). The most pronounced&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41558-026-02559-3&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3I3q56xb0A68e9xZqdf7W4))
 
-**🟢 What Did the 1979 Revolution Teach the World? - NCRI**
-> *If an #Iranian group or individual is truly opting for <b>regime change</b> ... What has changed is that the regime's myth of stability, and the outside&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ncr-iran.org/en/news/iran-protests/what-did-the-1979-revolution-teach-the-world/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0u-Y9CP6AbGG01sokIhLP_))
+**🟢 Trump says Iran <b>regime change</b> is 'best thing that could happen' - BBC**
+> *Trump previously refused to back calls to replace the government led by Ayatollah Ali Khamenei. US President Donald Trump says <b>regime change</b> in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/c8egwywkkd1o&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1ZjRXwaVjynjvGnOM16EPl))
 
-**🔴 Why Iranians are calling for <b>regime change</b> amid nationwide protests - Martlet**
-> *... political repression, despite brutal crackdowns by state forces. What began as economic frustration has grown into renewed calls for <b>regime change</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://martlet.ca/why-iranians-are-calling-for-regime-change-amid-nationwide-protests/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw37EeaBpgt2EOLOLS3s0uKq))
+**🟢 '<b>Regime change</b> would be best thing in Iran': Donald Trump on Iran-US deal - YouTube**
+> *U.S. President Donald Trump sparked global attention by saying that a <b>change</b> in power in Iran “would be the best thing that could happen”,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYit72vdNdx4&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw22MkSDzQgx3qcvXSXOuyPD))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 Global Institutions Bullish on Gold Amid <b>Geopolitical Risks</b> - Binance**
-> *... geopolitical conflict risks, the ongoing global de-dollarization of assets, central banks purchasing gold, <b>geopolitical risks</b>, and a shift in gold&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/291050057452546&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3GUnMCA3Jjt2lqibBrV30l))
+**🟢 Secretary-General of ASEAN gives interview to DW-TV in Munich**
+> *... <b>security</b> in the <b>Indo</b>-<b>Pacific</b> in Munich &middot; Secretary-General of ASEAN participates in Spotlight on Maritime <b>Security</b> at Munich <b>Security</b> Conference....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asean.org/secretary-general-of-asean-gives-interview-to-dw-tv-in-munich/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2kn8OEijgP7ERcBs1sN0RN))
 
-**🟢 Hyperscalers continue global data center expansion despite <b>geopolitical</b> tensions**
-> *Six major cloud providers collectively grew their public cloud region count by 7% in 2025, almost double the 2024 pace....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/02/hyperscalers-continue-global-data-center-expansion-despite-geopolitical-tensions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw02GLqzsLx3M6ciwAZSh1gP))
+**🟢 Secretary-General of ASEAN delivers remarks in a high-level panel on upholding maritime ...**
+> *... <b>Security</b> in the <b>Indo</b>-<b>Pacific</b>, SG Dr. Kao emphasised ASEAN's role in fostering maritime <b>security</b> cooperation in the <b>Indo</b>-<b>Pacific</b> region, including&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asean.org/secretary-general-of-asean-delivers-remarks-in-a-high-level-panel-on-upholding-maritime-security-in-the-indo-pacific-in-munich/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1UI8GX5z8zaEKkYU_aRH6f))
 
-**🟢 RANE Weekly Rundown Newsletter - YouTube**
-> *The Weekly Rundown highlights the <b>geopolitical risks</b> and opportunities that will shape the coming week, keeping you up to date on the key&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D4ht0V2av4UU&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3nzsdU3lNTU-ksJ-nRF6hL))
+**🔴 UN <b>Security</b> Council strongly condemns deadly mosque attack in Pakistan - Anadolu**
+> *<b>Asia</b> - <b>Pacific</b>. UN <b>Security</b> Council strongly condemns deadly mosque attack in Pakistan. 'The members of the <b>Security</b> Council reaffirmed that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/asia-pacific/un-security-council-strongly-condemns-deadly-mosque-attack-in-pakistan/3829468&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0a1ZErnl93F6jtu5TbSIRd))
 
-**🟢 Trump's NATO Dilemma - CNAS**
-> *The resulting confusi... By Stacie Pettyjohn &amp; Molly Campbell. February 12, 2026. Video. <b>Indo</b>-<b>Pacific Security</b> / Transatlantic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnas.org/publications/commentary/trumps-nato-dilemma&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw143zpt3S05tOrO9ieK8bzE))
+**🔴 <b>Chinese</b> Fishing Boat Seized Off Southwestern Japan, Skipper Arrested | Journal**
+> *China has ongoing territorial disputes with several neighboring countries, including the Philippines and Vietnam in the <b>South China Sea</b>. In recent&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://vocal.media/journal/chinese-fishing-boat-seized-off-southwestern-japan-skipper-arrested&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw07B2RN-aRcx2Vr9axiCLGN))
 
-**🟢 Sen. JV Ejercito called for the recall of <b>Chinese</b> Ambassador to the Philippines Jing ... - Facebook**
-> *While acknowledging <b>tensions</b> at sea ... But we have to have freedom of navigation in those seas, the West Philippine Sea and the <b>South China Sea</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/posts/sen-jv-ejercito-called-for-the-recall-of-chinese-ambassador-to-the-philippines-j/1420524600122792/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2HVcOcGOGekzd4JN1zLHB_))
+**🟡 Viewpoint: Critical Materials Corp. ignores public on Sheep Creek Mine - Missoula Current**
+> *... <b>rare earth elements</b> can be met through existing mines and mine waste without the risks that new mines pose. At the meeting, USCM representative&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://missoulacurrent.com/sheep-creek-mine-2/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0UtCu05X4fyo7q02uIMIyt))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
