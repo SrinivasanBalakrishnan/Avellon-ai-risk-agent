@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 14 February 2026
+**Date:** 15 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Tajikistan Outlook Revised To Positive On Strengt | S&amp;P Global Ratings
+**Source News:** ARTHUR GOLDSTUCK | Sovereignty moves into the boardroom - Sunday Times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Tajikistan Outlook Revised To Positive On Strengt | S&amp;P Global Ratings
+- **The News:** ARTHUR GOLDSTUCK | Sovereignty moves into the boardroom - Sunday Times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Beyond landed cost: A resilient-grid supply chain playbook for the commercial EV sector
+**Source News:** India's Growth Resilience Tested Amidst Global Uncertainty - Whalesbook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Beyond landed cost: A resilient-grid supply chain playbook for the commercial EV sector
+- **The News:** India's Growth Resilience Tested Amidst Global Uncertainty - Whalesbook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** US inflation slows markedly, lifting stocks and gold - Equiti
+**Source News:** US Ambassador Giordano tours Walvis Bay <b>energy</b> sector, explores investment opportunities
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US inflation slows markedly, lifting stocks and gold - Equiti
+- **The News:** US Ambassador Giordano tours Walvis Bay <b>energy</b> sector, explores investment opportunities
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Tracking the Munich Security Conference: How “Wrecking-Ball Politics” is Transforming ... - Steptoe
+**Source News:** Hundreds of Iranian protesters in Bellevue demand <b>regime change</b> | king5.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Tracking the Munich Security Conference: How “Wrecking-Ball Politics” is Transforming ... - Steptoe
+- **The News:** Hundreds of Iranian protesters in Bellevue demand <b>regime change</b> | king5.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
