@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 15 February 2026
+**Date:** 16 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** ARTHUR GOLDSTUCK | Sovereignty moves into the boardroom - Sunday Times
+**Source News:** US-Iran Nuclear Talks Influence Global Oil Supply Dynamics - Discovery Alert
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** ARTHUR GOLDSTUCK | Sovereignty moves into the boardroom - Sunday Times
+- **The News:** US-Iran Nuclear Talks Influence Global Oil Supply Dynamics - Discovery Alert
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** India's Growth Resilience Tested Amidst Global Uncertainty - Whalesbook
+**Source News:** From tailwinds to headwinds: <b>geopolitical</b> gains at <b>risk</b> again? - Opinion - Business Recorder
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India's Growth Resilience Tested Amidst Global Uncertainty - Whalesbook
+- **The News:** From tailwinds to headwinds: <b>geopolitical</b> gains at <b>risk</b> again? - Opinion - Business Recorder
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** US Ambassador Giordano tours Walvis Bay <b>energy</b> sector, explores investment opportunities
+**Source News:** Oil Steady With Focus on <b>Geopolitical Risk</b> Before Iran Talks - Bloomberg.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US Ambassador Giordano tours Walvis Bay <b>energy</b> sector, explores investment opportunities
+- **The News:** Oil Steady With Focus on <b>Geopolitical Risk</b> Before Iran Talks - Bloomberg.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Hundreds of Iranian protesters in Bellevue demand <b>regime change</b> | king5.com
+**Source News:** The Invisible Backbone: The <b>Geopolitical</b> Gravity Of Uranium – Analysis - Eurasia Review
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Hundreds of Iranian protesters in Bellevue demand <b>regime change</b> | king5.com
+- **The News:** The Invisible Backbone: The <b>Geopolitical</b> Gravity Of Uranium – Analysis - Eurasia Review
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
