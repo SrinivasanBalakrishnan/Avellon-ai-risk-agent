@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 February 2026
+**Date:** 17 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** US-Iran Nuclear Talks Influence Global Oil Supply Dynamics - Discovery Alert
+**Source News:** WTI holds above $63 amid second round of US-Iran talks – US Oil outlook - MarketPulse
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US-Iran Nuclear Talks Influence Global Oil Supply Dynamics - Discovery Alert
+- **The News:** WTI holds above $63 amid second round of US-Iran talks – US Oil outlook - MarketPulse
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** From tailwinds to headwinds: <b>geopolitical</b> gains at <b>risk</b> again? - Opinion - Business Recorder
+**Source News:** Commodities Update February 2026 - Westpac IQ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** From tailwinds to headwinds: <b>geopolitical</b> gains at <b>risk</b> again? - Opinion - Business Recorder
+- **The News:** Commodities Update February 2026 - Westpac IQ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Steady With Focus on <b>Geopolitical Risk</b> Before Iran Talks - Bloomberg.com
+**Source News:** Oil Bears Are Dangerously Underestimating <b>Geopolitical Risk</b> | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Steady With Focus on <b>Geopolitical Risk</b> Before Iran Talks - Bloomberg.com
+- **The News:** Oil Bears Are Dangerously Underestimating <b>Geopolitical Risk</b> | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** The Invisible Backbone: The <b>Geopolitical</b> Gravity Of Uranium – Analysis - Eurasia Review
+**Source News:** Lindsey Graham Backs Iran <b>Regime Change</b>, Cites Israel's 'Clever' Post-Oct 7 Response
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Invisible Backbone: The <b>Geopolitical</b> Gravity Of Uranium – Analysis - Eurasia Review
+- **The News:** Lindsey Graham Backs Iran <b>Regime Change</b>, Cites Israel's 'Clever' Post-Oct 7 Response
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

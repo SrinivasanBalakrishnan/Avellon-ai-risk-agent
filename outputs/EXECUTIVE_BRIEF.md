@@ -1,99 +1,90 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 16 February 2026
+**Date:** 17 February 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 15.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 7.5)
-- **Strait of Hormuz** (Risk Score: 3)
+- **Strait of Hormuz** (Risk Score: 7.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 7.0)
+- **Taiwan Strait** (Risk Score: 3)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 US-Iran Nuclear Talks Influence Global Oil Supply Dynamics - Discovery Alert**
-> *The relationship between nuclear negotiations and oil market volatility demonstrates how <b>geopolitical risk</b> premiums become embedded within commodity&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/strategic-energy-architecture-diplomatic-uncertainty-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05v-_8scXQrfRzoULNTwS1))
+**🟢 WTI holds above $63 amid second round of US-Iran talks – US Oil outlook - MarketPulse**
+> *Since then, the buildup of military assets in the region and Iran's history of contentious agreements have kept a <b>geopolitical risk</b> premium embedded&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketpulse.com/markets/wti-holds-above-63-amid-second-round-us-iran-talks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Dsyz0OpHYnM1pTt47FFnp))
 
-**🟡 Trump's sanctions chief poised to leave after Bessent tension - FMT**
-> *... <b>geopolitical risk</b>. In recent weeks, treasury has been at the centre of the Trump administration's push to roll back many restrictions on the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.freemalaysiatoday.com/category/highlight/2026/02/16/trumps-sanctions-chief-poised-to-leave-after-bessent-tension&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3CTW80Tw7BGzFv_oDdOVCM))
+**🟢 Chulalongkorn University's Engineering Prepares for “SMRs”—Newer, Safer Small Nuclear ...**
+> *... <b>world</b> are accelerating their transition toward carbon neutrality while simultaneously strengthening <b>energy security</b>. Solar, wind, and hydropower&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newswise.com/articles/chulalongkorn-university-s-engineering-prepares-for-smrs-newer-safer-small-nuclear-power-plants-for-clean-energy-in-thailand&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw32uJph4p_fBHzVexTJi65v))
 
-**🟢 Pakistan-Saudi Oil Talks Reshape <b>Energy Security</b> Plans - Discovery Alert**
-> *Saudi Arabia oil flow discussions visualized. <b>Global Energy</b> Markets Drive Strategic Resource Planning. Rising demand for critical minerals transition&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/energy-markets-2026-strategic-resource-minerals/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw33IqPzV4SMCTSyUaEDQEzz))
+**🟢 Natural Resources Minister heads to Poland to promote Canada's nuclear <b>energy</b> expertise**
+> *The European visit is taking place at a time of heightened geopolitical instability and a renewed <b>global</b> focus on <b>energy security</b>, and as Canada seeks&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/business/article-natural-resources-minister-heads-to-poland-to-promote-canadas-nuclear/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0ORe7Ab_kGNV2kUAFgApI9))
 
-**🟡 The Invisible Backbone: The Geopolitical Gravity Of Uranium – Analysis - Eurasia Review**
-> *For decades, the <b>global energy</b> conversation was dominated by the ... This inherent “energy <b>security</b> in a box” makes nuclear power a hedge&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/16022026-the-invisible-backbone-the-geopolitical-gravity-of-uranium-analysis/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1AGXwMd3xXhKxRxGfhhaJb))
+**🟡 US signs nuclear deals with Slovakia, Hungary to advance <b>energy security</b>**
+> *The accords mark concrete steps toward deploying US nuclear <b>energy</b> systems to advance &quot;mutual <b>security</b> interests in the region,&quot; according to the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/americas/us-signs-nuclear-deals-with-slovakia-hungary-to-advance-energy-security/3831616&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0JiImhgvFnHnUOF27LeUCV))
 
-**🟢 India-US Trade Deal Focuses on <b>Energy Security</b>, Growth Inputs - Whalesbook**
-> *This diversification is crucial for mitigating price volatility and ensuring supply continuity, a strategic imperative for the <b>world's</b> fastest-growing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/news/English/economy/India-US-Trade-Deal-Focuses-on-Energy-Security-Growth-Inputs/6991a9550caf1c998745d651&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw21gqCVHSqatTBAlW7wwE3o))
+**🟢 US and Hungary Unite on Civil Nuclear <b>Energy</b> – Full Signing Ceremony | APT - YouTube**
+> *The landmark deal strengthens <b>energy security</b>, advances civil nuclear collaboration, and boosts <b>international</b> relations between the two nations&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhwvxyJElxJI&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0-75m3Y6-ONSqt7U7J9ukS))
 
 
 ## 🏛 CYBER & TECH
-**🟢 From tailwinds to headwinds: <b>geopolitical</b> gains at <b>risk</b> again? - Opinion - Business Recorder**
-> *External debt growth therefore outpaced reserves building by nearly USD 3 billion, even as the current account deficit remained a mere under USD 0.2&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brecorder.com/news/amp/40407351&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0jW1VttQ11VOVQZTMCiH8w))
+**🟢 Commodities Update February 2026 - Westpac IQ**
+> *Overall, <b>geopolitical risk</b> remains a key support but rising non‑OPEC supply, particularly from North America, and mixed demand signals keep crude&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.westpaciq.com.au/economics/2026/02/commodities-update-february-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Wdc7JxrE6cPKnDp2mA9C-))
 
-**🟢 Clean <b>Energy</b> Stocks Extend Rally on AI Demand as Oil Falters - The Business Download |**
-> *The S&amp;P <b>Global</b> Clean <b>Energy</b> Transition Index, tracked by more than $5 ... <b>Security</b> / Reliability, EV, Financial Action, General Trends&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thebusinessdownload.com/clean-energy-stocks-extend-rally-on-ai-demand-as-oil-falters/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2OtHmdVZBshTYwc1VSxYwT))
+**🟢 Oil Gains on Iran, Stocks Tepid in Holiday Trading: Markets Wrap - SWI swissinfo.ch**
+> *(Bloomberg) — Crude oil rose, with traders pricing in heightened <b>geopolitical risk</b> after Iran conducted naval exercises near a critical shipping&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.swissinfo.ch/eng/oil-gains-on-iran%252C-stocks-tepid-in-holiday-trading%253A-markets-wrap/90953033&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3WwqzWaOBI4wz6Vpqv7-fy))
 
-**🟢 India Engages Europe, G7 Partners Amid Shifting Global <b>Security</b> Order**
-> *... <b>Security</b> Conference 2026 , which concluded on February 15 in Munich, Germany. ... <b>Indo</b>-<b>Pacific</b> cooperation. Jaishankar additionally met Croatian Foreign&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tmv.in/article/india-engages-europe-g7-partners-amid-shifting-global-security-order-date%3D2026-02-16&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1sYDpWmd09DQDPMA2EUsyg))
+**🟢 <b>Risk</b> managers: Shape the future of climate insurance &amp; your role - WTW**
+> *These threats are arising from climate <b>risks</b>, as well as supply chain, <b>geopolitical</b> and cyber exposures. Your <b>risk</b> management approach can keep&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wtwco.com/en-nz/insights/2026/02/risk-managers-how-to-shape-the-future-of-insuring-physical-climate-risk-and-your-role&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3cTo8RnkGm8MZspDhv_bwq))
 
-**🟡 Taiwan rebukes Chinese foreign minister's remarks on <b>Asia</b>-<b>Pacific</b> | NHK WORLD-JAPAN News**
-> *... <b>Asia</b>-<b>Pacific</b> region at the Munich <b>Security</b> Conference in Germany on Saturday. He reiterated his criticism of Japanese Prime Minister Takaichi&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www3.nhk.or.jp/nhkworld/en/news/20260216_03/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2LNRnGtozlDQkYYvw-blRA))
+**🟢 Renewable Power is Key to Japan's Energy Security - Climate Bonds Initiative**
+> *This reliance exposes the country to <b>geopolitical risk</b>, global price volatility, and supply chain disruption, elevating energy policy from an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.climatebonds.net/data-insights/publications/renewable-power-key-japans-energy-security&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Rno9CMkfGd7wOq4gGHMY2))
 
-**🟡 AI-fuelled supply chain cyber attacks surge in <b>Asia</b>-<b>Pacific</b> - SecurityBrief Australia**
-> *This creates pathways that can bypass <b>security</b> measures focused on the perimeter of a single firm. Leaks and access. The report also highlights&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://securitybrief.com.au/story/ai-fuelled-supply-chain-cyber-attacks-surge-in-asia-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2Wgjybj630x2GtWfPE57_C))
+**🟢 UNOCT and AU CTC Unite Eastern Africa to <b>Secure Energy</b> Infrastructure**
+> *<b>International</b> experts from the Russian Ministry of <b>Energy</b>, the Kuwait Oil Company, as well as the Former Director from the India Maritime <b>Security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.un.org/counterterrorism/en/events/unoct-and-auctc-unite-eastern-africa-secure-energy-infrastructure&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2a2zHDGeYc3ssFMxk31dcs))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Oil Steady With Focus on <b>Geopolitical Risk</b> Before Iran Talks - Bloomberg.com**
-> *Oil was little changed at the start of the week, as traders monitored <b>geopolitical risk</b> before talks between the US and Iran are expected to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-02-15/latest-oil-market-news-and-analysis-for-feb-16&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Upj_BiPDLD6lXgBt2CIkb))
+**🟢 Oil Bears Are Dangerously Underestimating <b>Geopolitical Risk</b> | OilPrice.com**
+> *Despite a general assumption of security due to U.S. shale production, <b>geopolitical risks</b>, particularly those stemming from potential U.S.-Iranian&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Oil-Bears-Are-Dangerously-Underestimating-Geopolitical-Risk.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ASEdPo55Xx-PJJ6Z_mweZ))
 
-**🟢 Oil Steady With Focus on <b>Geopolitical Risk</b> Before Iran Talks | Financial Post**
-> *Oil was little changed at the start of the week, as traders monitored <b>geopolitical risk</b> before talks between the US and Iran resume on Tuesday....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://financialpost.com/pmn/business-pmn/oil-steady-with-focus-on-geopolitical-risk-before-iran-talks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0J06FAV0Sa7NdzR_1jYXRZ))
+**🟢 Japanese yen slides after softer-than-expected GDP - Equiti**
+> *Q4 2025 data averts technical recession but underwhelms analysts &middot; Oil prices rise ahead of US–Iran talks: <b>geopolitical risk</b> premium persists....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.equiti.com/sc-en/news/market-news/japanese-yen-slides-after-softer-than-expected-gdp/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0LCjr5AE_0iUy3T2qxDebD))
 
-**🟢 ADNOC's LNG Expansion Signals a New Phase of <b>Energy</b> Leverage | OilPrice.com**
-> *LNG carriers are no longer transport assets, especially in a <b>world</b> where <b>energy security</b> has become a policy and a price. LNG carriers have become&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/ADNOCs-LNG-Expansion-Signals-a-New-Phase-of-Energy-Leverage.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0jTBGoKfUbz7n46yd2y77p))
+**🟢 Reflections from Munich 2026 - Center on Global Energy Policy at Columbia University SIPA**
+> *... <b>Geopolitical Risks</b>” Roundtable. Speaking at a roundtable on natural gas and geopolitics hosted by UNIPER. Sharing my thoughts on state capitalism&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energypolicy.columbia.edu/reflections-from-munich-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2mY6L_x4p1H2afoeT8U_97))
 
-**🟢 India Commits to Cease Russian Oil Purchases, Says US Secretary Rubio**
-> *Rubio's comments and the commitments made by India underscore the complex interplay between <b>international</b> diplomacy and <b>energy security</b>, particularly&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indianewsnetwork.com/en/india-commits-cease-russian-oil-purchases-says-us-secretary-rubio-20260216&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2nnboC8RZQ8LNt2AM-OiPQ))
+**🟢 Japan's national security depends on scaling renewable clean power |… - Climate Bonds Initiative**
+> *... <b>geopolitical risk</b>. Download the full report here: Renewable Power is Key to Japan's Energy Security | Climate Bonds. &lt;ENDS&gt;. Contact for Interviews&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.climatebonds.net/news-events/press-room/press-releases/japans-national-security-depends-scaling-renewable-clean-power&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3268l-pGIdEygXcYR4hPOL))
 
-**🟡 FM urges stronger African coordination to maximize AU's G20 membership**
-> *... <b>sovereign debt crisis</b>. He underlined the need to periodically update the African Union's priorities within the G20 framework, deepen the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sis.gov.eg/en/media-center/news/fm-urges-stronger-african-coordination-to-maximize-au-s-g20-membership/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2yG4MhXKuuMMc8IVc6U8rl))
+**🟢 Energy &amp; Environmental Implications of Recent Events in Venezuela | Baker Botts L.L.P.**
+> *... risk for energy projects. Geopolitics, debt, and property rights shape the ... <b>Geopolitical Risks</b>. + Follow x Following x Following - Unfollow....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/energy-environmental-implications-of-2998432/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1pUWonYqrkxNPtrEqt3X16))
 
 
 ## 🏛 LEADERSHIP
-**🟢 The Invisible Backbone: The <b>Geopolitical</b> Gravity Of Uranium – Analysis - Eurasia Review**
-> *As the West seeks to “de-<b>risk</b>” from Russia, the <b>geopolitical</b> competition has shifted to Africa, specifically Niger and Namibia. The 2023 coup in Niger&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/16022026-the-invisible-backbone-the-geopolitical-gravity-of-uranium-analysis/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1AGXwMd3xXhKxRxGfhhaJb))
+**🟢 Lindsey Graham Backs Iran <b>Regime Change</b>, Cites Israel's 'Clever' Post-Oct 7 Response**
+> *US Senator Lindsey Graham has declared that the Iranian <b>regime</b> is at its weakest point since the 1979 revolution, asserting that 'the best answer&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dsm6tq0Rpc7U&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw12yOHYwH102urF9QtK042z))
 
-**🟢 RBA to offer more rates call insight before jobs data - AFR**
-> *... government during the 62nd Munich Security Conference. Getty. “Change, change, <b>regime change</b>,” the huge crowd chanted, waving green-white-and-red&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/politics/federal/australian-world-news-live-updates-20260215-p5o2dg&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3JNWqL1CZSeD-hXJ-LIoJK))
-
-**🟢 Global Day of Action: Thousands rally in downtown LA for Iranian <b>regime change</b> - FOX 11**
-> *Protesters in LA called for <b>change</b> to the current <b>regime</b> in Iran. LOS ANGELES - Massive crowds gathered in downtown Los Angeles Saturday. What we know&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.foxla.com/news/global-day-action-thousands-rally-downtown-la-iranian-regime-change&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2qUYgrlbOi-fu3KAunTCvL))
-
-**🔴 Protesters Fill The Streets Of Toronto, Canada To Demand <b>Regime Change</b> In Iran**
-> *Demonstrators filled the streets of Toronto, Canada on Saturday to demand <b>regime change</b> in Iran. Stay Connected Forbes Breaking News on X:&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQQqEV9_wOk0&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1aYJBcFOq_dg7rDSVaesqY))
-
-**🟢 Massive demonstrations held to oppose Iran's <b>government</b> - POLITICO**
-> *Banging drums and chanting for <b>regime change</b>, the giant and boisterous rally in Munich was part of what Pahlavi described as a “global day of action”&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.politico.com/news/2026/02/15/massive-demonstrations-held-to-oppose-irans-government-00782529&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3N-dZ3gYV4xqdA5toTm-fR))
+**🟢 'It'd be the biggest mistake': Sen. Graham on if US stopped pushing for <b>change</b> in Iran**
+> *U.S. Sen. Lindsey Graham, while speaking at the Munich Security Conference, is hoping the United States will pursue <b>regime change</b> in Iran....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://abcnews4.com/news/local/itd-be-the-biggest-mistake-sen-graham-on-if-us-stopped-pushing-for-change-in-iran-tehran-protests-donald-trump-cnn-ali-khamenei-lindsey-graham&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0RqQLT-mHrLvuXpdp7tP68))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 The obligation to create defensive resilience - Infrastructure Investor**
-> *... <b>geopolitical risk</b> premiums and challenge assumptions around asset stability and exit timing. Insurers are no longer treating hybrid attacks on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.infrastructureinvestor.com/the-obligation-to-create-defensive-resilience/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0AOsBXMcxno8WjuaoY3Gk4))
+**🟢 'Key To A Safe <b>Indo</b>-<b>Pacific</b>': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger**
+> *Sergio Gor, along with Samuel J. Paparo, commander of the US <b>Indo</b>-<b>Pacific</b> Command, visited the Indian Army's Western Command....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.news18.com/india/key-to-a-safe-indo-pacific-ambassador-sergio-gor-says-india-us-defence-ties-growing-stronger-ws-l-9908407.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0yd1jrtC6s4nLSPLrBWR33))
 
-**🟢 DAX 40: Hidden Opportunity Or Blow?Up <b>Risk</b> As Germany Flirts With Stagnation?**
-> *German blue chips are hovering around a crucial region where every headline on the ECB, growth, or <b>geopolitics</b> can flip the script from hopeful&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ad-hoc-news.de/boerse/news/ueberblick/dax-40-hidden-opportunity-or-blow-up-risk-as-germany-flirts-with/68583865&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3XqxSzOp93GcyC-gnrBrUD))
+**🟢 Australia, Philippines, U.S. conduct Multilateral Maritime Cooperative Activity - PACOM**
+> *SOUTH CHINA SEA — The combined armed forces of Australia, the Philippines, and the United States, demonstrated a collective commitment to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pacom.mil/Media/NEWS/News-Article-View/Article/4407184/australia-philippines-and-us-conduct-multilateral-maritime-cooperative-activity/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1zkzcvA89pr91dPLBl4OZ-))
 
-**🟢 EUR/USD expected to continue uptrend after recent short-term correction**
-> *... <b>geopolitical risks</b> in the United States have fuelled discussions around de-dollarisation, positioning the euro as a potential alternative reserve&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.sg/companies-markets/eurusd-expected-continue-uptrend-after-recent-short-term-correction&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1wIFwhLAmacU02jSduxC38))
+**🟢 Japan's Updated 'Free and Open <b>Indo</b>-<b>Pacific</b>' Initiative to Strengthen Cooperation on ...**
+> *It was originally advocated by former Prime Minister Shinzo Abe in 2016. The initiative envisions building a rules-based international order, setting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://japannews.yomiuri.co.jp/politics/politics-government/20260217-311661/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2DxJYcMZl4PfzHPwv-DPKT))
 
-**🟢 In Munich, the US urges 'collective strength' among allies to deter China**
-> *... <b>Indo</b>-<b>Pacific</b> and Europe during this year's Munich <b>Security</b> Conference (MSC). It comes as Washington pushes its allies to spend more on their own&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/news/china/diplomacy/article/3343636/munich-us-urges-collective-strength-among-allies-deter-china&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3hk7m4bruqsuVxSYekk3TV))
+**🟢 PHL and Italy renew defense pact, eye stronger <b>Indo</b>-<b>Pacific</b> maritime <b>security</b>**
+> *The signing of the renewed Agreement between the Philippines and Italy on Cooperation in the Field of Defense highlights the strengthening&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://businessmirror.com.ph/2026/02/17/phl-and-italy-renew-defense-pact-eye-stronger-indo-pacific-maritime-security/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2Lo_Lqi6MIxCcA6TNTFBvH))
 
-**🟢 <b>Indo</b>-<b>Pacific</b> tensions: US commander flags coercion - Deccan Herald**
-> *India-US defence ties: Admiral Samuel Paparo voiced concern over rising coercion in the <b>Indo</b>-<b>Pacific</b>, stressing peace through strength....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.deccanherald.com/india/us-commander-flags-concern-over-rising-coercion-and-aggression-in-indo-pacific-3899750&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1mzklBqO0s5_11EdZBooXM))
+**🟢 Building valuable commercial links with the Indian Space Research Organisation**
+> *Applications are now open for Round 2 of the International Space Investment Initiative – India Projects, under Grant Opportunity GO7912....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://spaceanddefense.io/building-valuable-commercial-links-with-the-indian-space-research-organisation/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1PJ2Jf-n7q6nDN-jq-ZiWL))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
