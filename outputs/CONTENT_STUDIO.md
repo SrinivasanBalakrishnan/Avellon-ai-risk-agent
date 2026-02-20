@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 19 February 2026
+**Date:** 20 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Egypt launches first National Startup Charter to accelerate innovation and investment - Clyde &amp; Co
+**Source News:** Trump considers limited strike on Iran to force nuclear deal, Wall Street Journal reports
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Egypt launches first National Startup Charter to accelerate innovation and investment - Clyde &amp; Co
+- **The News:** Trump considers limited strike on Iran to force nuclear deal, Wall Street Journal reports
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asia Gains Amid US Data Strength; Oil Surge Adds <b>Geopolitical Risk</b> - Whalesbook
+**Source News:** Investor Demand for Japan Hedge Fund Strategies Swells | Nomura Connects
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia Gains Amid US Data Strength; Oil Surge Adds <b>Geopolitical Risk</b> - Whalesbook
+- **The News:** Investor Demand for Japan Hedge Fund Strategies Swells | Nomura Connects
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** A strong US economy to buoy global markets in 2026: Betashares - Professional Planner
+**Source News:** Oil Settles At Six-Month High | Rigzone
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** A strong US economy to buoy global markets in 2026: Betashares - Professional Planner
+- **The News:** Oil Settles At Six-Month High | Rigzone
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** EU <b>Geopolitical Risk</b> Update - Key Policy &amp; Regulatory Developments No. 125 - Jones Day
+**Source News:** Rubio Calls on Europe to Counter Chinese Communist Regime at 2026 Munich <b>Security</b> Conference
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** EU <b>Geopolitical Risk</b> Update - Key Policy &amp; Regulatory Developments No. 125 - Jones Day
+- **The News:** Rubio Calls on Europe to Counter Chinese Communist Regime at 2026 Munich <b>Security</b> Conference
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
