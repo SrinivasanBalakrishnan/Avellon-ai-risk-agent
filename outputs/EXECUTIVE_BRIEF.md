@@ -1,100 +1,93 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 21 February 2026
+**Date:** 22 February 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 17.0)
-- **Taiwan Strait** (Risk Score: 5.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
-- **Panama Canal** (Risk Score: 3.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 12.5)
+- **Strait of Hormuz** (Risk Score: 7.5)
+- **Taiwan Strait** (Risk Score: 6)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 Why the Strait of Hormuz remains central to <b>global energy security</b> - The Hindu**
-> *Explore the strategic significance of the Strait of Hormuz and its impact on <b>global energy security</b> and economies....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/news/international/why-the-strait-of-hormuz-remains-central-to-global-energy-security/article70656443.ece&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2VTWGFqsCRNup-8xm7rN_t))
+**🔴 Tariffs, Fed and Iran: Three Tests, One Resilient Market - ActionForex**
+> *<b>Geopolitical risk</b> re-entered the spotlight last week as tensions between the US and Iran escalated sharply. Rhetoric hardened, diplomatic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.actionforex.com/action-insight/market-overview/weekly-report/630441-tariffs-fed-and-iran-three-tests-one-resilient-market/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3x6ozSLY90M52K3d8PkbbD))
 
-**🟡 Abqaiq Aramco Oil Field: 2026 Strategic <b>Energy</b> Hub Insights**
-> *Explore how abqaiq oil field, abqaiq aramco camp, and <b>energy</b> infrastructure drive <b>global</b> stability, critical production, and <b>security</b> in 2025....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://farmonaut.com/mining/abqaiq-aramco-oil-field-2026-strategic-energy-hub-insights&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2aOX4ypO_kqAaO4-glqBTm))
+**🟡 Can the US-Iran war buzz fuel gold price to a new peak after the US Supreme Court ... - Mint**
+> *According to market experts, trade uncertainty stemming from the US Supreme Court's decision on tariffs, a <b>geopolitical risk</b> premium amid rising&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/market/commodities/can-the-us-iran-war-buzz-fuel-gold-price-to-a-new-peak-after-the-us-supreme-court-decision-on-trumps-tariffs-11771666487390.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0nMSd7rLHwlyxH4T4AJZ1F))
 
-**🟡 Missile swarms &amp; drone hordes: Why US should think twice before attacking Iran**
-> *It has also indicated that the deployment is meant to ensure <b>security</b> in the Strait of Hormuz, a key <b>global energy</b> corridor. 'Message Of War&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/defence/international/gulf-f35s-armada-and-destroyers-missile-swarms-drone-hordes-why-us-should-think-twice-before-attacking-iran-irans-saturation-attack/articleshow/128603295.cms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3z07ofHQJhS-a7v26b20OX))
+**🟡 Australian warship transits Taiwan Strait, tracked by China's Navy - The Hindu**
+> *... Japan PM Takaichi warns of China 'coercion', vows ... Why the Strait of Hormuz remains central to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/news/international/australian-warship-transits-taiwan-strait-tracked-by-chinas-navy/article70662377.ece&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0Wqeg2s2tA_tVdCVWuXkBR))
 
-**🟢 Supreme Court handed Trump a 'humiliating' gift: analyst - Raw Story**
-> *... <b>economic warfare</b>.” BeLoud Share. SmartNewsTrump News. For customer support contact support@rawstory.com. Report typos and corrections to corrections&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.rawstory.com/trump-tariff-2675289796/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3DsKRuLCYL8l8jcXpMxh3K))
+**🔴 Interview: Ashraf Zaidi on 'Why India Should Stand with Iran in the Event of a War ... - Muslim Mirror**
+> *Any escalation between the U.S. and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://muslimmirror.com/interview-ashraf-zaidi-on-why-india-should-stand-with-iran-in-the-event-of-a-war-with-the-united-states-and-its-allies/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3rgXv6eXEr1sP_il4-MHcg))
 
-**🟢 The Supreme Court Isn't a Rubber Stamp - The Atlantic**
-> *Who could ever forget “Liberation Day” in April 2025, when America declared <b>economic warfare</b> on the rest of the world? Or, at least it was his&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theatlantic.com/ideas/2026/02/scotus-tariff-decision-trump/686087/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3LNik-NoAEFt4MnKzfxEPc))
+**🟢 Trump pushes U.S. toward <b>war</b> with Iran as advisers urge focus on <b>economy</b>**
+> *President Donald ⁠Trump has pushed the United States to the brink of <b>war</b> with Iran even as aides urge him to focus more on voters' <b>economic</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2026/02/22/world/politics/trump-us-iran-war-economy/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw39yYB5FLC1FL-RAvZMeOd8))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Euro Near One-Month Low as US-Iran <b>Risks</b> Fuel Downside Bets - Bloomberg.com**
-> *The euro remains overvalued while <b>geopolitical risks</b> haven't yet been priced in, with options markets showing traders are focused on protecting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-02-20/euro-near-one-month-low-as-us-iran-risks-fuel-downside-bets&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1mVLJGzZH6eAD_ShuRO-Ol))
+**🔴 US-Iran tensions, tariff fallout and China reopening to shape commodities next week**
+> *... <b>geopolitical risks</b>. Minutes from the January FOMC meeting signaled no ... risk premium. MCX Crude Oil futures surged on the daily chart&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/commodities/us-iran-tensions-tariff-fallout-and-china-reopening-to-shape-commodities-next-week-13838465.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1TqOb7rHxN1Sd729DAtMnu))
 
-**🟢 When the Registry Itself Is Contested: The Unseen <b>Geopolitical Risk</b> in the 2026 gTLD Round**
-> *As the 2026 gTLD round opens, applicants face an overlooked <b>geopolitical hazard</b>: what happens if the registry or RIR underpinning their domain&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://circleid.com/posts/when-the-registry-itself-is-contested-the-unseen-geopolitical-risk-in-the-2026-gtld-round&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3HhJe2cKT_atWVBz7vd5KZ))
+**🟢 This Week's Market Wrap: AI-Led Volatility, Inflation, And Late-Cycle <b>Risk</b> Signals**
+> *Geopolitics, Energy, and Private Credit Stir Late-Cycle Risk Signals ... Investment implication: When <b>geopolitical risks</b> rise and investors&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4873173-this-week-market-wrap-ai-led-volatility-inflation-late-cycle-risk-signals&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2C7AEbp7ASiHo02OJGDzzo))
 
-**🔴 Expect Crude Prices To Scale $80-90/BBl Amid <b>Geopolitical Risks</b> In The Near Term: ICICI Securities**
-> *On CNBC-TV18 | Probal Sen of ICICI Securities to CNBC-TV18 * Escalating US-Iran tensions and potential disruptions near the Strait of Hormuz pose&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Di4OdvMY895c&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3wyediS86SiAGaPU3-I_Wp))
+**🔴 Crypto holds steady amid inflation outlook and <b>geopolitics risks</b>, Nexo says - Yahoo Finance**
+> *... risk-taking. Recent headlines have underscored a more cautious macro ... <b>geopolitical risks</b> and rate uncertainty. Looking ahead, traders are&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/crypto-holds-steady-amid-inflation-210029867.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3LbQpj60CkiM3HGEAg36Vs))
 
-**🟢 Asia Markets, Trade and Supply Chains Feel Effect of US Moves - Bloomberg**
-> *We're seeing a lot of <b>geopolitical risk</b> and saber rattling in this first week of the Year of the Horse. There's the US amassing a vast array of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/newsletters/2026-02-20/asia-markets-trade-and-supply-chains-feel-effect-of-us-moves&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0rP4EEE8kbRk6-_pGMRNkx))
+**🔴 Crypto holds steady amid inflation outlook and <b>geopolitics risks</b>, Nexo says - Investing.com**
+> *... <b>geopolitical risks</b> and rate uncertainty. Looking ahead, traders are focusing on U.S. Core PCE inflation and GDP figures, which could determine&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.investing.com/news/cryptocurrency-news/crypto-holds-steady-amid-inflation-outlook-and-geopolitics-risks-nexo-says-4517532&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0XKn0QypqPTZLR2JQUjnvl))
 
-**🟢 What are the investment opportunities in the next phase of the <b>energy</b> transition? - Barclays**
-> *As a result, despite record deployment of renewable generation, <b>global</b> fossil‑fuel consumption remains high because new <b>energy</b> sources are being&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://home.barclays/insights/2026/02/investment-opportunities-in-next-phase-energy-transition/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1joPmteXK8S8Jx4yciCzzq))
+**🟢 Asean exporters get temporary breathing space as U.S. tariffs reset to 10% - Nation Thailand**
+> *Jon Lang, senior director for economic security policy at <b>geopolitical risk</b> ... risks. He expected the U.S. to import more goods from these&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nationthailand.com/news/world/40062805&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2XRAGL414PxbCDCHRUu-XY))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Quick Swing Trades In XOP Have Allowed Profits To Build**
-> *With <b>geopolitical risk</b> can come opportunity. Look no further than the price of oil and gas to see how that can play out. Headlines are tossing the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.investors.com/research/swing-trading/quick-swing-trades-in-xop-have-allowed-profits-to-build/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw24DP9jI9QIkVpv1sEGmuBd))
+**🔴 Crude Oil Breakout: What the Bull Flag Means for Oil Traders and UCO Buyers**
+> *Commodity markets are experiencing heightened volatility driven by escalating Middle East tensions and shifting supply dynamics. <b>Geopolitical risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/crude-oil-breakout-what-the-bull-flag-means-for-oil-traders-and-uco-buyers-20260220/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0JIo1o-8fLzIARQuowF2gG))
 
-**🟡 'India's recalibration of crude oil import signals shift from discount buying to disciplined ...**
-> *New Delhi: India's recalibration of crude oil imports marks a structural shift from opportunistic discount buying to disciplined <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.millenniumpost.in/business/indias-recalibration-of-crude-oil-import-signals-shift-from-discount-buying-to-disciplined-geopolitical-risk-management-649142&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0CkwbNKvU3TsNubwCLPBBP))
+**🟢 India's Oil Import Shift Signals Structural Energy Security Pivot: GlobalData**
+> *India's recalibration of crude oil imports marks a structural shift from opportunistic discount buying to disciplined <b>geopolitical risk</b> management,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.outlookbusiness.com/economy-and-policy/indias-oil-import-shift-signals-structural-energy-security-pivot-globaldata&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2U2pJErDRLfFD3nLVlYiRG))
 
-**🔴 Trump Sets Iran Deal Deadline; Oil Hits Six-Month High | Horizons Middle East &amp; Africa 2/20/2026**
-> *... <b>geopolitical</b> tensions weighed on <b>risk</b> sentiment; tensions rise in the Horn of Africa, with Ethiopia and Eritrea deploying troops near the Tigray&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dm0CHxcGl6BE&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw00eFxWuglCmftKGPqoAjOm))
+**🟡 Critical Minerals <b>Security</b> Program: Complete Guide - Discovery Alert**
+> *Regional cooperation mechanisms that pool resources across allied nations. Furthermore, the <b>International Energy</b> Agency's Critical Minerals <b>Security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/critical-minerals-security-framework-2026-strong-policy/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw33WxIBxf6LW-ZyegFAk5gq))
 
-**🟡 The Commodities Feed: Trump sets a deadline for Iranian deal | articles - ING Think**
-> *... risk to Iranian and broader Persian Gulf energy infrastructure. In ... <b>Geopolitical risks</b>, expectations of lower interest rates later this&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://think.ing.com/articles/the-commodities-feed-trump-sets-a-deadline-for-iranian-deal200226/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1g9Rl7M5-50cz8bLNy-Azg))
+**🟡 Rare Earth Shock Therapy: IEA Moves From <b>Energy Security</b> to Mineral <b>Security</b>**
+> *In February 2026, the IEA formally elevated its Critical Minerals <b>Security</b> Program following 2025 rare earth export controls that disrupted <b>global</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rareearthexchanges.com/news/rare-earth-shock-therapy-iea-moves-from-energy-security-to-mineral-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3z5_lzd6P3KjgOXG1f576n))
 
-**🟢 Weaned off Putin's gas, Europe now addicted to US LNG - DW.com**
-> *US President Donald Trump has championed his quest for <b>global</b> &quot;<b>energy</b> ... No <b>security</b> without energy <b>security</b>: EU Energy Commissioner. To view&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dw.com/en/weaned-off-putins-gas-europe-now-addicted-to-us-lng/a-75911713&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3tfaXKOgn0y3vmnX7MGK6j))
+**🟢 African <b>Energy</b> Chamber to Lead Delegation to Venezuela - PAN AFRICAN VISIONS**
+> *... <b>global energy security</b>, energy additions and most importantly improving quality of life through energy security. ... energy investments. *African&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://panafricanvisions.com/2026/02/african-energy-chamber-to-lead-delegation-to-venezuela/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2WPVnZ-Vi6yNAcFiBfta8C))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Pakistan's New Special <b>Security</b> Unit Underscores China's Hold on the Country**
-> *Marcus Andreopoulos is a senior research fellow at the international policy assessment group, the <b>Asia</b>-<b>Pacific</b> Foundation, and a subject matter expert&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thediplomat.com/2026/02/pakistans-new-special-security-unit-underscores-chinas-hold-on-the-country/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3AmO14PqvvcaK0FgYpXiO1))
+**🟢 Israel just wiped out Hezbollah's entire missile command structure in one night 8 senior ...**
+> *... <b>regime change</b>. Now Israel just eliminated the command staff of Iran's most powerful proxy force. @Osint613....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://x.com/MarioNawfal/status/2025300922562453976&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2yfOM48dON4Ev2S65Er6qL))
 
-**🟢 Iran: What Comes Next? - Jewish Democratic Council of America**
-> *Is this about standing with the Iranian protesters and people – and possibly bringing about <b>regime change</b>, which will require ground troops – or is it&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jewishdems.org/iran-what-comes-next/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw38IYgDXZv_szEnqoErClmf))
+**🔴 Iran's Students Hold Anti-<b>Regime</b> Protests as Universities Reopen - The New York Times**
+> *His family believes he was executed, but Iran denies executions have taken place. Rallying for <b>Regime Change</b>: People protesting the Iranian government&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw36aFOVUNfF1aMtargIQhI_))
 
-**🟢 Trump Privately Dreams of Iran <b>Regime Change</b> Glory as Democrats Cynically ... - Drop Site News**
-> *Trump says he wants to be the president who takes down the Islamic Republic. Democratic leaders see him walking into a <b>political</b> trap of his own&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dropsitenews.com/p/trump-iran-regime-change-democrats-chuck-schumer-midterms&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1gU8Q7vvRz-pMnOdQot2Pd))
-
-**🟢 MMO Business Roundup: Microsoft Xbox's <b>regime change</b>, Nexon promotes Soderlund**
-> *<b>Regime change</b> at Microsoft Gaming and Xbox: According to reporting at IGN this afternoon, Microsoft Gaming CEO Phil Spencer is leaving the company&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://massivelyop.com/2026/02/20/mmo-business-roundup-microsoft-xboxs-regime-change-nexon-promotes-soderlund/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0s-JZD0r_ksNAbDezjJOk7))
-
-**🟢 Sam Harris | #460 - When the Center Cannot Hold**
-> *Vance's political future, a theory of mind for Tucker Carlson, the prospects for <b>regime change</b> in Iran, and other topics. Jonah Goldberg is the co&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.samharris.org/podcasts/making-sense-episodes/460-when-the-center-cannot-hold&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3mFdb3mAExmSPG0EXWG4GG))
+**🟢 Canadians should not downplay Iran's threat to our country - Victoria Times Colonist**
+> *web1_195afac69646bb1c35dc5146b610de1c0362139b78845ad9a52ddb5e19baadee Protesters in Toronto march in support of <b>regime change</b> in Iran on Feb. 14&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.timescolonist.com/opinion/comment-canadians-should-not-downplay-irans-threat-to-our-country-11907794&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3l3vIdS6mNCaK7fLVK8fSA))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 Commodities weekly: Middle East tensions lift crude and precious metals - Saxo Bank**
-> *Outlook: geopolitics, dollar positioning and China demand in focus &middot; <b>Geopolitical risk</b>: Escalation risks in the Middle East may continue to underpin a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.home.saxo/content/articles/macro/commodities-weekly-middle-east-tensions-lift-crude-and-precious-metals-20022026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3hFM8lC_15Ya8f1i34kEgG))
+**🟢 RANE Podcast:A Look at our <b>Geopolitical</b> Analysis Process - YouTube**
+> *... <b>geopolitical</b> shifts, using the evolving U.S.-Venezuela relationship as a roadmap. RANE is a global <b>risk</b> intelligence company that delivers <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DgcMcs8VIGII&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3HGjCmLMdKvK3rfiXZfZQ1))
 
-**🟢 Can China Capitalize on Changing Transatlantic Currents? - CNAS**
-> *Geopolitical currents in both Europe and the <b>Indo</b>-<b>Pacific</b> are rapidly changing, and there is no one better to talk about these developments than a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnas.org/publications/podcast/can-china-capitalize-on-changing-transatlantic-currents&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1MLjlW0htu24KCdHoy8DLE))
+**🟢 Iran Between Resistance and Reintegration: A Geopolitical Turning Point**
+> *Almost fifty years after the revolution in 1979 that changed the political landscape of Iran, Iran is at the crossroads of its history,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/02/21/iran-between-resistance-and-reintegration-a-geopolitical-turning-point/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw0q53vwDq_OE_BZjioxu-in))
 
-**🟢 Japan Launches Sweeping National <b>Security</b> Overhaul Targeting CCP Coercion**
-> *... security engagement in response to mounting regional pressures. Tag: Tag: CCP coercion East China Sea &middot; Tag: <b>Indo</b>-<b>Pacific security</b> strategy &middot; Tag&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.visiontimes.com/2026/02/20/japan-launches-sweeping-national-security-overhaul-targeting-ccp-coercion.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2zjwXwrvVnXyx2hqzoN7v0))
+**🟡 India and Brazil sign <b>rare earth</b> and critical minerals pact to cut China reliance**
+> *India and Brazil on Saturday entered into a memorandum of understanding on cooperation in <b>rare earths</b> and critical minerals as New Delhi seeks to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.telegraphindia.com/amp/india/india-brazil-rare-earth-pact-boosts-critical-minerals-supply-chain-cooperation-prnt/cid/2148361&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3SlNLoR-P6wBm0Z_j10yDq))
 
-**🟡 France Deploys Dixmude Amphibious Assault Ship to <b>Indo</b>-<b>Pacific</b> for Power Projection Mission**
-> *... <b>Indo</b>-<b>Pacific security</b> actor alongside U.S. and allied forces. The French Ministry of the Armed Forces and the Marine nationale confirmed on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.armyrecognition.com/news/navy-news/2026/france-deploys-dixmude-amphibious-assault-ship-to-indo-pacific-for-power-projection-mission&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw12ej029-3mw4NR-4mHGhxd))
+**🟢 FTS 16:30 21-02 | Venezuela: Public consultation on draft Red Cross Bill - YouTube**
+> *consolidates alliance with Brazil on critical minerals and <b>rare earth elements</b> Join teleSUR's community and be part of a space where your ideas&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdR1LFclR14o&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1CpAL18yZdsgUvFiCScMbs))
 
-**🟢 <b>South</b> Korea's Ex-President Yoon Apologises After Life Sentence Over Martial Law**
-> *Former <b>South</b> Korean President Yoon Suk Yeol issued an apology on Friday following his life sentence for declaring martial law in December 2024,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/02/20/south-koreas-ex-president-yoon-apologises-after-life-sentence-over-martial-law/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2yp8rCr09ZIeWUFHWyoQwC))
+**🟢 Brazil and India agree to boost cooperation on <b>rare earths</b> - WSOC TV**
+> *SAO PAULO — Brazil and India sealed a deal Saturday on critical minerals and <b>rare earths</b>, enhancing cooperation on crucial resources between two&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wsoctv.com/news/business/brazil-india-agree/UDGY7F6QNM4X5D7JB4J36R4HOA/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3vrvnuJ1ilzL-NtB-uoIDk))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 21 February 2026
+**Date:** 22 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Why the Strait of Hormuz remains central to <b>global energy security</b> - The Hindu
+**Source News:** Tariffs, Fed and Iran: Three Tests, One Resilient Market - ActionForex
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why the Strait of Hormuz remains central to <b>global energy security</b> - The Hindu
+- **The News:** Tariffs, Fed and Iran: Three Tests, One Resilient Market - ActionForex
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Euro Near One-Month Low as US-Iran <b>Risks</b> Fuel Downside Bets - Bloomberg.com
+**Source News:** US-Iran tensions, tariff fallout and China reopening to shape commodities next week
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Euro Near One-Month Low as US-Iran <b>Risks</b> Fuel Downside Bets - Bloomberg.com
+- **The News:** US-Iran tensions, tariff fallout and China reopening to shape commodities next week
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Quick Swing Trades In XOP Have Allowed Profits To Build
+**Source News:** Crude Oil Breakout: What the Bull Flag Means for Oil Traders and UCO Buyers
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Quick Swing Trades In XOP Have Allowed Profits To Build
+- **The News:** Crude Oil Breakout: What the Bull Flag Means for Oil Traders and UCO Buyers
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Pakistan's New Special <b>Security</b> Unit Underscores China's Hold on the Country
+**Source News:** Israel just wiped out Hezbollah's entire missile command structure in one night 8 senior ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Pakistan's New Special <b>Security</b> Unit Underscores China's Hold on the Country
+- **The News:** Israel just wiped out Hezbollah's entire missile command structure in one night 8 senior ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
