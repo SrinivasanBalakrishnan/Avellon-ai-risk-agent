@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 24 February 2026
+**Date:** 25 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil Navigates <b>Geopolitical</b> Labyrinth: Deal Hopes vs. Hormuz <b>Risk</b> - Whalesbook
+**Source News:** Three strategic priorities for banking CROs in 2026 | EY - Global
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Navigates <b>Geopolitical</b> Labyrinth: Deal Hopes vs. Hormuz <b>Risk</b> - Whalesbook
+- **The News:** Three strategic priorities for banking CROs in 2026 | EY - Global
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Chief executives optimistic about economic recovery, fear being left behind in AI race - survey - RNZ
+**Source News:** Crude Oil Prices Fall as the Dollar Strengthens and <b>Geopolitical Risks</b> Ease - Barchart.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Chief executives optimistic about economic recovery, fear being left behind in AI race - survey - RNZ
+- **The News:** Crude Oil Prices Fall as the Dollar Strengthens and <b>Geopolitical Risks</b> Ease - Barchart.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil &amp; Gas - Oil price is set to react further from the <b>geopolitical risk</b> premium - IndoPremier
+**Source News:** Japan's LNG resales set new records despite looming oversupply in <b>global</b> markets | IEEFA
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil &amp; Gas - Oil price is set to react further from the <b>geopolitical risk</b> premium - IndoPremier
+- **The News:** Japan's LNG resales set new records despite looming oversupply in <b>global</b> markets | IEEFA
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Canada's Liberal government backs imperialist <b>regime change</b> in Iran - WSWS
+**Source News:** Bangladeshi scholars fear loss of new freedoms after election
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Canada's Liberal government backs imperialist <b>regime change</b> in Iran - WSWS
+- **The News:** Bangladeshi scholars fear loss of new freedoms after election
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
