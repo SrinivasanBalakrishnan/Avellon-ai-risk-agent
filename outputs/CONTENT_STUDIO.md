@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 25 February 2026
+**Date:** 26 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Three strategic priorities for banking CROs in 2026 | EY - Global
+**Source News:** The New Naval Arms Race: <b>Geopolitical</b> Drivers and Global <b>Risks</b> - RSIS
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Three strategic priorities for banking CROs in 2026 | EY - Global
+- **The News:** The New Naval Arms Race: <b>Geopolitical</b> Drivers and Global <b>Risks</b> - RSIS
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Crude Oil Prices Fall as the Dollar Strengthens and <b>Geopolitical Risks</b> Ease - Barchart.com
+**Source News:** <b>Threat</b> intelligence supply chain is full of weak links, researchers find
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Crude Oil Prices Fall as the Dollar Strengthens and <b>Geopolitical Risks</b> Ease - Barchart.com
+- **The News:** <b>Threat</b> intelligence supply chain is full of weak links, researchers find
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Japan's LNG resales set new records despite looming oversupply in <b>global</b> markets | IEEFA
+**Source News:** Gold advances as tariff inflation <b>risks</b> and Iran tensions revive safe-haven demand - KITCO
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Japan's LNG resales set new records despite looming oversupply in <b>global</b> markets | IEEFA
+- **The News:** Gold advances as tariff inflation <b>risks</b> and Iran tensions revive safe-haven demand - KITCO
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Bangladeshi scholars fear loss of new freedoms after election
+**Source News:** Cheta Nwanze - Foreign Policy Research Institute
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bangladeshi scholars fear loss of new freedoms after election
+- **The News:** Cheta Nwanze - Foreign Policy Research Institute
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
