@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 26 February 2026
+**Date:** 27 February 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The New Naval Arms Race: <b>Geopolitical</b> Drivers and Global <b>Risks</b> - RSIS
+**Source News:** The Next 'Cold War': Competition Over Arctic Resources - The Dispatch
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The New Naval Arms Race: <b>Geopolitical</b> Drivers and Global <b>Risks</b> - RSIS
+- **The News:** The Next 'Cold War': Competition Over Arctic Resources - The Dispatch
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** <b>Threat</b> intelligence supply chain is full of weak links, researchers find
+**Source News:** &quot;<b>Geopolitical risk</b> and stock prices&quot; is available at the European Journal of Political Economy ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Threat</b> intelligence supply chain is full of weak links, researchers find
+- **The News:** &quot;<b>Geopolitical risk</b> and stock prices&quot; is available at the European Journal of Political Economy ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold advances as tariff inflation <b>risks</b> and Iran tensions revive safe-haven demand - KITCO
+**Source News:** Bousso: <b>Geopolitical</b> turmoil provides OPEC+ with cover to increase production cautiously.
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold advances as tariff inflation <b>risks</b> and Iran tensions revive safe-haven demand - KITCO
+- **The News:** Bousso: <b>Geopolitical</b> turmoil provides OPEC+ with cover to increase production cautiously.
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Cheta Nwanze - Foreign Policy Research Institute
+**Source News:** <b>Regime Change</b> in Cuba Appeals to Trump but Carries Risks - The New York Times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Cheta Nwanze - Foreign Policy Research Institute
+- **The News:** <b>Regime Change</b> in Cuba Appeals to Trump but Carries Risks - The New York Times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
