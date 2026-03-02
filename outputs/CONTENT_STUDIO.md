@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 01 March 2026
+**Date:** 02 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** UAE announces petrol and diesel prices for March 2026: Are drivers paying the war tax ...
+**Source News:** Digital Gold vs. <b>Geopolitical Risk</b>: BTC Recovers $68,000 Amid Escalating U.S.-Iran Conflict
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UAE announces petrol and diesel prices for March 2026: Are drivers paying the war tax ...
+- **The News:** Digital Gold vs. <b>Geopolitical Risk</b>: BTC Recovers $68,000 Amid Escalating U.S.-Iran Conflict
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** West Asia conflict to raise freight costs, disrupt supply chains: FIEO - ANI News
+**Source News:** Markets likely to open cautious as US-Iran conflict escalates; oil, gold, and volatility in focus
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** West Asia conflict to raise freight costs, disrupt supply chains: FIEO - ANI News
+- **The News:** Markets likely to open cautious as US-Iran conflict escalates; oil, gold, and volatility in focus
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The Fallout Of U.S.-Iran Round Two (SP500) | Seeking Alpha
+**Source News:** EUR/JPY declines below 184.50 as <b>geopolitical risks</b> boost Japanese Yen - Mitrade
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Fallout Of U.S.-Iran Round Two (SP500) | Seeking Alpha
+- **The News:** EUR/JPY declines below 184.50 as <b>geopolitical risks</b> boost Japanese Yen - Mitrade
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Iranian community in L.A. calls for <b>regime change</b> after Ayatollah's death | CNN
+**Source News:** Nine people killed as protests erupt in Pakistan and Iraq over Khamenei's death | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iranian community in L.A. calls for <b>regime change</b> after Ayatollah's death | CNN
+- **The News:** Nine people killed as protests erupt in Pakistan and Iraq over Khamenei's death | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
