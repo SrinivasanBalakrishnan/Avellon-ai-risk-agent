@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 02 March 2026
+**Date:** 03 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Digital Gold vs. <b>Geopolitical Risk</b>: BTC Recovers $68,000 Amid Escalating U.S.-Iran Conflict
+**Source News:** Rivian CFO on <b>geopolitical risk</b>, software scrutiny, and upcoming R2 launch - CNBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Digital Gold vs. <b>Geopolitical Risk</b>: BTC Recovers $68,000 Amid Escalating U.S.-Iran Conflict
+- **The News:** Rivian CFO on <b>geopolitical risk</b>, software scrutiny, and upcoming R2 launch - CNBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Markets likely to open cautious as US-Iran conflict escalates; oil, gold, and volatility in focus
+**Source News:** The oil price surge is just one symptom of a supply chain network that is not fit for this age of ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Markets likely to open cautious as US-Iran conflict escalates; oil, gold, and volatility in focus
+- **The News:** The oil price surge is just one symptom of a supply chain network that is not fit for this age of ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** EUR/JPY declines below 184.50 as <b>geopolitical risks</b> boost Japanese Yen - Mitrade
+**Source News:** Market update: Conflict in the Middle East | Barclays Private Bank
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** EUR/JPY declines below 184.50 as <b>geopolitical risks</b> boost Japanese Yen - Mitrade
+- **The News:** Market update: Conflict in the Middle East | Barclays Private Bank
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Nine people killed as protests erupt in Pakistan and Iraq over Khamenei's death | Reuters
+**Source News:** Why <b>Regime Change</b> by Force Is Unlikely to Work in Iran | The Walrus
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Nine people killed as protests erupt in Pakistan and Iraq over Khamenei's death | Reuters
+- **The News:** Why <b>Regime Change</b> by Force Is Unlikely to Work in Iran | The Walrus
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
