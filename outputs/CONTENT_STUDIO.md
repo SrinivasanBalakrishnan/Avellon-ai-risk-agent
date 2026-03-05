@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 04 March 2026
+**Date:** 05 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Why Investors Should Pay Attention to Oil Prices as War With Iran Rattles Markets
+**Source News:** Kazakhstan's multivector foreign policy and strategic realignment in the post-Soviet era
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why Investors Should Pay Attention to Oil Prices as War With Iran Rattles Markets
+- **The News:** Kazakhstan's multivector foreign policy and strategic realignment in the post-Soviet era
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** The UBS Global Investment Returns Yearbook 2026: History, <b>risk</b> and return in turbulent times
+**Source News:** Crypto Markets Stand Firm as <b>Geopolitical Risk</b> Hits Stocks and Oil | MEXC News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The UBS Global Investment Returns Yearbook 2026: History, <b>risk</b> and return in turbulent times
+- **The News:** Crypto Markets Stand Firm as <b>Geopolitical Risk</b> Hits Stocks and Oil | MEXC News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Canada's Heavy Crude Tightens as Hormuz <b>Risk</b> Ripples Through Global Markets | OilPrice.com
+**Source News:** Epic Fury Sends Markets Reeling: A New Energy Shock Ignites USD Surge
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Canada's Heavy Crude Tightens as Hormuz <b>Risk</b> Ripples Through Global Markets | OilPrice.com
+- **The News:** Epic Fury Sends Markets Reeling: A New Energy Shock Ignites USD Surge
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Iranian journalist: Chances for <b>regime change</b> 'not high' - Sky News
+**Source News:** Shifting rationales for strikes on Iran: White House says it doesn't want <b>regime change</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iranian journalist: Chances for <b>regime change</b> 'not high' - Sky News
+- **The News:** Shifting rationales for strikes on Iran: White House says it doesn't want <b>regime change</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
