@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 05 March 2026
+**Date:** 06 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Kazakhstan's multivector foreign policy and strategic realignment in the post-Soviet era
+**Source News:** Are We Heading for an All-Out War in the Middle East? - Rigzone
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Kazakhstan's multivector foreign policy and strategic realignment in the post-Soviet era
+- **The News:** Are We Heading for an All-Out War in the Middle East? - Rigzone
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Crypto Markets Stand Firm as <b>Geopolitical Risk</b> Hits Stocks and Oil | MEXC News
+**Source News:** How the Middle East conflict exposes Japan's energy… - Climate Bonds Initiative
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Crypto Markets Stand Firm as <b>Geopolitical Risk</b> Hits Stocks and Oil | MEXC News
+- **The News:** How the Middle East conflict exposes Japan's energy… - Climate Bonds Initiative
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Epic Fury Sends Markets Reeling: A New Energy Shock Ignites USD Surge
+**Source News:** investingLive Americas FX news wrap 5 Mar: <b>Geopolitics</b> continue to drive the markets
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Epic Fury Sends Markets Reeling: A New Energy Shock Ignites USD Surge
+- **The News:** investingLive Americas FX news wrap 5 Mar: <b>Geopolitics</b> continue to drive the markets
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Shifting rationales for strikes on Iran: White House says it doesn't want <b>regime change</b>
+**Source News:** Operation Epic Fury: A New Architecture of <b>Regime Change</b> - Modern Diplomacy
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Shifting rationales for strikes on Iran: White House says it doesn't want <b>regime change</b>
+- **The News:** Operation Epic Fury: A New Architecture of <b>Regime Change</b> - Modern Diplomacy
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
