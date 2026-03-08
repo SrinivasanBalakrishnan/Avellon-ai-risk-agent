@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 07 March 2026
+**Date:** 08 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** A Look At Battalion Oil (BATL) Valuation After <b>Geopolitical</b> Tensions And $15 Million Private ...
+**Source News:** PROLONGED RECOVERY EXPECTED The war with Iran could leave consumers and ... - Facebook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** A Look At Battalion Oil (BATL) Valuation After <b>Geopolitical</b> Tensions And $15 Million Private ...
+- **The News:** PROLONGED RECOVERY EXPECTED The war with Iran could leave consumers and ... - Facebook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** From <b>risk</b> to uncertainty: Lagarde's message at Johns Hopkins - Decode39
+**Source News:** How <b>geopolitical</b> tensions affect Custom Truck One Source Inc. stock - Naitre et grandir
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** From <b>risk</b> to uncertainty: Lagarde's message at Johns Hopkins - Decode39
+- **The News:** How <b>geopolitical</b> tensions affect Custom Truck One Source Inc. stock - Naitre et grandir
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Geopolitical Risk</b> Premium Drives Surge in Crude Prices To Above $90/bbl | RBN Energy
+**Source News:** Gold slips despite <b>geopolitical</b> tensions as traders weigh Fed outlook and oil price spike
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical Risk</b> Premium Drives Surge in Crude Prices To Above $90/bbl | RBN Energy
+- **The News:** Gold slips despite <b>geopolitical</b> tensions as traders weigh Fed outlook and oil price spike
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump wants to pick Iran's new leader - will a hostile <b>regime</b> under fire agree? - BBC
+**Source News:** Islamabad risks losing International Monetary Fund support over Taliban - AsiaNews.it
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump wants to pick Iran's new leader - will a hostile <b>regime</b> under fire agree? - BBC
+- **The News:** Islamabad risks losing International Monetary Fund support over Taliban - AsiaNews.it
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
