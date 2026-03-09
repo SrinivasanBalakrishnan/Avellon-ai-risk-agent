@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 08 March 2026
+**Date:** 09 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** PROLONGED RECOVERY EXPECTED The war with Iran could leave consumers and ... - Facebook
+**Source News:** During early Asian trading, GBP/USD slips towards 1.3300 as Middle East tensions lift the ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** PROLONGED RECOVERY EXPECTED The war with Iran could leave consumers and ... - Facebook
+- **The News:** During early Asian trading, GBP/USD slips towards 1.3300 as Middle East tensions lift the ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** How <b>geopolitical</b> tensions affect Custom Truck One Source Inc. stock - Naitre et grandir
+**Source News:** Gold Rises As US-Iran Conflict Persists, Keeping <b>Geopolitical Risks</b> Elevated
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How <b>geopolitical</b> tensions affect Custom Truck One Source Inc. stock - Naitre et grandir
+- **The News:** Gold Rises As US-Iran Conflict Persists, Keeping <b>Geopolitical Risks</b> Elevated
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold slips despite <b>geopolitical</b> tensions as traders weigh Fed outlook and oil price spike
+**Source News:** GNFC Vulnerable: <b>Geopolitics</b> Choke LNG, Fertiliser Output <b>Risk</b> | Whalesbook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold slips despite <b>geopolitical</b> tensions as traders weigh Fed outlook and oil price spike
+- **The News:** GNFC Vulnerable: <b>Geopolitics</b> Choke LNG, Fertiliser Output <b>Risk</b> | Whalesbook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Islamabad risks losing International Monetary Fund support over Taliban - AsiaNews.it
+**Source News:** Women, <b>security</b>, power and policy | Lowy Institute
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Islamabad risks losing International Monetary Fund support over Taliban - AsiaNews.it
+- **The News:** Women, <b>security</b>, power and policy | Lowy Institute
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
