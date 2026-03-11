@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 10 March 2026
+**Date:** 11 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Gasoline TUmbles Nearly 5% - Trading Economics
+**Source News:** <b>Geopolitical risks</b> cloud equity market outlook - Bangkok Post
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gasoline TUmbles Nearly 5% - Trading Economics
+- **The News:** <b>Geopolitical risks</b> cloud equity market outlook - Bangkok Post
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Survey: Family Offices Remain Skeptical of Sustainable Investing | Institutional Investor
+**Source News:** Trump's Iran attack is saddling your portfolio with a costly '<b>risk</b> tax' — and you can't escape it
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Survey: Family Offices Remain Skeptical of Sustainable Investing | Institutional Investor
+- **The News:** Trump's Iran attack is saddling your portfolio with a costly '<b>risk</b> tax' — and you can't escape it
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** From the desk of the CIO: Keeping a cool head during <b>geopolitical</b> turbulence - Morningstar Australia
+**Source News:** Trump's fuel economy cuts cost car buyers even more | Opinion - USA Today
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** From the desk of the CIO: Keeping a cool head during <b>geopolitical</b> turbulence - Morningstar Australia
+- **The News:** Trump's fuel economy cuts cost car buyers even more | Opinion - USA Today
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Bridging Bridges: The NATO Parliamentary Assembly's Landmark Visit to India
+**Source News:** PM tells Iranians conditions for <b>regime change</b> soon to come | The Jerusalem Post
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bridging Bridges: The NATO Parliamentary Assembly's Landmark Visit to India
+- **The News:** PM tells Iranians conditions for <b>regime change</b> soon to come | The Jerusalem Post
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
