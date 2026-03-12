@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 11 March 2026
+**Date:** 12 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Geopolitical risks</b> cloud equity market outlook - Bangkok Post
+**Source News:** Carlyle's Currie Warns Against Oil and Gas Hoarding - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical risks</b> cloud equity market outlook - Bangkok Post
+- **The News:** Carlyle's Currie Warns Against Oil and Gas Hoarding - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Trump's Iran attack is saddling your portfolio with a costly '<b>risk</b> tax' — and you can't escape it
+**Source News:** Mapping Linking Value: Input–Output Analysis, Israeli Companies and MENA <b>Risk</b> - The Blogs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump's Iran attack is saddling your portfolio with a costly '<b>risk</b> tax' — and you can't escape it
+- **The News:** Mapping Linking Value: Input–Output Analysis, Israeli Companies and MENA <b>Risk</b> - The Blogs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Trump's fuel economy cuts cost car buyers even more | Opinion - USA Today
+**Source News:** Market Outlook: Oil volatility highlights Canada's edge in energy and gold - BNN Bloomberg
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump's fuel economy cuts cost car buyers even more | Opinion - USA Today
+- **The News:** Market Outlook: Oil volatility highlights Canada's edge in energy and gold - BNN Bloomberg
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** PM tells Iranians conditions for <b>regime change</b> soon to come | The Jerusalem Post
+**Source News:** KT McFarland: We'd like to have <b>regime change</b>, but it's not essential | Fox Business Video
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** PM tells Iranians conditions for <b>regime change</b> soon to come | The Jerusalem Post
+- **The News:** KT McFarland: We'd like to have <b>regime change</b>, but it's not essential | Fox Business Video
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
