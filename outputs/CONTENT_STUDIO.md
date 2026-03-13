@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 March 2026
+**Date:** 13 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Carlyle's Currie Warns Against Oil and Gas Hoarding - YouTube
+**Source News:** Goldman Sachs delays Fed rate-cut call as Middle East war lifts inflation <b>risks</b> | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Carlyle's Currie Warns Against Oil and Gas Hoarding - YouTube
+- **The News:** Goldman Sachs delays Fed rate-cut call as Middle East war lifts inflation <b>risks</b> | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Mapping Linking Value: Input–Output Analysis, Israeli Companies and MENA <b>Risk</b> - The Blogs
+**Source News:** The oil shock is real. The market shock may be coming next - AFR
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Mapping Linking Value: Input–Output Analysis, Israeli Companies and MENA <b>Risk</b> - The Blogs
+- **The News:** The oil shock is real. The market shock may be coming next - AFR
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Market Outlook: Oil volatility highlights Canada's edge in energy and gold - BNN Bloomberg
+**Source News:** Nomura hires FX traders in Asia on bet high volatility to drive demand | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Market Outlook: Oil volatility highlights Canada's edge in energy and gold - BNN Bloomberg
+- **The News:** Nomura hires FX traders in Asia on bet high volatility to drive demand | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** KT McFarland: We'd like to have <b>regime change</b>, but it's not essential | Fox Business Video
+**Source News:** Mission accomplished? The 2003 boast that haunts today's Iran conflict - BBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** KT McFarland: We'd like to have <b>regime change</b>, but it's not essential | Fox Business Video
+- **The News:** Mission accomplished? The 2003 boast that haunts today's Iran conflict - BBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
