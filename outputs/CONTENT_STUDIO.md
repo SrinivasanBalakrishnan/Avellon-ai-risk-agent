@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 13 March 2026
+**Date:** 14 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Goldman Sachs delays Fed rate-cut call as Middle East war lifts inflation <b>risks</b> | Reuters
+**Source News:** <b>Energy</b> Department Initiates Strategic Petroleum Reserve Emergency Exchange to Stabilize ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Goldman Sachs delays Fed rate-cut call as Middle East war lifts inflation <b>risks</b> | Reuters
+- **The News:** <b>Energy</b> Department Initiates Strategic Petroleum Reserve Emergency Exchange to Stabilize ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** The oil shock is real. The market shock may be coming next - AFR
+**Source News:** US stocks close lower as <b>geopolitical risks</b> weigh on sentiment - investingLive
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The oil shock is real. The market shock may be coming next - AFR
+- **The News:** US stocks close lower as <b>geopolitical risks</b> weigh on sentiment - investingLive
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Nomura hires FX traders in Asia on bet high volatility to drive demand | Reuters
+**Source News:** Qatar Ratings Affirmed At 'AA/A-1+'; Outlook Stable - S&amp;P Global
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Nomura hires FX traders in Asia on bet high volatility to drive demand | Reuters
+- **The News:** Qatar Ratings Affirmed At 'AA/A-1+'; Outlook Stable - S&amp;P Global
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Mission accomplished? The 2003 boast that haunts today's Iran conflict - BBC
+**Source News:** Mojtaba Khamenei: Iranians react to new Supreme Leader's first address - BBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Mission accomplished? The 2003 boast that haunts today's Iran conflict - BBC
+- **The News:** Mojtaba Khamenei: Iranians react to new Supreme Leader's first address - BBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
