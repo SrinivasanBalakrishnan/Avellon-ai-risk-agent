@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 14 March 2026
+**Date:** 15 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Energy</b> Department Initiates Strategic Petroleum Reserve Emergency Exchange to Stabilize ...
+**Source News:** Several insurers are bracing for losses from escalating Iran-US war - Gulf News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Energy</b> Department Initiates Strategic Petroleum Reserve Emergency Exchange to Stabilize ...
+- **The News:** Several insurers are bracing for losses from escalating Iran-US war - Gulf News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** US stocks close lower as <b>geopolitical risks</b> weigh on sentiment - investingLive
+**Source News:** 11 stocks to harden your portfolio against Iran <b>risk</b> - Morningstar
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US stocks close lower as <b>geopolitical risks</b> weigh on sentiment - investingLive
+- **The News:** 11 stocks to harden your portfolio against Iran <b>risk</b> - Morningstar
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Qatar Ratings Affirmed At 'AA/A-1+'; Outlook Stable - S&amp;P Global
+**Source News:** How Low Can ORCL Really Go In A Market Crash? - Trefis
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Qatar Ratings Affirmed At 'AA/A-1+'; Outlook Stable - S&amp;P Global
+- **The News:** How Low Can ORCL Really Go In A Market Crash? - Trefis
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Mojtaba Khamenei: Iranians react to new Supreme Leader's first address - BBC
+**Source News:** Trump at a Crossroads: No <b>Regime Change</b>, No Exit Strategy in Iran - Left Voice
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Mojtaba Khamenei: Iranians react to new Supreme Leader's first address - BBC
+- **The News:** Trump at a Crossroads: No <b>Regime Change</b>, No Exit Strategy in Iran - Left Voice
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
