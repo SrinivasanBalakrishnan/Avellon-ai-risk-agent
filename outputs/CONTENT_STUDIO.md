@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 March 2026
+**Date:** 17 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** China's Economy Shows Surprise Rebound Even as War <b>Risks</b> Spread - Bloomberg
+**Source News:** Iran War Shows That Doubling Down on Fossil Fuels Is 'Delusional,' UN Climate Chief Says
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** China's Economy Shows Surprise Rebound Even as War <b>Risks</b> Spread - Bloomberg
+- **The News:** Iran War Shows That Doubling Down on Fossil Fuels Is 'Delusional,' UN Climate Chief Says
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** USD/JPY, AUD/USD Forecast: Dollar Slips as <b>Risk</b> Assets Rebound on Hormuz Headlines
+**Source News:** Asia FX Talking: Relatively broad-based pressure | articles - ING Think
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** USD/JPY, AUD/USD Forecast: Dollar Slips as <b>Risk</b> Assets Rebound on Hormuz Headlines
+- **The News:** Asia FX Talking: Relatively broad-based pressure | articles - ING Think
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Interview with Kieran Gilbert, Sky News | Ministers for the Department of Industry, Science ...
+**Source News:** Five things investors need to know about bonds in the Iran crisis | Trustnet
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Interview with Kieran Gilbert, Sky News | Ministers for the Department of Industry, Science ...
+- **The News:** Five things investors need to know about bonds in the Iran crisis | Trustnet
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** NYC protesters call for <b>regime change</b> in Iran as conflict escalates - Yahoo
+**Source News:** Trump predicts US will have 'honour of taking Cuba' amid power blackout - The Guardian
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** NYC protesters call for <b>regime change</b> in Iran as conflict escalates - Yahoo
+- **The News:** Trump predicts US will have 'honour of taking Cuba' amid power blackout - The Guardian
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
