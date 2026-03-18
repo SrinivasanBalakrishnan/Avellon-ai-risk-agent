@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 17 March 2026
+**Date:** 18 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Iran War Shows That Doubling Down on Fossil Fuels Is 'Delusional,' UN Climate Chief Says
+**Source News:** China's <b>risk</b>-reward is shifting - Franklin Templeton
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran War Shows That Doubling Down on Fossil Fuels Is 'Delusional,' UN Climate Chief Says
+- **The News:** China's <b>risk</b>-reward is shifting - Franklin Templeton
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asia FX Talking: Relatively broad-based pressure | articles - ING Think
+**Source News:** Gold Gains Amid <b>Geopolitical Risks</b> Ahead Of Key Policy Decisions Due This Week
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia FX Talking: Relatively broad-based pressure | articles - ING Think
+- **The News:** Gold Gains Amid <b>Geopolitical Risks</b> Ahead Of Key Policy Decisions Due This Week
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Five things investors need to know about bonds in the Iran crisis | Trustnet
+**Source News:** Gold price steadies near $5,015 as <b>geopolitical risk</b> counters yield pressure - Traders Union
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Five things investors need to know about bonds in the Iran crisis | Trustnet
+- **The News:** Gold price steadies near $5,015 as <b>geopolitical risk</b> counters yield pressure - Traders Union
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump predicts US will have 'honour of taking Cuba' amid power blackout - The Guardian
+**Source News:** Calls for a <b>regime change</b> in Cuba continue as power comes back to the island slowly
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump predicts US will have 'honour of taking Cuba' amid power blackout - The Guardian
+- **The News:** Calls for a <b>regime change</b> in Cuba continue as power comes back to the island slowly
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
