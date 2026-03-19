@@ -1,93 +1,90 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 18 March 2026
+**Date:** 19 March 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 37.0)
-- **Taiwan Strait** (Risk Score: 10.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 6.0)
+- **Strait of Hormuz** (Risk Score: 30.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 10.0)
+- **Taiwan Strait** (Risk Score: 7.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟡 China's <b>risk</b>-reward is shifting - Franklin Templeton**
-> *China's underappreciated equity market and energy resilience amid current <b>geopolitical</b> tensions warrants consideration, according to Franklin&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.franklintempleton.com/articles/2026/etf/chinas-risk-reward-is-shifting&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1siUZ45Q54QNisibve5-Jq))
+**🔴 Prolonged Middle East war and AI profitability 'downgrades' are major <b>risks</b> for economy, RBA says**
+> *The biggest <b>risk</b> that the RBA identified is the &quot;potential for elevated <b>geopolitical</b> tensions to spill over into a severe international shock&quot;....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-03-19/financial-stability-review-reserve-bank-australia/106471810&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1lh1JClMASTc1DIUurhE70))
 
-**🟡 Rosatom's Bushehr Hold: A <b>Geopolitical</b> Squeeze Play on Uranium's <b>Risk</b> Premium - Bitget**
-> *The Macro-Commodity Cycle: Nuclear Fuel and <b>Geopolitical Risk</b> ... The Bushehr warning injects a potent new variable into the long-term cycle for uranium&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bitget.com/amp/news/detail/12560605273753&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3eHi0jironeeJM1gKtQY7l))
+**🔴 Don't lock in future fossil fuel insecurity in response to the Iran war - CEOBS**
+> *... <b>risk</b> locking emissions and further energy insecurity ... In doing so highlighting both the volatility of fossil fuel supply chains to <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ceobs.org/dont-lock-in-future-fossil-fuel-insecurity-in-response-to-the-iran-war/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05E7SMY_CuPTBjXB0Th5IT))
 
-**🟢 Iran maintains oil exports despite Hormuz disruptions, easing <b>global</b> supply fears**
-> *... <b>security</b> risks along the strategically vital Strait of Hormuz, offering a measure of reassurance to <b>global energy</b> markets. Now entering its third&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indonesiabusinesspost.com/6328/energy-and-resources/iran-maintains-oil-exports-despite-hormuz-disruptions-easing-global-supply-fears&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0R1xWedG7tjRPmCrpjixx7))
+**🔴 Bank of Canada maintains rate at 2.25%, says <b>risks</b> skewed to downside as Iran war ...**
+> *... risk of stagflation in his press conference. &quot;Economic weakness ... <b>geopolitical risks</b> remain high. Jan 28, 2026 - 9:45 AM....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-03-18/bank-canada-maintains-rate-225-says-risks-skewed-downside-iran-war&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3zID0yIERjNgvHIGiR94tJ))
 
-**🟡 Oil price surge from Iran <b>war</b> will hurt US growth and fuel inflation, say economists**
-> *Just 2 per cent thought the <b>economic</b> impact of high oil prices would be positive, with the rest expecting little to no impact in either direction. The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2A8JB0sUW1uwyB0FqbCYyf))
+**🟡 JPMorgan's Michele Says Fed Signal Is 'Don't Worry About It' - Bloomberg News**
+> *... sent a “don't worry about it” signal to markets spooked by surging oil prices and heightened <b>geopolitical risk</b> because of the war in Iran....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-03-18/jpmorgan-s-michele-says-fed-sent-don-t-worry-about-it-message&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw17py5TexhqVLS73rIfDaOO))
 
-**🟡 Federal Reserve expected to hold rates steady, offer updated outlook amid Iran <b>war</b>**
-> *... <b>war</b> in Iran could affect the Fed's inflation and <b>economic</b> growth outlook. The recent spike in oil prices, driven by the Middle East conflict, has&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/live/fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-updated-outlook-amid-iran-war-125458502.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw17FFqe2jtXdq0-H6x3XCcq))
+**🔴 Iran targets Gulf <b>energy</b> sites a day after Israeli strikes on <b>world's</b> largest gas field - The Times of India**
+> *Within hours, the <b>world</b> would erupt. Emergency UN <b>Security</b> Council sessions. Relentless media hysteria. Sanctions, threats, perhaps even war—wrapped&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attack-explosions-gulf-countries-dubai-news-donald-trump-netanyahu-mojtaba-khamenei/liveblog/129645283.cms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2uB4pv28hlxddxI7v9-lUK))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Gold Gains Amid <b>Geopolitical Risks</b> Ahead Of Key Policy Decisions Due This Week**
-> *Kedia Advisory - Gold prices edged higher 0.16% to settle at ₹1,55,985, supported by persistent safe-haven demand amid escalating <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/gold-gains-amid-geopolitical-risks-ahead-of-key-policy-decisions-due-this-week-5296083&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2LXNw3Evvpn9K88ewRbohZ))
+**🟢 Navigating the storm: Why boards must act now on <b>geopolitical risk</b> - MinterEllison**
+> *<b>Geopolitical</b> disruption is now a solvency <b>risk</b>. Nick Anson explains what boards must do now on cash flow, supply chains and safe harbour....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.minterellison.com/articles/navigating-the-storm-why-boards-must-act-now-on-geopolitical-risk&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1rWISFb6e0fv02CJwh9JKj))
 
-**🟡 The Commodities Feed: Brent consolidates above $100 as disruptions persist - ing think**
-> *In the near term, gold remains caught between <b>geopolitical risk</b> and macro headwinds from higher rates. We remain constructive over the medium term&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://think.ing.com/articles/the-commodities-feed-brent-consolidates-above-100-as-disruptions-persist180326/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ReEKXJXCRObnaRXRRDBvH))
+**🟡 Opinion: From Dubai with love – a room with a frontline view on a rapidly changing world**
+> *ESG Risks &middot; Climate Risk &middot; Energy Risk &middot; Environment Risk &middot; Governance Risk &middot; Social Risk &middot; <b>Geopolitical Risk</b>. Back to parent navigation item&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.strategic-risk-global.com/geopolitical-risk/opinion-from-dubai-with-love-a-room-with-a-frontline-view-on-a-rapidly-changing-world/1458021.article&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3yP4E2ckyFWKpgpBbvY7gq))
 
-**🟢 China's Pharmaceutical Ascent: Opportunity for Global Health, Test for US Leadership**
-> *Labeling these patterns as “<b>geopolitical</b> contributions” <b>risks</b> conflating distinct domains. Geography becomes <b>geopolitics</b>; industrial policy becomes&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cureus.com/articles/460440-chinas-pharmaceutical-ascent-opportunity-for-global-health-test-for-us-leadership&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2LvA0mPPIvtMQfCDdzRvyV))
+**🟢 Why reshoring is no easy solution to US supply chain disruptions - Baton Rouge Business Report**
+> *Reshoring is gaining traction as companies rethink supply chains amid <b>geopolitical risk</b> and disruption, but experts caution it's not a quick fix, Fast&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessreport.com/article/why-reshoring-is-no-easy-solution-to-us-supply-chain-disruptions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2mni_1Fx6g19TcB9fM7i0D))
 
-**🟢 Rising short interest in JETS: the hedge under <b>geopolitical</b> stress | S&amp;P Global**
-> *The U.S. Global Jets ETF (JETS) is often used by investors as a practical proxy for the publicly traded airline industry....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/03/rising-short-interest-in-jets-the-hedge-under-geopolitical-stress&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0613egJAC1uX1fhFZLiDwe))
+**🔴 UAE affirms targeting Iran's Pars gas field threatens <b>global energy security</b> - Dubai Eye 103.8**
+> *... <b>global energy security</b>. The UAE stressed that such attacks threaten the security and stability of the region and its people, and carry severe&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dubaieye1038.com/news/local/uae-affirms-targeting-irans-pars-gas-field-threatens-global-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3xJW70RhCPLe06DXGZqw-B))
 
-**🟡 Gold prices up, but as crude oil prices weigh on Fed rate cut hopes - The Times of India**
-> *Growing risk to transit through Bab El-Mandeb Strait will further increase <b>geopolitical risk</b> premium embedded in oil. Elevated oil prices and firm&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-22-24k-carat-gold-price-per-kg-silver-india-mcx-comex-etf-stocks-match-city-wise-cost-us-israel-iran-war-middle-east-conflict-latest-news/liveblog/129599816.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1oh4wMJUgNmaITlaWlRUDC))
+**🟢 How many major straits are there in the world? - MSN**
+> *East Asia (China/Taiwan), <b>South China Sea</b> ↔ East China Sea, High geopolitical <b>tension</b>; major route for Northeast Asian trade. Florida Strait, North&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/travel/news/how-many-major-straits-are-there-in-the-world/ar-AA1YQgaD&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3-CCvsPAjAnmy_4zsgH9E9))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Gold price steadies near $5,015 as <b>geopolitical risk</b> counters yield pressure - Traders Union**
-> *Gold tests the 5000 support level on March 17 as high yields and a strong US dollar keep buyers cautious....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/financial-news/show/1721311-gold-price-steadies-geopolitical-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3UIwClIZtBn0FiRiXS-fa-))
+**🟢 Are G Secs really <b>risk</b> free? - Finshots**
+> *It rises when oil prices fall, when <b>geopolitical risks</b> flare up, or when fiscal conditions weaken. But it never drops to zero. Which tells you&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finshots.in/archive/are-g-secs-really-risk-free/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3mLnGLZ_UgErkpdtB4hfz_))
 
-**🟢 Middle East Maritime Chokepoints Shipping Monitor – Data Tools - IEA**
-> *This has major implications for <b>energy security</b> and affordability – and for the <b>world</b> economy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iea.org/data-and-statistics/data-tools/middle-east-maritime-chokepoints-shipping-monitor&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0PayUIDWyaMJ81-aqf9Lv2))
+**🔴 From Beijing to Brussels, <b>Energy</b> Crisis Triggers <b>Global</b> Shift Away from Oil Dependence**
+> *Explore the <b>global energy security</b> shift amid the Hormuz crisis and its impact on oil and gas dependency in today's economy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://chinaglobalsouth.com/analysis/global-energy-security-shift-hormuz-china-europe-asia/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw06PSGQfU7sNx16j0LGYnci))
 
-**🔴 Don't tax away Australia's gas <b>security</b> - AFR**
-> *The Iran conflict has upended <b>global energy</b> markets. International oil and gas prices have surged after key Middle East production and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/policy/energy-and-climate/don-t-tax-away-australia-s-gas-security-20260318-p5okhw&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw11FkDU9qn9nC8nqyCS9LOO))
+**🟡 Iran Orders Evacuation at Saudi, UAE, Qatar <b>Energy</b> Sites After South Pars Strike**
+> *Oil Market Shock and <b>Global Energy Security</b> Implications. The immediate rise in Brent crude above USD108 per barrel (≈RM410) following the evacuation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/iran-evacuation-gulf-energy-sites-south-pars-strike-oil-war-escalation-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw19-T5KnzBYwUidYz0ljcf3))
 
-**🟢 Oil's monopoly kaput, China to be top supplier of <b>energy security</b> - Asia Times**
-> *Now more than ever, the <b>world</b> – especially the <b>Global</b> South – will buy everything China has to sell. China set off alarm bells after its 2025 trade&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/2026/03/oils-monopoly-kaput-china-to-be-top-supplier-of-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2IuJWNrX1FCRvECsxRj3zb))
+**🟢 Why Restricting US Oil Exports Would Backfire - Center on Global Energy Policy**
+> *For decades, the United States has championed open and integrated <b>energy</b> markets as a foundation of <b>energy security</b>, while criticizing efforts by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energypolicy.columbia.edu/why-restricting-us-oil-exports-would-backfire/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0KiWPa6Yq84m_y6TojSgUx))
 
-**🔴 WFP projects food insecurity could reach record levels as a result of Middle East escalation**
-> *While in 2026 the conflict involves a <b>global energy</b> hub and not a ... Lebanon Iran (Islamic Republic of) Food <b>security</b> Emergencies Conflicts&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wfp.org/news/wfp-projects-food-insecurity-could-reach-record-levels-result-middle-east-escalation&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2_BCYCyG4lDOJDyabh9Cl6))
+**🔴 Why <b>Global Energy</b> Shock Could Leave China Stronger Than Ever | OilPrice.com**
+> *But China's secret to energy <b>security</b> in the face of <b>global energy</b> crisis comes down to far more than its massive crude oil supplies. The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Why-Global-Energy-Shock-Could-Leave-China-Stronger-Than-Ever.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw07678vFQuWLASu7AE7qUZm))
 
 
 ## 🏛 LEADERSHIP
-**🔴 Calls for a <b>regime change</b> in Cuba continue as power comes back to the island slowly**
-> *Sec of State Marco Rubio speaks out as Cuba faces an economic and power crisis For video licensing inquiries, contact: licensing@veritone.com....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrdprqLkvB7c&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0E0mLjF5Y-pS-0m0wp5TvX))
+**🟢 For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region**
+> *Netanyahu's Hopes for <b>Regime Change</b> in Iran: Israeli attacks have targeted the command centers of Iran's repressive, internal security forces in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1dsbhqhn2HlPKpMb4oR4JE))
 
-**🔴 Miami Cubans Fear Trump Won't Go Far Enough: 'The Castros Have to Go'**
-> *Many Cubans in Florida have sought <b>regime change</b> for decades. They fear that President Trump's talks with Cuba will not lead to wholesale political&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/03/17/us/politics/florida-cuba-trump.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3bRndacW7rM6NYenqF3HEW))
-
-**🟢 Local Cuban organization hoping for <b>regime change</b> in Cuba - Spectrum News**
-> *Cuban Heritage L.A. met on Monday to discuss how they would want to proceed and handle potential celebrations if their homeland sees a <b>regime change</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://spectrumnews1.com/ca/southern-california/politics/2026/03/17/cuba-u-s--relations-trump-electricity-&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2LmarLC0RLKQSyZh0vw7St))
+**🟢 Castro's Cuba survived nearly 70 years. Could Trump be the one to take it down?**
+> *The Trump administration says it is pushing for <b>regime change</b> in Cuba as it ramps up pressure on the island country....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://san.com/cc/castros-cuba-survived-nearly-70-years-could-trump-be-the-one-to-take-it-down/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0LZ2Ds60-Os6Ol8CdUYcF3))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Saviynt appoints Alex Lei as APJ sales lead - <b>Asia Pacific Security</b> Magazine**
-> *Saviynt has appointed Alex Lei as Senior Vice President of Sales for <b>Asia Pacific</b> and Japan (APJ), based in Singapore, as the company targets&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiapacificsecuritymagazine.com/saviynt-appoints-alex-lei-as-apj-sales-lead/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw109YgDVy0rd_q9KLj8LrcB))
+**🟡 Lessons from Japan's the rare earth shock | East Asia Forum**
+> *Domestic lithium-ion battery recycling can also mitigate <b>geopolitical risk</b> by establishing domestic sources of supply through the recovery of nickel,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://eastasiaforum.org/2026/03/19/lessons-from-japans-the-rare-earth-shock/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1zxh7K-XuapOyTuTGfzNrj))
 
-**🟢 Indian Navy Joins Sea Dragon 2026 ASW Exercise - GKToday**
-> *The exercise assumes greater importance in the context of shifting global <b>security</b> dynamics. As maritime competition intensifies in the <b>Indo</b>-<b>Pacific</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gktoday.in/indian-navy-joins-sea-dragon-2026-asw-exercise/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3BXgrrx2rWQAiWDgg61vrZ))
+**🟡 Real-Time Data Uncovers Large-Cap Volatility, <b>Geopolitical</b> Stress Amplifies It | MSCI**
+> *U.S.–Israel strikes on Iran saw large caps frequently lead intraday volatility, a <b>risk</b> end-of-day data can miss and one that matters for pricing,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msci.com/research-and-insights/quick-take/realtime-data-uncovers-large-cap-volatility-geopolitical-stress-amplifies-it&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw39mchob_fpyedy4IHmwXeU))
 
-**🟢 Prime Minister Carney's <b>Indo</b>-<b>Pacific</b> Blitz: Repositioning Canada For A New Global ...**
-> *... <b>security</b> alliances and elevate Canada's global influence. In the evolving landscape of global diplomacy and economic competition, nations that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://freedomonline.com.ng/prime-minister-carneys-indo-pacific-blitz-repositioning-canada-for-a-new-global-economic-era-by-prince-segun-akanni/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0QQLH1mteoChOF8HVxf47Y))
+**🟡 Lessons from Japan's the rare earth shock | East <b>Asia</b> Forum**
+> *Through multilateral frameworks such as the Quad, the Minerals <b>Security</b> Partnership and the <b>Indo</b>-<b>Pacific</b> Economic Framework, Japan is seeking to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://eastasiaforum.org/2026/03/19/lessons-from-japans-the-rare-earth-shock/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1zxh7K-XuapOyTuTGfzNrj))
 
-**🟢 Saviynt Appoints Alex Lei to Drive Identity <b>Security</b> Growth Across <b>Asia Pacific</b> and Japan**
-> *COMPANY ANNOUNCEMENT: Enterprise <b>security</b> veteran to lead regional sales strategy as organisations across APJ strengthen identity-first cyb......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://itwire.com/it-people-news/people-moves/saviynt-appoints-alex-lei-to-drive-identity-security-growth-across-asia-pacific-and-japan.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3-Lp8x0Ajs_QSdZMHkSLVq))
+**🟢 Ex-member of Trump administration says Iran is Trump's top priority | NHK WORLD-JAPAN News**
+> *She is currently a senior fellow and director of the <b>Indo</b>-<b>Pacific Security</b> Program at the think tank Center for a New American Security. In an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www3.nhk.or.jp/nhkworld/en/news/20260319_04/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2zodiTMo65ryol9EL1FMvP))
 
-**🟢 5 <b>Rare Earth</b> Stocks to Buy with High Upside - Insider Monkey**
-> *5. American <b>Rare Earths</b> Ltd (OTCMKTS:ARRNF). Number of Hedge Fund Holders: N/A. Stock's Upside Potential: 73.81%....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.insidermonkey.com/blog/5-rare-earth-stocks-to-buy-with-high-upside-1718734/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3XOnI-8xe95kDXvw75TfGJ))
+**🟢 India and Japan: A Stabilising Axis for the <b>Indo</b>-<b>Pacific</b>**
+> *FOIP seeks to deepen collective <b>security</b> cooperation with like-minded nations to uphold international law and deter coercive maritime practices. As&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.in/india-japan-stabilising-axis-indo-pacific-899584&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2EXJ9q84TcR6VMU2ZChwbf))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
