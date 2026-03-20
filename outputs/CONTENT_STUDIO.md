@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 19 March 2026
+**Date:** 20 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Prolonged Middle East war and AI profitability 'downgrades' are major <b>risks</b> for economy, RBA says
+**Source News:** <b>Geopolitical risks</b>, private credit threaten financial stability: RBA
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Prolonged Middle East war and AI profitability 'downgrades' are major <b>risks</b> for economy, RBA says
+- **The News:** <b>Geopolitical risks</b>, private credit threaten financial stability: RBA
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Navigating the storm: Why boards must act now on <b>geopolitical risk</b> - MinterEllison
+**Source News:** Daily: Escalating gulf conflict: How to position amid two-way <b>risk</b> | UBS Global
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Navigating the storm: Why boards must act now on <b>geopolitical risk</b> - MinterEllison
+- **The News:** Daily: Escalating gulf conflict: How to position amid two-way <b>risk</b> | UBS Global
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Are G Secs really <b>risk</b> free? - Finshots
+**Source News:** Small-caps bear the brunt as <b>geopolitical risks</b> dent valuations - The Economic Times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Are G Secs really <b>risk</b> free? - Finshots
+- **The News:** Small-caps bear the brunt as <b>geopolitical risks</b> dent valuations - The Economic Times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region
+**Source News:** The peacock throne's gambit: Iran's Reza Pahlavi plans to flip the script on Beijing
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region
+- **The News:** The peacock throne's gambit: Iran's Reza Pahlavi plans to flip the script on Beijing
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

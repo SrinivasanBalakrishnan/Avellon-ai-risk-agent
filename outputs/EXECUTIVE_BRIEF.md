@@ -1,90 +1,100 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 19 March 2026
+**Date:** 20 March 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 30.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 10.0)
-- **Taiwan Strait** (Risk Score: 7.5)
+- **Strait of Hormuz** (Risk Score: 18.0)
+- **Taiwan Strait** (Risk Score: 5.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
+- **Panama Canal** (Risk Score: 4.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Prolonged Middle East war and AI profitability 'downgrades' are major <b>risks</b> for economy, RBA says**
-> *The biggest <b>risk</b> that the RBA identified is the &quot;potential for elevated <b>geopolitical</b> tensions to spill over into a severe international shock&quot;....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-03-19/financial-stability-review-reserve-bank-australia/106471810&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1lh1JClMASTc1DIUurhE70))
+**🔴 <b>Geopolitical risks</b>, private credit threaten financial stability: RBA**
+> *The Reserve Bank of Australia (RBA) warns that with the tremors of <b>geopolitical</b> tensions already being felt, the vulnerabilities of the US and UK&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.financialstandard.com.au/news/geopolitical-risks-private-credit-threaten-financial-stability-rba-179811949&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0h_wpR_JgMmE3GtxVietLc))
 
-**🔴 Don't lock in future fossil fuel insecurity in response to the Iran war - CEOBS**
-> *... <b>risk</b> locking emissions and further energy insecurity ... In doing so highlighting both the volatility of fossil fuel supply chains to <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ceobs.org/dont-lock-in-future-fossil-fuel-insecurity-in-response-to-the-iran-war/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05E7SMY_CuPTBjXB0Th5IT))
+**🟢 Mining: Critical minerals, <b>geopolitics</b> and regulation - Herbert Smith Freehills**
+> *... <b>risk</b>', to ensure that they get quick access to such minerals. <b>Geopolitics</b> and strategic <b>risk</b>. <b>Geopolitical</b> factors will also likely remain key&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hsfkramer.com/insights/reports/2026/global-ma-report-2026/sector-perspectives/mining&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3kzVc57fHvZJnfuwaxsZXv))
 
-**🔴 Bank of Canada maintains rate at 2.25%, says <b>risks</b> skewed to downside as Iran war ...**
-> *... risk of stagflation in his press conference. &quot;Economic weakness ... <b>geopolitical risks</b> remain high. Jan 28, 2026 - 9:45 AM....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-03-18/bank-canada-maintains-rate-225-says-risks-skewed-downside-iran-war&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3zID0yIERjNgvHIGiR94tJ))
+**🟡 Department Leader Says Nuclear Triad Must Be Upgraded to Meet Dual <b>Threat</b>**
+> *&quot;The transition from our legacy systems to a modernized triad occurs during a period of maximum <b>geopolitical risk</b>. There is no room for error.&quot;....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.war.gov/News/News-Stories/Article/Article/4438866/department-leader-says-nuclear-triad-must-be-upgraded-to-meet-dual-threat/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Xaq3Xf99E6E4Zof1nn3-h))
 
-**🟡 JPMorgan's Michele Says Fed Signal Is 'Don't Worry About It' - Bloomberg News**
-> *... sent a “don't worry about it” signal to markets spooked by surging oil prices and heightened <b>geopolitical risk</b> because of the war in Iran....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-03-18/jpmorgan-s-michele-says-fed-sent-don-t-worry-about-it-message&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw17py5TexhqVLS73rIfDaOO))
+**🔴 Iran war fuels <b>global energy</b> crisis as China faces pressure - AzerNews**
+> *Interestingly, China has also expanded its infrastructure and presence along key trade routes as part of its broader <b>energy security</b> strategy—showing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.azernews.az/region/255962.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1ZFULvdmQE_CagzMLFm_rT))
 
-**🔴 Iran targets Gulf <b>energy</b> sites a day after Israeli strikes on <b>world's</b> largest gas field - The Times of India**
-> *Within hours, the <b>world</b> would erupt. Emergency UN <b>Security</b> Council sessions. Relentless media hysteria. Sanctions, threats, perhaps even war—wrapped&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attack-explosions-gulf-countries-dubai-news-donald-trump-netanyahu-mojtaba-khamenei/liveblog/129645283.cms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2uB4pv28hlxddxI7v9-lUK))
+**🔴 Iran Launches Fierce Attack on Largest Gas Field | West Asia War Escalates - YouTube**
+> *Iran targeted critical energy infrastructure across Gulf nations, raising serious concerns about <b>global energy security</b> and economic stability&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DUXeqx8ycaXw&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3ujchveNFnh1cvpXhoGYM-))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Navigating the storm: Why boards must act now on <b>geopolitical risk</b> - MinterEllison**
-> *<b>Geopolitical</b> disruption is now a solvency <b>risk</b>. Nick Anson explains what boards must do now on cash flow, supply chains and safe harbour....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.minterellison.com/articles/navigating-the-storm-why-boards-must-act-now-on-geopolitical-risk&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1rWISFb6e0fv02CJwh9JKj))
+**🔴 Daily: Escalating gulf conflict: How to position amid two-way <b>risk</b> | UBS Global**
+> *... risk of continued volatility ... <b>geopolitical risks</b> &middot; What do AI disintermediation risks mean for credit&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-19032026.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2an2jRCkn4vxpFLpF626rT))
 
-**🟡 Opinion: From Dubai with love – a room with a frontline view on a rapidly changing world**
-> *ESG Risks &middot; Climate Risk &middot; Energy Risk &middot; Environment Risk &middot; Governance Risk &middot; Social Risk &middot; <b>Geopolitical Risk</b>. Back to parent navigation item&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.strategic-risk-global.com/geopolitical-risk/opinion-from-dubai-with-love-a-room-with-a-frontline-view-on-a-rapidly-changing-world/1458021.article&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3yP4E2ckyFWKpgpBbvY7gq))
+**🟡 India flags <b>global energy</b> risks after strike on Qatar LNG hub | Daily Pioneer**
+> *Any disruption at Ras Laffan could directly affect domestic <b>energy security</b>. In response, authorities have tightened monitoring of the <b>energy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://dailypioneer.com/news/india-flags-global-energy-risks-after-strike-on-qatar-lng-hub&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2sPAzpJ2l_f8D5TV2H2TEE))
 
-**🟢 Why reshoring is no easy solution to US supply chain disruptions - Baton Rouge Business Report**
-> *Reshoring is gaining traction as companies rethink supply chains amid <b>geopolitical risk</b> and disruption, but experts caution it's not a quick fix, Fast&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessreport.com/article/why-reshoring-is-no-easy-solution-to-us-supply-chain-disruptions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2mni_1Fx6g19TcB9fM7i0D))
+**🟡 'Doomsday scenario' for <b>global energy</b> markets - The Times**
+> *... <b>global energy security</b> and stability.” He said the group would be forced to declare force majeure on long-term contracts for up to five years for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thetimes.com/business/companies-markets/article/doomsday-scenario-for-global-energy-markets-jmrc3m36b&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1qG-MkoBGL2Gv3rCVdnAHq))
 
-**🔴 UAE affirms targeting Iran's Pars gas field threatens <b>global energy security</b> - Dubai Eye 103.8**
-> *... <b>global energy security</b>. The UAE stressed that such attacks threaten the security and stability of the region and its people, and carry severe&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dubaieye1038.com/news/local/uae-affirms-targeting-irans-pars-gas-field-threatens-global-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3xJW70RhCPLe06DXGZqw-B))
+**🟢 Could Iran Disrupt the Gulf Countries' Desalinated Water Supplies? - CSIS**
+> *Energy <b>Security</b> and Climate Change Program &middot; Renewing American ... Closing the Strait of Hormuz, throttling <b>global energy</b> and fertilizer&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/analysis/could-iran-disrupt-gulf-countries-desalinated-water-supplies&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw11OWmj3LGQ5hsdg7xfdgcm))
 
-**🟢 How many major straits are there in the world? - MSN**
-> *East Asia (China/Taiwan), <b>South China Sea</b> ↔ East China Sea, High geopolitical <b>tension</b>; major route for Northeast Asian trade. Florida Strait, North&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/travel/news/how-many-major-straits-are-there-in-the-world/ar-AA1YQgaD&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3-CCvsPAjAnmy_4zsgH9E9))
+**🟢 Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the ... - GOV.UK**
+> *... <b>global energy</b> supply chains constitute a threat to international peace and <b>security</b>. In this regard, we call for an immediate comprehensive&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-and-japan-on-the-strait-of-hormuz-19-march-2026&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2YwqmVLZVGGYFrQaPvgrHR))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Are G Secs really <b>risk</b> free? - Finshots**
-> *It rises when oil prices fall, when <b>geopolitical risks</b> flare up, or when fiscal conditions weaken. But it never drops to zero. Which tells you&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finshots.in/archive/are-g-secs-really-risk-free/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3mLnGLZ_UgErkpdtB4hfz_))
+**🟢 Small-caps bear the brunt as <b>geopolitical risks</b> dent valuations - The Economic Times**
+> *Small-cap stocks are facing greater valuation pressure due to <b>geopolitical</b> concerns. More than half of these smaller companies trade below their&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/stocks/news/small-caps-bear-the-brunt-as-geopolitical-risks-dent-valuations/articleshow/129689947.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2QSCUtbeDbY2RbldxXvssn))
 
-**🔴 From Beijing to Brussels, <b>Energy</b> Crisis Triggers <b>Global</b> Shift Away from Oil Dependence**
-> *Explore the <b>global energy security</b> shift amid the Hormuz crisis and its impact on oil and gas dependency in today's economy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://chinaglobalsouth.com/analysis/global-energy-security-shift-hormuz-china-europe-asia/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw06PSGQfU7sNx16j0LGYnci))
+**🟢 Why Is Gold Melting? - Yardeni QuickTakes**
+> *There's plenty of <b>geopolitical risk</b> today, along with higher global inflation and larger US federal budget deficits ahead. Yet, the price of an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.yardeniquicktakes.com/why-is-gold-melting/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3_W6d4kxrkDxBC4asVClwi))
 
-**🟡 Iran Orders Evacuation at Saudi, UAE, Qatar <b>Energy</b> Sites After South Pars Strike**
-> *Oil Market Shock and <b>Global Energy Security</b> Implications. The immediate rise in Brent crude above USD108 per barrel (≈RM410) following the evacuation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/iran-evacuation-gulf-energy-sites-south-pars-strike-oil-war-escalation-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw19-T5KnzBYwUidYz0ljcf3))
+**🟢 <b>Energy</b>: <b>Security</b>, transition and powering infrastructure | Herbert Smith Freehills Kramer**
+> *To understand how these forces are shaping the <b>energy</b> sector around the <b>world</b>, read our regional insights below. Africa....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hsfkramer.com/insights/reports/2026/global-ma-report-2026/sector-perspectives/energy&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0GknXGjIpFsqxCL2Ie9yN9))
 
-**🟢 Why Restricting US Oil Exports Would Backfire - Center on Global Energy Policy**
-> *For decades, the United States has championed open and integrated <b>energy</b> markets as a foundation of <b>energy security</b>, while criticizing efforts by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energypolicy.columbia.edu/why-restricting-us-oil-exports-would-backfire/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0KiWPa6Yq84m_y6TojSgUx))
+**🔴 Iran Conflict Brief: The High Cost of Attacking <b>Energy</b> Infrastructure**
+> *... <b>global</b> LNG supplies and <b>energy security</b>. They discuss the extent of the damage to Qatari and Iranian production facilities and the intensifying&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energypolicy.columbia.edu/iran-conflict-brief-the-high-cost-of-attacking-energy-infrastructure/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2aqlgDP6BIkGXM-Mr6ROrn))
 
-**🔴 Why <b>Global Energy</b> Shock Could Leave China Stronger Than Ever | OilPrice.com**
-> *But China's secret to energy <b>security</b> in the face of <b>global energy</b> crisis comes down to far more than its massive crude oil supplies. The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Why-Global-Energy-Shock-Could-Leave-China-Stronger-Than-Ever.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw07678vFQuWLASu7AE7qUZm))
+**🟢 Fact Sheet: President Donald J. Trump Strengthens U.S.-Japan Alliance for the Benefit of All ...**
+> *The President and Prime Minister welcomed the outcomes of the <b>Indo</b>-<b>Pacific</b> Energy <b>Security</b> Ministerial and Business Forum, which brought together&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-strengthens-u-s-japan-alliance-for-the-benefit-of-all-americans/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2sYUBXMVq-dqVfp4jEBj74))
 
 
 ## 🏛 LEADERSHIP
-**🟢 For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region**
-> *Netanyahu's Hopes for <b>Regime Change</b> in Iran: Israeli attacks have targeted the command centers of Iran's repressive, internal security forces in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1dsbhqhn2HlPKpMb4oR4JE))
+**🟢 The peacock throne's gambit: Iran's Reza Pahlavi plans to flip the script on Beijing**
+> *Pahlavi camp downplays China's mediation, outlines plans to recalibrate ties with Beijing and Moscow in the event of a <b>regime change</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/news/us/article/3347224/peacock-thrones-gambit-irans-reza-pahlavi-plans-flip-script-beijing&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3mhs_9Oz8byyioRklUDBwf))
 
-**🟢 Castro's Cuba survived nearly 70 years. Could Trump be the one to take it down?**
-> *The Trump administration says it is pushing for <b>regime change</b> in Cuba as it ramps up pressure on the island country....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://san.com/cc/castros-cuba-survived-nearly-70-years-could-trump-be-the-one-to-take-it-down/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0LZ2Ds60-Os6Ol8CdUYcF3))
+**🟢 CNN Correspondent Jeremy Diamond Q&amp;A with Israeli Prime Minister Netanyahu**
+> *CNN Correspondent Jeremy Diamond asks Israeli Prime Minister Netanyahu if his strategy will still lead to a <b>regime change</b> in Iran....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnn.com/2026/03/19/world/video/jeremy-diamond-q-and-a-with-pm-netanyahu&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw07TSCCMbEMkJIJg8ygtjDQ))
+
+**🟢 Rep. Carlos Giménez says &quot;there's no playbook&quot; for <b>regime change</b> in Cuba - YouTube**
+> *As President Trump talks of &quot;taking Cuba,&quot; Republican Rep. Carlos Giménez of Florida is pushing for <b>regime change</b>. Giménez joins &quot;The Takeout&quot; to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DiAlIcFKxvTc&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1I-Dml46QFXVebc5jrf-JB))
+
+**🟢 ECB advertise for new Men's Selector as hierarchy prepares to face the music**
+> *The job advert is for the position of 'England Men - National Selector', a minor change ... Can England's <b>regime change</b> to meet post-Ashes realities?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.espncricinfo.com/story/ecb-advertise-for-new-men-s-selector-as-hierarchy-prepares-to-face-the-music-1528419&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0uQVxu_7r8mdlywxCd5_tl))
+
+**🟢 Europe must end diplomacy and push for <b>change</b> in Iran, says Israeli UN ambassador**
+> *Israel has called for an end to European diplomacy in Iran, urging a firmer hand alongside the US to force <b>regime change</b> in Tehran as the conflict&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.euronews.com/my-europe/2026/03/19/europe-must-end-diplomacy-and-push-for-change-in-iran-says-israeli-un-ambassador&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3nrKMFN_SSL2YaiRNCZ7Pk))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 Lessons from Japan's the rare earth shock | East Asia Forum**
-> *Domestic lithium-ion battery recycling can also mitigate <b>geopolitical risk</b> by establishing domestic sources of supply through the recovery of nickel,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://eastasiaforum.org/2026/03/19/lessons-from-japans-the-rare-earth-shock/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1zxh7K-XuapOyTuTGfzNrj))
+**🟢 Where to Invest $10,000: Low Vol Stocks, Gold, Robots, Pets - Bloomberg News**
+> *At the same time, lingering <b>geopolitical risk</b> may dampen investor enthusiasm for the most volatile stocks. In this environment, low-vol equities&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/features/how-to-invest-10k-q2-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2KpnQsa2HgYa2plqABRqD_))
 
-**🟡 Real-Time Data Uncovers Large-Cap Volatility, <b>Geopolitical</b> Stress Amplifies It | MSCI**
-> *U.S.–Israel strikes on Iran saw large caps frequently lead intraday volatility, a <b>risk</b> end-of-day data can miss and one that matters for pricing,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msci.com/research-and-insights/quick-take/realtime-data-uncovers-large-cap-volatility-geopolitical-stress-amplifies-it&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw39mchob_fpyedy4IHmwXeU))
+**🟢 Political <b>Risk</b> Insurance to Capitalize on Opportunities in Venezuela | JD Supra**
+> *These developments add to Venezuela's already complex <b>geopolitical</b> and sovereign <b>risk</b> profile, shaped by economic distress, political dynamics, and a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/political-risk-insurance-to-capitalize-3726994/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw06N3DbPeWox_s5qq21qXiq))
 
-**🟡 Lessons from Japan's the rare earth shock | East <b>Asia</b> Forum**
-> *Through multilateral frameworks such as the Quad, the Minerals <b>Security</b> Partnership and the <b>Indo</b>-<b>Pacific</b> Economic Framework, Japan is seeking to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://eastasiaforum.org/2026/03/19/lessons-from-japans-the-rare-earth-shock/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1zxh7K-XuapOyTuTGfzNrj))
+**🔴 Europe gas jumps around 25% on supply <b>risks</b> and <b>geopolitical</b> tensions - Seeking Alpha**
+> *European gas prices hit 3-year highs as TTF futures jump ~25% on <b>geopolitics</b>, Norway outages and LNG <b>risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4566201-europe-gas-jumps-around-25-on-supply-risks-and-geopolitical-tensions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2i2Xjvr1SUelqdg8MgQxDD))
 
-**🟢 Ex-member of Trump administration says Iran is Trump's top priority | NHK WORLD-JAPAN News**
-> *She is currently a senior fellow and director of the <b>Indo</b>-<b>Pacific Security</b> Program at the think tank Center for a New American Security. In an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www3.nhk.or.jp/nhkworld/en/news/20260319_04/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2zodiTMo65ryol9EL1FMvP))
+**🔴 Ed Yardeni sees <b>risk</b> to his bullish gold target as prices lag expectations By Investing.com**
+> *... <b>geopolitical risks</b> and rising U.S. fiscal deficits. The firm added that central bank demand and buying from Chinese investors should continue to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/ed-yardeni-sees-risk-to-his-bullish-gold-target-as-prices-lag-expectations-5299739&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0CzdrdweUYYfwlkSFP4Rbf))
 
-**🟢 India and Japan: A Stabilising Axis for the <b>Indo</b>-<b>Pacific</b>**
-> *FOIP seeks to deepen collective <b>security</b> cooperation with like-minded nations to uphold international law and deter coercive maritime practices. As&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.in/india-japan-stabilising-axis-indo-pacific-899584&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2EXJ9q84TcR6VMU2ZChwbf))
+**🟢 The Message it sends to China - 想想論壇**
+> *Homeland / Western Hemisphere <b>Security</b>, 2. <b>Indo</b>-<b>Pacific</b> Deterrence, and 3. Functional Interventions. The goal was not to reconstruct Iran, but to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thinkingtaiwan.net/article/100209&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2PCTXJ2jJqoYeLtpCziPa1))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
