@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 20 March 2026
+**Date:** 21 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Geopolitical risks</b>, private credit threaten financial stability: RBA
+**Source News:** <b>Geopolitics</b>: Trump mulls Iran exit strategy as S&amp;P 500 trackers rally 0.9% - Investing.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical risks</b>, private credit threaten financial stability: RBA
+- **The News:** <b>Geopolitics</b>: Trump mulls Iran exit strategy as S&amp;P 500 trackers rally 0.9% - Investing.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Daily: Escalating gulf conflict: How to position amid two-way <b>risk</b> | UBS Global
+**Source News:** Brent Crude Rises Past $110 - Trading Economics
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Daily: Escalating gulf conflict: How to position amid two-way <b>risk</b> | UBS Global
+- **The News:** Brent Crude Rises Past $110 - Trading Economics
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Small-caps bear the brunt as <b>geopolitical risks</b> dent valuations - The Economic Times
+**Source News:** Chubb Navigates <b>Geopolitical Risk</b> as $1.21 Billion Volume Ranks 186th in Market Activity
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Small-caps bear the brunt as <b>geopolitical risks</b> dent valuations - The Economic Times
+- **The News:** Chubb Navigates <b>Geopolitical Risk</b> as $1.21 Billion Volume Ranks 186th in Market Activity
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** The peacock throne's gambit: Iran's Reza Pahlavi plans to flip the script on Beijing
+**Source News:** <b>Regime</b> collapse needed to end Iran's threats, Israeli ambassador to US says
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The peacock throne's gambit: Iran's Reza Pahlavi plans to flip the script on Beijing
+- **The News:** <b>Regime</b> collapse needed to end Iran's threats, Israeli ambassador to US says
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
