@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 March 2026
+**Date:** 23 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Geopolitical</b> tensions rising; diversify globally and rebalance toward defensives, says LGT ...
+**Source News:** Middle East War- Shockwaves across Global Economy - Daily Excelsior
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical</b> tensions rising; diversify globally and rebalance toward defensives, says LGT ...
+- **The News:** Middle East War- Shockwaves across Global Economy - Daily Excelsior
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Dubai realty slows amid <b>geopolitical</b> shocks; India emerges as preferred investment ...
+**Source News:** Macro <b>Geopolitical Risks</b> Have Yet to Subside, Aluminum Prices Maintained a Fluctuating ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Dubai realty slows amid <b>geopolitical</b> shocks; India emerges as preferred investment ...
+- **The News:** Macro <b>Geopolitical Risks</b> Have Yet to Subside, Aluminum Prices Maintained a Fluctuating ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,17 +35,32 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** USD/JPY Weekly Outlook: <b>Geopolitics</b> in control as rates rise and energy whipsaws - City Index
+**Source News:** Rupee may test 94–95 zone soon as <b>geopolitical risks</b> mount: Analysts
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** USD/JPY Weekly Outlook: <b>Geopolitics</b> in control as rates rise and energy whipsaws - City Index
+- **The News:** Rupee may test 94–95 zone soon as <b>geopolitical risks</b> mount: Analysts
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
 **Tags:** #AvellonIntelligence #RiskManagement #GLOBAL ECONOMY #Strategy
+---
+
+## 📝 DRAFT POST: Leadership Angle
+**Source News:** Events for March 2026 - SpacePolicyOnline.com
+
+**LinkedIn Hook Options:**
+1. 🛑 Supply chain alert: Critical chokepoint activity detected...
+2. 💡 Why logistics leaders are watching this waterway today...
+
+**Draft Body Structure:**
+- **The News:** Events for March 2026 - SpacePolicyOnline.com
+- **The Insight:** This isn't just political; it's a warning signal for market stability.
+- **The Avellon View:** Resilience is the new currency. How is your organization preparing?
+
+**Tags:** #AvellonIntelligence #RiskManagement #LEADERSHIP #Strategy
 ---
 
