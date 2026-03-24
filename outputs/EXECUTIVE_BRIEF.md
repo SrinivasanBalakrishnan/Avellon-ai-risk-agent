@@ -1,91 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 23 March 2026
+**Date:** 24 March 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 52.0)
+- **Strait of Hormuz** (Risk Score: 33.5)
+- **Taiwan Strait** (Risk Score: 13.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 2)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Middle East War- Shockwaves across Global Economy - Daily Excelsior**
-> *Even limited military escalation can trigger global economic reactions. Oil markets tend to respond instantly to <b>geopolitical risk</b>, and investors&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dailyexcelsior.com/middle-east-war-shockwaves-across-global-economy/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2baA39XOTrocSFKjOyvmGZ))
+**🔴 ADNOC CEO calls Hormuz disruption “economic terrorism” threatening <b>global energy</b> supply**
+> *(World Oil) – ADNOC CEO Sultan Al Jaber warned that disruption of the Strait of Hormuz represents a direct threat to <b>global energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.oilandgas360.com/adnoc-ceo-calls-hormuz-disruption-economic-terrorism-threatening-global-energy-supply/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw39SQTwzWKjDvHzsOS7d4lJ))
 
-**🔴 Middle East crisis live: IEA chief says Iran war <b>energy</b> crunch worse than 1970s oil crises ...**
-> *... <b>energy security</b> and the resilience of industry and supply chains alongside the <b>international</b> response. Foreign secretary Yvette Cooper and <b>energy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation%3FfilterKeyEvents%3Dfalse%26page%3Dwith%253Ablock-69c0738f8f08c1f048affbe6&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3w5gHtFCmXP7xqrj_vi_tF))
+**🔴 Shock to <b>global</b> oil market roughly 3 times bigger than 1970s crisis - Marketplace**
+> *The war in Iran has cost the <b>global</b> oil ... Clayton Seigle, senior fellow for <b>energy security</b> at the Center for Strategic and <b>International</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketplace.org/story/2026/03/23/shock-to-global-oil-market-roughly-3-times-bigger-than-1970s-crisis&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1b-jfwo0o5wsigZjKatkT-))
 
-**🔴 Iran war live: Tehran vows to 'completely close' Hormuz if power plants hit - Al Jazeera**
-> *... <b>security</b> and the resilience of industry and supply ... <b>energy</b> infrastructure rattling <b>global</b> markets and heightening fears of a prolonged war....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/3/23/iran-war-live-tehran-vows-to-completely-close-hormuz-if-power-plants-hit&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3_EtQpOnvhs9oFW1Uiv8d_))
+**🟢 International Energy Agency warns of 'greatest <b>global energy security</b> threat' - The Courier**
+> *<b>International Energy</b> Agency chief Fatih Birol has warned Anthony Albanese the world faces its &quot;greatest energy <b>security</b> threat&quot;.......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thecourier.com.au/video/breaking/xa31xi0/international-energy-agency-warns-of-greatest-global-energy-security-threat/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw34a-AVGZEiSJhAd91ysk94))
 
-**🔴 UK's Starmer calls emergency meeting on <b>economy</b> as Iran <b>war</b> risks mount | Reuters**
-> *British Prime Minister Keir Starmer is set to chair an emergency meeting on the <b>economic</b> fallout from the <b>war</b> in Iran on Monday, with finance&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/sustainability/boards-policy-regulation/uks-starmer-calls-emergency-meeting-economy-iran-war-risks-mount-2026-03-22/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1zkUBleAY2YpiJ6YBlyA2a))
+**🔴 Australia's fuel <b>security</b> is exposed by Iran war but renewable <b>energy</b> offers an out**
+> *There is a striking difference between a modern-day <b>energy</b> crisis and those last century: now, the <b>world</b> has alternatives to fossil fuels....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-03-24/fuel-security-exposed-by-iran-war-but-renewables-offer-an-out/106452696&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3WEA5YB1n6q4Quu8WSNe_m))
 
-**🔴 <b>War</b> more than six months would hit global <b>economy</b>, TotalEnergies boss says | FMT**
-> *... <b>economic</b> growth. TotalEnergies CEO Patrick Pouyanne warned a prolonged <b>war</b> would have dire global <b>economic</b> consequences. (EPA Images pic). PARIS&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.freemalaysiatoday.com/category/business/2026/03/22/war-more-than-six-months-would-hit-global-economy-totalenergies-boss-says&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw03IwRkxpyS1xGL8JoBgPDV))
+**🔴 Hicks Commentary: The Cost of <b>War</b> and the Shift from Attack to Defense**
+> *This column was originally published on the Ball State University Center for Business and <b>Economic</b> Research Weekly Commentary blog....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indianacitizen.org/hicks-commentary-the-cost-of-war-and-the-shift-from-attack-to-defense/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2OgMzmH8WiJZiP_-1U2iDH))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Macro <b>Geopolitical Risks</b> Have Yet to Subside, Aluminum Prices Maintained a Fluctuating ...**
-> *Macro-<b>Geopolitical Risks</b> Have Yet to Subside, and Aluminum Prices Maintain a Fluctuating Trend] Continued destocking in LME inventory has provided&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/en/newscontent/103818150-Macro-Geopolitical-Risks-Have-Yet-to-Subside-Aluminum-Prices-Maintained-a-Fluctuating-Pattern-SMM-Aluminum-Morning-Meeti&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0DNf5MNFeHtdQvjN47rtj7))
+**🟢 Amid Middle East tensions, Sterling slides 0.6% to 1.3260 as investors shun <b>risk</b> versus Dollar**
+> *The US Dollar Index (DXY) rose 0.6% to just above 100.00 on safe-haven demand. <b>Geopolitical Risk</b> Drives Safe Haven Demand. Iran said it would respond&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vtmarkets.com/in/live-updates/amid-middle-east-tensions-sterling-slides-0-6-to-1-3260-as-investors-shun-risk-versus-dollar/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0uuaqy3CwKD8v_qHjpfWEu))
 
-**🟡 Gulf shipping <b>risks</b> rise after blast near vessel off UAE Sharjah coast | investingLive**
-> *... <b>geopolitical risk</b> firmly embedded in oil prices and broader market sentiment. trump confused. Trump remains unable to deescalate and get oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/gulf-shipping-risks-rise-after-blast-near-vessel-off-uae-sharjah-coast-20260322/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2xlwcoRiJixtJ0A5ENbfSv))
+**🟡 Crypto Sectors Quarterly: AI and Tokenization Shine Amid <b>Geopolitical</b> Turmoil**
+> *Q1 2026 was defined by volatility, as <b>geopolitical risk</b> and macro repricing drove sharp market swings. Returns were negative across all six Crypto&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://research.grayscale.com/market-commentary/crypto-sectors-quarterly-ai-and-tokenization-shine-amid-geopolitical-turmoil&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3adgXdCDFO-0JC4nEriUjM))
 
-**🟡 Middle East Conflict Latest: Trump gives Iran 48-hour ultimatum to open Strait of Hormuz**
-> *They are flashing red across every major asset class, from bond markets to equities, from inflation expectations to <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/middle-east-conflict-latest-trump-gives-iran-48-hour-ultimatum-to-open-strait-of-hormuz-202603221433&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1g37vTLh6ra0-lqtH25qbg))
+**🟢 Adnan Zaylani Mohamad Zahid: Opening remarks - Financing Sectoral Engagements (FSE ...**
+> *While global growth has been resilient, trade tensions and <b>geopolitical risks</b> are persistent. Supply chains are being reorganised in ways that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bis.org/review/r260319a.htm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1DL-dvhazQnOTDoI0VZd_3))
 
-**🔴 Goldman Sachs lifts 2026 oil forecasts: Brent $85, WTI $79 on Hormuz <b>risk</b> | investingLive**
-> *Analysts say this revised scenario reflects a reassessment of <b>geopolitical risks</b> in the region, with the ongoing conflict raising the probability of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/goldman-sachs-lifts-2026-oil-forecasts-brent-85-wti-79-on-hormuz-risk-20260322/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Oy74CqcA9aBAbCtbZMoL-))
+**🟡 Jaishankar, Rubio Discuss West Asia Conflict; Focus On <b>Global Energy Security</b> - ETV Bharat**
+> *Our discussions focused on the West Asia conflict and its impact on the <b>international</b> economy. We particularly spoke about <b>energy security</b> concerns....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.etvbharat.com/en/bharat/jaishankar-rubio-discuss-west-asia-conflict-focus-on-global-energy-security-enn26032400204&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0utWPvSKjHwF_gFIPXC17p))
 
-**🟢 Hibiscus to benefit from sustained <b>geopolitical risk</b> in the oil market | The Star**
-> *PETALING JAYA: Hibiscus Petroleum Bhd is seen as one of the clearest domestic proxies to rising crude prices, with analysts expecting the upstream&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/business/business-news/2026/03/23/hibiscus-to-benefit-from-sustained-geopolitical-risk-in-the-oil-market&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3-CG2SZ94q3rBJZF5ARjtx))
+**🟡 Coal gasification key to India's <b>energy security</b>: G Kishan Reddy - PSU Watch**
+> *This push has gained urgency amid the West Asia conflict, which has driven up <b>global energy</b> prices. Follow The PSUWatch Channel on WhatsApp. He was&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://psuwatch.com/newsupdates/coal-gasification-key-to-indias-energy-security-g-kishan-reddy&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0BGeDkm2ZxOQk1eGiwCZaw))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Rupee may test 94–95 zone soon as <b>geopolitical risks</b> mount: Analysts**
-> *Traders are closely monitoring crude oil prices and any intervention from the Reserve Bank of India to stabilize the currency amidst volatile&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/forex/rupee-may-test-9495-zone-soon-as-geopolitical-risks-mount-analysts/articleshow/129740819.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0_8m6TdyghYo562VwaQIJO))
+**🟢 The asymmetric impact of <b>geopolitical risk</b> on maritime trade - ScienceDirect.com**
+> *The analysis of <b>geopolitical risks</b> becomes clearer when focusing on a specific region and source of risk. Although the literature has discussed&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/pii/S2772390926000259&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1J2GLIErIDmgqGH-kNrVdV))
 
-**🟢 The perfect storm to boost <b>energy security</b> | IEEFA**
-> *Australia's exposure to <b>global</b> oil shocks has dramatically increased in the past 25 years as our domestic oil production dwindled. The situation is&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ieefa.org/resources/perfect-storm-boost-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Apj7MOEImnomh97q8ph5c))
+**🟢 Reputation as <b>Geopolitical</b> Currency: What PR Leaders Must Understand in 2026**
+> *It sits at the core of operational viability. When Political Optics Become Corporate <b>Risk</b>. The separation between corporate communications and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.odwyerpr.com/story/public/24499/2026-03-23/reputation-as-geopolitical-currency-what-pr-leaders-must-understand-2026.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3oF8FXNYQmp7dmDht5bnAD))
 
-**🔴 Coal gasification key to India's <b>energy security</b> push, says minister - The HinduBusinessLine**
-> *Amid rising <b>global energy</b> prices due to West Asia tensions, the government is accelerating efforts under the National Coal Gasification Mission,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/markets/commodities/coal-gasification-key-to-indias-energy-security-says-minister/article70774185.ece&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3VIVjYgx0-0j4zFrIQ-lwA))
+**🔴 Middle East crisis a reminder fossil fuels still key to <b>global</b> economic health - AFR**
+> *But according to the IEA chief, this shift will be driven more by the need for home-grown <b>energy security</b> rather than climate change. That's a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/companies/energy/crisis-a-reminder-fossil-fuels-still-key-to-global-economic-health-20260323-p5rnyo&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1SMX5EQxmpyvd9fYOK7Qad))
 
-**🔴 The conflict in the Middle East reopens the <b>global energy</b> dilemma: Fossil dependence or transition**
-> *Market volatility and the risks of supply shortages are pushing major economies to urgently rethink their <b>energy security</b> strategies. Leonardo&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://latinoamerica21.com/en/the-conflict-in-the-middle-east-reopens-the-global-energy-dilemma-fossil-dependence-or-transition/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Z_QaJRYC2Wv6OY1GnqIWb))
+**🟢 India moves swiftly to ensure <b>energy security</b> &amp; more updates | DD India Newshour | 9 PM IST**
+> *India moves swiftly to ensure energy <b>security</b> &amp; more updates | DD India Newshour | 9 PM IST ... <b>Global Energy</b> Chokepoint | 4K Documentary. Planet Vista&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVAlMxaa5I6U&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0wDPUzTa_ADS8C3__kLvVZ))
 
-**🔴 <b>Energy security</b> now a daunting problem - Bangkok Post**
-> *Amid spikes in <b>global</b> crude oil and gas prices, the government has deployed several measures including price caps to ensure <b>energy security</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bangkokpost.com/business/general/3222284/energy-security-now-a-daunting-problem&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw25gyGm8VoW4vaLWu70UYCz))
+**🟢 XCF <b>Global</b> CEO underscores renewable <b>energy security</b>, modular SAF scale and 38M gal ...**
+> *XCF <b>Global</b> highlighted renewable <b>energy security</b> and modular, scalable SAF production capacity, citing its 38 million gallon per year New Rise&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/tradingview:5e78e9320941a:0-xcf-global-ceo-underscores-renewable-energy-security-modular-saf-scale-and-38m-gal-capacity-amid-middle-east-fuel-disruptions/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1eMBCogrXvRT7r3dPCDj4b))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Events for March 2026 - SpacePolicyOnline.com**
-> *... <b>Security</b> Project. The discussion will be moderated by Kari Bingen ... <b>security</b>, resilience, and innovation in the <b>Indo</b>-<b>Pacific</b>. + Google&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://spacepolicyonline.com/events/taiwans-space-ambitions-and-the-future-of-u-s-taiwan-cooperation-csis-mar-23-2026-virtual-1030-1100-am-et/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3wdM2mQCB_plZuLh_G_VGl))
+**🟢 Gold slides on <b>geopolitical</b> easing and hawkish policy signals - Equiti**
+> *... <b>geopolitical risk</b> premium in the Middle East. Long-term structures in gold continue to respect the 200-day Simple Moving Average (SMA), while&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.equiti.com/jo-en/news/trade-reviews/gold-slides-on-geopolitical-easing-and-hawkish-policy-signals/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Z_7US3UhByTbPNNhGHowN))
 
-**🟢 What Does Trump's Call For New Leadership In Cuba Mean For The Castros? - YouTube**
-> *... <b>regime change</b> in Cuba. Stay Connected Forbes Breaking News on X: https://x.com/ForbesTVNews Forbes Breaking News on TikTok: https://www.tiktok.com&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJz0b2stzuik&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1-Ngv_sTTj8wgaFnKpSvgW))
+**🟢 US Ambassador Gor announces visit of top defence official to India - ANI News**
+> *... security cooperation within the Indo-Pacific region. (ANI). Tags. US ... <b>Indo Pacific Security</b> &middot; US Defence Policy &middot; India US Relations &middot; West Asia&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/world/asia/us-ambassador-gor-announces-visit-of-top-defence-official-to-india20260324005810/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1gA0wj9kOdmwLfsuk6kUQv))
 
-**🟢 Cuba Is Prepared to Offer Compensation to Americans Who Lost Property in the 1959 Revolution**
-> *... <b>regime change</b> over all. Danny Valdes from Cuban Americans for Cuba, an upstart organization that was formed to challenge the hardline exile&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dropsitenews.com/p/cuba-prepared-offer-lump-sum-agreement-united-states-property-lost-revolution&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1T0_Gk9vA3HJmD-VnBJSFX))
+**🟢 Trump Backs Off Iran <b>Regime Change</b>? - YouTube**
+> *President Trump has dramatically shifted gears, declaring that the U.S. and Iran have held &quot;very good and productive conversations&quot; over the past&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVV8PDgBX5Gk&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw36gbB1dkXMqwZlJa_kEbWU))
+
+**🟢 EMI <b>Regime Changes</b>: What Companies Should Know | Orrick, Herrington &amp; Sutcliffe LLP**
+> *Rebecca Servian, partner in Orrick's Compensation &amp; Benefits practice, walks through the April 2026 <b>changes</b> to the UK's Enterprise Management......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/emi-regime-changes-what-companies-6672065/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1QDguRikRQvz_B6W82L2Jm))
+
+**🟡 TRUMP ON IRAN: WILL BE VERY SERIOUS FORM OF <b>REGIME CHANGE</b> - CGTN**
+> *Download. 22:01, 23-Mar-2026. TRUMP ON IRAN: WILL BE VERY SERIOUS FORM OF <b>REGIME CHANGE</b>. CGTN. Share. QR. Copied. QR. Open in CGTN APP for better&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.cgtn.com/news/2026-03-23/news-1LKNwd0O3DO/index.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0n51Ntss-SOeYDzuYdd8cw))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 Dollar Poised for Rally as Escalating Middle East Conflict Spurs Haven Demand**
-> *<b>Geopolitical</b> Developments and Central Bank Responses. Retaliatory Threats and Infrastructure <b>Risks</b>. Trump issued his latest <b>threat</b> to Iran on Saturday&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/dollar-poised-rally-escalating-middle-east-conflict-spurs/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1aJXwZV3bZqQhQbULKRuju))
+**🔴 Political <b>risk</b> insurance to surge amid rising in <b>geopolitical</b> tensions, says GlobalData**
+> *Rising <b>geopolitical</b> tensions are set to drive a rapid increase in demand for political <b>risk</b> insurance, according to GlobalData....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globaldata.com/media/insurance/political-risk-insurance-to-surge-amid-rising-in-geopolitical-tensions-says-globaldata/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0y2uUPAIu4nqhjuuhwNIap))
 
-**🔴 Indonesia: Regulator flags rising <b>risks</b> due to <b>geopolitical</b> tensions - Asia Insurance Review**
-> *The Indonesian insurance industry is facing greater and increasing <b>risks</b> amid rising <b>geopolitical</b> tensions, according to the Indonesian Financial&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/94891/Type/eDaily/Indonesia-Regulator-flags-rising-risks-due-to-geopolitical-tensions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw270-MEUVHKHFBpVR7JQ_sT))
+**🟢 <b>Geopolitical Risk</b> Brief: March 2026 | S&amp;P Global**
+> *Our country <b>risk</b> experts provide insight into <b>geopolitical</b> events that could impact the economic environment in March....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/03/geopolitical-risk-brief-march-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0IppdkJMLS9tea43tTMUUq))
 
-**🟡 Johor-Singapore SEZ could draw more tech giant interest as Middle East data centre attacks ...**
-> *As <b>geopolitical risks</b> push hyperscalers to diversify, Johor could emerge as a viable alternative hub....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.sg/international/asean/johor-singapore-sez-could-draw-more-tech-giant-interest-middle-east-data-centre-attacks-prompt&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0FtKtpuyKNxWipaTZ1zayv))
+**🟢 Insurers rank financial volatility as this year's top <b>risk</b> - CFO.com**
+> *By contrast, only 24% of those who selected a <b>geopolitical risk</b> as most impactful in 2026 also did so with respect to future risks. 17% of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cfo.com/news/insurers-rank-financial-volatility-as-this-years-top-risk-ai-cyber-environmental-geopolitical/815316/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3eqNPCgNCCATgCDHKfXPw5))
 
-**🟢 INS Nilgiri joins Australia's Exercise Kakadu as India deepens <b>Indo</b>-<b>Pacific</b> naval push**
-> *Australian Defence described the event as both a naval tradition and a demonstration of shared commitment to maritime <b>security</b> and international&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theaustraliatoday.com.au/ins-nilgiri-joins-australias-exercise-kakadu-as-india-deepens-indo-pacific-naval-push/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3a8BgNTur5xY_UCyQX-KS_))
+**🔴 Gold's sharp declines 'echo <b>risk</b>-off episodes seen in 2008 and 2020' as liquidity dynamics ...**
+> *(Kitco News) – After a week of major central bank meetings and escalating <b>geopolitical</b> tensions, gold prices have fallen to new lows for the year&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-03-23/golds-sharp-declines-echo-risk-episodes-seen-2008-and-2020-liquidity&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2VCyHPBwY3-VhM9Dgg1iBX))
 
-**🟢 Hanwha Aerospace hosts roundtable with IISS leadership - APDR**
-> *It is widely recognised for hosting the Shangri-La Dialogue, Asia's premier <b>security</b> ... <b>Asia Pacific</b> Defence Reporter. 5 days ago. <b>Asia Pacific</b> Defence&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiapacificdefencereporter.com/hanwha-aerospace-hosts-roundtable-with-iiss-leadership/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1VjMQALq3LAwbH5yzi_W49))
+**🟢 US Ambassador Sergio Gor Announces Visit of Defence Official Elbridge Colby to India**
+> *Mr. Colby's visit builds upon the <b>security</b> foundation established ... <b>security</b> cooperation within the <b>Indo</b>-<b>Pacific</b> region. Most Read. View All&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newsonair.gov.in/us-ambassador-sergio-gor-announces-visit-of-defence-official-elbridge-colby-to-india/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2BvLOgf7Aiid4avIvZ_bqD))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
