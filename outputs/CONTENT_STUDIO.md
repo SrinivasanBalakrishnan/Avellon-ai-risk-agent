@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 25 March 2026
+**Date:** 26 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Iran warns of mining the entire Persian Gulf if US launches ground invasion | investingLive
+**Source News:** Asia Pacific Tech Spending Will Grow 9.3% In 2026, But Inflation And <b>Geopolitical Risk</b> ... - Forrester
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran warns of mining the entire Persian Gulf if US launches ground invasion | investingLive
+- **The News:** Asia Pacific Tech Spending Will Grow 9.3% In 2026, But Inflation And <b>Geopolitical Risk</b> ... - Forrester
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Canadian dollar hits two-month low as <b>geopolitics</b> dominates trading - The Globe and Mail
+**Source News:** Markets are Ready to Buy on Peace Hopes. But Investors Aren't Sold on a Longer Rally. - Barron's
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Canadian dollar hits two-month low as <b>geopolitics</b> dominates trading - The Globe and Mail
+- **The News:** Markets are Ready to Buy on Peace Hopes. But Investors Aren't Sold on a Longer Rally. - Barron's
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Opinion | How Bad Could the Iran Oil Crisis Get? - The New York Times
+**Source News:** Cresset Market Update: <b>Geopolitical</b> Shockwaves: The Investment Impact of Escalation in ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Opinion | How Bad Could the Iran Oil Crisis Get? - The New York Times
+- **The News:** Cresset Market Update: <b>Geopolitical</b> Shockwaves: The Investment Impact of Escalation in ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Balancing act: the agency of <b>Pacific</b> Island states in a world of machtpolitik - Devpolicy Blog
+**Source News:** Iran ties ceasefire with US, Israel to halt of Lebanon fighting
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Balancing act: the agency of <b>Pacific</b> Island states in a world of machtpolitik - Devpolicy Blog
+- **The News:** Iran ties ceasefire with US, Israel to halt of Lebanon fighting
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
