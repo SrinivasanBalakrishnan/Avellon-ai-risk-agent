@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 26 March 2026
+**Date:** 27 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Asia Pacific Tech Spending Will Grow 9.3% In 2026, But Inflation And <b>Geopolitical Risk</b> ... - Forrester
+**Source News:** Why gold in 2026? Is gold still a strategic asset for Japanese investors?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia Pacific Tech Spending Will Grow 9.3% In 2026, But Inflation And <b>Geopolitical Risk</b> ... - Forrester
+- **The News:** Why gold in 2026? Is gold still a strategic asset for Japanese investors?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Markets are Ready to Buy on Peace Hopes. But Investors Aren't Sold on a Longer Rally. - Barron's
+**Source News:** Asia FX Talk - <b>Risk</b>‑off deepens as <b>geopolitics</b> and rates reinforce USD support
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Markets are Ready to Buy on Peace Hopes. But Investors Aren't Sold on a Longer Rally. - Barron's
+- **The News:** Asia FX Talk - <b>Risk</b>‑off deepens as <b>geopolitics</b> and rates reinforce USD support
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Cresset Market Update: <b>Geopolitical</b> Shockwaves: The Investment Impact of Escalation in ...
+**Source News:** Nasdaq falls, breaks key technical level amid <b>geopolitical risks</b> - Equiti
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Cresset Market Update: <b>Geopolitical</b> Shockwaves: The Investment Impact of Escalation in ...
+- **The News:** Nasdaq falls, breaks key technical level amid <b>geopolitical risks</b> - Equiti
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Iran ties ceasefire with US, Israel to halt of Lebanon fighting
+**Source News:** Washington Is Still Looking for the “Right” Iranian Insider | <b>Geopolitical</b> Monitor
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran ties ceasefire with US, Israel to halt of Lebanon fighting
+- **The News:** Washington Is Still Looking for the “Right” Iranian Insider | <b>Geopolitical</b> Monitor
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
