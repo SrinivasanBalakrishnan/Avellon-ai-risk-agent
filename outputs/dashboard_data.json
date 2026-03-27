@@ -1,20 +1,20 @@
 {
-    "generated_at": "26 March 2026",
+    "generated_at": "27 March 2026",
     "stats": {
-        "GEOPOLITICS": 48,
-        "CYBER & TECH": 65,
-        "GLOBAL ECONOMY": 19,
+        "GEOPOLITICS": 53,
+        "CYBER & TECH": 57,
+        "GLOBAL ECONOMY": 20,
         "LEADERSHIP": 3,
-        "GENERAL UPDATES": 19
+        "GENERAL UPDATES": 23
     },
     "top_chokepoints": [
         {
             "name": "Strait of Hormuz",
-            "score": 34.5
+            "score": 29.0
         },
         {
             "name": "Bab el-Mandeb (Red Sea)",
-            "score": 14.5
+            "score": 11.0
         },
         {
             "name": "Taiwan Strait",
@@ -32,27 +32,36 @@
     "industry_risks": [
         {
             "name": "TECH",
-            "score": 222.0
+            "score": 203.5
         },
         {
             "name": "LOGISTICS",
-            "score": 158.5
+            "score": 138.0
         },
         {
             "name": "FINANCE",
-            "score": 126.5
+            "score": 126.0
         },
         {
             "name": "ENERGY",
-            "score": 50.0
+            "score": 52.5
         },
         {
             "name": "DEFENSE",
-            "score": 17.5
+            "score": 26.0
         }
     ],
     "items": {
         "GEOPOLITICS": [
+            {
+                "title": "AI sovereignty <b>risk</b>: A five-step agenda for CIOs - IDC",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.idc.com/resource-center/blog/ai-sovereignty-risk-a-five-step-agenda-for-cios/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw01oRddKZAKHmcuIZQSIWX3",
+                "summary": "While AI adoption is accelerating, it introduces a complex web of strategic, operational, regulatory, and <b>geopolitical risks</b> that global CIOs must&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-03-26T22:56:29Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
             {
                 "title": "Will the Iran War Become the Poison Pill for Proxy Contests This Season? | Insights - Sidley",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sidley.com/en/insights/publications/2026/03/will-the-iran-war-become-the-poison-pill-for-proxy-contests-this-season&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw17cKmUY6LBDxWbhPv4x_h8",
@@ -63,13 +72,40 @@
                 "risk_color": "red"
             },
             {
-                "title": "Have <b>Geopolitical Risks</b> Already Been Priced Into The Market?",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fa-mag.com/news/have-geopolitical-risks-already-been-priced-into-the-market-86405.html%3Fsection%3D68&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1mhlhMzmX0dNfwD_TRYZVE",
-                "summary": "When market declines are driven mainly by <b>geopolitical risk</b>\u2014such as military conflicts, terrorist attacks, or sudden diplomatic escalations\u2014markets&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-03-26T15:59:25Z",
+                "title": "Sunlight And Shockwaves: Pakistan's Quiet <b>Energy</b> Pivot In A Time Of War \u2013 OpEd",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/27032026-sunlight-and-shockwaves-pakistans-quiet-energy-pivot-in-a-time-of-war-oped/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1X5vP9ZXvEs4SxeB5MDSuk",
+                "summary": "... <b>energy security</b> of the <b>Global</b> South. However, beneath this surface-level crisis, a more nuanced difference is being created. Pakistan is not&nbsp;......",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-03-26T23:02:49Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
+            },
+            {
+                "title": "The Iran War Is Reshaping Asia's <b>Energy Security</b> Strategies | Council on Foreign Relations",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/articles/the-iran-war-is-reshaping-asias-energy-security-strategies&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1tNCRmHX2GpkkBJbgilKI8",
+                "summary": "In a matter of weeks, the Iran war has generated massive uncertainty about the future of the Middle East and rocked the <b>global</b> economy. The price of&nbsp;......",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-03-26T21:42:49Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Iran war seen boosting renewable <b>energy</b> investment with focus on <b>security</b>, not climate",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/ceraweek-iran-war-seen-boosting-renewable-energy-investment-with-focus-security-2026-03-26/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0YA7_sr8IHgIHjyeGp2HpM",
+                "summary": "Renewable <b>energy</b>, such as wind and solar power, can be produced from \u200blocal and regional sources, while oil and gas are more subject to <b>global</b> markets&nbsp;......",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-03-26T21:12:19Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Jason Bordoff on the Iran War and the <b>Global Energy</b> Outlook - Foreign Policy",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://foreignpolicy.com/2026/03/26/jason-bordoff-iran-war-energy-prices/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw14p6i4bby7GSYVskcT1fMd",
+                "summary": "There's a reason why energy analysts see the conflict in the Middle East as \u201cthe greatest <b>global energy security</b> threat in history,\u201d as Fatih&nbsp;......",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-03-26T19:56:07Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
             },
             {
                 "title": "Trump officials tout US <b>energy</b> dominance as <b>global</b> oil execs warn of supply crisis | Reuters",
@@ -81,110 +117,110 @@
                 "risk_color": "green"
             },
             {
-                "title": "Iran Could Reshape the Middle East and the <b>Global</b> Balance of Power | RealClearDefense",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.realcleardefense.com/articles/2026/03/26/iran_could_reshape_the_middle_east_and_the_global_balance_of_power_1172761.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3KuLk2_hBZWDuIED2i7v-R",
-                "summary": "Stabilizing Global Energy Markets. The strategic importance of Iran extends beyond regional politics to <b>global energy security</b>. The country sits&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-03-26T16:35:24Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "title": "<b>War</b> in Iran will push global inflation up to 4%, OECD forecasts - Marketplace",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketplace.org/story/2026/03/26/war-in-iran-will-push-global-inflation-up-to-4-oecd-forecasts&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw12L_tsX1ynxIS6MWp4JSOW",
+                "summary": "The Organization for <b>Economic</b> Cooperation and Development said the <b>war</b> is a test of the resilience of the global <b>economy</b>, with higher energy&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-03-27T00:04:58Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
             },
             {
-                "title": "The Warnings Are Clear: The Iran Conflict Is Hitting the <b>Global</b> South Hardest - The Wire",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.thewire.in/article/world/the-warnings-are-clear-the-iran-conflict-is-hitting-the-global-south-hardest&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3goyv4Tgn0-AKnCjfz70HU",
-                "summary": "The International Energy Agency has described the situation as the \u201cgreatest <b>global energy security</b> challenge in history\u201d. For the import&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-03-26T16:14:23Z",
+                "title": "Ilhan Omar Shreds Trump Admin's '<b>Economic Warfare</b>' On Cuba - YouTube",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DkvSFtwI452M&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0Wpmh7J6xGZWhn7MlYeqAI",
+                "summary": "During remarks to the House floor on Thursday, Rep. Ilhan Omar (D-MN) criticized the Trump administration's policies on Cuba....",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-03-26T23:50:47Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "The <b>War</b> Against Iran and Global Risks: \u201cTell Me How This Ends\u201d",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://gjia.georgetown.edu/2026/03/26/the-war-against-iran-and-global-risks-tell-me-how-this-ends/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw09B5YFN_L65CCXu5JqnUqQ",
+                "summary": "The 2026 U.S.\u2013Israeli strikes against Iran, initiated under Operation Epic Fury, represent one of the most consequential military interventions in&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-03-26T23:04:52Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Iran <b>war</b> is starting to disrupt global value chains \u2022 FRANCE 24 English - YouTube",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYGPrAZ3TDZ0&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0_b2Z5L2hgQB_tpa90SPF1",
+                "summary": "24:04 &middot; Go to channel Bloomberg Podcasts &middot; Iran's lesson for Trump in <b>Economic Warfare</b> | Trumponomics. Bloomberg Podcasts. New. 5.4K views &middot; 43:56....",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-03-26T22:20:12Z",
                 "risk_score": 1.5,
                 "risk_color": "green"
             },
             {
-                "title": "Iran <b>war</b> could trigger <b>financial</b> systemic stress, ECB vice president warns | Reuters",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/sustainability/boards-policy-regulation/iran-war-could-trigger-financial-systemic-stress-ecb-vice-president-warns-2026-03-26/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0_ULvXag4MrIGMF9uRFwBL",
-                "summary": "<b>Financial</b> markets have come under stress in recent weeks from the impact of the U.S. and Israeli <b>war</b> on Iran, \u200bbut the selloff outside the Middle East&nbsp;......",
+                "title": "Iran's Real <b>War</b> Is Against the Global <b>Economy</b>? #usiranwar #israeliranwar #iran ... - YouTube",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/shorts/VI0nXv-KyQ4&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw12_yS89Z-bzVJlko_20gt-",
+                "summary": "... <b>warfare</b> and warns that Iran's advanced strike capabilities make direct attacks risky. He also said global <b>economic</b> pressure from the conflict&nbsp;......",
                 "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T19:36:05Z",
+                "published": "2026-03-26T22:10:53Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
             {
-                "title": "One month of Iran &amp; no end in sight - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DRG1sDw--Dag&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3k6r7IhVSLuAdqgoEunGDR",
-                "summary": "... economic fallout and stalled progress, raising questions about how ... Iran's lesson for Trump in <b>Economic Warfare</b> | Trumponomics. Bloomberg&nbsp;......",
+                "title": "The Iran <b>War</b> Is Reshaping Asia's Energy Security Strategies | Council on Foreign Relations",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/articles/the-iran-war-is-reshaping-asias-energy-security-strategies&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1tNCRmHX2GpkkBJbgilKI8",
+                "summary": "The impact of the oil and LNG shock has been pronounced in Asia, where many leading economies produce limited amounts of nuclear energy and depend&nbsp;......",
                 "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T19:22:48Z",
+                "published": "2026-03-26T21:42:49Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
-                "title": "Fusing the arsenal: from disparate <b>economic</b> tools to strategic power | The Strategist",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aspistrategist.org.au/fusing-the-arsenal-from-disparate-economic-tools-to-strategic-power/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2q86MXGhxr5muPz1zhgC-Z",
-                "summary": "Europe's banks quietly mobilise for <b>economic warfare</b>....",
+                "title": "Why India's middle class is breaking - Saurabh Mukherjea explains - YouTube",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DlBCtKIif95I&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3K65e9dhUoHnlLF0Zkf04j",
+                "summary": "Iran's lesson for Trump in <b>Economic Warfare</b> | Trumponomics. Bloomberg ... US loses 20 aircraft in Gulf:What war in Iran&amp; Op Sindoor tell us about aerial&nbsp;......",
                 "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T19:00:55Z",
+                "published": "2026-03-26T21:08:31Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "BoE's Taylor Says Rates Should Be Held Until <b>War</b> Impact on <b>Economy</b> Is Clearer",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/boes-taylor-rates-held-until-war-impact-economy-clearer/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3PTyLRn-ou_EXqdVfLyNrD",
+                "summary": "Bank of England's Alan Taylor says rate hikes unlikely as <b>economic</b> impact of Iran <b>war</b> remains uncertain, citing energy prices and inflation risks....",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-03-26T20:21:14Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
-                "title": "Trump's <b>war</b> in Iran is costing the U.S. <b>economy</b> 10000 jobs a month, Goldman Sachs says",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://fortune.com/2026/03/26/trump-iran-war-oil-shock-jobs-goldman-sachs-gen-z/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2Ct6Bfs3tt1643lPJpeO0L",
-                "summary": "For younger Americans \u2014 who just months ago were finally catching a <b>financial</b> break \u2014 the <b>war's economic</b> cost may prove a particularly cruel twist....",
+                "title": "How badly the <b>war</b> in Iran is impacting your finances depends on where you live | Fortune",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://fortune.com/2026/03/26/iran-financial-impact-depends-geography-income-fuel-food/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0DS0wI43NAozWSuah66gbL",
+                "summary": "However, other pockets of the <b>economy</b> are also impacted by disruption in the strait: fertilisers are a by-product of gas production, driving inflation&nbsp;......",
                 "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T18:51:01Z",
+                "published": "2026-03-26T20:09:08Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
             {
-                "title": "Rich Dad Poor Dad author Robert Kiyosaki says Iran is blitzing the UAE to kill the US tech boom",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.news.com.au/finance/economy/world-economy/rich-dad-poor-dad-author-robert-kiyosaki-says-iran-is-blitzing-the-uae-to-kill-the-us-tech-boom/news-story/23aff620eddbe3c5fff3d78070708523&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3M0emFiHniyDAnioOk6uqv",
-                "summary": "... <b>warfare</b>\u201d \u2014 not just through its ... It is the most sophisticated <b>economic</b> attack on American <b>financial</b> architecture since the 1973 oil embargo.\u201d....",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T18:42:50Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "title": "ASEAN's Strategic Assets in An Uncertain World - RSIS",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://rsis.edu.sg/rsis-publication/rsis/aseans-strategic-assets-in-an-uncertain-world/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3_0XyJUjGn2GyO7r59mAPB",
+                "summary": "Perhaps most notably, ASEAN+3 has maintained economic cooperation despite <b>security</b> tensions defining the wider <b>Indo</b>-<b>Pacific</b>. China, Japan, and&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-03-27T00:41:07Z",
+                "risk_score": 2,
+                "risk_color": "green"
             },
             {
-                "title": "Trump's <b>war</b> is delivering a gut punch to the US <b>economy</b> - <b>Financial</b> Times",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/15117219-c1e1-4da8-866b-817b75643c18%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw05ouldlgFVt555rTy0AjUZ",
-                "summary": "A supply chain crisis will hit ordinary Americans with higher prices at a time when they are already feeling stretched....",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T18:32:01Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "title": "Getting past potential? Outcomes of the 2025 Australia-Republic of Korea Dialogue on ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ussc.edu.au/outcomes-of-the-2025-australia-republic-of-korea-dialogue-on-security-cooperation&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2rG5ACJkW75igBaLY8b1bF",
+                "summary": "The strategic rationale for deepening the Australia\u2013South Korea defence and security partnership endures as the <b>Indo</b>-<b>Pacific's security</b> environment&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-03-26T22:12:06Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
-                "title": "G7 talks in France focus on Iran <b>war</b>, Ukraine, US policy shifts | The Jerusalem Post",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/international/article-891231&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1KkVTdrMIsCOcQpem36gya",
-                "summary": "Foreign ministers from the world's leading western democracies meet in France this week against the backdrop of <b>wars</b> in Iran and Ukraine, <b>economic</b>&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T17:47:58Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "UK Faces Worst Hit From <b>War</b> Among Major Economies, OECD Warns - Bloomberg.com",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-03-26/uk-faces-worst-hit-from-war-among-major-economies-oecd-warns&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3UBwDCoklkVIcJoXSMfS0m",
-                "summary": "Britain will suffer a bigger <b>economic</b> hit from the Iran <b>war</b> than any other Group of Seven nation this year as growth weakens,&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T17:45:43Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Goldman Sachs' Lloyd Blankfein on the Iran <b>war</b> fallout - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D6-hvZ5yeD_s&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2pD-SaYWqSyKpxQlbhdyHp",
-                "summary": "24:04 &middot; Go to channel Bloomberg Podcasts &middot; Iran's lesson for Trump in <b>Economic Warfare</b> | Trumponomics. Bloomberg Podcasts. New. 1.5K views &middot; 30:22....",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T16:49:00Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "'High risk' of a protracted bear market as Middle East <b>war</b> drags on, says analyst - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DtQIjGZDfNqI&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3f6qJlvOBgbP_0kJSskLib",
-                "summary": "Global <b>financial</b> markets have been struggling for direction. Billions of dollars are riding on whether the Middle East <b>war</b> will conclude in the&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-03-26T16:45:38Z",
+                "title": "China warns US against building weapons base in the Philippines - UCA News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ucanews.com/news/china-warns-us-against-building-weapons-base-in-the-philippines/112494&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3JRzTBQsmceBK7m5QzHbOJ",
+                "summary": "China warned the United States today against bringing \u201cconflict and the chaos of war\u201d to the <b>Asia</b>-<b>Pacific</b>, after Washington and its allies said&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-03-26T21:34:28Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
@@ -198,24 +234,6 @@
                 "risk_color": "red"
             },
             {
-                "title": "inMorphis Named as ServiceNow Partner of the Year 2026 - Risk &amp; <b>Security</b> - <b>Asia Pacific</b>",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/pr-newswire/20260326io20268/inmorphis-named-as-servicenow-partner-of-the-year-2026-risk-security-asia-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1rB05BSftDP9EACXaZy4lh",
-                "summary": "inMorphis received the &quot;Partner award 2026 \u2013 Risk &amp; <b>Security</b> \u2013 <b>Asia Pacific</b>&quot; award, which recognizes partners that strengthen cybersecurity, risk&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-03-26T16:06:51Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "The 3rd Japan-EU Foreign Ministerial Strategic Dialogue",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mofa.go.jp/erp/ep/pageite_000001_01551.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2SnwWTo3QY2Ju71yQaZc8u",
-                "summary": "Japan-EU Relations. Minister Motegi stated that while the <b>security</b> of the Euro-Atlantic and the <b>Indo</b>-<b>Pacific</b> is inseparable and that new challenges&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-03-26T14:57:50Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
                 "title": "Indonesia's Cautious Reopening: Navigating Geopolitical Strain with Strategic Resilience",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mexc.com/news/982005&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw34cF_QIegYwlG-pluPmiGO",
                 "summary": "Regional <b>tensions</b> create additional complexity for Indonesian policymakers. Territorial disputes in the <b>South China Sea</b> affect shipping routes and&nbsp;......",
@@ -223,6 +241,15 @@
                 "published": "2026-03-25T23:34:47Z",
                 "risk_score": 2,
                 "risk_color": "green"
+            },
+            {
+                "title": "$25 Billion in Middle East War Damage To <b>Disrupt</b> Energy <b>Supply Chains</b> for Years - JPT",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://jpt.spe.org/25-billion-in-middle-east-war-damage-to-disrupt-energy-supply-chains-for-years&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3cr6mQgucVIKQtAVXxIAKv",
+                "summary": "War-related damage to oil and gas facilities is expected to <b>disrupt</b> global <b>supply chains</b> for years, as backlogs for critical equipment continue to&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-03-26T22:04:01Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "How Strait of Hormuz <b>Disruptions</b> Could Impact Global Trade in 2026: Key Risks &amp; Insights",
@@ -234,31 +261,13 @@
                 "risk_color": "green"
             },
             {
-                "title": "OECD cuts 2027 global growth forecast as Middle East tensions raise energy, <b>supply chain</b> risks",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/economy/oecd-cuts-2027-global-growth-forecast-as-middle-east-tensions-raise-energy-supply-chain-risks/3880032&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw2bDKBvEj2mTsQfxW-vUi1V",
-                "summary": "OECD keeps 2026 global growth forecast at 2.9% but lowers its 2027 estimate to 3%, warns prolonged energy price pressures, <b>supply chain disruptions</b>...",
+                "title": "In Case You Missed It: Food, Friends and Fun at PISC - AFIA",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.afia.org/news/afia-blog/in-case-you-missed-it-food-friends-and-fun-at-pisc/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw39lEvJVtyakEq-EypccVAr",
+                "summary": "Afterward, supply chain experts spoke about \u201cThe Strategic Assessment on Impact of Vitamin &amp; Amino Acid <b>Supply Chain Disruptions</b> on U.S. Food Security&nbsp;......",
                 "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T16:29:04Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Retail firms warn of price hikes if Iran war extends for months - CNBC",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/03/26/retail-next-hm-stock-price-hikes-iran-war-middle-east-costs.html&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw0pbMD7udPwHEBso6kthTe8",
-                "summary": "An extended war in the Gulf region could mean a double whammy for retailers as it may increase inflationary pressures and <b>disrupt supply chains</b>,&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T15:44:30Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Iran war live: GCC slams Iran's attacks, closure of Hormuz Strait - Al Jazeera",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/3/26/iran-war-live-us-demands-tehran-accept-defeat-israel-pounds-lebanon&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw1OvNbRGLm0QQrwM638mQ1j",
-                "summary": "Saudi Finance Minister \u2060Mohammed al-Jadaan \u2060says unless the US-Israeli war on Iran \u2060is resolved quickly, major <b>supply chain disruptions</b>, particularly&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T15:37:13Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "published": "2026-03-26T18:58:14Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
             },
             {
                 "title": "The Warnings Are Clear: The Iran Conflict Is Hitting the Global South Hardest - The Wire",
@@ -270,13 +279,58 @@
                 "risk_color": "red"
             },
             {
-                "title": "Major <b>financial</b> fallout from US war on Iran - World Socialist Web Site",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsws.org/en/articles/2026/03/26/ukbe-m26.html&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3jQp3jM1J7f5u6abEPzk5c",
-                "summary": "... financial <b>crisis</b> of 2008. Before the war was started on February ... credit and some <b>sovereign debt</b> concerns\u2014while potentially exposing new ones....",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-03-26T04:29:14Z",
+                "title": "US relaxes Belarus <b>sanctions</b> to help farmers affected by Iran conflict, Trump says",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.europeaninterest.eu/us-relaxes-belarus-sanctions-to-help-farmers-affected-by-iran-conflict-trump-says/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3K239BKmyCyfwKaXdLhxKy",
+                "summary": "... <b>business</b> with American entities under existing Belarusian <b>sanctions</b>. Companies removed from the <b>sanctions</b> list include the Belarusian Bank of&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-27T00:51:20Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "On-demand Webinar: Managing <b>Sanctions</b> Risks Amid Russian Waivers - Dow Jones",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dowjones.com/business-intelligence/blog/on-demand-webinar-managing-sanctions-risks-amid-russian-waivers/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw0B1XCHqZh9ONI8M6HGVftf",
+                "summary": "On-demand Webinar: Managing <b>Sanctions</b> Risks Amid Russian Waivers ... Glenn Kaminsky, Managing Director, Washington National Tax \u2013 <b>Trade</b> &amp; Customs, KPMG....",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-26T22:03:02Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
+            },
+            {
+                "title": "Dutch minister to lead <b>trade</b> mission to China despite <b>sanctions</b> - DutchNews.nl",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dutchnews.nl/2026/03/dutch-minister-to-lead-trade-mission-to-china-despite-sanctions/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3IntxFu94Ln9fuwvvpAvqF",
+                "summary": "<b>Trade</b> minister Sjoerd Sjoerdsma plans to lead a <b>trade</b> mission to China despite being on a Chinese <b>sanctions</b> list, he said after talks with Chinese&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-26T21:55:12Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Morgan Lewis Paris Expands With 5-Lawyer Hughes Hubbard <b>Trade</b> &amp; Investigation Team",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.law.com/international-edition/2026/03/26/morgan-lewis-paris-expands-with-5-lawyer-hughes-hubbard-trade--investigation-team/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3PonS9q-r4yXYutUDvhVOn",
+                "summary": "The office now has 70 lawyers, including 24 partners. Morgan Lewis last September added <b>trade sanctions</b> partner Michael Huneke in Washington, D.C.,&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-26T20:54:19Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Russia Gold Export Rules: 100g Limit Starts May 2026 - Discovery Alert",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/precious-metals-market-dynamics-russia-gold-2026/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3fbslmoj2RymyOJsufnWZU",
+                "summary": "Comparative Analysis: Internal Controls Versus External Sanctions. Evolution of International Gold <b>Trade Restrictions</b>. The Russia gold export&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-26T20:47:27Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Major domestic procurement drive in UK, WTO Ministerial Conference kicks off in Cameroon ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.export.org.uk/insights/trade-news/the-day-in-trade-major-domestic-procurement-drive-in-uk-wto-ministerial-conference-kicks-off-in-cameroon-and-middle-east-latest/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw1wJWL25vvH28vJLGvbKbD0",
+                "summary": "UK <b>sanctions</b> ruling. A UK Supreme Court ruling has illustrated the breadth ... <b>Business</b> and <b>Trade</b> today. \u00b7 Green Party leader Zack Polanski has&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-26T19:30:48Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
             },
             {
                 "title": "Sanctioned Juba minister loses case against Co-op Bank - The EastAfrican",
@@ -288,6 +342,24 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "LPG Import from Iran: Global Market Disruption &amp; <b>Trade</b> - Discovery Alert",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/lpg-import-iran-2026-market-dynamics-energy-security/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2PrtvLBjwzzR_F2S_Sv6t3",
+                "summary": "Iran's LPG Export Challenges: <b>Sanctions</b>, Supply Routes and Market Adaptation ... Iranian LPG export terminal and shipping. Global hydrocarbon markets&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-26T18:56:17Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "A View From The Exchange: OFSI Updated Enforcement Approach: Practical Implications",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ashurst.com/en/insights/a-view-from-the-exchange-ofsi-updated-enforcement-approach/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3LXgJ-n_UjKBOGa3MDHCS0",
+                "summary": "Where potential financial sanctions breaches implicate <b>trade sanctions</b> issues or obligations under the AML regulatory regime, businesses may also&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-03-26T18:45:30Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
                 "title": "CLE Takeaways: The Evolving US-China <b>Trade</b> Relationship | Fenwick",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fenwick.com/insights/publications/cle-takeaways-the-evolving&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw1XY6cr_BMjgnGBHnpsRkHh",
                 "summary": "Each side is deploying a range of <b>trade</b> policy and regulatory tools, including tariffs, market access <b>restrictions</b>, export controls, <b>sanctions</b>, and&nbsp;......",
@@ -297,58 +369,22 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "Trump's Oil Waiver Gives Iran a Dangerous Financial Lifeline - FDD",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fdd.org/analysis/2026/03/26/trumps-oil-waiver-gives-iran-a-dangerous-financial-lifeline/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3HsMpXadAx-VirHrBodMz3",
-                "summary": "... <b>trade</b> can serve strategic purposes has informed American economic ... <b>Sanctions</b> against Iran Iran Islamic Revolutionary Guard Corps <b>Trading</b>&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T16:54:01Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Unlocking export financing: Funding pathways, risk mitigation, and the future of export-led <b>trade</b>",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dentons.com/en/about-dentons/news-events-and-awards/events/2026/march/31/financial-services-webinar-unlocking-export-financing&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw30Ej100bOVZGBGQ-E6BSgb",
-                "summary": "... <b>sanctions</b> regimes; and growing expectations that <b>trade</b> activities align with environmental, social, and governance (ESG) standards. As a trusted&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T15:46:13Z",
+                "title": "<b>Semiconductor</b> and AI software stocks see red amid tech stock selloff | Seeking Alpha",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4569429-semiconductor-and-ai-software-stocks-see-red-amid-tech-stock-selloff&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0L-tms5hMUcSrLEWhB7-e0",
+                "summary": "<b>Semiconductor</b> &amp; AI stocks slide as tech sell-off hits Nvidia, AMD ... The <b>supply chain</b> for batteries, power electronics, <b>semiconductors</b>, and&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-03-26T21:28:00Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
-                "title": "Sanctioned Juba minister loses case against Coop Bank - The EastAfrican",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theeastafrican.co.ke/tea/news/east-africa/sanctioned-juba-minister-loses-case-against-coop-bank-5404250&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2FX3j20a3QqKM7LK9xiSng",
-                "summary": "The US uses targeted economic and <b>trade sanctions</b> as a critical component of its anti-money laundering and counter-terrorism financing strategies....",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T15:43:26Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Reliance denies buying Iranian oil amid US <b>sanctions</b> waiver | Editorji",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.editorji.com/business-news/reliance-denies-buying-iranian-oil-amid-us-sanctions-waiver-1774538362911&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3vE7XZCYbL_NBij72R6FT-",
-                "summary": "Reliance Industries rejects reports of purchasing Iranian crude, even as a temporary US <b>sanctions</b> waiver allows limited <b>trade</b> amid ongoing global&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T15:23:53Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Briefing: War, Oil, <b>Sanctions</b> &amp; a Changing Maritime Order - Windward",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://windward.ai/knowledge-base/war-oil-sanctions-and-a-changing-maritime-order-executive-briefing/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw004D41QctCZiozNVzT_zKu",
-                "summary": "Watch the executive briefing on the Hormuz closure, U.S. <b>sanctions</b> waivers on Russian and Iranian crude, the global supply gap ... Leaders in <b>Trade</b>....",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T15:07:57Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Backgrounder: Canada imposes additional <b>sanctions</b> against Iran",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.canada.ca/en/global-affairs/news/2026/03/backgrounder-canada-imposes-additional-sanctions-against-iran.html&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw21z_2IOpCVveT1Aw8sqE_N",
-                "summary": "Iran is also contributing to growing economic impacts and disruptions to global <b>trade</b>, shipping and energy markets while increasing humanitarian needs&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T15:03:41Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
+                "title": "US plans $250 million Pax Silica Fund to strengthen global <b>semiconductor supply chain</b>",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnownews.com/news/us-plans-250-million-pax-silica-fund-to-strengthen-global-semiconductor-supply-chain-details-article-153930198&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0QCfXWF2HxvHmty-Bua00I",
+                "summary": "Pax Silica comes up with strategic partnerships and coordinated action across every layer of the <b>supply chain</b>, sa statement from the Department of&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-03-26T20:53:05Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "Helium shortage hits tech <b>supply chains</b> amid Middle East conflict - The Business Times",
@@ -360,38 +396,56 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "FirstFT: Israeli military doubts war will bring down Iranian <b>regime</b> - Financial Times",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/df1040b8-eb23-4516-aaee-9941f6446db0&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3KuF2d7pO-Xa1ks4ApWbCv",
+                "summary": "The Israeli military is increasingly sceptical that <b>regime change</b> in Iran will be possible in the coming weeks, casting doubt on one of Prime Minister&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-03-26T23:17:50Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "What Would a U.S. Win in Iran Look Like? We Asked Congress - TIME",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://time.com/article/2026/03/26/we-asked-members-of-congress-what-winning-the-iran-war-would-look-like/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1w0ldem8OOjKNO9twZ8yjm",
+                "summary": "We asked two dozen members of Congress what victory in Iran would look like. Cruz said <b>regime change</b>. AOC said the war isn't winnable....",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-03-26T22:14:45Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "Tom Cooper On The Debate: Trump Expected A Quick <b>Regime Change</b>, Not A Long-Drawn War",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMOoSmfK1qiI&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1jzbI95E7XzG1QYKTPoplW",
+                "summary": "Tom Cooper On The Debate: Trump Expected A Quick <b>Regime Change</b>, Not A Long-Drawn War Has Donald Trump lost grip over the escalating Iran crisis,&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-03-26T22:14:02Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "The Iran War Is Making America Less Safe | Carnegie Endowment for International Peace",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://carnegieendowment.org/emissary/2026/03/iran-war-us-less-safe&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3wjpIlTlq5nJd4FxmaZh9K",
+                "summary": "... <b>political</b>, economic, and social <b>change</b> in both English and Arabic. ... The United States is making a similar mistake in Iran today, forcing <b>regime</b>&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-03-26T21:19:46Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "Israeli military doubts war will topple Iranian <b>regime</b> - Financial Times",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/7cdf6546-a4a0-4999-95dd-292235ee738d&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1o3WIBl-WQ2K-XBGWMRwM1",
+                "summary": "The Israeli military is increasingly sceptical that <b>regime change</b> in Iran will be possible in the coming weeks, casting doubt on one of Prime&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-03-26T21:04:26Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
                 "title": "Putin says Iran war could have impact similar to Covid pandemic",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.iranintl.com/en/202603262040&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw16kgx-4Ju9LQRhD0Hi_zhy",
                 "summary": "Dollar-pegged pizza in Tehran points to a different kind of <b>regime change</b>. Why Iran's 'no imminent threat' claim rings hollow in the region OPINION&nbsp;......",
                 "source": "Google Alert - Regime Change",
                 "published": "2026-03-26T18:49:40Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "The Gulf States and the Day After the War - Emirates Policy Center (EPC)",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://epc.ae/en/details/brief/the-gulf-states-and-the-day-after-the-war&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw179IMj_w666Atp8U6EqHQy",
-                "summary": "... regime or potential <b>regime change</b>. There is a consensus among Gulf capitals that this is an internal Iranian matter in which they have no&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T18:24:14Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "White House clarifies U.S. position after Trump's \u201c<b>regime change</b>\u201d comment on Iran conflict.",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/ngFKrt1aaI0&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1Bwc04QJQBy_eV9vQADiJv",
-                "summary": "Following U.S. President Donald Trump's remarks on <b>regime change</b> in Iran, the White House emphasized ongoing diplomatic efforts alongside military&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T14:45:50Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "ReElement Technologies Provides Update on Marion <b>Rare Earth</b> and Critical Mineral ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://investingnews.com/reelement-technologies-provides-update-on-marion-rare-earth-and-critical-mineral-refinery-buildout-and-production-capacity/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2gy7EAfBeDTwfKPzwXBuL5",
-                "summary": "<b>Rare Earth Elements</b> - Recycled Feedstocks. Processing magnet-grade <b>rare earth elements</b> from sources including swarf, hard drives, EV motors, wind&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-03-26T14:40:30Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
@@ -432,29 +486,20 @@
                 "risk_color": "red"
             },
             {
-                "title": "A Torpedo in the <b>Trade Lanes</b>: Naval Warfare Returns to the Indo-Pacific - War on the Rocks",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://warontherocks.com/2026/03/a-torpedo-in-the-trade-lanes-naval-warfare-returns-to-the-indo-pacific/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1jgjuxYvg-sNe1D_oV2_RI",
-                "summary": "A U.S. submarine recently sank an Iranian warship in one of the world's busiest <b>maritime</b> corridors. Many overlooked the incident's significance....",
+                "title": "EU Representative Stresses Importance of Keeping Red <b>Sea Routes</b> Open Amid Houthi Threats",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/305726962192402&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw32ucykY0svYLAr8uQav2Q_",
+                "summary": "According to Jin10, Kallas highlighted the strategic importance of these <b>maritime</b> pathways for international <b>trade</b> and security. The ongoing&nbsp;......",
                 "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-03-26T17:16:10Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "published": "2026-03-26T19:06:16Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
-                "title": "Iran War Confirmed Vessel Attacks and <b>Maritime</b> Infrastructure Strikes - Windward",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://windward.ai/blog/iran-war-vessel-attacks-and-maritime-infrastructure-strikes/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1-jtFlYDWUwak2l__ufgkU",
-                "summary": "Tankers and bulk carriers account for most incidents, indicating that core commercial <b>shipping lanes</b> remain the primary exposure zone. Several of the&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-03-26T16:59:06Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Motherson and Hellmann Launch Dubai-Based Automotive Logistics JV as DP World ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.maritimegateway.com/motherson-and-hellmann-launch-dubai-based-automotive-logistics-jv-as-dp-world-jeddah-scales-to-4-million-teu-capacity/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw3hjPplEqldxDGSjvg3q8SC",
-                "summary": "... trade demand. The expansion is strategically significant for the regional container shipping market: as Gulf and Red <b>Sea shipping routes</b> remain&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-03-26T16:33:13Z",
+                "title": "Time-Critical <b>Logistics</b> Bets on Visibility, <b>Resilience</b> - Mexico Business News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://mexicobusiness.news/logistics/news/time-critical-logistics-bets-visibility-resilience&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw2ZPcc34UwfGaF9PXK29b7M",
+                "summary": "Time-critical <b>logistics</b> is betting on visibility, <b>resilience</b>, and smarter cross-border execution, says Ascent Global <b>Logistics</b>' Mauro Gonz\u00e1lez....",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-03-26T22:34:55Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -488,6 +533,15 @@
         ],
         "CYBER & TECH": [
             {
+                "title": "Asia FX Talk - <b>Risk</b>\u2011off deepens as <b>geopolitics</b> and rates reinforce USD support",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mufgresearch.com/fx/asia-fx-talk-risk-off-deepens-as-geopolitics-and-rates-reinforce-usd-support-27-march-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2WhOq3l_dhnMyMZO1aXCS8",
+                "summary": "Global <b>risk</b> sentiment has remained defensive, with US equities under pressure amid uncertain prospects for a near\u2011term resolution to the US\u2013Iran&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-03-26T23:21:14Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "EUR/USD extends losses as <b>geopolitical risks</b> keep USD firmly bid - FXStreet",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/eur-usd-extends-losses-as-geopolitical-risks-keep-usd-firmly-bid-202603261830&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0BTK5pO-ebo8e4gIvkCYIe",
                 "summary": "The Strait of Hormuz remains effectively closed, with the conflict continuing to embed a <b>geopolitical risk</b> premium in Oil prices. This is fueling&nbsp;......",
@@ -497,58 +551,31 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "<b>Geopolitics</b> becoming 'key <b>risk</b>' for central banks \u2013 panel",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.centralbanking.com/central-banks/economics/7975469/geopolitics-becoming-key-risk-for-central-banks-panel&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0i-RZzZ3v4s1jHYAna-xy3",
-                "summary": "<b>Geopolitics</b> is replacing inflation as the \u201ckey <b>risk</b>\u201d for central banks, panellists at the European Central Bank Watchers Conference 2025 said....",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-03-26T17:18:39Z",
-                "risk_score": 2,
-                "risk_color": "green"
-            },
-            {
-                "title": "SSA issuers are concerned about secondary market liquidity - OMFIF",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.omfif.org/2026/03/ssa-issuers-are-concerned-about-secondary-market-liquidity/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ADiOZ6BYt-VCSU9aLe15R",
-                "summary": "Recurrent <b>geopolitical risk</b> events, trade-related uncertainty and the shift in monetary policy have all contributed to a more volatile rates&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-03-26T16:13:58Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "PM Modi to attend G7 summit in France from June 15-17, focus on <b>global</b> economy and ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/india/pm-modi-to-attend-g7-summit-in-france-from-june-15-17-focus-on-global-economy-and-hormuz-security/articleshow/129828025.cms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2GTMSgQ8RGj4SvVQKxasib",
-                "summary": "Both sides agreed to maintain close coordination, especially in ensuring the <b>security</b> of the Strait of Hormuz, a critical <b>global energy</b> corridor,&nbsp;......",
+                "title": "Japan's diversified LNG procurement strategy cannot fully shield it from <b>global</b> price spikes",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieefa.org/resources/japans-diversified-lng-procurement-strategy-cannot-fully-shield-it-global-price-spikes&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0voA8Ta5R8QhEo0ETsjEQS",
+                "summary": "<b>Energy security</b> remains a key concern for Japan's policymakers. To better safeguard against <b>energy</b> shocks, Japan should prioritize renewable <b>energy</b>&nbsp;......",
                 "source": "Google Alert - Global Energy Security",
-                "published": "2026-03-26T18:18:42Z",
+                "published": "2026-03-27T00:18:22Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "Full speed ahead on Qld's Taroom Trough oil amid fuel <b>security</b> fears - AFR",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/companies/energy/full-speed-ahead-on-qld-s-taroom-trough-oil-amid-fuel-security-fears-20260326-p5ziua&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3cf9yf9BBa6-6GJVQ3JMCT",
-                "summary": "... energy <b>security</b>,\u201d said Beach chief executive Brett Woods. Advertisement. <b>Global energy</b> major Shell is currently drilling in the Taroom acreage, but&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-03-26T18:00:57Z",
+                "title": "Bloomberg Surveillance 3/26/2026 - YouTube",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DxSEP1fdOK-M&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3e5BnRbsy5BvTUb66Uaq2k",
+                "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond....",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-03-26T21:24:18Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "New North Sea offshore wind leasing round will boost UK's <b>energy security</b> and create job ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.renewableuk.com/news-and-resources/press-releases/new-north-sea-offshore-wind-leasing-round-will-boost-uk-s-energy-security-and-create-job-opportunities/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1bryVhQ1O2zcH4wjVeqRVh",
-                "summary": "... <b>security</b>, controlling the cost of <b>energy</b> and ... <b>global</b> leadership in renewables, building a secure, affordable and sustainable <b>energy</b> future....",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-03-26T17:09:31Z",
+                "title": "Pentagon Splits US Forces Japan, 5th Air Force into Two Commands",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.airandspaceforces.com/pentagon-splits-us-japan-forces-5th-air-force-two-commands/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1ybjJOQTrHrCupWDPfyf4j",
+                "summary": "... <b>security</b>, prosperity, and freedom \u2013 ultimately embodying peace through strength in the <b>Indo</b>-<b>Pacific</b>.\u201d The White House nominated Jost in December&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-03-26T21:47:49Z",
                 "risk_score": 1,
                 "risk_color": "green"
-            },
-            {
-                "title": "Azerbaijan enters new energy phase with storage breakthrough amid <b>global energy</b> crisis",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.azernews.az/analysis/256191.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0kJumPNyYUQmJSf6x-0ai1",
-                "summary": "... <b>energy security</b>, particularly for countries heavily reliant on hydrocarbons. The volatility observed in <b>global</b> markets reflects not only&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-03-26T16:15:01Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
             },
             {
                 "title": "The free and open <b>Indo</b>-<b>Pacific</b> - Challenges and prospects ahead: Panel discussion",
@@ -569,15 +596,6 @@
                 "risk_color": "green"
             },
             {
-                "title": "Germany and Australia Bolster Defense Ties Amid Global Supply Strains and Regional Conflict",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.emirates247.com/world/germany-and-australia-bolster-defense-ties-amid-global-supply-strains-and-regional-conflict/530&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3w3L0C20fPx3HP_GhMGEQ4",
-                "summary": "During his address at the National Press Club, Pistorius emphasized the interconnectedness of European and <b>Indo</b>-<b>Pacific security</b>, while also&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-03-26T16:02:33Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
                 "title": "<b>Chinese</b> Corvette Recently Trained Its Weapons on Philippine Frigate, Officials Confirm",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.defcros.com/chinese-corvette-recently-trained-its-weapons-on-philippine-frigate-officials-confirm/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3VWDtox2HKWWEcNBeG3fvE",
                 "summary": "The Philippine Navy reported a radar confrontation with a Chinese corvette, escalating <b>tensions</b> in the <b>South China Sea</b>....",
@@ -585,6 +603,60 @@
                 "published": "2026-03-26T04:05:02Z",
                 "risk_score": 3.5,
                 "risk_color": "red"
+            },
+            {
+                "title": "What Makes a Country Investable in a More Demanding World - FII Institute",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://fii-institute.org/press/what-makes-a-country-investable-in-a-more-demanding-world/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw1Qe3UkoJFS9NUo1pprYh28",
+                "summary": "The strain, he said, is affecting refined products, fertilizers, steel, aluminum and petrochemicals, with <b>supply chain disruption</b> already running deep&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-03-26T23:18:14Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Navigating <b>Disruption</b> and Legal Risk in the International Shipping and Logistics Industries",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.blankrome.com/publications/iran-war-and-international-shipping-navigating-disruption-and-legal-risk-international&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw0J9C5f_mNVtua2AUPPEQEl",
+                "summary": "... <b>supply chain</b> industries are equally far-reaching. Operational <b>Disruption</b>. Not long after the initial airstrikes began, Iran effectively closed the&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-03-26T22:04:26Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "GM, Jeep Parent Stellantis Say No <b>Disruptions</b> After Ohio Glass Factory Fire - WSJ",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/business/autos/gm-jeep-parent-stellantis-say-no-disruptions-after-ohio-glass-factory-fire-ffdb4656&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw0F0GUhpyOrHv8yJOUPib7C",
+                "summary": "In recent years, automakers have incurred costly charges from <b>supply</b>-<b>chain disruptions</b>. ... Appeared in the March 27, 2026, print edition as 'Automakers&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-03-26T21:26:11Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Nations waking up to the importance of localization - ARAB NEWS",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabnews.jp/en/uncategorized/article_166828/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3e481QmpQqLAcAC-ugXCb_",
+                "summary": "Just a year earlier, another major event caused a huge <b>disruption</b> to global <b>supply chains</b>: the COVID-19 pandemic. ... <b>supply chain</b> for advanced&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-03-26T21:21:17Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Running on empty: Why global <b>supply</b> shocks could hit Australian shoppers harder than in the past",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://e61.in/running-on-empty-why-global-supply-shocks-could-hit-australian-shoppers-harder-than-in-the-past/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3kJVrTbrVY1O6G-YgcmgNH",
+                "summary": "... <b>supply chain disruptions</b>. Australia is in a different position. The share of imported consumer goods has risen strongly from 12 per cent in 1990&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-03-26T21:02:08Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Is <b>Supply Chain</b> Volatility Here To Stay? - RetailWire",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://retailwire.com/discussion/supply-chain-volatility-here-stay/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3kfo9t6Fwlu3Laz3HSbEG3",
+                "summary": "... <b>disruption</b> is seen by many trade experts as no longer an exception to ... <b>supply chain</b> professionals identified five trends shaping <b>supply chains</b> in&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-03-26T20:19:05Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "Air freight from India to Gulf sustains produce <b>supply</b> during <b>disruptions</b> - Hortidaily",
@@ -596,49 +668,13 @@
                 "risk_color": "green"
             },
             {
-                "title": "How Automation Builds Resilient <b>Supply Chains</b> - Inbound Logistics",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.inboundlogistics.com/articles/how-automation-builds-resilient-supply-chains/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw2b7VuqpvoMR6MgTQ5zZO7s",
-                "summary": "Given continued <b>supply chain disruptions</b>, flexible automation solutions that allow operations to adapt as needs change have become critical. Newcastle&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T17:42:19Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "2026 <b>Supply Chain</b> Reading Guide &amp; Professional Books | Inbound Logistics",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.inboundlogistics.com/articles/2026-reading-guide-theres-a-book-for-that/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw26iax-ThJSeCxZvXiuuuFF",
-                "summary": "The checklist format enables actionable responses to challenges including tariffs, cybersecurity concerns, and geopolitical <b>disruptions</b>. Cover image&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T17:32:16Z",
-                "risk_score": 2,
-                "risk_color": "green"
-            },
-            {
-                "title": "Sector braced for 'prolonged volatility' amid Middle East <b>supply chain disruption</b> | New Civil Engineer",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newcivilengineer.com/latest/sector-braced-for-prolonged-volatility-amid-middle-east-supply-chain-disruption-26-03-2026/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw1VQLYCVl7VUh0LDQ-syq-L",
-                "summary": "While <b>supply chain disruption</b> has so far been relatively limited, the market is becoming more cautious, and that inevitably affects confidence....",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T16:49:49Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "US Stock Market | Gold no longer a safe haven? What's dragging the yellow metal down",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/us-stocks/news/us-stock-market-gold-no-longer-a-safe-haven-whats-dragging-the-yellow-metal-down/articleshow/129815739.cms&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw2ng1akihjg3ZrAoBeerjvu",
-                "summary": "<b>Supply chain disruptions</b> add to volatility. Complicating the situation further are disruptions in the physical movement of precious metals. The&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T16:09:07Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Selective <b>Supply Disruptions</b> from China and Late El Ni\u00f1o May Moderately Impact India's ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.global-agriculture.com/crop-protection/selective-supply-disruptions-from-china-and-late-el-nino-may-moderately-impact-indias-agrochemical-market-uday-raj-anand-parijat-industries/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw1FutU0FP1DG9bXynVVXrZC",
-                "summary": "Nimish Gangrade: Are you witnessing <b>supply chain disruptions</b> due to dependence on China, and how are companies managing these risks? Uday Raj Anand:&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-03-26T15:56:07Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "title": "When Uncertainty Becomes the Norm: An Ordinary Person's &quot;Anti-Cycle&quot; Survival Manual",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.odaily.news/en/post/5209958&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2vMlpZFA50HdcmfM9qdS43",
+                "summary": "... financial <b>crisis</b> is accumulating. Individuals should build &quot;anti ... Macro Risk Signals: Immense <b>sovereign debt</b> pressure (U.S. <b>national debt</b>&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-03-26T21:28:14Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "Ex-Thai PM Srettha wants <b>debt</b>-cap hike to 80% to revive growth - The Edge Malaysia",
@@ -677,22 +713,13 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "The Trail of Clues Leading to Iran That Binance Missed - The New York Times",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2DK5XMXKAfsmCC2JgvSccw",
-                "summary": "Some clues were in plain sight, found in public <b>business</b> records in Singapore and Hong Kong, on a U.S. <b>trade</b> blacklist, and in Binance transaction&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T15:42:57Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "OFAC Issues Broad Authorizations for Dealings with PdVSA | JD Supra",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/ofac-issues-broad-authorizations-for-1496964/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2Zyo26LU7H0uHDnYyi9cWC",
-                "summary": "(PdVSA)\u2014including oil <b>trading</b>, new investment and the formation of joint ventures\u2014while maintaining substantial <b>restrictions</b> on counterparties,&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-03-26T15:19:39Z",
-                "risk_score": 2,
-                "risk_color": "green"
+                "title": "<b>Semiconductor</b> Industry Realigns Amid AI Demand and <b>Supply</b> Crisis in 2026 - IndexBox",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.indexbox.io/blog/semiconductor-industry-realigns-amid-ai-demand-and-supply-crisis-in-2026/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0QFCQ0dmMCZNbgMn1ieRBU",
+                "summary": "These combined events have effectively paralyzed the traditional <b>supply chain</b>, shifting the balance of power to memory manufacturers and forcing&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-03-26T21:09:55Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "Strange Chip Cousins: Vietnam and Ireland - CEPA",
@@ -700,6 +727,15 @@
                 "summary": "But over the past decade, Ireland and Vietnam have come to occupy crucial roles in the semiconductor chain. ... Resilient <b>semiconductor supply chains</b>&nbsp;......",
                 "source": "Google Alert - Semiconductor Supply Chain",
                 "published": "2026-03-26T19:37:40Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Why MU Could Outperform MACOM Technology Solutions Stock - Trefis",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trefis.com/stock/mtsi/articles2/594856/why-mu-could-outperform-macom-technology-solutions-stock-2/2026-03-26&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw36XJiy__ReSXToZBTUMFF4",
+                "summary": "As a quick background, MACOM Technology Solutions (MTSI) provides analog <b>semiconductor</b> ... MACOM Stock (-9.4%): <b>Semiconductor</b> Selloff on <b>Supply Chain</b>&nbsp;......",
+                "source": "Google Alert - Semiconductor Supply Chain",
+                "published": "2026-03-26T18:57:30Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -740,67 +776,40 @@
                 "risk_color": "green"
             },
             {
-                "title": "Assessing KLA (KLAC) Valuation After US <b>Semiconductor</b> Investment Consortium Boosts Sentiment",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/semiconductors/nasdaq-klac/kla/news/assessing-kla-klac-valuation-after-us-semiconductor-investme&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw3TSBPKpmLczIrEEJbadRa9",
-                "summary": "The Trump administration's plan for a voluntary US$4 trillion investment consortium targeting <b>semiconductor supply chains</b> has put fresh attention&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-03-26T16:25:09Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Geopolitics Shockwaves That Your <b>Supply Chain</b> Can't Ignore | SupplyChainBrain",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.supplychainbrain.com/blogs/1-think-tank/post/43686-geopolitics-shockwaves-that-your-supply-chain-cant-ignore&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0D3t0Kw80ykH6IMWu7E9OR",
-                "summary": "Palladium underpins <b>semiconductors</b> and microchips. When these markets surge on geopolitical shock rather than organic demand, procurement teams face&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-03-26T15:58:48Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "India secures fuel, helium <b>supply</b> impact on India's <b>semiconductors</b> and Dhurandhar 2's box ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/pulse/india-secures-fuel-helium-supply-impact-indias-semiconductors-fhm7f&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw1Zr79l_NEaeNrYH-bAnRoV",
-                "summary": "Dear Reader, Even as disruptions around the Strait of Hormuz continue, there is some near-term <b>supply</b> security on the energy front....",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-03-26T15:52:47Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Photoresist Ancillary Lithography Chemicals Market To 2035 Fueled by Advanced ... - IndexBox",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.indexbox.io/blog/photoresist-ancillary-lithography-chemicals-market-to-2035-driven-by-ultra-high-purity-demand-for-sub-3nm-semiconductor-nodes/&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw2vkTwrsePh_36uvAUM_fgD",
-                "summary": "The market will face headwinds from cyclical <b>semiconductor</b> downturns, <b>supply chain</b> consolidation, and intense pricing pressure in legacy application&nbsp;......",
-                "source": "Google Alert - Semiconductor Supply Chain",
-                "published": "2026-03-26T15:17:37Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "The U.S. Should Establish an anti-Etela'at Channel in Iran",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://smallwarsjournal.com/2026/03/26/the-us-should-establish-an-anti-etelaat-channel-in-iran/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2jPlY9wKIGCijQix62bWM4",
-                "summary": "... regime's own logic against it\u2014and potentially accelerate <b>regime change</b>. ... Political Uprising, <b>regime change</b>, Surveillance State, United States&nbsp;......",
+                "title": "Opinion: US prioritizes Iranian concessions above <b>regime change</b> - Shafaq News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://shafaq.com/en/Report/Opinion-US-prioritizes-Iranian-concessions-above-regime-change&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0vZB-tf1clGdFZ4PNSOL3e",
+                "summary": "Shafaq News- Washington Speculations about an imminent ground landing on Iran's Kharg Island should be treated with restraint, a US lawmaker&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T18:06:21Z",
+                "published": "2026-03-26T23:09:22Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "Local Elections as a Threat: Serbia's <b>Regime</b> Mobilizes Everything to Win",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.boell.de/en/2026/03/26/local-elections-threat-serbias-regime-mobilizes-everything-win%3Famp&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3hM69gF7U-pkBBwbLl64DJ",
-                "summary": "... <b>regime change</b>. As for public opinion research, he says the key trends remain unchanged and a majority of citizens in Serbia support <b>political change</b>&nbsp;......",
+                "title": "Advantage Iran - The Economist",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.economist.com/leaders/2026/03/26/advantage-iran&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3nuh4Dc9YmYzMtk0s9W_bm",
+                "summary": "Without <b>regime change</b>, the ballistic-missile threat will return ... Despite operational successes and his nonsensical claim of having already changed&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T16:45:49Z",
+                "published": "2026-03-26T22:20:19Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Critics Have a New Way to Describe the Trump Administration - The Atlantic",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theatlantic.com/newsletters/2026/03/trump-regime-change/686561/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3nIlKHzk_hIHcdso8q5_N_",
+                "summary": "One reason is that regimes can be resilient\u2014a point that, ironically, Trump's actions have demonstrated. \u201cWe have, really, <b>regime change</b>,\u201d Trump said&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-03-26T21:54:23Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "BoE and PRA streamline reporting and disclosure requirements for bank failure <b>regime</b>",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.regulationtomorrow.com/2026/03/boe-and-pra-streamline-reporting-and-disclosure-requirements-for-bank-failure-regime/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1eaxdCtSJfh5atWlXyqfIy",
-                "summary": "While the <b>changes</b> proposed in CP15/25 altered the content of MREL reporting, the PRA was not proposing to <b>change</b> the reporting frequency&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T15:38:21Z",
-                "risk_score": 3.5,
-                "risk_color": "red"
+                "title": "A new order in <b>rare earths</b> supply chain unfolds | FMT",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.freemalaysiatoday.com/category/opinion/2026/03/27/a-new-order-in-rare-earths-supply-chain-unfolds&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0GgfPOgaPnVvJoRYgIJLPn",
+                "summary": "Yet the geopolitics of <b>rare earth elements</b> ... When Australia, Brazil, and Japan get together on <b>rare earth elements</b>, they are doing more than securing&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-03-26T23:10:36Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "USA <b>Rare Earth</b> commissions new magnet production line at Oklahoma plant - Mining.com",
@@ -808,24 +817,6 @@
                 "summary": "... <b>rare earth elements</b>, oxides, metals and magnets,\u201d USA Rare Earth CEO Barbara Humpton said in a news release. \u201cIt is also a testament to the hard&nbsp;......",
                 "source": "Google Alert - Rare Earth Elements",
                 "published": "2026-03-26T17:08:53Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Offtake contracts drive Lithium Ionic's US$190 million project in Brazil - BNamericas",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bnamericas.com/en/features/offtake-contracts-drive-lithium-ionics-us190-million-project-in-brazil&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1Lgdwix67DWZWpAm7Kv1nK",
-                "summary": "In addition to seeking to contain China's advance in Latin America, Washington is also trying to secure access to critical minerals. Meteoric pushes&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-03-26T16:58:22Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "China <b>rare earth</b> dominance and gold reserves: What it means for the US economy - PGurus",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pgurus.com/chinas-goldanomics-sell-rare-earths-to-the-us-and-get-paid-in-gold-through-switzerland/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw08DoxQRt8IG-TYZAkOGju8",
-                "summary": "China's Goldanomics \u2013 Sell <b>Rare Earths</b> to the US and get paid in Gold, through Switzerland! Discover how US trade payments may indirectly strengthen&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-03-26T16:04:42Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -857,13 +848,22 @@
                 "risk_color": "green"
             },
             {
-                "title": "Ships Queue at Asian <b>Ports</b> Amid Strait of Hormuz Closure - Rediff Money",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.rediff.com/news/market/ships-queue-at-asian-ports-amid-strait-of-hormuz-closure/44244620260326&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw1yfNK6tB5XW4G_yV_E3P0q",
-                "summary": "Closure of Strait of Hormuz causes ship queues at Asian <b>ports</b>. Vessels reroute, causing <b>congestion</b> in Singapore, Malaysia, and Busan....",
-                "source": "Google Alert - Port Congestion",
-                "published": "2026-03-26T13:29:45Z",
-                "risk_score": 2,
+                "title": "HORMUZ: THE STRAIT THAT COULD REWRITE GLOBAL POWER",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://aimamedia.org/newsdetails.aspx%3Fnid%3D592170%26state%3DOrissa%2520(OR)%26title%3DIn%2520the%2520evolving%2520geopolitics%2520of%2520the%252021st%2520century,%2520few%2520chokepoints%2520carry%2520as%2520much%2520s&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1WKTkRycqnffRw_jxBuHPv",
+                "summary": "At a deeper level, the contest revolves around control over energy flows, dominance of <b>maritime trade routes</b>, and the broader geopolitical aim of&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-03-26T21:25:52Z",
+                "risk_score": 1,
                 "risk_color": "green"
+            },
+            {
+                "title": "The <b>Shipping</b> and Logistic Consequesces of US Conflict in Iran - The National Law Review",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://natlawreview.com/article/iran-war-and-international-shipping-navigating-disruption-and-legal-risk&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1PCo4r3wsl9ed2IaFcAYme",
+                "summary": "The Strait of Hormuz \u2013 a major <b>maritime</b> choke point for the global energy trade ... <b>trade routes</b>, and the evolving regulatory landscape across multiple&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-03-26T20:29:39Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "Ukraine USV Strike Leaves Laden Russian Tanker Adrift Near Bosphorus - gCaptain",
@@ -875,31 +875,13 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "Iran threatens to block off Suez Canal as well as Strait of Hormuz to cripple global <b>trade</b> if ... - The Sun",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesun.co.uk/news/38634350/iran-threatens-strait-houthi-cripple-economy-trump-troops/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1hqUuH6WXgDDWNgTDmtcJk",
-                "summary": "The vital canal is one of the most important <b>trade routes</b> in the world \u2013 offering the shortest <b>maritime</b> route between Europe and Asia, with around 10&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-03-26T17:28:03Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "<b>Shipping</b> giants invoke19th century rule to reroute cargo - Logistics Middle East",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.logisticsmiddleeast.com/news/shipping-giants-invoke19th-century-rule-to-reroute-cargo&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1ZrY8jNmwI9HJ8MUGKNY6y",
-                "summary": "<b>Shipping</b> lines invoke Liberties Clause to reroute cargo and discharge at alternate ports, raising costs and congestion across Gulf <b>trade routes</b>....",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-03-26T17:09:35Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Explained: Hormuz 2.0? Why Bab el-Mandeb Strait is suddenly in the global spotlight",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wionews.com/photos/explained-hormuz-2-0-why-bab-el-mandeb-strait-is-suddenly-in-the-global-spotlight-1774495401832&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1idasG9vN9rN3uLEW_TPNA",
-                "summary": "... <b>trade routes</b> have become amid escalating geopolitical tensions in the region. A dangerous two-front <b>maritime</b> strategy. 5 / 6. (Photograph: Wikipedia&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-03-26T17:00:30Z",
-                "risk_score": 3.5,
-                "risk_color": "red"
+                "title": "AIA demand shows <b>resilience</b> | eKathimerini.com",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ekathimerini.com/economy/1299128/aia-demand-shows-resilience/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw133o3Kx3CMaMir50ui6wyk",
+                "summary": "AIA demand shows <b>resilience</b>. AIA demand shows <b>resilience</b>. Matina ... Saudi <b>logistics</b> group returns for a sixth Posidonia. ECONOMY. Saudi&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-03-26T20:38:10Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
             },
             {
                 "title": "Amazon Tests Structured Delivery Windows as It Repositions Speed - <b>Logistics</b> Viewpoints",
@@ -965,22 +947,13 @@
                 "risk_color": "green"
             },
             {
-                "title": "MSC Gulf Shuttle strengthens Saudi Bahrain <b>logistics</b> link",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.logisticsmiddleeast.com/news/msc-gulf-shuttle-strengthens-saudi-bahrain-logistics-link&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw1YyzOrE9pyiMJIparttYMy",
-                "summary": "MSC Gulf Shuttle links Saudi Arabia and Bahrain, boosting regional <b>logistics</b> flexibility and strengthening supply chain <b>resilience</b> across Gulf....",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-03-26T13:40:17Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Designing Supply Chain Networks for Energy Volatility - <b>Logistics</b> Viewpoints",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://logisticsviewpoints.com/2026/03/26/designing-supply-chain-networks-for-energy-volatility/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0id75t8g7gWiJVHSfl-vQX",
-                "summary": "Building <b>Resilience</b> Against Volatility. Energy introduces a new layer of operational risk: Regional grid instability; Fuel price shocks; Regulatory&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-03-26T13:27:36Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "title": "Weight of <b>Freight</b> Tanker Markets on Edge: US\u2013Iran Crisis - Argus Media",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.argusmedia.com/en/news-and-insights/video-insights/tanker-markets-us-iran-crisis-insight&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw1RRbOub07BQwz8oWSyJSk3",
+                "summary": "Tanker <b>freight rate volatility</b> and price insights; Impact of Strait of Hormuz disruption on global oil shipping; Changes in crude and refined&nbsp;......",
+                "source": "Google Alert - Freight Rate Volatility",
+                "published": "2026-03-26T22:07:43Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "Energy <b>volatility</b> persists amid uncertainty, keeping steel <b>cost</b> pressures elevated - A 360-degree view",
@@ -1028,15 +1001,6 @@
                 "risk_color": "green"
             },
             {
-                "title": "West Asia Crisis May Trigger \u20b925,000 Cr Fertiliser Shock \u2014 Is India's Fiscal Math at Risk Again?",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.niftytrader.in/markets/west-asia-fertiliser-subsidy-25000cr-risk/&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw0BdGYBfNIeifqtadJtGIlY",
-                "summary": "Agri-input suppliers (cost <b>volatility</b>); FMCG (if food inflation ... Logistics/shipping (higher <b>freight rates</b> in disruptions). What Traders&nbsp;......",
-                "source": "Google Alert - Freight Rate Volatility",
-                "published": "2026-03-26T09:19:32Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
                 "title": "<b>Mining</b> chief predicts supply <b>deficit</b>",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.canadianminingjournal.com/news/mining-chief-predicts-supply-deficit/&ct=ga&cd=CAIyGmU0ZDE2NzA0MThmMTdhNzI6Y29tOmVuOklO&usg=AOvVaw22x-aj8libW4ENLhUry2zz",
                 "summary": "The <b>mining</b> industry faces mounting pressure to meet accelerating demand for <b>critical minerals</b>, but regulatory delays and operational constraints&nbsp;......",
@@ -1064,6 +1028,15 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "Hormuz is not the only weak spot for global <b>trade</b> - The Economist",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.economist.com/briefing/2026/03/26/hormuz-is-not-the-only-weak-spot-for-global-trade&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw3qTSzcNzyRsqZ03kUTLKoV",
+                "summary": "And shrinking ice-caps may open new <b>Arctic shipping</b> ... <b>routes</b> between 41,387 pairs of ports and roughly estimated the <b>trade</b> along each one....",
+                "source": "Google Alert - Arctic Trade Routes",
+                "published": "2026-03-26T23:03:35Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Strait of Hormuz Toll System Transforms Global Maritime <b>Trade</b> - Discovery Alert",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/maritime-economics-2026-hormuz-toll-system/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw1zgLBiqtZ2Lia62k57mJDm",
                 "summary": "<b>Arctic Shipping Routes</b>: Increased interest in Northern Sea Route development despite seasonal limitations. International Response Coordination and&nbsp;......",
@@ -1075,6 +1048,24 @@
         ],
         "GLOBAL ECONOMY": [
             {
+                "title": "<b>Geopolitical</b> tensions buoy the US Dollar, keeping AUD/USD near monthly lows around ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vtmarkets.com/in/live-updates/geopolitical-tensions-buoy-the-us-dollar-keeping-aud-usd-near-monthly-lows-around-0-6920-down-0-35/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2i3s1L7BwntInYXjhj0q3P",
+                "summary": "He referred to inflation <b>risks</b> from higher energy prices and the need to keep policy restrictive, but the market response was limited. Commerzbank&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-03-26T22:41:05Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Four signals to track as <b>geopolitical risk</b> rises | Allianz Global Investors",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allianzgi.com/en/insights/geopolitical-signals&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3pvv8SYXFErEkWe2SeLoQZ",
+                "summary": "Geopolitical shocks tend to trigger abrupt but short lived market reactions. On average over the past 35 years, spikes in the <b>Geopolitical Risk</b> Index&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-03-26T18:23:31Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "WTI Crude Oil price forecast: Holds above $91 as <b>geopolitical risk</b> underpins market",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/financial-news/show/1798614-wti-crude-oil-price-forecast/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2pSur3Hz77OLFtQumcSYoO",
                 "summary": "WTI near $92 as Iran rejects U.S. peace plan, keeping <b>geopolitical risk</b> alive with $93 resistance on watch....",
@@ -1084,31 +1075,22 @@
                 "risk_color": "green"
             },
             {
-                "title": "Navigating commodity shocks: the heterogeneous impact on EMDEs | ODI: Think change",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://odi.org/en/insights/navigating-commodity-shocks-the-heterogeneous-impact-on-emdes/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3fdq2avSJwf3kf9r3LEbM-",
-                "summary": "Emerging market <b>risk</b> premia in shifting <b>geopolitical</b> winds. In the latest issue of &quot;This Week in Macroeconomics&quot;, we feature a guest contribution&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-03-26T16:50:10Z",
-                "risk_score": 2.5,
+                "title": "'Renewable' <b>Energy</b> Gives Us a Crisis - WSJ",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/opinion/renewable-energy-gives-us-a-crisis-e8426cd8&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0AywVSGmOll6sGG0UNPlL4",
+                "summary": "... world's seas, a core tenet of <b>global energy security</b>. The Biden administration's withdrawal from its global maritime security responsibilities&nbsp;......",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-03-26T21:26:11Z",
+                "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
-                "title": "If you aren't buying gold in this correction, you never will, says WisdomTree's Shah - KITCO",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-03-26/if-you-arent-buying-gold-correction-you-never-will-says-wisdomtrees-shah&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw09NlGWgAOzxSo7qsyHLuFb",
-                "summary": "... <b>geopolitical risk</b> event we've seen in the past, we've seen a bit of ... risk triggering recession. \u201cI am highly skeptical that central banks&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-03-26T16:12:26Z",
-                "risk_score": 3.5,
+                "title": "Middle East conflict 2026: How Israel-US-Iran tensions are shaking <b>global</b> economies",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/multimedia/video/middle-east-conflict-2026-how-israel-us-iran-tensions-are-shaking-global-economies/article70788426.ece&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2sypmWcVZxvyaYkXd67nu7",
+                "summary": "Explore how the escalating Israel-US-Iran tensions in 2026 are impacting <b>global</b> economies and reshaping <b>energy security</b> strategies....",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-03-26T20:46:14Z",
+                "risk_score": 4.5,
                 "risk_color": "red"
-            },
-            {
-                "title": "Pensions get selective as <b>geopolitical risk</b>, energy shocks hits global markets",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pensionpolicyinternational.com/pensions-get-selective-as-geopolitical-risk-energy-shocks-hits-global-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3IziIOfgSsMi0cut5zV7qZ",
-                "summary": "\u201cAnd that's definitely a <b>danger</b> to markets at present. I don't think you want to take a <b>geopolitical</b> shock and necessarily lift the script on your&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-03-26T15:44:54Z",
-                "risk_score": 1,
-                "risk_color": "green"
             },
             {
                 "title": "The Cost of Neglecting <b>Energy Security</b> - The National Interest",
@@ -1129,22 +1111,22 @@
                 "risk_color": "red"
             },
             {
-                "title": "2026 <b>Energy</b> Crisis Policy Response Tracker \u2013 Data Tools - IEA",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw15vT_mxu0IlKTvH44X4rN7",
-                "summary": "The Middle East and <b>Global Energy</b> Markets. Electricity <b>security</b> report cover. Energy <b>Security</b> ... Use, download and buy <b>global energy</b> data. Data&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-03-26T16:57:08Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "title": "Emerging Market <b>Debt</b>: A Better Bet Than Emerging Market Equities - Dividend.com",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dividend.com/fixed-income-channel/emerging-market-debt-a-better-bet-than-emerging-market-equities/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2TyufR6G50EkYeA0UhTPhl",
+                "summary": "These economies faced significant challenges from decelerating global growth after the financial <b>crisis</b> ... Invesco Emerging Markets <b>Sovereign Debt</b> ETF&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-03-26T20:19:34Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
             },
             {
-                "title": "<b>Asia Pacific Security</b> Testing Market worth $9.80 billion by 2031 - MarketsandMarkets",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketsandmarkets.com/PressReleases/asia-pacific-security-testing.asp&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3tX6z9RfkAdOOlj5wA252U",
-                "summary": "The <b>Asia Pacific security</b> testing market is projected to grow from USD 2.29 billion in 2025 to USD 9.80 billion by 2031 at a CAGR of 27.3% during&nbsp;......",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-03-26T15:18:55Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "title": "Q&amp;A with Pablo D'Erasmo - Federal Reserve Bank of Philadelphia",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.philadelphiafed.org/the-economy/banking-and-financial-markets/qa-with-pablo-derasmo&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw015NfTwpg5LemSMFFcemT9",
+                "summary": "Right after I finished college, Argentina went into a <b>sovereign debt crisis</b> and the government restricted cash withdrawals from bank accounts....",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-03-26T18:54:37Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "From pink tickets to Python: Toby Baker on 40 years in FX - FX Markets",
@@ -1165,39 +1147,48 @@
                 "risk_color": "red"
             },
             {
-                "title": "The Bear Case: How MU Behaves During Market Shocks - Trefis",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trefis.com/stock/mu/articles2/594845/the-bear-case-how-mu-behaves-during-market-shocks/2026-03-26&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2SRSkdYx57rKESH3qtDHZQ",
-                "summary": "... <b>bonds</b> saw -4.4% move. Can It Survive A <b>Sovereign</b> &amp; Geopolitical Risk <b>Crisis</b>? 2011 US <b>Debt</b> Ceiling <b>Crisis</b> &amp; <b>European</b> Contagion (Jul 2011 to Oct 201...",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-03-26T11:47:12Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Senegal on the Edge of Collapse: The Thirteenth Newsletter (2026) | Tricontinental",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://thetricontinental.org/newsletterissue/senegal-debt-imf/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1m_jTDXdASIUtd6JDhq3B5",
-                "summary": "Senegal entered 2026 in the grip of a growing <b>debt crisis</b> that seems insurmountable. After the <b>government</b> of President Bassirou Diomaye Faye took&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-03-26T08:01:48Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Kenya - Tea Exporters Urged to Tap African Markets as Middle ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/kenyanewsagency/photos/%25F0%259D%2597%25A7%25F0%259D%2597%25B2%25F0%259D%2597%25AE-%25F0%259D%2597%2598%25F0%259D%2598%2585%25F0%259D%2597%25BD%25F0%259D%2597%25BC%25F0%259D%2597%25BF%25F0%259D%2598%2581%25F0%259D%2597%25B2%25F0%259D%2597%25BF%25F0%259D%2598%2580-%25F0%259D%2597%25A8%25F0%259D%2597%25BF%25F0%259D%2597%25B4%25F0%259D%2597%25B2%25F0%259D%2597%25B1-%25F0%259D%2598%2581%25F0%259D%2597%25BC-%25F0%259D%2597%25A7%25F0%259D%2597%25AE%25F0%259D%2597%25BD-%25F0%259D%2597%2594%25F0%259D%2597%25B3%25F0%259D%2597%25BF%25F0%259D%2597%25B6%25F0%259D%2597%25B0%25F0%259D%2597%25AE%25F0%259D%2597%25BB-%25F0%259D%2597%25A0%25F0%259D%2597%25AE%25F0%259D%2597%25BF%25F0%259D%2597%25B8%25F0%259D%2597%25B2%25F0%259D%2598%2581%25F0%259D%2598%2580-%25F0%259D%2597%25AE%25F0%259D%2598%2580-%25F0%259D%2597%25A0%25F0%259D%2597%25B6%25F0%259D%2597%25B1%25F0%259D%2597%25B1%25F0%259D%2597%25B9%25F0%259D%2597%25B2-%25F0%259D%2597%2598%25F0%259D%2597%25AE%25F0%259D%2598%2580%25F0%259D%2598%2581-%25F0%259D%2597%2596%25F0%259D%2597%25BC%25F0%259D%2597%25BB%25F0%259D%2597%25B3%25F0%259D%2597%25B9%25F0%259D%2597%25B6%25F0%259D%2597%25B0%25F0%259D%2598%2581-%25F0%259D%2597%25A7%25F0%259D%2597%25BF%25F0%259D%2597%25B6%25F0%259D%2597%25B4%25F0%259D%2597%25B4%25F0%259D%2597%25B2%25F0%259D%2597%25BF%25F0%259D%2598%2580-%25F0%259D%2597%259F%25F0%259D%2597%25BC%25F0%259D%2598%2580%25F0%259D%2598%2580/1244393924542918/&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw1nmrpYG10c2riYT_ck3hzi",
-                "summary": "... <b>congestion</b> at the <b>Port</b> of Mombasa, as buyers and exporters had already purchased tea before the escalation of the conflict in Iran. \u201cIt means that&nbsp;......",
+                "title": "Time-Critical Logistics Bets on Visibility, Resilience - Mexico Business News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://mexicobusiness.news/logistics/news/time-critical-logistics-bets-visibility-resilience&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw2ZPcc34UwfGaF9PXK29b7M",
+                "summary": "Q: What solutions is Ascent Global Logistics implementing to address road insecurity, <b>port congestion</b>, and the current tariff and geopolitical&nbsp;......",
                 "source": "Google Alert - Port Congestion",
-                "published": "2026-03-26T13:35:40Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "published": "2026-03-26T22:34:55Z",
+                "risk_score": 2,
+                "risk_color": "green"
             },
             {
-                "title": "Global <b>port congestion</b> and delays disrupt trade flows - FreshPlaza",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.freshplaza.com/north-america/article/9823544/global-port-congestion-and-delays-disrupt-trade-flows/&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw3r7W7iuKFWvFJ8iEdPfuvu",
-                "summary": "More than 80 per cent of the world's 454 mapped <b>ports</b> are classified in critical status, with 60 to 70 per cent severely <b>congested</b> and 45 to 59 per&nbsp;......",
+                "title": "Addressing bottlenecks to investment | Inquirer Opinion",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://opinion.inquirer.net/190672/addressing-bottlenecks-to-investment&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw1DIZJRoO1GvIihOqjfzNyv",
+                "summary": "1. Slow implementation of electronic business one-stop shops (eBOSS). &middot; 2. <b>Port congestion</b>. &middot; 3. Delays in energy projects and high cost of energy....",
                 "source": "Google Alert - Port Congestion",
-                "published": "2026-03-26T13:28:15Z",
-                "risk_score": 3.5,
+                "published": "2026-03-26T21:09:52Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "GCC slams Iran over Hormuz tolls - MSN",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/news/insight/gcc-slams-iran-over-hormuz-tolls/gm-GM3AD7CC1A%3FgemSnapshotKey%3DGM3AD7CC1A-snapshot-21%26uxmode%3Druby&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0ncdZ-1EaLI-MGWRN8NcWl",
+                "summary": "... trade. Industry reports describe a de ... These developments highlight vulnerabilities in global <b>shipping routes</b> that underpin energy security....",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-03-26T22:42:50Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Mideast tensions &quot;not a NATO matter,&quot; says Finnish president - Xinhua",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://english.news.cn/20260327/b65db7e936294ed5a8c7e0da2adb5e21/c.html&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0R5Ji7akrbA1Upn0ycJG3p",
+                "summary": "... <b>maritime</b> security and <b>trade routes</b> essential to collective prosperity and security. JEF countries will step up deterrence and peacetime activities&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-03-26T21:32:09Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "IUMI: Global <b>marine</b> insurance market continues to show resilience amid the Middle East crisis",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://safety4sea.com/iumi-global-marine-insurance-market-continues-to-show-resilience-amid-the-middle-east-crisis/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw02JQ1_2x-5xcNB4Rot1vzx",
+                "summary": "... <b>shipping</b> demand and strong freight earnings. Even as geopolitical tensions reshape <b>trading</b> patterns, particularly around key transit <b>routes</b>&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-03-26T20:14:49Z",
+                "risk_score": 4.5,
                 "risk_color": "red"
             },
             {
@@ -1235,34 +1226,25 @@
                 "published": "2026-03-26T01:37:52Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
-            },
-            {
-                "title": "Libyan Authorities Secure Towline to Damaged <b>Arctic</b> Metagaz Gas Carrier - IndexBox",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.indexbox.io/blog/libyan-authorities-secure-towline-to-damaged-arctic-metagaz-gas-carrier/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw0b1XzbWDVq7dRB2HEUi2Hu",
-                "summary": "... <b>Arctic</b> Metagaz. Multiple agencies in the country ... Yes, it highlights demand hotspots, <b>trade routes</b>, pricing trends, and competitive context....",
-                "source": "Google Alert - Arctic Trade Routes",
-                "published": "2026-03-25T19:39:54Z",
-                "risk_score": 1,
-                "risk_color": "green"
             }
         ],
         "LEADERSHIP": [
             {
-                "title": "Time for Congress to Get Busy Backing <b>Regime Change</b> in Iran - Middle East Forum",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.meforum.org/mef-online/time-for-congress-to-get-busy-backing-regime-change-in-iran&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1qeTBgTWssuFSYAWymZ_zq",
-                "summary": "Congress Must Pass an Emergency Supplemental Appropriations Bill That Includes Funding to Support the Iranian People in Their Pursuit of <b>Regime Change</b>....",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T17:32:29Z",
+                "title": "Washington Is Still Looking for the \u201cRight\u201d Iranian Insider | <b>Geopolitical</b> Monitor",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/washington-is-still-looking-for-the-right-iranian-insider/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3McYGhHoPoA4zDs8_LwLLg",
+                "summary": "By focusing on personalities, US policy <b>risks</b> sidelining the more difficult but necessary questions. What would a political transition in Iran&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-03-26T18:50:58Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
             {
-                "title": "<b>Regime change</b> only way to tackle Iran threat, says former US NSA John Bolton",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbctv18.com/world/regime-change-only-way-to-tackle-iran-threat-says-former-us-nsa-john-bolton-ws-l-19875930.htm/amp&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2Dkg5BitqiDIPqqp_tfag5",
-                "summary": "Former US National Security Advisor John Bolton has made a strong case for <b>regime change</b> in Iran, arguing that it is the only viable solution to&nbsp;......",
+                "title": "What's Next for Cuba? - Project Syndicate",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.project-syndicate.org/onpoint/what-s-next-for-cuba&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0ecJ5m_Ez5z5XttnEmcPms",
+                "summary": "... political transformation.\u201d How much \u201c<b>regime change</b> the Cuban government can accept\u201d and how much \u201cpolitical continuity Cuban society can tolerate&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T15:48:02Z",
-                "risk_score": 1,
+                "published": "2026-03-26T21:28:42Z",
+                "risk_score": 2,
                 "risk_color": "green"
             },
             {
@@ -1277,6 +1259,15 @@
         ],
         "GENERAL UPDATES": [
             {
+                "title": "Gold struggles amid <b>geopolitical</b> tensions, but Wells Fargo still sees $6,200/oz by year-end",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-03-26/gold-struggles-amid-geopolitical-tensions-wells-fargo-still-sees-6200oz&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1FyihD_mHjtn0vhVms-pB-",
+                "summary": "... <b>geopolitical risk</b>. \u201cSpikes in the U.S. dollar, Treasury yields, and expectations for rate cuts coming under pressure have all been potent&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-03-26T21:22:37Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
+            },
+            {
                 "title": "<b>Geopolitical Risk</b>, US Slowdown Top List of Insurers' Portfolio Worries - AM Best News",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ambest.com/NewsContent.aspx%3Frefnum%3D273452%26altsrc%3D23&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1sp9vv19xmAtcCQ3pPt-Eh",
                 "summary": "A growing number of insurance executives cited <b>geopolitical</b> tensions as among the top <b>risks</b> to their investment portfolios, with a majority of&nbsp;......",
@@ -1286,20 +1277,29 @@
                 "risk_color": "green"
             },
             {
+                "title": "China in the <b>Indo</b>-<b>Pacific</b>: November 2025 | Council on Foreign Relations",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/articles/china-in-the-indo-pacific-november-2025&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1p0sncFNmfJJbYcRj3TfrV",
+                "summary": "... <b>Indo</b>-<b>Pacific</b>, advancing its regional influence despite ongoing geopolitical frictions ... <b>security</b>. Manila proceeded with its own activities later in&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-03-26T21:19:39Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "U.S. Approves $340M Support Package for Japan's Hyper Velocity Gliding Projectile Program",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.armyrecognition.com/news/aerospace-news/2026/u-s-approves-340m-support-package-for-japans-hyper-velocity-gliding-projectile-program&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0M_kxm1e5DTK8jcyB3Qsqi",
+                "summary": "The announcement reflects growing attention to the defense of Japan's remote islands and the broader <b>Indo</b>-<b>Pacific security</b> environment. It&nbsp;......",
+                "source": "Google Alert - Indo-Pacific Security",
+                "published": "2026-03-26T19:21:49Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Japan vital to allied deterrence across <b>Indo</b>-<b>Pacific</b>",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://ipdefenseforum.com/2026/03/japan-vital-to-allied-deterrence-across-indo-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0Mx-Q1hw_GiCT1zjYnM2FH",
                 "summary": "Felix Kim Japan is reinforcing its centrality in <b>Indo</b>-<b>Pacific security</b> and stability amid accelerating challenges that extend beyond traditional&nbsp;......",
                 "source": "Google Alert - Indo-Pacific Security",
                 "published": "2026-03-26T18:02:03Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Barrick delays Reko Diq project in Pakistan amid mounting <b>security</b> concerns - Reuters",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/asia-pacific/barrick-delay-pakistan-copper-gold-project-amid-middle-east-conflict-ft-reports-2026-03-26/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3cRFszmcD-QCr9BtKvc3zW",
-                "summary": "... \u200bin Bengaluru; Editing by Jonathan Ananda. Our Standards: The Thomson Reuters Trust Principles. , opens new tab. Suggested Topics: <b>Asia Pacific</b>....",
-                "source": "Google Alert - Indo-Pacific Security",
-                "published": "2026-03-26T16:41:33Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -1322,12 +1322,30 @@
                 "risk_color": "green"
             },
             {
-                "title": "The US and Israel are projecting a united front in the conflict with Iran, but cracks are starting ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cgtnamerica/videos/the-us-and-israel-are-projecting-a-united-front-in-the-conflict-with-iran-but-cr/2383359098832012/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2vDMerfoiRKv_RxLxhC4tW",
-                "summary": "... . Guo Jiakun Chinese Foreign Ministry Spokesperson \u90ed\u5609\u6606. Guo Jiakun Chinese ... \udb86\udc8f. <b>Government</b> Official. Pages. \udb85\ude7f. Other. \udb85\ude7f. Brand. \udb85\ude7f. Website. \udb85\ude7f....",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-03-26T17:01:08Z",
-                "risk_score": 3,
+                "title": "ABx readies for hydrogen fluoride plant construction - Mining.com.au",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://mining.com.au/abx-readies-for-hydrogen-fluoride-plant-construction/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2wNe9eTCjz3zx-_ZBcQOey",
+                "summary": "ABx Group is focused on delivering materials for a cleaner future with priority projects in heavy <b>rare earths</b>, clean fluorine chemical production, and&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-03-27T00:31:31Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "USA <b>Rare Earth</b> magnet production begins - Metal Tech News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.metaltechnews.com/story/2026/04/01/tech-bytes/usa-rare-earth-magnet-production-begins/2700.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw20cAfFNdojD2gMiz1dNw-V",
+                "summary": "&quot;Today's announcement is a major step in delivering on our ambition to build a global champion and the partner of choice in <b>rare earth elements</b>,&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-03-26T21:45:19Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "ReElement Technologies Provides Update on Marion <b>Rare Earth</b> and Critical Mineral ... - Nasdaq",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nasdaq.com/press-release/reelement-technologies-provides-update-marion-rare-earth-and-critical-mineral&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2dbOfbyWnasimtpVjNb9sy",
+                "summary": "Elements: Nd, Pr, Dy, Tb, Y, Gd, Sm, with ongoing development for Lu, Yb and other heavy <b>rare earths</b> and secondary materials. Capacity: Up to 7,000&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-03-26T21:21:15Z",
+                "risk_score": 2.5,
                 "risk_color": "yellow"
             },
             {
@@ -1349,6 +1367,15 @@
                 "risk_color": "green"
             },
             {
+                "title": "Australia deal shows EU is &quot;open for business&quot; - The Business Times",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.sg/opinion-features/australia-deal-shows-eu-open-business&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3rlJYRUYFLpzIUeBQscKVJ",
+                "summary": "Not only does Australia possess the world's third-largest reserve of <b>rare earth elements</b>, it is also the top global producer of lithium, a&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-03-26T18:22:34Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Osmond pitches Spanish critical minerals play to feed robotics boom - SMH",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.smh.com.au/business/companies/osmond-pitches-spanish-critical-minerals-play-to-feed-robotics-boom-20260326-p5zixk.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1RC7tENYSyVOXUADxFgHXO",
                 "summary": "Forecast's suggest that <b>rare earths</b> magnet supply may need to increase by an extraordinary 480 times to support long-range robot production for 2050,&nbsp;......",
@@ -1358,22 +1385,13 @@
                 "risk_color": "green"
             },
             {
-                "title": "Critical Minerals Processing: The West's refining challenge and the technologies closing the gap",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rbc.com/en/thought-leadership/explained/critical-minerals-processing-the-wests-refining-challenge-and-the-technologies-closing-the-gap-2/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0tfypOsVzX0t54EvtHaiAx",
-                "summary": "Canadian firm Ucore <b>Rare Metals</b> is a case in point. Its RapidSX platform is a column-based solvent extraction system for <b>rare earth</b> separation that&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-03-26T16:15:48Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Nations waking up to the importance of localization - Arab News",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabnews.com/node/2637769/amp&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3Yul9k1jAg0A4SRWAqE_-y",
-                "summary": "<b>Rare earth elements</b> are a prime example. Today, the majority of <b>rare</b>-<b>earths</b> are mined in China and more than 80 percent are processed there, with&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-03-26T15:37:02Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "title": "Hapag-Lloyd Earnings Down From Last Year - Marine Link",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marinelink.com/news/hapaglloyd-earnings-down-last-year-537393&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw2MU_EAUnHWuLyAB5G1cHoO",
+                "summary": "... <b>port congestion</b> had a negative earnings impact. However, Gemini related cost savings started kicking in during the second half of 2025 and will be&nbsp;......",
+                "source": "Google Alert - Port Congestion",
+                "published": "2026-03-26T22:48:45Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
             },
             {
                 "title": "PPA expects more passengers in Holy Week despite high fares | GMA News Online",
