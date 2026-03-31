@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 30 March 2026
+**Date:** 31 March 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil surges past $115 as Houthis enter West Asia conflict, widening war stokes supply fears
+**Source News:** Bitcoin gains on Trump's Iran comments as analysts warn of <b>geopolitical risk</b> and ETF outflows
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil surges past $115 as Houthis enter West Asia conflict, widening war stokes supply fears
+- **The News:** Bitcoin gains on Trump's Iran comments as analysts warn of <b>geopolitical risk</b> and ETF outflows
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Deutsche Bank CRO's year of living dangerously - <b>Risk</b>.net
+**Source News:** GBP Climbs to Multi-Month High Against NZD as <b>Geopolitical Risks</b> Hurt Kiwi - TradingPedia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Deutsche Bank CRO's year of living dangerously - <b>Risk</b>.net
+- **The News:** GBP Climbs to Multi-Month High Against NZD as <b>Geopolitical Risks</b> Hurt Kiwi - TradingPedia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The Most-Traded SHFE Tin Contract Closed Up 3.19%, with Middle East <b>Geopolitical Risks</b> ...
+**Source News:** Oil at $200: Still a real <b>risk</b> — or a market myth? - Gulf News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Most-Traded SHFE Tin Contract Closed Up 3.19%, with Middle East <b>Geopolitical Risks</b> ...
+- **The News:** Oil at $200: Still a real <b>risk</b> — or a market myth? - Gulf News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump may have triggered the process of <b>regime change</b> — but not in Iran
+**Source News:** India's Vision of the <b>Indo</b>-<b>Pacific</b>. - NewsDay Zimbabwe
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump may have triggered the process of <b>regime change</b> — but not in Iran
+- **The News:** India's Vision of the <b>Indo</b>-<b>Pacific</b>. - NewsDay Zimbabwe
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
