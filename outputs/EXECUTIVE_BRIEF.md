@@ -1,87 +1,93 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 31 March 2026
+**Date:** 01 April 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 26.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 18.0)
-- **Taiwan Strait** (Risk Score: 12.0)
+- **Strait of Hormuz** (Risk Score: 18.0)
+- **Taiwan Strait** (Risk Score: 14.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 9.0)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟡 Bitcoin gains on Trump's Iran comments as analysts warn of <b>geopolitical risk</b> and ETF outflows**
-> *President Donald Trump's latest remarks on Iran lifted bitcoin prices on Monday after last week's dip toward $64,000. However, <b>geopolitical risk</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theblock.co/post/395654/serious-talks-with-new-regime-bitcoin-gains-on-trumps-iran-comments-as-analysts-warn-of-geopolitical-risk-and-etf-outflows&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-uV63Fplum1gfzn-Q-b4x))
+**🔴 Japan and Indonesia boost <b>energy security</b> coordination in response to supply crunch**
+> *Comments &middot; The <b>Global</b> Supply Chain Crisis And The Return To Resource Sovereignty: Col. Douglas Macgregor &middot; Trump puts Europe on notice: 'GO GET YOUR OWN&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVfiVDCdq2kA&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1-o7CnQmyfGtmdtPG2Gvyw))
 
-**🔴 The Iran war has set in motion a global realignment - Atlantic Council**
-> *In such conditions, prices do not rise gradually. They jump, often overshooting fundamentals as markets attempt to price <b>geopolitical risk</b> in real&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/dispatches/the-iran-war-has-set-in-motion-a-global-realignment/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Bb-12cef26jGT-RqTvLoJ))
+**🔴 Middle East <b>War</b> Hits <b>Economy</b> Hard | UNDP Warns of Massive Losses &amp; Rising Poverty**
+> *... <b>war</b> on regional stability and <b>economic</b> recovery. #MiddleEastWar #UNDP #GlobalEconomy #ArabEconomy #WarImpact #Poverty #Unemployment #WorldNews&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DveisdqDa688&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1yIkr8f2dlWLnW6O75Nl0V))
 
-**🔴 Chokepoints keep fossil fuel importers exposed to recurring shocks: Report**
-> *... <b>Global Energy</b> Transition. Smith added that renewables are not without ... That is the strategic energy <b>security</b> lesson from this crisis....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energy.economictimes.indiatimes.com/news/oil-and-gas/chokepoints-threaten-energy-security-for-fossil-fuel-importers-key-findings/129901763&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1MFz4k7plVFsYNGUn05yy5))
+**🔴 First tariffs, now Iran <b>war</b> causing <b>financial</b> woes for Minnesota farmers - Star Tribune**
+> *First tariffs, now Iran <b>war</b> causing <b>financial</b> woes for Minnesota farmers. As global production shifts, Jay Debertin, CEO of ag co-op CHS, said the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.startribune.com/chs-cobank-debertin-halverson-ceo-iran-war-trade-fertilizer-corn-soybean-price-china-brazil/601650883&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2e_-Sp_dIB1Dz5eOcMV6kb))
 
-**🟢 Plugging into Reality: The ASEAN Power Grid | New Perspectives on Asia - CSIS**
-> *<b>Global</b> Food and Water <b>Security</b> Program &middot; <b>Global</b> Health Policy ... <b>energy security</b>, and accelerate integration of renewable <b>energy</b> across borders....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/blogs/new-perspectives-asia/plugging-reality-asean-power-grid&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3GYpVwrcfPspyV5lVbLCKp))
+**🔴 China's <b>Economy</b> Feels the Iran <b>War</b> Shock - The Diplomat**
+> *China's <b>Economy</b> Feels the Iran <b>War</b> Shock ... And it was already struggling. ... When the United States and Israel launched their first missile strikes&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thediplomat.com/2026/03/chinas-economy-feels-the-iran-war-shock/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3qujmukC-xELU9qa8u5MUf))
 
-**🟡 'They have more at stake than us': Rubio issues Hormuz warning to Iran as he outlines US military ...**
-> *... <b>global energy security</b>. As tensions continue to rise, Rubio's message appears aimed not just at Tehran, but at the wider international community&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/world/they-have-more-at-stake-than-us-rubio-issues-hormuz-warning-to-iran-as-he-outlines-us-military-objectives-article-13874745.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0waT4UP3O5l1fGzeKklSfG))
+**🟡 The Light is On: Lessons from Cuba - Liberation News**
+> *Sixty-Seven Years of Resistance. Cuba has been under some form of embargo, blockade, or <b>economic warfare</b> for sixty-seven years. Longer than many of us&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://liberationnews.org/the-light-is-on-lessons-from-cuba/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1FCLmUuN344nm7qL-Ern8w))
 
 
 ## 🏛 CYBER & TECH
-**🟡 GBP Climbs to Multi-Month High Against NZD as <b>Geopolitical Risks</b> Hurt Kiwi - TradingPedia**
-> *GBP Climbs to Multi-Month High Against NZD as <b>Geopolitical Risks</b> Hurt Kiwi ... Sandra Leggero has a background in financial markets, having spent more&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingpedia.com/2026/03/30/gbp-climbs-to-multi-month-high-against-nzd-as-geopolitical-risks-hurt-kiwi/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1YF_ZZtfyngpUkRcuh9zT0))
+**🟢 Supply chain confidence falls as <b>geopolitical risk</b> rises - IT Brief Australia**
+> *Blue Yonder survey finds supply chain leaders are less confident for 2026, with <b>geopolitical</b> shocks exposing slower response times despite rising&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://itbrief.com.au/story/supply-chain-confidence-falls-as-geopolitical-risk-rises&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0g4ysrrQOP08Y2rdIh7DGi))
 
-**🟢 'Gold is behaving like a <b>risk</b> asset in 2026' but de-dollarization trend will drive further gains – HSBC**
-> *(Kitco News) – Gold is behaving more like a <b>risk</b> asset in 2026, selling off sharply amid heightened <b>geopolitical</b> tensions and a stronger dollar,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-03-30/gold-behaving-risk-asset-2026-de-dollarization-trend-will-drive-further&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw162TJJLRat8PQEXwsXWZMy))
+**🟡 Markets are nervous, but Main Street isn't: Wells Fargo CEO flags economic disconnect**
+> *Wells Fargo Chairman and CEO Charlie Scharf discusses the resilient U.S. economy amid <b>geopolitical risks</b> and market volatility on 'Mornings with Maria&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.foxbusiness.com/markets/markets-nervous-main-street-isnt-wells-fargo-ceo-flags-economic-disconnect&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05ZvNtvkbvCf7q-arV14x7))
 
-**🟡 The <b>world</b> economy is experiencing the most severe oil shock in decades. The worst could ...**
-> *“We haven't seen the brunt of it yet,” said Samantha Gross, director of <b>energy security</b> and climate at the Brookings Institute. “I feel like&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/business/economy/oil-economy-worst-on-the-way-iran-war-rcna265779&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1WmddtbhLqPePjNKRYm7h-))
+**🟢 NZD/USD slips to 0.5710 as steady US Dollar and <b>geopolitical</b> uncertainty temper <b>risk</b> ...**
+> *NZD/USD dips near 0.5710 as USD steadies; Middle East <b>risks</b>, US confidence, and RBNZ expectations weigh....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vtmarkets.com/live-updates/nzd-usd-slips-to-0-5710-as-steady-us-dollar-and-geopolitical-uncertainty-temper-risk-appetite-down-0-15/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1Q6vftsfo6a_MyUSrvIND6))
 
-**🟢 The Egypt <b>Energy</b> Show (EGYPES) Launches in Cairo, Uniting Regional Leaders to ... - EQS News**
-> *... <b>global energy</b> ministers and senior policymakers gathered in Cairo to drive immediate progress on shared energy <b>security</b> priorities. His Excellency&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eqs-news.com/news/corporate/the-egypt-energy-show-egypes-launches-in-cairo-uniting-regional-leaders-to-address-pressing-energy-security-priorities/8f4956de-420e-47a6-b396-9f1b3c31ae8f_en&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1e0FfH4YRNwWVSMvEJKguA))
+**🟢 What's next after bitcoin's historic underperformance stretch against stocks - CoinDesk**
+> *... <b>geopolitical risks</b> and energy markets evolve. Bitcoin's first-quarter ... “It really hung in there,” Connors said. (Source: Risk Dimensions)....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.coindesk.com/markets/2026/03/31/bitcoin-held-firm-in-march-but-remains-in-historic-underperformance-stretch&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1IJnyBbhHOs1Y4POefv1Kk))
 
-**🔴 Australia to halve fuel tax as <b>global energy</b> crisis deepens | Oil and Gas News | Al Jazeera**
-> *<b>Global energy</b> crisis ... A display shows TSA <b>security</b> checkpoint wait times at Baltimore/Washington International Thurgood Marshall Airport&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/3/30/australia-to-halve-fuel-tax-as-global-energy-crisis-deepens&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw24dO5xAnqOcn6XHYYg4dJk))
+**🟡 1468. The Role of Information Gathering, Analysis, and Provision in an Age of Uncertainty**
+> *... risk of triggering a chain reaction that no one can control. ... Amidst rising <b>geopolitical risks</b>, accelerating climate change, the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jircas.go.jp/en/program/proc/blog/20260401&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3_aWlmhp-rLqLS1JU521pl))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟡 Oil at $200: Still a real <b>risk</b> — or a market myth? - Gulf News**
-> *Oil at $200: Still a real <b>risk</b> — or a market myth? Prices surge on <b>geopolitical</b> fears, but markets still lack signs of a true supply shock. Last&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gulfnews.com/opinion/op-eds/oil-at-200-still-a-real-risk-or-a-market-myth-1.500490731&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0D4FvtbT4CrIaXulQ4k9wN))
+**🟡 Food Industry is 'Crazy and Wild' as Costs, Prices Rise, Says Stew Leonard's CEO**
+> *... <b>geopolitical risk</b>.” Beyond the energy disruption, higher food and fertilizer prices are affecting some countries from the Middle East to Latin&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dms7B_VY3McQ&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2P6ri2hZNf9TxuyahTUaFw))
 
-**🟢 'Massive reminder of <b>geopolitical risk</b>': Australia positioned to capture fleeing battery storage ...**
-> *Climate Energy Finance's Tim Buckley argues that <b>geopolitical</b> instability positions Australia as a safe haven for renewable energy capital....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energy-storage.news/massive-reminder-of-geopolitical-risk-australia-positioned-to-capture-fleeing-battery-storage-investment-amid-middle-east-tension/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Ryd5RqhJa5p5AmI9I3MLG))
+**🔴 Olli Rehn: How to navigate <b>geopolitical</b> turmoil in central banking? A European perspective**
+> *<b>Risks</b> to inflation are tilted to the upside. Inflation will increase this year, while economic activity will weaken. The medium-term effects, however,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bis.org/review/r260326e.htm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1JM5zqxgMQhLGbb2gfmNFJ))
 
-**🔴 Markets 'underpricing' <b>risk</b> posed by Middle East conflict - RTE**
-> *Financial markets are underpricing the <b>risk</b> posed by the ongoing conflict in the Middle East, according to one <b>geopolitical</b> strategy expert....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.rte.ie/news/business/2026/0330/1565864-middle-east-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05_kxbjH95I8STg0KpJD9R))
+**🟡 India's Low Fuel Reserves Signal <b>Energy</b> Risk Amid <b>Global</b> Volatility | Whalesbook**
+> *India's fuel reserves cover just 20-40 days, exposing critical <b>energy security</b> risks amid <b>global</b> turmoil. Diversification and storage upgrades are&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/news/English/commodities/Indias-Low-Fuel-Reserves-Signal-Energy-Risk-Amid-Global-Volatility/69cbdcf33f30946a72389ddc&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2tFX2uBt8X3ixhklCYFoAP))
 
-**🟢 ET Now - The Money Show-Landscape of mid-cap and small-cap stocks and MFs investing ...**
-> *In a dynamic market environment shaped by <b>geopolitical risks</b> and shifting valuations, investors often struggle between reacting to short-term&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.in/videos/327/et-now---the-money-show-landscape-of-mid-cap-and-small-cap-stocks-and-mfs-investing-in-large-cap-stocks.aspx%3Fmstab%3Dvideos&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ndVGet97N9Fh_fqjoDplx))
+**🟡 Crossed wires: Grid capacity could block EU <b>energy security</b> - Ember**
+> *Europe's <b>energy security</b> depends on rapidly scaling up renewables, but limited grid capacity risks leaving new projects stuck in connection queues&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ember-energy.org/latest-insights/crossed-wires-grid-capacity-could-block-eu-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1m-p12eaQIpDD29qyaRSev))
 
-**🔴 Navigating <b>Geopolitical</b> Conflict and the Delicate Balance | Northwestern Mutual**
-> *<b>Geopolitical risk</b>, which always exists but is currently heightened, has added to these pressures, a reality reflected in financial markets over&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.northwesternmutual.com/life-and-money/navigating-geopolitical-conflict-and-the-delicate-balance/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2KHaRAZdUZxITEbgKwnuPR))
+**🟢 Shell says Australia windfall tax would deter investment and undermine <b>energy security</b>**
+> *Government considering ways to capitalise on spike in <b>global</b> gas prices, considering hitting LNG exporters....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.upstreamonline.com/finance/shell-says-australia-windfall-tax-would-deter-investment-and-undermine-energy-security/2-1-1968407&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3GL6pXeEKwFNvSueQjpKpV))
 
 
 ## 🏛 LEADERSHIP
-**🟢 India's Vision of the <b>Indo</b>-<b>Pacific</b>. - NewsDay Zimbabwe**
-> *India's <b>Indo</b>-<b>Pacific</b> vision has many building blocks. In 2015, PM Modi launched its policy for the Indian Ocean Region (IOR) – <b>Security</b> and Growth&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newsday.co.zw/amp/branding-voice/article/200053345/indias-vision-of-the-indo-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw29RskMP7BEk5t0007vGHOq))
+**🟢 Under pressure at home, Trump has Iran options but none of them are good**
+> *... <b>regime change</b> had already occurred in Iran,” he says. “Other people in the government were saying <b>regime change</b> wasn't our objective, but I&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/world/middle-east/under-pressure-at-home-trump-has-iran-options-but-none-of-them-are-good-20260330-p5zjue&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2rChhSYMi3rc-GmxgWj8sX))
+
+**🟢 What '<b>Regime Change</b>'? - The Atlantic**
+> *According to President Trump, Iran has undergone not one, but two <b>regime changes</b> already this year—and the new government is far more “reasonable”&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theatlantic.com/newsletters/2026/03/trump-regime-change-iran/686638/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw35OuS16s_je20H88jC-VN6))
+
+**🟢 Turkish nationalist leader calls for <b>regime change</b> in Israel 'if any should occur' in Middle East**
+> *Speaking to his parliamentary group, Bahceli asserted that if the international community seeks to restructure the region with <b>regime changes</b>, it must&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.turkiyetoday.com/nation/turkish-nationalist-leader-calls-for-regime-change-in-israel-if-any-should-occur-in-m-3217207&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0E9wfdfUEYwNOVuKsRLZXV))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Australia's Exercise Kakadu enhances multinational fleet, marks navy's 125th anniversary**
-> *Indo-Pacific Defense FORUM is sponsored by the United States Indo-Pacific ... <b>Indo</b>-<b>Pacific security</b> environment. Follow us to stay connected. Follow&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ipdefenseforum.com/2026/03/australias-exercise-kakadu-enhances-multinational-fleet-marks-navys-125th-anniversary/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3NrV9O1Ux65RXUnw_XLils))
+**🔴 <b>Geopolitical Risk</b> - KPMG International**
+> *The Iran conflict has thus made the issue of <b>geopolitical risk</b> for European banks — much discussed in the abstract — very real. It is also another&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://kpmg.com/xx/en/our-insights/ecb-office/kpmg-european-central-bank-office-fs/geopolitical-risk-conflict.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2DmGgulSJTZuV3RlhxmiUA))
 
-**🟢 China won't supplant Australia in the <b>Pacific</b> anytime soon - <b>Asia</b> Times**
-> *... <b>Pacific</b> maritime <b>security</b> cooperation. Australian assistance in fisheries and <b>security</b>. As our mapping illustrates, both Australia and New Zealand&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/2026/03/china-wont-supplant-australia-in-the-pacific-anytime-soon/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1FgqyGVl4HprRPHAuv4gOY))
+**🟡 KOSPI Trading Volume, Investor Deposits Plunge Amid <b>Geopolitical Risks</b>**
+> *However, the securities industry predominantly views the current adjustment as a temporary one driven by <b>geopolitical risks</b> rather than a collapse in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chosun.com/english/market-money-en/2026/04/01/OTCJZR72WFCR7H47RV2JTZSQHQ/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw316DtJ6FGKgEZZEv7n_1Ra))
 
-**🟢 Six new startups join Rio Tinto accelerator - Metal Tech News**
-> *Directory &middot; Photos &middot; Store &middot; About &middot; Contact &middot; Advertise &middot; Free Trial &middot; Subscribe &middot; Sign In. The Elements ... <b>rare earth elements</b> mineral...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.metaltechnews.com/story/2026/04/01/tech-bytes/six-new-startups-join-rio-tinto-accelerator/2703.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3kW0D-VOde3q7vNwJgIY05))
+**🟢 With the <b>Indo</b>-<b>Pacific</b> concept's demise, what of Japan, Australia? - Asia Times**
+> *It was a vision that flattered Australia's sense of relevance while anchoring its <b>security</b> in familiar patterns of alliance and seaborne power. Yet&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/2026/04/with-the-indo-pacific-concepts-demise-what-of-japan-australia/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3K0elRLVPeDuMCY3znkemH))
 
-**🟢 Astron Completes Donald Project BFS, Targets Q2 2026 FID Amid Advanced Financing Talks**
-> *Metallurgical results from 2025 also indicate an increased proportion of heavy <b>rare earth elements</b> within the <b>rare earth element</b> concentrate (REEC)&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://smallcaps.com.au/article/astron-completes-donald-project-bfs-targets-q2-2026-fid-amid-advanced-financing-talks&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw04y0mejNZ7YHOxcoPcNU6N))
+**🔴 <b>Chinese</b>, Philippine Naval Vessels Near Collision**
+> *Amid these <b>tensions</b>, China and the Philippines held the 11th meeting of the Bilateral Consultation Mechanism (BCM) on <b>South China Sea</b> issues in Fujian&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chosun.com/english/world-en/2026/03/30/DNFFVCDLYNCTPEPX2ITT5FL6EI/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2lRJniFEIoI35j8O9oclEu))
 
-**🟡 EagleOne Metals Completes Acquisition of Poison Springs Uranium / <b>Rare Earths</b> Project**
-> *In addition to uranium, historical work indicates the presence of associated <b>elements</b> including vanadium copper, silver, cobalt, nickel and <b>rare earth</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.juniorminingnetwork.com/junior-miner-news/press-releases/3369-cse/eagl/200182-eagleone-completes-acquisition-of-poison-springs-uranium-rare-earths-project.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3nevekPC9Cvf68zXAfV28c))
+**🟡 Victory <b>Metals</b> Limited (ASX:VTM) Breakthrough Heavy <b>Rare Earth</b> Recovery Pathway to Production**
+> *Victory <b>Metals</b> Limited (ASX:VTM) announced exceptional metallurgical leaching test results from its flotation concentrate at the 100%-owned North&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=http://www.abnnewswire.net/press/en/137526/Victory-Metals-Limited-(ASX-VTM)-Breakthrough-Heavy-Rare-Earth-Recovery-Pathway-to-Production.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1otO1tdirfQ5mqFZPpuCw3))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

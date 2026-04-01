@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 31 March 2026
+**Date:** 01 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Bitcoin gains on Trump's Iran comments as analysts warn of <b>geopolitical risk</b> and ETF outflows
+**Source News:** Japan and Indonesia boost <b>energy security</b> coordination in response to supply crunch
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bitcoin gains on Trump's Iran comments as analysts warn of <b>geopolitical risk</b> and ETF outflows
+- **The News:** Japan and Indonesia boost <b>energy security</b> coordination in response to supply crunch
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** GBP Climbs to Multi-Month High Against NZD as <b>Geopolitical Risks</b> Hurt Kiwi - TradingPedia
+**Source News:** Supply chain confidence falls as <b>geopolitical risk</b> rises - IT Brief Australia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** GBP Climbs to Multi-Month High Against NZD as <b>Geopolitical Risks</b> Hurt Kiwi - TradingPedia
+- **The News:** Supply chain confidence falls as <b>geopolitical risk</b> rises - IT Brief Australia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil at $200: Still a real <b>risk</b> — or a market myth? - Gulf News
+**Source News:** Food Industry is 'Crazy and Wild' as Costs, Prices Rise, Says Stew Leonard's CEO
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil at $200: Still a real <b>risk</b> — or a market myth? - Gulf News
+- **The News:** Food Industry is 'Crazy and Wild' as Costs, Prices Rise, Says Stew Leonard's CEO
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** India's Vision of the <b>Indo</b>-<b>Pacific</b>. - NewsDay Zimbabwe
+**Source News:** Under pressure at home, Trump has Iran options but none of them are good
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India's Vision of the <b>Indo</b>-<b>Pacific</b>. - NewsDay Zimbabwe
+- **The News:** Under pressure at home, Trump has Iran options but none of them are good
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
