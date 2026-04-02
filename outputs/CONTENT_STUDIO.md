@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 01 April 2026
+**Date:** 02 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Japan and Indonesia boost <b>energy security</b> coordination in response to supply crunch
+**Source News:** GIC: <b>Geopolitical risks</b> rewire asset allocation 'operating system' - Top1000funds.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Japan and Indonesia boost <b>energy security</b> coordination in response to supply crunch
+- **The News:** GIC: <b>Geopolitical risks</b> rewire asset allocation 'operating system' - Top1000funds.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Supply chain confidence falls as <b>geopolitical risk</b> rises - IT Brief Australia
+**Source News:** Jamie Dimon on <b>Geopolitical Risk</b>, AI, and the Future of the Economy
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Supply chain confidence falls as <b>geopolitical risk</b> rises - IT Brief Australia
+- **The News:** Jamie Dimon on <b>Geopolitical Risk</b>, AI, and the Future of the Economy
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Food Industry is 'Crazy and Wild' as Costs, Prices Rise, Says Stew Leonard's CEO
+**Source News:** Malaysia reaffirms stable LNG supply to Japan amid global oil crisis
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Food Industry is 'Crazy and Wild' as Costs, Prices Rise, Says Stew Leonard's CEO
+- **The News:** Malaysia reaffirms stable LNG supply to Japan amid global oil crisis
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Under pressure at home, Trump has Iran options but none of them are good
+**Source News:** Live updates: U.S. considers withdrawal from NATO; Iran denies requesting a ceasefire
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Under pressure at home, Trump has Iran options but none of them are good
+- **The News:** Live updates: U.S. considers withdrawal from NATO; Iran denies requesting a ceasefire
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
