@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 07 April 2026
+**Date:** 08 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Top 10 op risks: Playing catch-up on <b>geopolitical risk</b> - Risk.net
+**Source News:** UBS lowers 2026 S&amp;P 500 target on Middle East conflict <b>risks</b> | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Top 10 op risks: Playing catch-up on <b>geopolitical risk</b> - Risk.net
+- **The News:** UBS lowers 2026 S&amp;P 500 target on Middle East conflict <b>risks</b> | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil Up, S&amp;P 500 Futures Drop Before Iran Deadline: Markets Wrap - SWI swissinfo.ch
+**Source News:** Iran Conflict - Global Shipping <b>Risks</b> Explained | Benesch - JDSupra
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Up, S&amp;P 500 Futures Drop Before Iran Deadline: Markets Wrap - SWI swissinfo.ch
+- **The News:** Iran Conflict - Global Shipping <b>Risks</b> Explained | Benesch - JDSupra
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Markets rebound as <b>geopolitical risks</b> escalate. - CME Group
+**Source News:** Q1 2026 Audit Committee Agenda - BDO USA
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Markets rebound as <b>geopolitical risks</b> escalate. - CME Group
+- **The News:** Q1 2026 Audit Committee Agenda - BDO USA
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** The Real Coup in Benin? Succession Without <b>Political Change</b> | Democracy in Africa
+**Source News:** Europe's place in the global <b>permacrisis</b> - <b>European</b> Policy Centre (EPC)
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Real Coup in Benin? Succession Without <b>Political Change</b> | Democracy in Africa
+- **The News:** Europe's place in the global <b>permacrisis</b> - <b>European</b> Policy Centre (EPC)
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
