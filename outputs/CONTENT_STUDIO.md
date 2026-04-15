@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 14 April 2026
+**Date:** 15 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** CBOT Grains Daily Options Report - StoneX EN
+**Source News:** Markets mispricing <b>geopolitical risk</b>, Carlyle CEO Harvey Schwartz says | Semafor
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** CBOT Grains Daily Options Report - StoneX EN
+- **The News:** Markets mispricing <b>geopolitical risk</b>, Carlyle CEO Harvey Schwartz says | Semafor
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Executive survey on AI, <b>risk</b> and growth - PwC
+**Source News:** NVIDIA Stock (NVDA) Hits 10-Day Winning Streak on Rubin Demand, Ising Quantum AI ... - TipRanks
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Executive survey on AI, <b>risk</b> and growth - PwC
+- **The News:** NVIDIA Stock (NVDA) Hits 10-Day Winning Streak on Rubin Demand, Ising Quantum AI ... - TipRanks
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Brent +2.9% After Hormuz Spike - Trading Economics
+**Source News:** China trade and Aussie sentiment weaken, but markets rally on <b>geopolitical</b> relief hopes
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brent +2.9% After Hormuz Spike - Trading Economics
+- **The News:** China trade and Aussie sentiment weaken, but markets rally on <b>geopolitical</b> relief hopes
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Goldman CEO: Scale eclipses <b>geopolitical</b> concerns in M&amp;A | Banking Dive
+**Source News:** Mission in Iran not over until <b>regime change</b>: Mossad chief - UNITED NEWS OF INDIA
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Goldman CEO: Scale eclipses <b>geopolitical</b> concerns in M&amp;A | Banking Dive
+- **The News:** Mission in Iran not over until <b>regime change</b>: Mossad chief - UNITED NEWS OF INDIA
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
