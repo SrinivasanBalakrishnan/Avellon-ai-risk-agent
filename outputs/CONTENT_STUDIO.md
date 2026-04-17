@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 April 2026
+**Date:** 17 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Critical mineral transport infrastructure is the latest theatre of <b>geopolitical</b> competition in Africa
+**Source News:** Will Blockade of Hormuz Reshape <b>Global Energy</b>?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Critical mineral transport infrastructure is the latest theatre of <b>geopolitical</b> competition in Africa
+- **The News:** Will Blockade of Hormuz Reshape <b>Global Energy</b>?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** UK retail investors prioritise energy and defence in Q1 2026 as markets reprice <b>risk</b>
+**Source News:** Assessing Dauch (DCH) Valuation As <b>Geopolitical Risks</b> And USMCA Uncertainty Pressure ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UK retail investors prioritise energy and defence in Q1 2026 as markets reprice <b>risk</b>
+- **The News:** Assessing Dauch (DCH) Valuation As <b>Geopolitical Risks</b> And USMCA Uncertainty Pressure ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Geopolitical</b> tensions and markets disruption: Key areas for consideration for trustees in the ...
+**Source News:** Dow Jones Futures Surge As Renewed US-Iran Negotiations Spark Market Optimism
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical</b> tensions and markets disruption: Key areas for consideration for trustees in the ...
+- **The News:** Dow Jones Futures Surge As Renewed US-Iran Negotiations Spark Market Optimism
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Hungary's Péter Magyar says new <b>government</b> could take power at beginning of May
+**Source News:** Iran To EXECUTE First Woman Protester Bita Hemmati Over Anti-<b>Regime</b> Demonstrations
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Hungary's Péter Magyar says new <b>government</b> could take power at beginning of May
+- **The News:** Iran To EXECUTE First Woman Protester Bita Hemmati Over Anti-<b>Regime</b> Demonstrations
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
