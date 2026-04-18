@@ -1,87 +1,88 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 17 April 2026
+**Date:** 18 April 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 23.5)
-- **Strait of Hormuz** (Risk Score: 18.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
+- **Strait of Hormuz** (Risk Score: 43.5)
+- **Taiwan Strait** (Risk Score: 14.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
+- **Panama Canal** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Will Blockade of Hormuz Reshape <b>Global Energy</b>?**
-> *A targeted military campaign to change the Iranian regime has turned into one of the most severe <b>energy security</b> crisis in the <b>world</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.juancole.com/2026/04/blockade-hormuz-reshape.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3kL0o8NhYMEwE7G_dBmNO5))
+**🔴 IMF / International Monetary and Financial Committee Press Briefing**
+> *... <b>geopolitical risks</b>. “This week, the IMFC has discussed the immediate human and economic fallout from wars and conflicts. The IMFC members came&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mediacenter.imf.org/news/imf---international-monetary-and-financial-committee-press-briefing/s/f9090b1e-45ee-49c3-9bf3-fc36dd491c6c&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Lt1ibVr3N9tgJsyCCPZzG))
 
-**🟡 Singapore Cannot Import its Way to <b>Energy Security</b> - RSIS**
-> *Nuclear power can also contribute to <b>energy security</b> because of the inelasticity of uranium fuel price. Uranium is aplenty in the <b>world</b>, and one unit&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rsis.edu.sg/rsis-publication/rsis/singapore-cannot-import-its-way-to-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3mtVmeHeN4d0T446tl7BmQ))
+**🔴 The Law of War - Securities Litigation <b>Risk</b> in an Era of Armed Conflict | JD Supra**
+> *... <b>geopolitical</b> conditions and the attendant <b>risks</b> that may materially impact the company. Such scrutiny is necessary because investors—and, by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/the-law-of-war-securities-litigation-4790838/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ObcDpNnxLFv7LyCtoKVBI))
 
-**🟡 Donald Trump finally made a smart move against Iran. It just might end the <b>war</b>**
-> *Iran's <b>economy</b> is exceptionally dependent on oil exports. But the world <b>economy</b> is not particularly dependent on Iranian oil, which makes up less than&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/business/commentary/article-donald-trump-finally-made-a-smart-move-against-iran-it-just-might-end/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2rXKAjCclqGvQ3zJltSmqY))
+**🟢 <b>Risks</b> to global credit are up: Fitch | Investment Executive**
+> *“Commodity prices and investments in the Gulf region could carry a long-term <b>geopolitical risk</b> premium, depending on the outcome of a diplomatic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.investmentexecutive.com/news/risks-to-global-credit-are-up-fitch/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2RuPyc-ydYXJWBu0ayAJrr))
 
-**🔴 Why the stock market is hitting records despite Iran <b>war</b> - CNBC**
-> *That's largely because investors have been conditioned to believe that President Donald Trump will back off if the <b>economic</b> pain becomes too intense,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/04/16/stocks-record-highs-iran-war.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0HLlbc0rzOB1Wx_brC9t2p))
+**🟡 Flex-fuel vehicles are critical for reshaping India's <b>energy security</b>: AIDA - Daily Pioneer**
+> *Ans - FFVs serve as a critical strategic hedge by decoupling the transport sector from volatile <b>global energy</b> markets. Currently, India faces extreme&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://dailypioneer.com/news/flex-fuel-vehicles-are-critical-for-reshaping-indias-energy-security-aida&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1MffgQ_wQIlF9TzbHnJMlD))
 
-**🔴 From dropping bombs to pressuring banks: U.S. pivots to <b>economic warfare</b> on Iran**
-> *Treasury Secretary Scott Bessent told reporters at a White House briefing that the U.S. plans to ramp up <b>economic</b> pain on Iran, and said the new&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.latimes.com/world-nation/story/2026-04-16/from-dropping-bombs-to-pressuring-banks-u-s-pivots-to-economic-warfare-on-iran&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2aR9RD-OyBXutkKYTAoW6b))
+**🟢 <b>Energy</b> Department Awards New Contracts from Strategic Petroleum Reserve, Advancing ...**
+> *... <b>International Energy</b> Agency's collective action to stabilize global oil supply. ... energy <b>security</b> for the United States. “Through this&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energy.gov/hgeo/opr/articles/energy-department-awards-new-contracts-strategic-petroleum-reserve-advancing&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2xDZtx7Amn1S377ILlkeT4))
 
 
 ## 🏛 CYBER & TECH
-**🔴 Assessing Dauch (DCH) Valuation As <b>Geopolitical Risks</b> And USMCA Uncertainty Pressure ...**
-> *RBC commentary and <b>geopolitical risks</b> set the tone for Dauch Fresh commentary from RBC Capital on Dauch (DCH) highlights how geopolitical tensions&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/automobiles/nyse-dch/dauch/news/assessing-dauch-dch-valuation-as-geopolitical-risks-and-usmc&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Xtzm5E83SFCiIRtCHHA7J))
+**🔴 Pakistan's Debt Dispute with UAE Signals Possible Bilateral Rift | <b>Geopolitical</b> Monitor**
+> *Stay Ahead of <b>Geopolitical Risk</b> ... Actionable geopolitical analysis and forecasting delivered straight to your inbox. ... The announcement sparked&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/pakistans-debt-dispute-with-uae-signals-possible-bilateral-rift/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3tvY7l6lFmj9QH4RelklZx))
 
-**🟢 Energy insurance market stays soft despite losses, inflation and <b>geopolitical risks</b>: Willis**
-> *The global energy insurance market remains favourable to consumers amid rising losses, social inflation and <b>geopolitical</b> uncertainty, according to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/95189/Type/eDaily/Energy-insurance-market-stays-soft-despite-losses-inflation-and-geopolitical-risks-Willis&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2q0MNGm-OWX2wdErP_Bq_L))
+**🟡 Dollar falls to multi-week lows as <b>risk</b> appetite rises on Hormuz news - Reuters**
+> *&quot;The dollar's weakness is mainly about the market unwinding the <b>geopolitical risk</b> premium,&quot; said George Vessey, lead FX and macro strategist at&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/africa/dollar-set-second-weekly-loss-iran-war-peace-hopes-2026-04-17/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2TNzQDAVMBVy5w7iEtrH47))
 
-**🟢 Oil Prices Rise on Uncertainty Over US–Iran Peace Talks - Impakter**
-> *The situation highlights how <b>geopolitical risk</b> in the Middle East continues to drive global energy insecurity and short-term price fluctuations across&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://impakter.com/oil-prices-rise-us-iran-peace-talks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1YQYJBKOQjdHa9hkmz-BkL))
+**🟢 The EBA responds to the European Commission's consultation on EU banking sector ...**
+> *... <b>geopolitical risks</b>, exposures to non-bank financial institutions, and digital transformation. The response also builds on the EBA's October 2025&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-commissions-consultation-eu-banking-sector-competitiveness&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw04xcIvVA5M3_6lL9AF-doh))
 
-**🟡 AI powers corporate rebound as cost pressures rise and <b>geopolitical risks</b> intensify**
-> *AI powers corporate rebound as cost pressures rise and <b>geopolitical risks</b> intensify - Fidelity International 2026 Analyst Survey - AdviserVoice....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.adviservoice.com.au/2026/04/ai-powers-corporate-rebound-as-cost-pressures-rise-and-geopolitical-risks-intensify-fidelity-international-2026-analyst-survey/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3KnGqvOF3p52qDa-rSFaGT))
+**🟢 Strait of Hormuz Reopening: <b>Global Energy Security</b> Impact - Discovery Alert**
+> *<b>Energy security</b> frameworks have evolved dramatically as <b>global</b> supply chains face unprecedented disruptions across critical maritime passages....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://discoveryalert.com.au/global-energy-security-maritime-corridors-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2MXcvx8Q-Moc_Oqiga6vsg))
 
-**🟡 New Highs, Old Fears: Why <b>Geopolitical Risk</b> Still Matters In An All-Time High Market**
-> *US stocks' V-shaped rebound ignores Hormuz energy and supply-chain risks. Read the full analysis here ... New Highs, Old Fears: Why <b>Geopolitical Risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4891313-new-highs-old-fears-why-geopolitical-risk-still-matters-in-an-all-time-high-market&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0GXeCuRNsKPusW82WxLd_3))
+**🟢 The Six Weeks That Changed the <b>Global Energy</b> Economy - Heatmap News**
+> *The Strait of Hormuz appears to maybe be opening up eventually — and the price of oil is collapsing. Iranian Foreign Minister Abbas Araghchi said&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://heatmap.news/energy/iran-china-new-normal&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0skKFs3We2Kntmr2Bf7L9D))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Dow Jones Futures Surge As Renewed US-Iran Negotiations Spark Market Optimism**
-> *Meanwhile, defense sector equities experienced more modest movements, reflecting the complex nature of <b>geopolitical risk</b> assessment. Historical&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/313315271774642&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw16DT1Ego9F2xvgPRZ3F0sg))
+**🟢 Morningstar DBRS Confirms the European Union at AAA, Stable Trend**
+> *... <b>geopolitical risks</b> that weigh on economic growth prospects. EU debt is expected to nearly reach EUR 1 trillion in 2026 and rise persistently as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://dbrs.morningstar.com/research/479026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1uD1m9mvHpvKGNipaei7IG))
 
-**🟡 Capital markets suffer as US seen as 'significant source of <b>geopolitical risk</b>' - Semafor**
-> *... <b>geopolitical risk</b>.” Some investors are reconsidering their overexposure to American markets and the US dollar because they're “recognizing that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.semafor.com/article/04/16/2026/lseg-ceo-david-schwimmer-said-at-semafor-world-economy-that-some-central-banks-are-trimming-their-dollar-exposure-while-pncs-bill-demck-is-bullish-on-the-us&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1Utzj1X1SLTf2F7f_MMdrt))
+**🟢 IMF downgrades global growth, and other finance news to know - The World Economic Forum**
+> *Top stories: IMF flags weaker global growth as <b>geopolitical risks</b> intensify; Earnings season lifts big US banks' profits; Korea markets rebound on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.weforum.org/stories/2026/04/imf-downgrades-global-growth-and-other-finance-news-to-know/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3DkhIEKvBUizhhuhfUyluc))
 
-**🟢 VET to host seminar: “Hormuz Shock” and Vietnam's <b>energy security</b> challenge**
-> *The seminar will address critical questions: Where does Vietnam stand on the <b>global energy</b> “risk map”? How can the country ensure an uninterrupted&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.vneconomy.vn/vet-hosts-seminar-hormuz-shock-and-vietnams-energy-security-challenge.htm&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2-RHZ0WxqrpKWnPfymqkBP))
+**🟢 What's Really Moving Commodity Markets in 2026? - OpenMarkets**
+> *Why <b>Geopolitical Risk</b> is Fueling the Dollar's Surge &middot; 2 Min Watch. Why Monthly U.S. Jobs Reports Diverge but… OPT &middot; ZCN6. Corn Futures. 457'0. 144,747....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cmegroup.com/openmarkets/economics/2026/Whats-Really-Moving-Commodity-Markets-in-2026.html%3Futm_source%3Dbarchart%26utm_medium%3Drss%26utm_campaign%3Ddistribution&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0UuOmjEOf2whPHfzZWhIGQ))
 
-**🟢 Accelerate Japan's Transition from Fossil Fuels and Strengthen <b>Energy</b> Self-Sufficiency**
-> *... energy, energy efficiency, and electrification to strengthen Japan's energy <b>security</b>. ... <b>global energy</b> markets. Meanwhile, local governments&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.renewable-ei.org/en/activities/reports/20260417.php&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2P5kKSHBS-OolvXAcE64aQ))
+**🔴 Modelling the climate change–<b>sovereign debt</b> doom loop - Durham University**
+> *For many countries, climate change is no longer a distant environmental risk; it's a potential fiscal <b>crisis</b>. Slower economic growth and increased&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.durham.ac.uk/business/impact/world-economy/modelling-the-climate-changesovereign-debt-doom-loop/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1TTdNy4nQuYBuk5R5qJyC3))
 
-**🟡 “Lights Out or Pay More?” Ghana's <b>Energy Security</b> Tested as <b>Global</b> Crude Prices Surge**
-> *” Ghana's <b>Energy Security</b> Tested as <b>Global</b> Crude Prices Surge| PM Business with George Wiafe (16-4-26) Ghana is walking a tightrope. With rising&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DvT_Hgqh72V8&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw03Gppyt73pu2vCutcSBSsf))
+**🔴 Ex-Treasury Secretary Paulson Urges Emergency Plan for US Treasury Market Crash**
+> *... debt levels push investors to demand higher yields on <b>government bonds</b>. Higher yields increase interest payments on existing debt, widening the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://coinmarketcap.com/academy/article/ex-treasury-secretary-paulson-urges-emergency-plan-for-us-treasury-market-crash&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0Qq1l2a_fROyMm-EafRMDX))
 
 
 ## 🏛 LEADERSHIP
-**🔴 Iran To EXECUTE First Woman Protester Bita Hemmati Over Anti-<b>Regime</b> Demonstrations**
-> *Iran is reportedly preparing to carry out the death sentence of Bita Hemmati, who is being described as the first known woman protester sentenced&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DgLQxeoIEu9w&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2WxqP8ftD5VVtbMQPEVIPR))
+**🟡 Activists focused on Cuban <b>regime change</b> while demanding release of political prisioners**
+> *Cubans and Cuban exiles are marking 65 years since the Bay of Pigs Invasion....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.local10.com/news/local/2026/04/17/activists-focused-on-cuban-regime-change-while-demanding-release-of-political-prisioners/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw25jlsqg_vC4fanu-2Dz5bP))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 2026 <b>Geopolitical Risk</b> Squeezes South African Business Margins as Rand Volatility Rises**
-> *<b>Geopolitical risk</b> and rand volatility are squeezing South African business margins in 2026, driving higher import costs, fuel prices and supply&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cbn.co.za/industry-news/business-advisory-financial-services-news/2026-geopolitical-risk-squeezes-south-african-business-margins-as-rand-volatility-rises/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw21wBs8bsnAIIsh8tyLBR-5))
+**🟡 Dollar stays soft as <b>geopolitical</b> fears subside - Convera**
+> *Rising <b>risk</b> sentiment has stalled the dollar rally for now. The US dollar index has stayed soft this week as investors lean into the classic de-&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://convera.com/blog/market-insights/fx-research/daily-market-updates/dollar-stays-soft-as-geopolitical-fears-subside/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Fkx0YPNMnb2BKZWg9CzAM))
 
-**🟢 Japan Foreign Chief Meets with NATO Permanent Representatives | Nippon.com**
-> *... security environment surrounding Japan and the Indo-Pacific. The ... Abe's <b>Indo</b>-<b>Pacific</b> “<b>Security</b> Diamond” Begins to Shine. Politics. Feb. 8&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nippon.com/en/news/yjj2026041601144/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw36zoPFP7Uoebk9jhYUcybE))
+**🟢 35th <b>Security</b> Forces Squadron conducts first joint bilateral K-9 exercise - PACOM**
+> *U.S. <b>Indo</b>-<b>Pacific</b> Command. Home Media News blank. News Articles....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pacom.mil/Media/News/News-Articles/Article/4463913/35th-security-forces-squadron-conducts-first-joint-bilateral-k-9-exercise/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2st8UzD8aPvYI0tNiiGZ4l))
 
-**🟢 <b>Indonesia</b> can't keep rowing between reefs - Lowy Institute**
-> *For Washington, it deepens Indonesia's integration into the <b>Indo</b>-<b>Pacific security</b> architecture without requiring permanent basing. And Paris&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lowyinstitute.org/the-interpreter/indonesia-can-t-keep-rowing-between-reefs&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2fg0AOthFzf56sgTA5y6bJ))
+**🟢 C3F, international partners conclude final planning for RIMPAC 2026 Exercise**
+> *... <b>security</b> for the <b>Indo</b>-<b>Pacific</b> region. Share &middot; PRINT &middot; RSS. U.S. Pacific Fleet Logo Commander, U.S. Pacific Fleet 250 MAKALAPA DR JBPHH HI 96860‌&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cpf.navy.mil/Newsroom/News/Article/4463882/c3f-international-partners-conclude-final-planning-for-rimpac-2026-exercise/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0zzVZmd_6T-xdmEY-Yi9Zs))
 
-**🟢 Seoul-Tokyo cooperation essential in <b>Indo</b>-<b>Pacific</b> - The Korea Times**
-> *In the current geopolitical climate where international law is being increasingly ignored, South Korea must not forget its core <b>security</b> interests....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.koreatimes.co.kr/opinion/20260417/seoul-tokyo-cooperation-essential-in-indo-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3goZUlLR_d8yJZixG0rDsf))
+**🟢 C3F and International Partners Conclude Final Planning for RIMPAC 2026 Exercise - DVIDS**
+> *... <b>security</b> for the <b>Indo</b>-<b>Pacific</b> region. NEWS INFO. Date Taken: 04.15.2026. Date Posted: 04.17.2026 14:26. Story ID: 562803. Location: SAN DIEGO&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dvidshub.net/news/562803/c3f-and-international-partners-conclude-final-planning-rimpac-2026-exercise&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1D2tMRXLAucf914eEqUfCe))
 
-**🟢 Japan's <b>Pacific</b> Moment: Recalibrating Japan's <b>Pacific</b> Islands Engagement - CSIS**
-> *... <b>security</b>, including protecting its interests in Southeast <b>Asia</b> and the <b>Pacific</b>. This may mean drastically increasing Japan's defense spending&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/analysis/japans-pacific-moment-recalibrating-japans-pacific-islands-engagement&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw26pZ67d1NxNjn0NvNRFYtx))
+**🟢 Australia's A$20 Billion Mogami Frigate Deal With Japan Creates Powerful New <b>Indo</b>-<b>Pacific</b> ...**
+> *(DEFENCE <b>SECURITY ASIA</b>) — Australia and Japan will formally enter their deepest-ever defence industrial partnership on Saturday when Canberra signs an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/australia-japan-mogami-frigate-deal-20-billion-indopacific-naval-alliance/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2S2iqewNuS45oox2xAocw_))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

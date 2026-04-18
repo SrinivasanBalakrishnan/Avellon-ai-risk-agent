@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 17 April 2026
+**Date:** 18 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Will Blockade of Hormuz Reshape <b>Global Energy</b>?
+**Source News:** IMF / International Monetary and Financial Committee Press Briefing
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Will Blockade of Hormuz Reshape <b>Global Energy</b>?
+- **The News:** IMF / International Monetary and Financial Committee Press Briefing
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Assessing Dauch (DCH) Valuation As <b>Geopolitical Risks</b> And USMCA Uncertainty Pressure ...
+**Source News:** Pakistan's Debt Dispute with UAE Signals Possible Bilateral Rift | <b>Geopolitical</b> Monitor
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Assessing Dauch (DCH) Valuation As <b>Geopolitical Risks</b> And USMCA Uncertainty Pressure ...
+- **The News:** Pakistan's Debt Dispute with UAE Signals Possible Bilateral Rift | <b>Geopolitical</b> Monitor
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Dow Jones Futures Surge As Renewed US-Iran Negotiations Spark Market Optimism
+**Source News:** Morningstar DBRS Confirms the European Union at AAA, Stable Trend
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Dow Jones Futures Surge As Renewed US-Iran Negotiations Spark Market Optimism
+- **The News:** Morningstar DBRS Confirms the European Union at AAA, Stable Trend
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Iran To EXECUTE First Woman Protester Bita Hemmati Over Anti-<b>Regime</b> Demonstrations
+**Source News:** Activists focused on Cuban <b>regime change</b> while demanding release of political prisioners
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran To EXECUTE First Woman Protester Bita Hemmati Over Anti-<b>Regime</b> Demonstrations
+- **The News:** Activists focused on Cuban <b>regime change</b> while demanding release of political prisioners
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
