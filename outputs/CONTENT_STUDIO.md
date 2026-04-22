@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 21 April 2026
+**Date:** 22 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** War as a Catalyst: Europe's <b>Energy Security</b> Reckoning | Earth.Org
+**Source News:** JPMorgan turns selectively bearish US dollar post-ceasefire, favour high-yield, <b>risk</b> FX
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** War as a Catalyst: Europe's <b>Energy Security</b> Reckoning | Earth.Org
+- **The News:** JPMorgan turns selectively bearish US dollar post-ceasefire, favour high-yield, <b>risk</b> FX
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Bitcoin Price Retakes $76,500 As Iran Tensions And Oil Volatility Drive Market Uncertainty
+**Source News:** TSX posts biggest drop in a month as investors refocus on <b>geopolitical risk</b> | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bitcoin Price Retakes $76,500 As Iran Tensions And Oil Volatility Drive Market Uncertainty
+- **The News:** TSX posts biggest drop in a month as investors refocus on <b>geopolitical risk</b> | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Wall Street Pauses as Iran Tensions Return; Markets Cautious - HDFC Sky
+**Source News:** Malaysia positions itself to capture opportunities amid structural global energy investment shift
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Wall Street Pauses as Iran Tensions Return; Markets Cautious - HDFC Sky
+- **The News:** Malaysia positions itself to capture opportunities amid structural global energy investment shift
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Japan Opens Door to Arms Exports in Major Policy Shift - Bharatshakti
+**Source News:** Iran: Brutal Execution of Courageous Rebellious Youth Amir Ali Mirjafari - Maryam Rajavi
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Japan Opens Door to Arms Exports in Major Policy Shift - Bharatshakti
+- **The News:** Iran: Brutal Execution of Courageous Rebellious Youth Amir Ali Mirjafari - Maryam Rajavi
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
