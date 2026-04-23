@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 April 2026
+**Date:** 23 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** JPMorgan turns selectively bearish US dollar post-ceasefire, favour high-yield, <b>risk</b> FX
+**Source News:** The War in the Middle East: The Destruction of a Fiction - Latinoamérica 21
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** JPMorgan turns selectively bearish US dollar post-ceasefire, favour high-yield, <b>risk</b> FX
+- **The News:** The War in the Middle East: The Destruction of a Fiction - Latinoamérica 21
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** TSX posts biggest drop in a month as investors refocus on <b>geopolitical risk</b> | Reuters
+**Source News:** The Commodities Feed: Oil moves higher as peace talks look shaky | articles | ING THINK
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** TSX posts biggest drop in a month as investors refocus on <b>geopolitical risk</b> | Reuters
+- **The News:** The Commodities Feed: Oil moves higher as peace talks look shaky | articles | ING THINK
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Malaysia positions itself to capture opportunities amid structural global energy investment shift
+**Source News:** US-Iran ceasefire: Trump has not set deadline for Iranian peace proposal - Gulf News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Malaysia positions itself to capture opportunities amid structural global energy investment shift
+- **The News:** US-Iran ceasefire: Trump has not set deadline for Iranian peace proposal - Gulf News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Iran: Brutal Execution of Courageous Rebellious Youth Amir Ali Mirjafari - Maryam Rajavi
+**Source News:** Ottawa should <b>change</b> tax <b>regime</b> to attract investment, Citibank Canada CEO says
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran: Brutal Execution of Courageous Rebellious Youth Amir Ali Mirjafari - Maryam Rajavi
+- **The News:** Ottawa should <b>change</b> tax <b>regime</b> to attract investment, Citibank Canada CEO says
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
