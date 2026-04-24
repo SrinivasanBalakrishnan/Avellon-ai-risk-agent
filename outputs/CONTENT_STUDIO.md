@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 23 April 2026
+**Date:** 24 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The War in the Middle East: The Destruction of a Fiction - Latinoamérica 21
+**Source News:** Friday Peace or Conflict | Global Tensions | Iran US Crisis | Middle East Alert #shorts - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The War in the Middle East: The Destruction of a Fiction - Latinoamérica 21
+- **The News:** Friday Peace or Conflict | Global Tensions | Iran US Crisis | Middle East Alert #shorts - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** The Commodities Feed: Oil moves higher as peace talks look shaky | articles | ING THINK
+**Source News:** The Iran Cease-Fire Rallied Markets but There Are 4 Other Factors Keeping Investors Optimistic
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Commodities Feed: Oil moves higher as peace talks look shaky | articles | ING THINK
+- **The News:** The Iran Cease-Fire Rallied Markets but There Are 4 Other Factors Keeping Investors Optimistic
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** US-Iran ceasefire: Trump has not set deadline for Iranian peace proposal - Gulf News
+**Source News:** EBA Opinion on European Commission's amendments relating to the final draft RTS to ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US-Iran ceasefire: Trump has not set deadline for Iranian peace proposal - Gulf News
+- **The News:** EBA Opinion on European Commission's amendments relating to the final draft RTS to ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Ottawa should <b>change</b> tax <b>regime</b> to attract investment, Citibank Canada CEO says
+**Source News:** Is Trump about to be removed from the US presidency? – Negotiations Round2? - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Ottawa should <b>change</b> tax <b>regime</b> to attract investment, Citibank Canada CEO says
+- **The News:** Is Trump about to be removed from the US presidency? – Negotiations Round2? - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
