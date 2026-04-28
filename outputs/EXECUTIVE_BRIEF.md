@@ -1,93 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 27 April 2026
+**Date:** 28 April 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 31.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 2)
-- **Taiwan Strait** (Risk Score: 2)
+- **Strait of Hormuz** (Risk Score: 15.5)
+- **Taiwan Strait** (Risk Score: 11.0)
+- **Malacca Strait** (Risk Score: 4.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Thailand weighs three war scenarios as GDP and inflation <b>risks</b> rise**
-> *... <b>geopolitical risks</b>. The Office of the National Economic and Social Development Council (NESDC) has lowered its GDP growth forecast to 1.4%, down&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nationthailand.com/business/economy/40065525&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3dqYaL8ojj0DicyDnqoui8))
+**🔴 Reliance shifts crude sourcing to offset Iran war shock - MSN**
+> *Long term, sustained <b>geopolitical risk</b> in West Asia could keep energy markets unstable, impacting inflation, currency, and corporate profitability&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/news/insight/reliance-shifts-crude-sourcing-to-offset-iran-war-shock/gm-GMEF10BBE6%3FgemSnapshotKey%3DGMEF10BBE6-snapshot-3%26uxmode%3Druby&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1D79GR-edOeedsorsqq7E4))
 
-**🟡 Markets getting used to war <b>risk</b>, earnings still strong: Ed Yardeni - CNBC TV18**
-> *Ed Yardeni, President of Yardeni Research explains why markets are adapting to <b>geopolitical</b> tensions, backed by strong earnings and the global&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbctv18.com/market/markets-getting-used-to-war-risk-earnings-still-strong-ed-yardeni-19893729.htm/amp&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0PwKsZKJEOYIBrkoaDSpNn))
+**🟢 Oil India discovers oil, gas in Libya amid <b>global energy</b> tensions - India Today**
+> *... <b>global energy security</b> under strain. Against this backdrop, Libya's reserves are gaining renewed strategic importance. The discovery also&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indiatoday.in/business/story/oil-india-discovers-oil-gas-in-libya-amid-global-energy-tensions-ghadames-basin-2902393-2026-04-27&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3bZzndZ9P4AqvtCw85dux9))
 
-**🟡 The Iran war has the <b>world</b> buying more clean <b>energy</b>. China stands to benefit the most**
-> *“As we face the second fossil fuel shock in less than 5 years, the lesson for our country is clear: The era of fossil fuel <b>security</b> is over, and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnn.com/2026/04/26/energy/china-clean-energy-exports-intl-hnk&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3wcSd2XIKUt-rFBWc4AMaR))
+**🟢 India Secures US$4 Billion Kazakhstan Uranium Deal, Reshaping <b>Global</b> Nuclear Power ...**
+> *India Secures US$4 Billion Kazakhstan Uranium Deal, Reshaping <b>Global</b> Nuclear Power Balance and Strategic <b>Energy Security</b>. Kazatomprom's massive long-&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/india-kazakhstan-4-billion-uranium-deal-kazatomprom-global-nuclear-power-balance/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0Pi_D-eUJuJdezYKT4e20R))
 
-**🔴 As military ties grow closer, Japan and Australia need to reprioritise <b>energy</b> and economic <b>security</b>**
-> *The deepening <b>energy security</b> relationship is a response to just one of the shocks being delivered upon the <b>global</b> order. The <b>energy</b> crisis from the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://eastasiaforum.org/2026/04/27/as-military-ties-grow-closer-japan-and-australia-need-to-reprioritise-energy-and-economic-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2hiTuBFP28BL5S_jZZcIfx))
+**🔴 Saudi UN envoy warns of risks to <b>global</b> trade and <b>energy security</b> as result of Hormuz crisis ...**
+> *Saudi UN envoy warns of risks to <b>global</b> trade and <b>energy security</b> as result of Hormuz crisis https://arab.news/2dpvq....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ArabNews/posts/saudi-un-envoy-warns-of-risks-to-global-trade-and-energy-security-as-result-of-h/1388523083312702/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1DSbd4XCBtIXHa32sYwj7u))
 
-**🟡 AI Boom Drowns Out <b>War</b> Fears to Fuel Asia's Great Market Divide - Bloomberg**
-> *PAKISTAN-WAR-IRAN-US-ISRAEL. Trump Scraps US Trip for Iran Talks, Leaving Ceasefire in Limbo. Top Reads. Trump Stumbled Into a Global <b>Economic War</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-27/ai-boom-drowns-out-war-fears-to-fuel-asia-s-great-market-divide&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw15tsmG65g1smoQ7adXWySN))
+**🟡 Fed likely to hold rates steady as Powell prepares for possible swan song | Kitco News**
+> *... energy prices still elevated and the Iran <b>war</b> at a standstill and likely to prolong uncertainty about the <b>economic</b> and monetary policy outlook....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/off-the-wire/2026-04-27/fed-likely-hold-rates-steady-powell-prepares-possible-swan-song&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2fXm8Za3kpYipuVRtn9AC8))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Turbulence clouds US outlook - World - Chinadaily.com.cn**
-> *... geopolitical instability remains one of the biggest risks facing the US economy. &quot;This kind of goes without saying — today we have <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chinadaily.com.cn/a/202604/27/WS69eee1fea310d6866eb45bb8.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0-LnixAVmwQevciF3CyIu6))
+**🟢 Debt Advisory Maturity Wall Refinancing <b>Risk</b> Upon <b>Geopolitical</b> Tensions - Colliers**
+> *... <b>geopolitical risk</b> has once again become a material financial variable. In this context, alternative financing solutions are playing a growing role&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.colliers.com/en-pt/countries/portugal/success-cases/debt-advisory-maturity-wall-refinancing-risk-upon-geopolitical-tensions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3MLf6bs-pAsjrmWqjf_-qb))
 
-**🟢 Equity Outlook Q2 2026: Global Growth Holds Firm As <b>Geopolitical Risk</b> Simmers**
-> *Despite ongoing <b>geopolitical</b> conflicts and growing concern about market volatility, we believe fundamental case for global economic growth remains&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4894478-equity-outlook-q2-2026-global-growth-holds-firm-as-geopolitical-risk-simmers&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1q0gSifV5zwAoORDTnSbI3))
+**🟢 Q2 2026 Outlook: Central &amp; Eastern Europe Markets - DWS**
+> *... <b>geopolitical</b> and valuation related <b>risks</b> remain relevant. Emerging ... The principal <b>risk</b> remains <b>geopolitical</b>. Hungary's high dependency on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dws.com/insights/cio-view/macro/q2-2026-outlook-central-eastern-europe-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw27HzZPfvP6hFg411scCB7y))
 
-**🟡 Expert view: Nifty 50 can hit 27000? Ventura's Vinit Bolinjkar on Nifty target, top stocks to buy ... - Mint**
-> *&quot;Geopolitical an crude oil risk remain but are fading. Long-term India ... <b>Geopolitical risks</b>, crude oil price spike, and FII outflows have&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-can-hit-27000-venturas-vinit-bolinjkar-on-nifty-target-top-stocks-to-buy-and-more-11777205240269.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0qpEogwyZ_7GVHil4ZOomr))
+**🟢 भारताची उर्जा टंचाई दूर होणार! लिबियात सापडला तेल आणि वायूचा मोठा साठा! - Instagram**
+> *Yeh project India ko energy <b>security</b> dega aur humari dependence ko kam karega. ​Aapko kya lagta hai, is historical move se India <b>global energy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DXqKFqrgi8j/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1uwpgi7RNnGWMt--u8PeC0))
 
-**🟢 From Belém to Santa Marta: The first <b>global</b> conference on phasing out fossil fuels, explained**
-> *... <b>global</b> fuel <b>security</b> and <b>energy</b> independence. What is the Belém Declaration – and why does it matter for phasing out fossil fuels? A new <b>global</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.climatecouncil.org.au/from-belem-to-santa-marta-the-first-global-conference-on-phasing-out-fossil-fuels-explained/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3bZdzpW_PY24CYCj74HWi2))
+**🟢 India strengthens <b>energy security</b> through diversified oil sourcing | THE DAILY TRIBUNE**
+> *India has moved swiftly to strengthen its <b>energy security</b> by expanding crude oil purchases from a wider range of <b>global</b> suppliers, including Russia,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newsofbahrain.com/business/131433.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3aPNP9ORqaNcIPlPId5MJy))
 
-**🟢 UAE President and Indian National <b>Security</b> Advisor hold talks | UAE | India - YouTube**
-> *This content isn't available. The two leaders exchanged views on issues affecting regional security stability and <b>global energy security</b> | UAE&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D9aHj9FXJoZw&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3Oh_iDzJGrPtlx8QfsPRs1))
+**🟢 Japan, China clash at UN <b>Security</b> Council meeting on maritime <b>security</b>**
+> *Japan's State Minister for Foreign Affairs Kunimitsu Ayano said the situation in the strait should not obscure what is happening in the <b>Indo</b>-<b>Pacific</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www3.nhk.or.jp/nhkworld/en/news/20260428_09/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2NNYsLp-qaVqIvzcaLXAaK))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Gold News: June Gold Futures Price Weakens as Crude Oil Kills the Rate Cut Trade**
-> *When gold can't rally with <b>geopolitical risk</b> this elevated, the rate narrative is winning the argument. That's the tell right now. What I'm&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxempire.com/forecasts/article/gold-news-june-gold-futures-price-weakens-as-crude-oil-kills-the-rate-cut-trade-1593927&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw22Ke6awIhtC_ZzQik5JDbd))
+**🟢 Renewables rising, Part 2: Seeking stability amid volatile fossil fuel markets | United Nations**
+> *27 April 2026 - Unlike oil and gas, which expose countries to price spikes and <b>geopolitical risk</b>, renewables offer stable, domestically produced&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.un.org/en/desa/renewables-rising-part-2&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw33GYnlXqbMiuMAW-mx8dYh))
 
-**🟢 Silver Prices Rise As Dollar Index Falls And Middle East <b>Risks</b> Stay In Focus Now**
-> *This, in turn, has created a mixed environment for silver—while <b>geopolitical risks</b> typically support safe-haven demand, rising inflation and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/silver-prices-rise-as-dollar-index-falls-and-middle-east-risks-stay-in-focus-now-5359015&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1qxQgoUBqjnvWTjllMPwSU))
+**🔴 Bitcoin Retreats to $76,600 as <b>Geopolitical Risk</b> Kills Rally | CoinMarketCap**
+> *Major altcoins fell alongside Bitcoin. Ethereum, XRP, and Solana each declined approximately 3%. Bitcoin Retreats to $76,600 as <b>Geopolitical Risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://coinmarketcap.com/alexandria/article/bitcoin-retreats-to-dollar76600-as-geopolitical-risk-kills-rally&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2h6r-UJJcO1AxYYmU95ntU))
 
-**🟢 Gold Volatility Persists as US-Iran Talks Stall - Gotrade**
-> *<b>Geopolitical risk</b> continues to drive short-term price action across precious metals. Nicky Shiels of MKS PAMP SA called market conviction thin&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.heygotrade.com/en/news/gold-volatility-us-iran-talks-stall-april-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2UB-slo-WLQzfUxEy3dD2R))
+**🟡 <b>Geopolitical</b> oil price shocks: Why these shocks hit harder - CEPR**
+> *In our paper (Verduzco-Bustos and Zanetti 2026), we disentangle the fluctuations of oil prices around periods of heightened <b>geopolitical risk</b> and use&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cepr.org/voxeu/columns/geopolitical-oil-price-shocks-why-these-shocks-hit-harder&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2rfCbgvXdi6-UyjGrHBZSk))
 
-**🟡 Renewable <b>energy</b> will boost national <b>security</b> and protect UK from sabotage, minister says**
-> *But those arguments received a heavy blow last week when the Guardian revealed that Fatih Birol, the executive director of the <b>International Energy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw36dV14yQ96ScbCli0_f7im))
+**🟢 Bitcoin Stalls Below $80K as <b>Geopolitical Risk</b> Returns Ahead of Fed - The Defiant**
+> *Crude oil jumped as Trump called off Iran peace talks, dragging BTC back below $77000 and triggering $288 million in long liquidations....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thedefiant.io/news/markets/bitcoin-stalls-below-usd80k-as-geopolitical-risk-returns-ahead-of-fed&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1EEbtUj3uam3C3B3BizPma))
 
-**🔴 Colombia hosts first meeting to quit fossil fuels as <b>energy</b> crisis worsens - Financial Times**
-> *... <b>global</b> emissions — to boost coal power while others have argued for new ... “Even though [countries] have to solve the problem of <b>energy security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/38ecdbe0-a524-45bf-90d6-d90be82dcdee%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1W6IIAMfijO8YYrtI6-YNf))
+**🟡 CAC 40 Slips on Ceasefire Stalemate - Trading Economics**
+> *Markets expect both to hold rates, but persistent <b>geopolitical risks</b>, oil shocks, and energy-driven stagflation fears, alongside higher bond&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tradingeconomics.com/france/stock-market/news/545280&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw15s6VK1y7h2qUkYtaj8xxX))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Menacing echoes of the <b>regime change</b> of 2015 – III - LankaWeb**
-> *By Rohana R. Wasala Continued from April 16 Part II of this write-up concluded with a reference to the perceived anti-Buddhist (and anti-Hindu)&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lankaweb.com/news/items/2026/04/26/menacing-echoes-of-the-regime-change-of-2015-iii/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1mRTt-8tIcV3Su6-vcXyIq))
+**🟡 Why Australia's critical infrastructure <b>regime</b> is about to <b>change</b> - Allens**
+> *Three papers, one message—why Australia's critical infrastructure <b>regime</b> is about to <b>change</b>. By Valeska Bloch, William Coote, Elizabeth Brown 27&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.allens.com.au/insights-news/insights/2026/04/three-papers-one-message-why-australias-critical-infrastructure-regime-is-about-to-change/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3GPq-jGwIOEv0Ck3qFntTj))
 
-**🟢 Hungary Election 2026 Updates: Putin के दोस्त Viktor Orban को Peter Magyar ने कैसे हराया?**
-> *... regime for over a decade. Furthermore, we explore the immense global implications of this <b>regime change</b> for the European Union, Vladimir Putin's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DkLoFJIaxg3c&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0_GWVKANDpIbDdRvNHjsYq))
+**🟡 Vol <b>Regime</b> Compass [N4] — Indicator by ennne3 - TradingView**
+> *Critical Slowing Down detection (Scheffer et al., Nature 2009). Before a <b>regime change</b>, three things rise together: variance, autocorrelation, and vol&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/script/Df0C3ubO-Vol-Regime-Compass-N4/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0msM4e2_26rfCbpKdWRW9N))
 
-**🟢 Iheanacho highlights media role in maritime growth - Realnews Magazine**
-> *... <b>port congestion</b>, high transaction costs, infrastructure gaps, and policy inconsistencies. “Many genuine industry problems do not move into policy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://realnewsmagazine.net/iheanacho-highlights-media-role-in-maritime-growth/&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw2celY1t21-sP3l1R_2Y9-O))
+**🟢 Secretary of State Marco Rubio With Trey Yingst of Fox News Channel**
+> *... <b>regime change</b> in Iran? SECRETARY RUBIO: Well, I think – look, <b>regime change</b> is something that has to happen from within. But changing the regime&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.state.gov/releases/office-of-the-spokesperson/2026/04/secretary-of-state-marco-rubio-with-trey-yingst-of-fox-news-channel/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3n8FzWaH1A67IZjXAwowIH))
+
+**🔴 Four years after Iran's hijab protests: 'The <b>regime</b> uses women for propaganda — with pink weapons'**
+> *“When I was 8 or 9, the revolution took place. In the streets, some women already wore head coverings and some did not. Once the <b>regime changed</b>, we&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ynetnews.com/article/rysehvaabe&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3pOsow0VjprUJdKrVCS-ty))
+
+**🟡 Iran, Minzolini: &quot;The Trump administration is confused; the just cause for <b>regime change</b> has faded.&quot;**
+> *La guerra in Iran, le incertezze dell'amministrazione Trump e il mancato cambio di <b>regime</b> a Teheran nell'analisi di Augusto Minzolini PER RIVEDERE&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DaiKnvBwnWu8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0bHOqe-faptXeKcE7t4tMc))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 Fed meeting preview Powells last word no cut but plenty of signals - Saxo Bank**
-> *... risk. Gold: may initially come under pressure from higher real yields, although <b>geopolitical risk</b> could limit the downside. Scenario 4: Transition&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.home.saxo/content/articles/macro/fed-meeting-preview-powells-last-word--no-cut-but-plenty-of-signals-27042026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1qE7bCKKBzTcrxvxFXcRBD))
+**🔴 Surprising lessons your business can learn from <b>geopolitical risk</b> drills - WTW**
+> *Use risk analytics <b>geopolitical risk</b> drills to test insurance and risk management revealing how your organization really responds in crisis....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wtwco.com/en-au/insights/2026/04/surprising-lessons-your-business-can-learn-from-geopolitical-risk-drills&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0vQ4IKnhAX-nFh19OTblCN))
 
-**🟡 Tanker freight behaviour diverges after the conflict shock | Vortexa**
-> *As <b>geopolitical risk</b> intensified, owners priced in a stronger risk premium and charterers moved quickly to secure Gulf cargoes. This created a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vortexa.com/insights/tanker-freight-behaviour-diverges-after&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3qJJt-ravmyPIaAzLehwy_))
+**🔴 The Ally's Paradox: What South Korea's 2026 Crisis Reveals About Dependency in the <b>Indo</b>-<b>Pacific</b>**
+> *South Korea is currently undergoing simultaneous economic and <b>security</b> crises of a severity that is rarely seen among US allies. The trigger of the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://bisi.org.uk/reports/the-allys-paradox-what-south-koreas-2026-crisis-reveals-about-dependency-in-the-indo-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1Y8NJMaMgMugcdri-z-hNF))
 
-**🟡 JS Izumo's Radical F-35B Transformation Reshapes <b>Indo</b>-<b>Pacific</b> Naval Power Balance**
-> *(DEFENCE <b>SECURITY ASIA</b>) — Japan's quiet transformation of the Japan Maritime Self-Defense Force helicopter destroyer JS Izumo (DDH-183) into a de&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/japan-js-izumo-f35b-lightning-carrier-bow-redesign-indo-pacific-naval-power-balance/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw33DoS5y0QJ5zFNm6IsTmNP))
+**🟢 KD Maharaja Lela Set for December Delivery as South China Sea Tensions Escalate**
+> *ASEAN DefenceAsia Pacific Naval PowerChinese Coast GuardDefence Security AsiaGowind Frigate<b>Indo</b>-<b>Pacific Security</b>KD Maharaja LelaLCS Malaysia. Share&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/malaysia-kd-maharaja-lela-lcs-december-delivery-south-china-sea-rmn-warship/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw02ueilg66OPBbnLmR733WA))
 
-**🟢 Why the U.S. is Not a Declining Power: From Middle East Instability to <b>Indo</b>-<b>Pacific</b> Primacy**
-> *It cannot yet replace the American <b>security</b> architecture that has underwritten the Gulf for decades. That is where the anti-Chinese dimension becomes&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/04/27/why-the-u-s-is-not-a-declining-power-from-middle-east-instability-to-indo-pacific-primacy/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3K1ioGLI8W0IpLalxbVKz4))
+**🟡 US commander highlights the threat China poses - ANI News**
+> *... <b>Indo</b>-<b>Pacific</b>. No nation can dominate the United States or our allies,&quot; he asserted.The USA envisions a balanced power structure in the <b>Indo</b>-<b>Pacific</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/world/us/us-commander-highlights-the-threat-china-poses20260428065630/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2HrjdQfJgHv8TiaCqzGAZC))
 
-**🟢 U.S. Navy and Japan Maritime Self-Defense Force Conduct Joint Naval Exercises in <b>South</b> ...**
-> *... <b>South China Sea</b>, a region fraught with geopolitical <b>tension</b>. The presence of naval forces from multiple countries underscores the delicate balance&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.ssbcrack.com/u-s-navy-and-japan-maritime-self-defense-force-conduct-joint-naval-exercises-in-south-china-sea/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3g9YE4rFNM1nJx_ErPJ36O))
+**🟢 26-year-old Goldman Sachs banker's 5.30am videos ended her career - eFinancialCareers**
+> *Sheehan says she never filmed inside the Goldman office and she didn't much mention the bank at all: it was all about the juxtaposition of &quot;baking and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.efinancialcareers.com/news/tiktok-goldman-sachs&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0498xaIsyHWwfGCNmCrYbE))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

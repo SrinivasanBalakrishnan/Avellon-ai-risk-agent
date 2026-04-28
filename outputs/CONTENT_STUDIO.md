@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 27 April 2026
+**Date:** 28 April 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Thailand weighs three war scenarios as GDP and inflation <b>risks</b> rise
+**Source News:** Reliance shifts crude sourcing to offset Iran war shock - MSN
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Thailand weighs three war scenarios as GDP and inflation <b>risks</b> rise
+- **The News:** Reliance shifts crude sourcing to offset Iran war shock - MSN
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Turbulence clouds US outlook - World - Chinadaily.com.cn
+**Source News:** Debt Advisory Maturity Wall Refinancing <b>Risk</b> Upon <b>Geopolitical</b> Tensions - Colliers
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Turbulence clouds US outlook - World - Chinadaily.com.cn
+- **The News:** Debt Advisory Maturity Wall Refinancing <b>Risk</b> Upon <b>Geopolitical</b> Tensions - Colliers
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold News: June Gold Futures Price Weakens as Crude Oil Kills the Rate Cut Trade
+**Source News:** Renewables rising, Part 2: Seeking stability amid volatile fossil fuel markets | United Nations
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold News: June Gold Futures Price Weakens as Crude Oil Kills the Rate Cut Trade
+- **The News:** Renewables rising, Part 2: Seeking stability amid volatile fossil fuel markets | United Nations
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Menacing echoes of the <b>regime change</b> of 2015 – III - LankaWeb
+**Source News:** Why Australia's critical infrastructure <b>regime</b> is about to <b>change</b> - Allens
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Menacing echoes of the <b>regime change</b> of 2015 – III - LankaWeb
+- **The News:** Why Australia's critical infrastructure <b>regime</b> is about to <b>change</b> - Allens
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
