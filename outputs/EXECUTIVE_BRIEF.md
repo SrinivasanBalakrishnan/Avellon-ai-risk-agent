@@ -1,87 +1,92 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 29 April 2026
+**Date:** 30 April 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 16.5)
-- **Taiwan Strait** (Risk Score: 12.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 8.5)
+- **Taiwan Strait** (Risk Score: 28.0)
+- **Strait of Hormuz** (Risk Score: 14.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 Navigating Global Trade: Sanctions, Export Controls, Customs, and <b>Geopolitical Risk</b>**
-> *... <b>Geopolitical Risk</b>.” This half-day program will allow you to engage with the firm's trade professionals from both the United States and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dlapiper.com/en-us/events/2026/05/navigating-global-trade&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Tkay2DpBpPO5DYFaMZhUq))
+**🟡 Oil Rallies Toward $120 As Middle East Supply <b>Risks</b> Spiral | OilPrice.com**
+> *... <b>geopolitical risk</b> and supply tightness. VLCC tanker. Oil prices extended their rally on Wednesday after reports emerged that the U.S. will tighten&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Crude-Oil/Oil-Rallies-Toward-120-As-Middle-East-Supply-Risks-Spiral.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2QJyIDMIgsHnJMOWHgaeaS))
 
-**🔴 Ukraine just hit a major Russian refinery for the 3rd time in the past 2 weeks - CBC**
-> *... <b>global energy</b> crunch ... energy <b>security</b> throughout the war. Kharchenko has served as an adviser to the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/world/ukraine-russia-refinery-attack-oil-prices-9.7180258&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1nbApebHtytEvY4K5PoNwS))
+**🔴 India Rethinks <b>Energy Security</b> Amid War - Foreign Policy**
+> *News and analysis from India and its neighboring countries in South Asia, a region home to one-fourth of the <b>world's</b> population. Delivered Wednesday....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://foreignpolicy.com/2026/04/29/india-energy-security-iran-war-uae-green-technology/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3lFOQ5Lht5OsnPd3km1U5A))
 
-**🔴 Iran-Israel War | UAE Exits Oil Production Groups OPEC, OPEC+ Amid <b>Global Energy</b> Crisis**
-> *... <b>global energy security</b>. The UAE, long considered a key and reliable member of the group, stepping away now poses a challenge for Saudi Arabia's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DLJUhluRqrmU&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2ELlYi4RNgbXWP9IwRS4Qn))
+**🟢 Commodity Catchup: Short-Term <b>Energy</b> Shock, Long-Term Impact - <b>Global</b> X ETFs**
+> *Many commodities, such as uranium and U.S. natural gas, stand out as potential long-term direct beneficiaries of this shift towards <b>energy security</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalxetfs.com/articles/commodity-catchup-short-term-energy-shock-long-term-impact&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2HqZyaVSduxFgkuCnXoZqS))
 
-**🟢 OPEC's end will be a win for humanity and America — another Trump miracle**
-> *More, this <b>economic warfare</b> funded the rise of global terror, from Sunni Arabs' early support for the Palestinian monsters and then al Qaeda to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2026/04/28/opinion/opecs-end-will-be-a-win-for-humanity-and-america-another-trump-miracle/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2d4vxd43Ck_C-iEkHtRJmd))
+**🟡 Pakistan facing 'major' <b>economic</b> fallout due to Iran <b>war</b>, 2-year progress reversed: Shehbaz Sharif**
+> *Shehbaz said Pakistan's oil import bill had surged from $300 million before the conflict to $800 million, placing additional pressure on the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/world/pakistan-facing-major-economic-fallout-due-to-iran-war-2-year-progress-reversed-shehbaz-sharif-article-13904030.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw04p2ZGWUfLi3VEDKkLosQn))
 
-**🟡 China's Expanding Playbook Signals a New Phase in <b>Economic Warfare</b>**
-> *China supply chain control escalates through export restrictions, legal penalties on foreign firms, and rare earth dominance-reshaping&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rareearthexchanges.com/news/chinas-expanding-playbook-signals-a-new-phase-in-economic-warfare/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3pJXf9H4diGWomlTI3H-Rd))
+**🔴 Iran <b>war</b> live: Trump urges Tehran to 'give up'; Ghalibaf mocks US strategy - Al Jazeera**
+> *Mohammad Bagher Ghalibaf ridicules US's <b>economic</b> pressure campaign as oil prices surge and Hormuz standoff continues....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0cg91YV0T6WRx9S3aCfmTG))
 
 
 ## 🏛 CYBER & TECH
-**🟢 <b>Geopolitical risk</b> drives APAC asset allocation, with rising demand for active ETFs and alternatives**
-> *<b>Geopolitical risk</b> is now the main driver of asset allocation in APAC, prompting more defensive and selective investor behavior....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3267450:0-data-geopolitical-risk-drives-apac-asset-allocation-with-rising-demand-for-active-etfs-and-alternatives/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw38kune7XXmFxQfgbvCRXUj))
+**🟡 What Happened in Santa Marta? | International Institute for Sustainable Development**
+> *Governments linked dependence on fossil fuels to exposure to price shocks, fiscal pressure, and <b>geopolitical risk</b>. In that context, transitioning&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iisd.org/articles/insight/what-happened-santa-marta&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Tc34lz0E0n2pgve31ghTk))
 
-**🔴 The paradox of falling gold | Kitco News**
-> *... <b>geopolitical risk</b>, the inflation narrative pushes rates higher, which in turn pressures gold. Lusk noted that investors are waiting for more&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/opinion/2026-04-28/paradox-falling-gold&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1jBkMYPuSPuMaDU3TkeL7d))
+**🟡 Daily Voice: No full-fledged commodity supercycle, says ICICI Prudential's Gautam Sinha Roy**
+> *Do you think <b>geopolitical risk</b> will remain elevated, given the apparent ... risk premium embedded, which compensates investors for the risk taken....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/daily-voice-no-full-fledged-commodity-supercycle-says-icici-prudential-s-gautam-sinha-roy-13903880.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2n8RGzmWDYSQqUVR3iC7bk))
 
-**🟢 Emerging <b>geopolitical risks</b> highlighted in fiscal guidance - MLQ.ai | AI for investors**
-> *Emerging <b>geopolitical risks</b> highlighted in fiscal guidance. &quot;Maintaining our fiscal '26 guidance ranges across organic sales growth, core EPS and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mlq.ai/earnings/highlight/PG-emerging-geopolitical-risks-highlighted-4fa033/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0HsyjZC3Qk8Bm1oJ2dwGhY))
+**🟢 Strait Supply Disruptions Overshadow UAE's Exit from OPEC; Oil Prices Continue to Rise on Tuesday**
+> *Core Factors: Trading Logic Remains Focused on <b>Geopolitical Risk</b> Premiums. Bearish Impact of UAE's OPEC Exit Offset by Geopolitical Landscape. As&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-32526.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3oa5OcB87D4JftUtPaZ6al))
 
-**🟡 Taiwan logs record chip exports, AI demand outpaces <b>geopolitical risk</b> - digitimes**
-> *Taiwan logs record chip exports, AI demand outpaces <b>geopolitical risk</b>. Bryan Chuang, Taipei. Apr 29, 2026, 10:00 0. Credit: DIGITIMES. As the conflict&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com/news/a20260427PD221/taiwan-growth-israel-market-demand.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw02bCx-8MTB92SLCptvF7m4))
+**🟢 Black Kite, Sayari Partner to Link Cyber and Supply Chain <b>Risk</b> | brief - MSSP Alert**
+> *... <b>geopolitical risk</b>. That creates gaps, especially when risk sits several layers deep in the supplier ecosystem. By combining corporate network&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msspalert.com/brief/black-kite-sayari-partner-to-link-cyber-and-supply-chain-risk&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Sa4NFKicAbeamI1gRwx4s))
 
-**🟢 Fuel <b>security</b> a 'tricky balancing act', experts say as budget nears - ABC News**
-> *<b>Energy</b> Minister Chris Bown has made clear <b>energy security</b> remains a key focus for the government in budget considerations. ... The <b>global</b> oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-04-29/fuel-storage-oil-refining-budget-response-to-fuel-crisis/106610864&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2SPNQwPr62uZ5tIcly_CK_))
+**🟢 Adapt your bond strategy to <b>geopolitical risk</b> - AdviserVoice**
+> *In uncertain economic and <b>geopolitical</b> times fixed income investors should look to unconstrained global fixed income strategies to achieve the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.adviservoice.com.au/2026/04/adapt-your-bond-strategy-to-geopolitical-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1UNO2Cmehke3O-_qC3uhUM))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 India: M&amp;A momentum holds strong in 2026 - Asia Insurance Review**
-> *... risk, but by the market's improved ability to understand, quantify and manage it. Globally, however, 68% of investors still cite <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/95311/Type/eDaily/India-M-A-momentum-holds-strong-in-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3y5wta3HuaCwz0waXYTm2F))
+**🔴 <b>Geopolitical risk</b> and continuous disclosure: how ASX 200 entities are responding to the Iran conflict**
+> *The Iran conflict is shaking energy, commodity and financial markets, intensifying scrutiny on continuous disclosure. This article analyses ASX&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.corrs.com.au/insights/geopolitical-risk-and-continuous-disclosure-how-asx-200-entities-are-responding-to-the-iran-conflict&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1vBBa2Oyx_tFPWHn7o4qNf))
 
-**🔴 Four Ways to Unlock Lasting <b>Energy Security</b> in this Year's Federal Budget | Climate Council**
-> *In the face of a <b>global energy</b> crisis, the Australian Government has introduced short-term measures to manage fuel supplies and price spikes,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.climatecouncil.org.au/four-ways-to-unlock-lasting-energy-security-in-this-years-federal-budget/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0emSwV3OZ-pGHgZLwdUkv6))
+**🟢 Commodities Outlook 2026: Resilience Through Market Volatility | Morgan Stanley**
+> *But as recent events show, <b>geopolitical</b> shocks can disrupt this dynamic. As tensions in Iran escalated, markets quickly focused on the <b>risk</b> of energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.morganstanley.com/insights/articles/commodities-outlook-2026-resilience-through-market-volatility&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0V04hScYe61c9QqdbcRgv9))
 
-**🟢 UAE Quits OPEC: Abu Dhabi's Oil Revolt Shakes Saudi Power, Threatens OPEC+ Control ...**
-> *... <b>global energy security</b> calculations from Washington to Beijing. EnglishInternationalNews &middot; By admin On Apr 29, 2026. oil. Share. (DEFENCE SECURITY&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/uae-quits-opec-abu-dhabi-oil-revolt-saudi-power-opec-plus-global-energy-order/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1yJ7Dd8TVN241nTK9bVR6E))
+**🟢 Gold buyers are moving away from jewellery and buying this instead - Gulf News**
+> *Global gold buyers are shifting from jewellery to bars, coins and ETFs as high prices, inflation and <b>geopolitical risks</b> drive investment demand&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gulfnews.com/business/retail/gold-buyers-are-moving-away-from-jewellery-and-buying-this-instead-1.500523408&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0AiyE8iIl1OORjp6D8Pi22))
 
-**🔴 UAE exits OPEC, OPEC+ amid Middle East crisis, major blow to Saudi-led alliance**
-> *This marks a major shift in <b>global energy</b> politics amid the ongoing international oil supply crisis. ... We reaffirm our commitment to energy <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news24online.com/world/uae-exits-opec-opec-amid-global-energy-crisis/820250/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Yr_HN3VBqdtkRsLNzX2Pg))
+**🟢 Extreme weather and green <b>energy</b> on the rise in Europe - DW News**
+> *... <b>global energy</b> think tank. Solar power set a new record, contributing ... No <b>security</b> without energy <b>security</b>: EU Energy Commissioner. To view&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dw.com/en/extreme-weather-and-green-energy-on-the-rise-in-europe/a-76962870&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3t-KiGtPntZoADyva4nyYz))
 
-**🟡 The Iran Oil Shock: Will it Force the <b>World</b> to Re-think the Future of <b>Energy</b>?**
-> *Robin Pomeroy: An oil shock in 1973 changed the way countries approach <b>energy security</b>. This oil shock will probably do the same, this expert says,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energypolicy.columbia.edu/the-iran-oil-shock-will-it-force-the-world-to-re-think-the-future-of-energy/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0lS-tJSxtqJlblvvJrS8XS))
+**🟢 Small-town refineries play a big role in U.S. <b>energy security</b> - Washington Times**
+> *It's easy to forget that <b>energy</b> markets are <b>global</b> until they are disrupted, sometimes very far from home....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.washingtontimes.com/news/2026/apr/29/small-town-refineries-play-big-role-us-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0meJJubhz7L1DoVfjzeG92))
 
 
 ## 🏛 LEADERSHIP
-**🟢 House Committee <b>Changes</b>, Canada's Position on Iranian <b>Regime</b> – April 28, 2026 - CPAC**
-> *Ministers speak with reporters on Parliament Hill as the federal cabinet holds its weekly meeting. Minister Steven MacKinnon (transport,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cpac.ca/scrums/episode/house-committee-changes-canadas-position-on-iranian-regime--april-28-2026%3Fid%3D3362110e-21b6-4950-8e5c-4976bce06de5&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1F_gn6RQjSQYjaeVGz2xCT))
+**🔴 How Iran's <b>Regime</b> Stays in Control - The National Interest**
+> *More than two months into the US conflict with the Islamic Republic, Operation Epic Fury didn't deliver the <b>regime change</b> in Tehran that many&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nationalinterest.org/blog/middle-east-watch/how-iran-regime-stays-in-control&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2GhamYhm1MY-_pJamvzEz9))
+
+**🟢 Hungary's new opportunity for democracy - CIVICUS LENS**
+> *<b>Regime change</b>, however, is a long process. Orbán is out of the picture ... government, and unravelling 16 years of institutional capture will require&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://lens.civicus.org/hungarys-new-opportunity-for-democracy/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1xrBHuXMqF4XaH_E_DiX-Q))
+
+**🟢 Exit Poll Results Spring Surprises: BJP Dominates in Bengal, Wave of <b>Regime Change</b> in Kerala**
+> *According to the startling figures from the 'Axis My India' exit poll, a wave of <b>political change</b> appears to be sweeping through Kerala this time,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.agniban.com/exit-poll-results-spring-surprises-bjp-dominates-in-bengal-wave-of-regime-change-in-kerala-check-predictions-for-all-states/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw23mTuNuxXatFHn1jczdrZ6))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 GlobalData Plc (GLDAF) Discusses Asset Allocation Trends and <b>Geopolitical Risks</b> in Asia ...**
-> *GlobalData Plc (GLDAF) Discusses Asset Allocation Trends and <b>Geopolitical Risks</b> in Asia Pacific Wealth Management April 28, 2026 10:00 PM&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4895487-globaldata-plc-gldaf-discusses-asset-allocation-trends-and-geopolitical-risks-in-asia-pacific&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ASKY61CuLjNxe1-veDwyP))
+**🔴 Volaris Pulls 2026 Guidance Amid Fuel, <b>Geopolitical Risks</b> - Mexico Business News**
+> *Volaris withdraws 2026 guidance amid fuel volatility and <b>geopolitical risks</b> tied to Middle East tensions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mexicobusiness.news/aerospace/news/volaris-pulls-2026-guidance-amid-fuel-geopolitical-risks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3i3ykdPQSyNI4U9zTtSd2Q))
 
-**🟢 GlobalData StatusUpdate: <b>Geopolitics</b>, Active ETFs and Alternatives Reshape APAC Portfolios**
-> *Geopolitics is now a primary driver of APAC asset allocation — 68% of wealth managers in 2025 say <b>geopolitical risks</b> matter more than economic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/markets/stocks/articles/globaldata-statusupdate-geopolitics-active-etfs-040745660.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3wXzCjA5FVXFRXCMeF8dDO))
+**🟢 Pic gallery: 400 gather to hear how important the north is to regional <b>security</b> | NT News**
+> *It's NT Defence Week, recognising the Northern Territory's vital role in Defence Australia's national <b>security</b>, defence capability and <b>Indo</b>-<b>Pacific</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ntnews.com.au/business/northern-territory/pic-gallery-400-gather-to-hear-how-important-the-north-is-to-regional-security/news-story/e9500968c79c5c4c91d3716f96bee9b5&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2JzgxYjAQxf5ps1SQp626H))
 
-**🟢 <b>Geopolitical risk</b> drives APAC asset allocation, with rising demand for active, quality investments**
-> *<b>Geopolitical risk</b> now dominates asset allocation in APAC, driving more defensive and selective investor behavior. Demand is rising for managed&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3267432:0-data-geopolitical-risk-drives-apac-asset-allocation-with-rising-demand-for-active-quality-investments/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1CX22d_oZnuGu8YwVyzuWm))
+**🟢 Japanese media highlight importance of economic <b>security</b> cooperation with Việt Nam**
+> *... <b>Indo</b>-<b>Pacific</b> (FOIP) strategy. Major outlets including Kyodo News, NHK, Asahi Shimbun, Nikkei and The Japan Times agreed that the visit is not&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://vietnamnews.vn/world/1780418/japanese-media-highlight-importance-of-economic-security-cooperation-with-viet-nam.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0IKAM6XS8chO3I5E6WIVJM))
 
-**🟡 The Middle East conflict: what Australian corporates should do now, and into the future**
-> *Incorporate <b>geopolitical risk</b> into governance &middot; Understand exposures, including third‑party exposures &middot; Consider insolvency and credit risks &middot; Actively&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.claytonutz.com/insights/2026/april/the-middle-east-conflict-what-australian-corporates-should-do-now-and-into-the-future&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw03wSOWYRakIZ-cc4dGHyEh))
+**🟢 Fit for Purpose? Assessing American Alliances - Stimson Center**
+> *Most respondents were located in the <b>Indo</b>-<b>Pacific</b> and Europe, where most U.S. allies are based, while about 20% came from other regions, and they are&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.stimson.org/2026/fit-for-purpose-assessing-american-alliances/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0Dtrm1jYo2WjV4e2XGdM1I))
 
-**🟢 IOS Sagar sends strong message of collective commitment from our partners, says Indian ...**
-> *... Asia. This mission promotes collaborative maritime <b>security</b>, peace, and stability in the <b>Indo</b>-<b>Pacific</b>, expressing a collective commitment to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theprint.in/world/ios-sagar-sends-strong-message-of-collective-commitment-from-our-partners-says-indian-envoy-to-singapore/2916492/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1fHZCP56RPhFi7ZNg0CyMg))
+**🟢 Philippines' naming directive a test for Asean cohesion**
+> *In the increasingly contested <b>South China Sea</b>, even technical measures can carry signalling effects. Naming is not merely administrative; it&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nst.com.my/opinion/letters/2026/04/1429555/philippines-naming-directive-test-asean-cohesion%3Fsource%3Dwidget&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw0Xcs9MKY3Y2uGUibRHFbvx))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
