@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 03 May 2026
+**Date:** 04 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Geopolitical</b> tensions and climate <b>risks</b> shift India's edible oil imports towards supply-driven sourcing
+**Source News:** National Australia Bank posts first-half profit miss, warns of Middle East conflict <b>risks</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical</b> tensions and climate <b>risks</b> shift India's edible oil imports towards supply-driven sourcing
+- **The News:** National Australia Bank posts first-half profit miss, warns of Middle East conflict <b>risks</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold Falls 0.81% as Fed Rate Cut Hopes Fade - Nagaland Post
+**Source News:** Oil slips but stays elevated as US moves to unblock Hormuz traffic - Firstpost
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold Falls 0.81% as Fed Rate Cut Hopes Fade - Nagaland Post
+- **The News:** Oil slips but stays elevated as US moves to unblock Hormuz traffic - Firstpost
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** UAE's Exit and the Changing Dynamics of Oil Markets: An Indian Perspective
+**Source News:** Oil Prices Fall as Trump Launches “Project Freedom” and OPEC+ Increases Output
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UAE's Exit and the Changing Dynamics of Oil Markets: An Indian Perspective
+- **The News:** Oil Prices Fall as Trump Launches “Project Freedom” and OPEC+ Increases Output
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** UAE exit from OPEC redraws Gulf power balance | Policy Circle
+**Source News:** vote leakage and minority consolidation in CPM are crucial - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UAE exit from OPEC redraws Gulf power balance | Policy Circle
+- **The News:** vote leakage and minority consolidation in CPM are crucial - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
