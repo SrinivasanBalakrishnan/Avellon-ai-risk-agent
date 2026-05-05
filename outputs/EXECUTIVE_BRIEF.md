@@ -1,87 +1,97 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 04 May 2026
+**Date:** 05 May 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 40.5)
-- **Taiwan Strait** (Risk Score: 16.0)
+- **Strait of Hormuz** (Risk Score: 27.0)
+- **Taiwan Strait** (Risk Score: 11)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 5.5)
 - **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 National Australia Bank posts first-half profit miss, warns of Middle East conflict <b>risks</b>**
-> *The US-Iran war, which erupted in late February, has rattled global markets as oil supply disruptions and heightened <b>geopolitical risk</b> have pushed&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theedgemalaysia.com/node/802138&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2bILbW_K8N3WKwIsKfqmF8))
+**🟢 Armenia: 3 Strategic Signals Investors Should Track - SpecialEurasia**
+> *Need in-depth <b>geopolitical</b>, security, and <b>risk</b> analysis of Eurasian countries and regions? Our custom reports and consulting services provide tailored&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.specialeurasia.com/2026/05/05/armenia-3-signals-investors/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3scxJW6fCt3a6rM9UJSlWI))
 
-**🔴 National Australia Bank posts first-half profit miss, warns of Middle East conflict <b>risks</b> - WTAQ**
-> *The U.S.-Iran war, which erupted in late February, ​has rattled ⁠global markets as oil supply disruptions and heightened <b>geopolitical risk</b> have pushed&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://wtaq.com/2026/05/03/national-australia-bank-posts-first-half-profit-miss-warns-of-middle-east-conflict-risks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2XWU-QuGxDPyeAh44wgS_5))
+**🟡 Jim Cramer says to own these types of stocks that 'dominate the new economy' - CNBC**
+> *Cramer has long warned that <b>geopolitical risk</b> matters most to investors through its impact on oil and interest rates, which can ripple across the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/05/04/jim-cramer-own-stocks-dominate-new-economy.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw18Pfb0fB8tW9mgKKr4mS9o))
 
-**🔴 Quantifying the impact of the Iran war on US inflation | CEPR**
-> *Kilian, L, M Plante and A Richter (2026b), “<b>Geopolitical</b> Oil Price <b>Risk</b> and Economic Fluctuations,” Federal Reserve Bank of Dallas Working Paper No....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cepr.org/voxeu/columns/quantifying-impact-iran-war-us-inflation&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2uMscbgnVy6G2LKnj-lmF-))
+**🟡 Oaktree's Panossian Warns of Building Credit Market <b>Risks</b> - YouTube**
+> *Business Leaders Talk <b>Geopolitical Risk</b> at Milken | Balance of Power: Early Edition 5/04/2026. Bloomberg Television. New. 579 views &middot; 1:02:10....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dg1HxYDnPNLc&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1H4VdLZMq9a2KhyE3LW_j_))
 
-**🔴 Iran war live: Trump announces plan to escort ships stuck in Hormuz Strait - Al Jazeera**
-> *... <b>geopolitical risk</b> specialist Marco Vicenzino tells Al Jazeera. “Both sides are probing each other without wanting to return to war. We see this as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw02vUKgR3sKymVs7GR_v_Nc))
+**🔴 Stalled methane fight risks climate, <b>energy security</b> - Michael West Media**
+> *Scant progress has been recorded on global methane goals that Australia has signed up to, as the <b>global energy</b> agency warns inaction is leaving&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://michaelwest.com.au/stalled-methane-fight-risks-climate-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1wZft3zX7OFfKtHKkn8Brc))
 
-**🟢 Vietnam, Japan push for more substantive, effective ties - Asia News Network**
-> *... <b>global energy security</b> challenges. The Vietnamese leader affirmed that Japan remains one of Việt Nam's top strategic partners and a trusted&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asianews.network/vietnam-japan-push-for-more-substantive-effective-ties/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0FjtRLbtCeWB3Bxq5dLy-R))
+**🟢 EXIM Awards <b>Energy</b> Dominance Deal of the Year for U.S. Nuclear Export Project in Poland**
+> *... <b>energy security</b>.” More broadly, the deal advances U.S. <b>energy</b> dominance by expanding the <b>global</b> footprint of American <b>energy</b> exports and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.exim.gov/news/exim-awards-energy-dominance-deal-year-for-nuclear-export-project-poland&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2N_Njax8M4e7oWdhIyGUwK))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Oil slips but stays elevated as US moves to unblock Hormuz traffic - Firstpost**
-> *... to unblock the Strait of Hormuz eased supply fears but stalled Iran talks kept the <b>geopolitical risk</b> premium intact....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/business/oil-slips-us-hormuz-traffic-trump-iran-opec-crude-prices-100-dollar-risk-premium-14007141.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0CtStB40bUd2pBe2aDLW5N))
+**🟢 Retail property momentum stalls as <b>geopolitical risks</b> bite - Elite Agent**
+> *Discover how <b>geopolitical risks</b> are impacting Australia's retail property outlook. Knight Frank's review details stalled investment momentum&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://eliteagent.com/retail-property-momentum-stalls-as-geopolitical-risks-bite/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0_JFPsDe2kz4NHfUJXFFXh))
 
-**🔴 What are critical minerals and why governments track them - Mining.com.au**
-> *Supply concentration and <b>geopolitical risk</b>. One of the main reasons ... This concentration can create risks if geopolitical tensions, trade restrictions&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mining.com.au/what-are-critical-minerals-and-why-governments-track-them/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0hIYN-HdjpaEVZltznRwXV))
+**🟢 FOMO doesn't mean ignoring <b>risk</b> - The Globe and Mail**
+> *Source: Economic Policy Uncertainty, March 31, 2024. The Caldara and Iacoviello <b>Geopolitical Risk</b> Index reflects automated text-search results of the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/funds/CLGF032E.CF/pressreleases/1698715/fomo-doesnt-mean-ignoring-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3vaODh1yWeEBbgmiKPfKm6))
 
-**🟢 US plans to guide ships through Hormuz, Brent oil drops 2.4% - Crypto Briefing**
-> *– Market behavior suggests that the US's plan to guide ships through Hormuz could reduce <b>geopolitical risk</b>, consistent with decreased probabilities&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptobriefing.com/us-plans-to-guide-ships-through-hormuz-brent-oil-drops-24/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0HdwnT4x0j5iUYSS1xL7kE))
+**🟢 Stocks Rally With Asia Hitting Record on AI Trade | The Opening Trade 5/4/2026 - YouTube**
+> *Business Leaders Talk <b>Geopolitical Risk</b> at Milken | Balance of Power: Early Edition 5/04/2026. Bloomberg Television. New. 422 views &middot; 1:32:54....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdJm8jUF7-O0&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2nfiAUjdSwr8-hOuesAAzA))
 
-**🟢 Questions are growing around <b>global energy</b> stability ⚠️ Adani says the impact of a ... - Facebook**
-> *Questions are growing around <b>global energy</b> stability ⚠️ Adani says the impact of a possible UAE exit from OPEC on India remains uncertain while......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/EconomicTimes/posts/%25EF%25B8%258F-questions-are-growing-around-global-energy-stability-%25EF%25B8%258F-adani-says-the-impact-o/1454840313338539/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1u8CN0B5lpL_AixRzTiaZb))
+**🟢 Multinationals rebalance their supply chains amid <b>geopolitical</b> tensions and tariff volatility**
+> *<b>Geopolitical</b> tensions are driving increased policy volatility and creating new <b>risks</b> and opportunities for multinationals. Industrial policy measures&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/multinationals-rebalance-their-supply-9377017/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ekdOPbzY8cVyLgNEWNbkB))
 
-**🟢 Japan PM Takaichi set for talks with Australia's Albanese on <b>energy security</b> | Reuters**
-> *... <b>global energy</b> industry. Sign up here. The leaders will discuss economic <b>security</b>, including cooperation on rare earth supply chains, as well as ​&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/japan-pm-takaichi-set-talks-with-australias-albanese-energy-security-2026-05-04/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2HaK6AHvXCMo64d2HbPEJm))
+**🟢 Announcements, Meridian Joins <b>Global</b> Ranks Of Sustainable Companies - NZX**
+> *... <b>World</b> Index – a <b>global</b> measure of corporate sustainability performance. At a time when <b>energy security</b>, climate risk and trust in institutions are&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nzx.com/announcements/472042&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1-zCd2Ms19-Kdq7AvdlTy1))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Oil Prices Fall as Trump Launches “Project Freedom” and OPEC+ Increases Output**
-> *The announcement appears to have at least temporarily tempered some of the <b>geopolitical risk</b> concerns that sent prices spiking last week. Adding&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Launches-Project-Freedom-and-OPEC-Increases-Output.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw39Dzy7QeDaDOU1BlVdtJmk))
+**🟢 India's State <b>Energy</b> Firms can Boost <b>Energy Security</b> by Progressively Shifting Over INR 2 ...**
+> *... <b>global energy security</b>. “While a significant share of PSUs' current ... global fuel markets while cutting emissions and strengthening long-term energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iisd.org/articles/press-release/india-state-energy-firms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Y54LnHiz3MwELDBpu9Iql))
 
-**🟢 Buy in May? KOSPI Eyes 7,000 Amid Volatility Opportunity**
-> *... <b>geopolitical risks</b> △oil prices fluctuating around $100 △burden of confirming March-April economic indicators △shift in macro risk index to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chosun.com/english/market-money-en/2026/05/04/XM67LKSL5BG7VMK6FLCV7CHX5U/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0lyEg4ZDM3pIIW0DyxPeqh))
+**🟢 The time is now to make Canada an <b>energy</b> superpower - BOE Report**
+> *The <b>world</b> needs more Canadian <b>energy</b> and more Canadian oil. We must drive action that unlocks this resource, strengthens national <b>energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://boereport.com/2026/05/04/the-time-is-now-to-make-canada-an-energy-superpower/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3lTeDFh-fhAXmQl_L2KgOF))
 
-**🟢 The Philippines could avoid 1.7 billion pesos in coal and gas import costs by meeting its ...**
-> *If the country acts as swiftly to meet its 2030 solar target, it could both ensure long-term <b>energy security</b> and surpass national climate goals. Coal&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://zerocarbon-analytics.org/energy/the-philippines-could-avoid-1-7-billion-pesos-in-coal-and-gas-import-costs-by-meeting-2030-solar-target/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3EXQOYquNkugACMpOsP5Gb))
+**🔴 Tackling methane emissions key for climate change and <b>energy security</b>: IEA - Al Jazeera**
+> *Dealing with emissions could help alleviate effects of Iran crisis on <b>global energy</b> supply, says report....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/5/4/tackling-methane-emissions-key-for-climate-change-and-energy-security-iea&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1ssv4YN2oyeW_9K24vXLva))
 
-**🟢 Green hydrogen for <b>energy security</b> | The Express Tribune**
-> *To ensure long-term energy <b>security</b>, future-oriented planning must also consider emerging technologies that are reshaping <b>global energy</b> markets....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tribune.com.pk/story/2606218/green-hydrogen-for-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2uLdv7epOvRXSQoTMI8afr))
+**🟢 Australia and Japan deepen defence, energy and trade ties - MSN**
+> *... <b>Indo</b>-<b>Pacific security</b> environment. The Conversation + 2. Defence ties reach new operational depth. Building on the 2022 Security Cooperation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-au/news/insight/australia-and-japan-deepen-defence-energy-and-trade-ties/gm-GM599A4A32%3FgemSnapshotKey%3DGM599A4A32-snapshot-3&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1wmCsc2abqczO1dq4_y-_Y))
 
-**🟢 China, Philippines trade accusations over <b>South China Sea</b> | Reuters**
-> *The exchange extends a run of heightened <b>tension</b> ​between <b>China</b> and the Philippines, a U.S. ally, ​over Sandy Cay, an unoccupied sandbar in the ⁠<b>South</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/china/china-philippines-trade-accusations-over-south-china-sea-2026-05-03/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1yTr-E2SZ9UcFxZ1PmWAuV))
+**🟢 China, Philippines trade accusations over <b>South China Sea</b> - Interaksyon - Philstar.com**
+> *The exchange extends a run of heightened <b>tension</b> between <b>China</b> and the Philippines, a U.S. ally, over Sandy Cay, an unoccupied sandbar in the <b>South</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://interaksyon.philstar.com/trends-spotlights/2026/05/04/312860/china-philippines-trade-accusations-over-south-china-sea/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1q7ud_YCHiObh6iGtrBu4l))
 
 
 ## 🏛 LEADERSHIP
-**🟢 vote leakage and minority consolidation in CPM are crucial - YouTube**
-> *നിയമസഭാ തിരഞ്ഞെടുപ്പിൽ ഐക്യ ജനാധിപത്യ മുന്നണി വലിയ വിജയപ്രതീക്ഷയിലാണ്. കുറഞ്ഞത് എൺപത്താറ് സീറ്റുകൾ ലഭിക്കുമെന്നും അത് നൂറ്റി പന്ത്രണ്ട് വരെ ഉയർന്നേക്കാമെന്നുമാണ് വിലയിരുത്തൽ #KeralaElections #UDF #LDF...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfKzQE8TFTFc&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3aCGiW-g2WYSYdS6dwy93p))
+**🟢 Two Southern Governments Ousted: What Happened? - YouTube**
+> *Senior journalists Kavitha Muralidharan and Shaji M. Joseph and Editor of The South First Anusha Ravi Sood speak to Jahnavi Sen about the election&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DmvpaXuxmPSw&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw29J5bqUcIoKcMZ04y87l65))
+
+**🟢 Kerala Sees <b>Regime Change</b> as Congress-led UDF Returns to Power with 99 Seats**
+> *କେରଳରେ_ଶାସନ_ପରିବର୍ତ୍ତନ କେରଳମ୍ ରେ ଶାସନ ପରିବର୍ତ୍ତନ, କ୍ଷମତାକୁ ଫେରିଲା UDF। ୯୯ ଆସନ ସହ କଂଗ୍ରେସ ନେତୃତ୍ବାଧୀନ UDFର ବାଜିମାତ ହୋଇଛି। ଶାସକ LDFକୁ ପଛରେ ପକାଇ UDFର ସରକାର ଗଢିବାକୁ ଯାଉଛି। ୟୁଡିଏଫକୁ ମିଳିଛି ୯୯ ଆସନ।...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhNgs6NJZbN8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3Xox3crkMUHW1-9HHBlxZX))
+
+**🟢 True Iranian <b>regime change</b> won't occur if the IRGC holds power - opinion**
+> *We are not currently witnessing transformation in Iran – we are only seeing a new form of IRGC control....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/opinion/article-895037&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3t_lwqUp0TAqeO5qg4sC1-))
+
+**🟢 Beaumont morning traffic slows drivers on U.S. 69, I-10**
+> *Texas Department of Transportation live maps are indicating a couple areas of heavy <b>congestion</b> on the city's major highways - though the where won't&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.beaumontenterprise.com/news/article/beaumont-morning-traffic-slows-drivers-u-s-69-22239905.php&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw3pz1ks-BWjGCiHnm9902Ci))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 Conflict monitor: India should proactively consider establishing a Ministry of <b>Risk</b> Management**
-> *The escalating conflict in the Middle East is not merely a <b>geopolitical</b> development but a structural stress test for India's <b>risk</b> management&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/95365/Type/eDaily/Conflict-monitor-India-should-proactively-consider-establishing-a-Ministry-of-Risk-Management&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2XqOmPovq6fD_1JqiQw2bW))
+**🟢 Gold, silver slide as stronger U.S. data, firmer yields pressure metals | Kitco News**
+> *... <b>geopolitical risk</b>. At the time of writing, spot gold was trading near $4,513.70 an ounce, down 2.16%, while spot silver was trading at $72.570&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-05-04/gold-silver-slide-stronger-us-data-firmer-yields-pressure-metals&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0zL2OOEXGQzo6IReFJoGOl))
 
-**🟢 Chokepoints - Malacca, Hormuz And The Wealth Manager's Map**
-> *Shipping routes are in focus given the state of geopolitics – threats to them are major investment themes for the wealth management sector to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=http://www.wealthbriefingasia.com/article.php/Chokepoints-_dash_-Malacca%252C-Hormuz-And-The-Wealth-Manager%2527s-Map-&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1FAoX7DoomSko7VP3gfPeW))
+**🟢 Live From the Milken Institute Global Conference | The Close 5/4/2026 - YouTube**
+> *Business Leaders Talk <b>Geopolitical Risk</b> at Milken | Balance of Power: Early Edition 5/04/2026. Bloomberg Television. New. 1.3K views &middot; 25:28....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dp7UvLfn2dzQ&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw06eTscxBlUL-bahdEA8Fov))
 
-**🟢 Beyond the U.S. Alliance: Why Japan and Canada Are South Korea's Most Important ...**
-> *... <b>security</b> dynamics of Europe and the <b>Indo</b>-<b>Pacific</b>. In such an environment, South Korea's partnerships should overcome regional boundaries. Canada&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/05/04/beyond-the-u-s-alliance-why-japan-and-canada-are-south-koreas-most-important-security-partners/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1qVJf_AytGjvTDjYZgUtxX))
+**🟢 Shipping Security in Hormuz Is a Concern Says Chevron's Wirth - YouTube**
+> *... Business Leaders Talk <b>Geopolitical Risk</b> at Milken | Balance of Power: Early Edition 5/04/2026. Bloomberg Podcasts. New. 210 views &middot; 30:17....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DyYOFMbzYDSc&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0GwS02tQ6ArXjfeq31lfTl))
 
-**🟢 What Happens if Beijing Expands its <b>Indo</b>-<b>Pacific</b> Push? - The Maritime Executive**
-> *By Joe Keary, Raji Rajagopalan and Linus Cohen]Rather than gradually expanding its defense and <b>security</b> engagement across the <b>Indo</b>-<b>Pacific</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://maritime-executive.com/editorials/what-happens-if-beijing-expands-its-indo-pacific-push&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0reDUvbp7vGmAv0v1itKTO))
+**🟢 A New Chapter in the Young Trilateral Leaders Network: An Alumni Workshop**
+> *... <b>Indo</b>-<b>Pacific's</b> biggest <b>security</b>, economic, and civic engagement challenges. As the US Department of State's principal trilateral youth program&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eastwestcenter.org/news/news-release/new-chapter-young-trilateral-leaders-network-alumni-workshop&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3rlPKrdX9Ko3a1Cuouqke8))
 
-**🟢 [Man-Ki Kim] <b>Security</b> beyond self-reliant defense - The Korea Herald**
-> *For decades, the United States has helped shape global stability and the <b>Indo</b>-<b>Pacific security</b> architecture. South Korea's economic success was&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.koreaherald.com/article/10730369&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0sNS0YNuh1HOon8WwCVwuO))
+**🟢 BALIKATAN FORCES HOLD LIVE-FIRE DRILL IN ILOCOS NORTE Around 800 troops from ...**
+> *... <b>South China Sea</b>—key <b>tension</b> points in the region. Missile systems and joint defense capabilities will also be tested. Officials say it strengthens&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/sunstardavaonews/posts/balikatan-forces-hold-live-fire-drill-in-ilocos-nortearound-800-troops-from-the-/1440985751402969/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1pCZH7minN-viY-HPwTs5q))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

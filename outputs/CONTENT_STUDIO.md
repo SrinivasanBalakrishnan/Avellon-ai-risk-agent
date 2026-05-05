@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 04 May 2026
+**Date:** 05 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** National Australia Bank posts first-half profit miss, warns of Middle East conflict <b>risks</b>
+**Source News:** Armenia: 3 Strategic Signals Investors Should Track - SpecialEurasia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** National Australia Bank posts first-half profit miss, warns of Middle East conflict <b>risks</b>
+- **The News:** Armenia: 3 Strategic Signals Investors Should Track - SpecialEurasia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil slips but stays elevated as US moves to unblock Hormuz traffic - Firstpost
+**Source News:** Retail property momentum stalls as <b>geopolitical risks</b> bite - Elite Agent
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil slips but stays elevated as US moves to unblock Hormuz traffic - Firstpost
+- **The News:** Retail property momentum stalls as <b>geopolitical risks</b> bite - Elite Agent
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Prices Fall as Trump Launches “Project Freedom” and OPEC+ Increases Output
+**Source News:** India's State <b>Energy</b> Firms can Boost <b>Energy Security</b> by Progressively Shifting Over INR 2 ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Prices Fall as Trump Launches “Project Freedom” and OPEC+ Increases Output
+- **The News:** India's State <b>Energy</b> Firms can Boost <b>Energy Security</b> by Progressively Shifting Over INR 2 ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** vote leakage and minority consolidation in CPM are crucial - YouTube
+**Source News:** Two Southern Governments Ousted: What Happened? - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** vote leakage and minority consolidation in CPM are crucial - YouTube
+- **The News:** Two Southern Governments Ousted: What Happened? - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
