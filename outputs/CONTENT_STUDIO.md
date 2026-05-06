@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 05 May 2026
+**Date:** 06 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Armenia: 3 Strategic Signals Investors Should Track - SpecialEurasia
+**Source News:** Nigeria faces oil <b>risks</b> after UAE exit from OPEC, Institute warns
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Armenia: 3 Strategic Signals Investors Should Track - SpecialEurasia
+- **The News:** Nigeria faces oil <b>risks</b> after UAE exit from OPEC, Institute warns
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Retail property momentum stalls as <b>geopolitical risks</b> bite - Elite Agent
+**Source News:** Strong prices and <b>risk</b> lift Thai gold demand - Bangkok Post
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Retail property momentum stalls as <b>geopolitical risks</b> bite - Elite Agent
+- **The News:** Strong prices and <b>risk</b> lift Thai gold demand - Bangkok Post
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** India's State <b>Energy</b> Firms can Boost <b>Energy Security</b> by Progressively Shifting Over INR 2 ...
+**Source News:** Silver surges ₹1,500 in Delhi as <b>geopolitical risks</b> mount - MSN
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India's State <b>Energy</b> Firms can Boost <b>Energy Security</b> by Progressively Shifting Over INR 2 ...
+- **The News:** Silver surges ₹1,500 in Delhi as <b>geopolitical risks</b> mount - MSN
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Two Southern Governments Ousted: What Happened? - YouTube
+**Source News:** Right Tool, Wrong Purpose: Getting the Blockade Right - JINSA
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Two Southern Governments Ousted: What Happened? - YouTube
+- **The News:** Right Tool, Wrong Purpose: Getting the Blockade Right - JINSA
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
