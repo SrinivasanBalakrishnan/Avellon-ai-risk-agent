@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 07 May 2026
+**Date:** 08 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Speech by FS at LME Asia Metals Seminar 2026 (English only) (with photo/video)
+**Source News:** Dollar Firms Up on Hormuz Clashes - Trading Economics
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Speech by FS at LME Asia Metals Seminar 2026 (English only) (with photo/video)
+- **The News:** Dollar Firms Up on Hormuz Clashes - Trading Economics
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** 86% of GCC NRIs show stable financial outlook despite 41% citing <b>geopolitical risks</b>: Report
+**Source News:** Poland's central bank president: Inflation on target, but rate hike <b>risks</b> have risen - ing think
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 86% of GCC NRIs show stable financial outlook despite 41% citing <b>geopolitical risks</b>: Report
+- **The News:** Poland's central bank president: Inflation on target, but rate hike <b>risks</b> have risen - ing think
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Nippon India MF: Market Dip Offers Value Buys Amid <b>Geopolitical Risk</b> | Whalesbook
+**Source News:** Easing Geopolitical Risks Drive 7% Plunge in Crude Oil Prices - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Nippon India MF: Market Dip Offers Value Buys Amid <b>Geopolitical Risk</b> | Whalesbook
+- **The News:** Easing Geopolitical Risks Drive 7% Plunge in Crude Oil Prices - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Without <b>Regime Change</b>, Can We Ever Really Trust Iran? | The New York Sun
+**Source News:** 250 years later, and we haven't torn each other into pieces | George W. Bush Presidential Center
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Without <b>Regime Change</b>, Can We Ever Really Trust Iran? | The New York Sun
+- **The News:** 250 years later, and we haven't torn each other into pieces | George W. Bush Presidential Center
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
