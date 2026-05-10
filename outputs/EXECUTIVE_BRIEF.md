@@ -1,99 +1,93 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 09 May 2026
+**Date:** 10 May 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 30.5)
-- **Taiwan Strait** (Risk Score: 10.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 2)
+- **Strait of Hormuz** (Risk Score: 51.5)
+- **Taiwan Strait** (Risk Score: 6.5)
+- **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 India still overvalued versus Asian peers, earnings downgrades the 'elephant in the room'**
-> *Veteran investor Manishi Raychaudhuri highlights this as the market's biggest problem, warning of potential <b>geopolitical risks</b> impacting North Asian&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/expert-view/india-still-overvalued-versus-asian-peers-earnings-downgrades-the-elephant-in-the-room-manishi-raychaudhuri/articleshow/130954388.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3oec-u_RpJcR0uYMvryLEN))
+**🔴 Fed Warning: America's Financial System Is Strong But <b>Risks</b> Are Rising - Forbes**
+> *... risks. <b>Geopolitical risk</b> topped the list, cited by three-quarters of respondents — a sharp increase from the prior survey. Tensions in the Middle&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forbes.com/sites/mayrarodriguezvalladares/2026/05/09/fed-warning-americas-financial-system-is-strong-but-risks-are-rising/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw07Lt0ooN50cqr0mlEET9T4))
 
-**🔴 <b>Geopolitical Risks</b>, Oil Shock Cited as Top Worries in Fed Financial Stability Report**
-> *‌Three-quarters of respondents cited <b>geopolitical risks</b> as a top concern, making it the most cited worry, with the oil shock stemming from the war&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://money.usnews.com/investing/news/articles/2026-05-08/geopolitical-risks-oil-shock-cited-as-top-worries-in-fed-financial-stability-report&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ny3kZEQ8TxBRY_xeMHvSf))
+**🔴 Iran war sends oil soaring while gold loses shine - MSN**
+> *... <b>geopolitical risk</b>. Euronews (English) + 1. <b>Geopolitical risk</b> no longer lifts both assets. Traditionally, oil and gold have moved in tandem during&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-au/news/insight/iran-war-sends-oil-soaring-while-gold-loses-shine/gm-GMF6B50F2A%3FgemSnapshotKey%3DGMF6B50F2A-snapshot-1%26uxmode%3Druby&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0jqkIat81Uok6Z1mzJXcQT))
 
-**🔴 <b>Geopolitical risks</b>, oil shock cited as top worries in Fed financial stability report | Reuters**
-> *Three-quarters of respondents cited <b>geopolitical risks</b> as a top concern, making it the most cited worry, with ​the oil shock stemming from the war&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/sustainability/boards-policy-regulation/geopolitical-risks-oil-shock-cited-top-worries-fed-financial-stability-report-2026-05-08/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3KGYbMOwkThDD44gRit_K3))
+**🟢 FO Exclusive: Global Lightning Roundup of April 2026 - Fair Observer**
+> *... <b>geopolitical risk</b>, survey a month in which disparate events point in a single direction: a global order under strain. The US–Israel–Iran war&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fairobserver.com/world-news/fo-exclusive-global-lightning-roundup-of-april-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0QjrwZ3umDuhsNUFVwmYwG))
 
-**🟢 India's Oil Reserves: Costly Race Against <b>Energy</b> Shocks | Whalesbook**
-> *India races to expand Strategic Petroleum Reserves amid geopolitical risks, facing high costs and investment hurdles to meet <b>global energy security</b>...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/news/English/commodities/Indias-Oil-Reserves-Costly-Race-Against-Energy-Shocks/69fe86819ee36de980580479&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw33H7G-3KImVkmVvKrvvAvp))
+**🔴 Oil and Gas Trade Will Never Be the Same After the Iran War**
+> *Energy <b>Security</b> &middot; Finance &amp; Economics &middot; Fossil ... Center on <b>Global Energy</b> Policy at Columbia University, School of International and Public Affairs....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energypolicy.columbia.edu/oil-and-gas-trade-will-never-be-the-same-after-the-iran-war/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2ynGw1uP06P2UsowQ0ftC5))
 
-**🟢 Methane reduction: a strategic lever for <b>global energy security</b> - Inspenet**
-> *The IEA states that reducing methane emissions could free up to 200 bcm of gas, strengthening <b>global energy security</b> during crises....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://inspenet.com/en/news/methane-reduction-a-strategic-lever-for-global-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1augmf1RGHajdofx4zC_HL))
+**🔴 The Grey Rhino: Strategic Neglect and the Collapse of <b>Energy Security</b>**
+> *... global oil consumption and about a quarter of seaborne oil trade normally flows, has disrupted a critical artery of the <b>international energy</b> system....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.e-ir.info/2026/05/10/the-grey-rhino-strategic-neglect-and-the-collapse-of-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3o7yvpBZ-1_Tc3vIioxOqG))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Federal Reserve Survey Flags <b>Geopolitical</b> and AI <b>Risks</b> | Let's Data Science**
-> *The Federal Reserve's Spring 2026 Financial Stability Report, as reported by CryptoBriefing and a Binance summary, places **<b>geopolitical risks</b>**&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://letsdatascience.com/news/federal-reserve-survey-flags-geopolitical-and-ai-risks-ea211ffc&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ckEf8vCyYIOgPRn3zwUPF))
+**🟡 Daily Voice: Worst phase for oil prices likely behind us, defense theme could remain ...**
+> *As panic subsided, the <b>geopolitical risk</b> premium in oil prices declined. Currently (May 2026), prices are in the around $98-103 a barrel range&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/daily-voice-worst-phase-for-oil-prices-likely-behind-us-defense-theme-could-remain-relevant-for-next-decade-says-smartwealth-founder-13913983.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0UPdMqH3wUmnddE8Lb2z8L))
 
-**🟡 Citi downgrades India to 'Underweight' amid earnings and <b>geopolitical risks</b>**
-> *Mumbai Citi has downgraded India to underweight, citing persistent macroeconomic and <b>geopolitical</b> challenges alongside weaker earnings projections&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/stocks/news/citi-downgrades-india-to-underweight-amid-earnings-and-geopolitical-risks/articleshow/130969627.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2kK8fU5TXKE-UztZpxtZoO))
+**🟢 Weekly Recap: AI Optimism Keeps Kospi Hot Even As Global <b>Geopolitical Risks</b> Return**
+> *Investor nerves later eased after US President Donald Trump said the ceasefire between both sides remained in place, helping <b>risk</b> appetite recover&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.my/2026/05/10/weekly-recap-ai-optimism-keeps-kospi-hot-even-as-global-geopolitical-risks-return/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw111QkBtM8U0f02hcXMGmPj))
 
-**🔴 Fed report: Rising concerns about global conflict, gas prices | ABA Banking Journal**
-> *... risks associated with geopolitical tensions, oil prices and AI ... Three-quarters of survey respondents flagged <b>geopolitical risk</b> as their primary&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://bankingjournal.aba.com/2026/05/fed-report-rising-concerns-about-global-conflict-gas-prices/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0PL8gi16MGH0Pv8fpiK0Pt))
+**🟡 PDD Holdings: A Cash-Rich Compounder Trading Like A Broken Business - Seeking Alpha**
+> *The market appears to be assigning a significant discount to the stock due to <b>geopolitical risk</b>, margin pressure, and uncertainty around Temu....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4901984-pdd-holdings-a-cash-rich-compounder-trading-like-a-broken-business&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0zByH8FU-mtkN4Cld0qSr8))
 
-**🟢 Poland 'A-/A-2' Foreign Currency And 'A/A-1' Loca | S&amp;P Global Ratings**
-> *While <b>geopolitical risks</b> have substantially raised defense spending, we think the Polish economy remains unaffected by recurring hybrid or lower-level&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3559559&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0yFb_a8HbGFwXFSslh-KjD))
+**🟡 Aramco announces first quarter 2026 results**
+> *... <b>security</b> and the <b>global</b> economy, and are a stark reminder that reliable <b>energy</b> supply is critical. “Despite these headwinds, Aramco remains&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aramco.com/en/news-media/news/2026/aramco-announces-first-quarter-2026-results&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2hyzrfG_1RBPmgnArUBLp3))
 
-**🔴 South Korea Investigates Explosion on HMM Vessel in Strait of Hormuz Amid Iran Tensions ...**
-> *... <b>global energy</b> prices, shipping <b>security</b>, and geopolitical stability. For South Korea, a major energy-import-dependent economy, the incident raises&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/05/08/south-korea-investigates-explosion-on-hmm-vessel-in-strait-of-hormuz-amid-iran-tensions-and-shipping-security-concerns/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw17eB0PHEGqje-lhr8fk1xX))
+**🟢 Middle East shock tests ASEAN <b>energy</b> transition momentum - CGTN**
+> *... <b>global energy</b> trade patterns and accelerating diversification in supply chains and energy technologies. ... energy <b>security</b>, resilience and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.cgtn.com/news/2026-05-09/Middle-East-shock-tests-ASEAN-energy-transition-momentum-1N0Ki58A6wE/p.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2mQi740X8bxvamJq7q5F7y))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟡 Singapore's Commercial Real Estate Chalks Up Record Quarter as Fear and Greed Loom**
-> *The office market is seeing a resurgence amid Trump, <b>geopolitical risks</b>. ... Still, a bigger issue confounds the industry: Risk. I attended an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/newsletters/2026-05-09/singapore-s-booming-property-market-heats-up-amid-trump-geopolitical-risks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2jSfQVdfjYYAUez2o-P52-))
+**🟢 Enbridge Delivered Its 31st Consecutive Dividend Increase and a $40B Backlog**
+> *A US-Iran ceasefire is diminishing the near-term <b>geopolitical risk</b> premium in energy markets and may negatively impact oil price sentiment. For&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/analysis/stocks/us-stocks/261877296-enbridge-q1-earnings-dividend-growth-backlog-midstream-cashflow-technical-analysis-tradingkey&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw19oNYWi3pSVHL8dSOVHq0s))
 
-**🔴 Oil shock a top <b>risk</b> to US financial system, Fed report shows | The National**
-> *Survey respondents say <b>geopolitical risks</b> and energy crisis could boost inflation and amplify vulnerabilities....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thenationalnews.com/business/economy/2026/05/08/oil-shock-a-top-risk-to-us-financial-system-fed-report-shows/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3eOo_OJu1yngHj52EjV5Y9))
+**🟢 How Tariffs, Cost Pressures And <b>Geopolitics</b> At Toyota Motor (TSE:7203) Has Changed Its ...**
+> *... <b>geopolitical risks</b> may alter Toyota's previously optimistic investment narrative. Find 15 ... The biggest current risk is that these&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ca.finance.yahoo.com/news/tariffs-cost-pressures-geopolitics-toyota-021236311.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1xePlTU8kdOqu6zNsHVWly))
 
-**🟢 Enbridge sees best North American <b>energy</b> investment climate in over a decade | Reuters**
-> *... <b>global energy security</b> concerns have created growth opportunities in ​both the U.S. and Canada. Higher oil prices and surging global demand for energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/enbridge-beats-first-quarter-profit-estimates-2026-05-08/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw30-ZxxGByqzY11okuCHOjd))
+**🔴 <b>Geopolitical risks</b>, oil shock top Fed worries - The Korea Herald**
+> *The US central bank's Financial Stability Report found <b>geopolitical risks</b> and the oil shock ‌were the top worries of survey respondents, while&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.koreaherald.com/article/10734481&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw18UoUkriIeppVLU5Qab9iR))
 
-**🟢 Cutting methane could unlock 200 bcm gas, bolster <b>energy security</b>: IEA**
-> *According to the <b>Global</b> Methane Tracker 2026, methane emissions from fossil fuel operations stood at about 124 million tonnes (Mt) annually, with no&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newindianexpress.com/xplore/2026/May/08/cutting-methane-could-unlock-200-bcm-gas-bolster-energy-security-iea&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Ne9zQTvSkTP5N4IQmcpoK))
+**🟢 Francisco Priego Bravo - eToro Popular Investor | Στρατηγική &amp; Απόδοση**
+> *16 ημ. Weekly Open: <b>Geopolitical Risk</b> &amp; Earnings Divergence The market is opening the week under significant pressure, pulling back from&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.etoro.com/el/people/FranciscoPriego&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1DkmXLhTTOddF2CeOleusS))
 
-**🟢 Whose Grid Is It Anyway? | CSIS Events**
-> *<b>Global</b> Food and Water <b>Security</b> Program ... The conversation will be moderated by Joseph Majkut, Director of the CSIS <b>Energy Security</b> and Climate Change&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/events/whose-grid-it-anyway&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1SMOE6wMQrQBKLimikQ4pw))
+**🟢 China is reshaping the <b>global energy</b> map and increasing the weight of BRICS - Binance**
+> *This progress hasn't just been to meet domestic consumption. Beijing recognized early on that <b>energy</b> equates to economic influence, national <b>security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en-IN/square/post/321189295439154&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0NNuRKXNbnkYvHvMSLaoq5))
 
 
 ## 🏛 LEADERSHIP
-**🟢 India and Australia deepen defence ties, hold 10th edition of Defence Policy Talks**
-> *This dialogue reflects a broader trajectory in which India and Australia's defence partnership is maturing into a cornerstone of <b>Indo</b>‑<b>Pacific security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/defence/news/india-and-australia-deepen-defence-ties-hold-10th-edition-of-defence-policy-talks/articleshow/130959518.cms&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0lxXbIKCl2HkhDDAjkK4cU))
+**🟢 Hungary's new leader promises '<b>regime change</b>' and corruption probe - NZ Herald**
+> *Peter Magyar, a pro-European Union conservative, was sworn in as Hungary's new Prime Minister today, closing the chapter on the 16-year rule of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nzherald.co.nz/world/hungarys-new-prime-minister-promises-regime-change-and-corruption-probe/5KRHNKIRO5GRNNNUKGGEOBHSGQ/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1V8yHAVp9T2_0TJoIQZPNt))
 
-**🟢 India-Vietnam Relations - Drishti IAS**
-> *... <b>Indo</b>-<b>Pacific</b> maritime <b>security</b>. The visit reinforced Vietnam's importance in India's Act East Policy and Vision SAGAR, while both countries&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.drishtiias.com/daily-updates/daily-news-analysis/india-vietnam-relations-5&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0gIBLcHst7FYAEal7FY9Y-))
+**🟢 Magyar to succeed Orban as Hungary's new prime minister - France 24**
+> *... <b>regime change</b>&quot; after nationalist Viktor Orban's 16 years in power. The former government insider-turned-critic scored a landslide victory last&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.france24.com/en/magyar-to-succeed-orban-as-hungary-s-new-prime-minister&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2-NV5tkJQkrAE2UE16ScG7))
 
-**🟢 <b>Regime Change</b>: Inside the Imperial Presidency of Donald Trump - Barnes &amp; Noble**
-> *A riveting, intimate, and revelatory account of the most radical and consequential presidency of our time.From the two reporters who have....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.barnesandnoble.com/w/regime-change-maggie-haberman/1149840903&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1wcoECjwMX0OKhESMZmano))
-
-**🟢 Hungary's new PM to be sworn in during '<b>regime change</b>' party - BBC**
-> *Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/ce3pqvvzgnko&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2CyZxeZttIf2Rfr4XiiY8z))
-
-**🟢 Hungary's '<b>regime change</b>' brings newcomers into parliament - MSN**
-> *Hungarian parliament's inaugural session on Saturday will see a record number of women, accounting for more than a quarter of lawmakers,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/news/world/hungary-s-regime-change-brings-newcomers-into-parliament/ar-AA22EzG6&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1oSvpg5gf77rYq5XuHbmyu))
+**🟢 Hungary's Péter Magyar set to be sworn in as PM, ending Orbán's 16-year rule - ABC News**
+> *Hungary's incoming prime minister, Péter Magyar, has arrived at the parliament building to be sworn into office, ending Viktor Orbán's autocratic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://abcnews.com/International/wireStory/hungarys-pter-magyar-set-sworn-prime-minister-ending-132806579&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2QCP8ahZa7unYBz-pCGs-k))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Israel 'A/A-1' Ratings Affirmed; Outlook Stable - S&amp;P Global**
-> *Rating upside could also stem from a significant and lasting reduction in regional <b>geopolitical</b> and security <b>risks</b>. Rationale. Israel's credit&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3559561&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0wDwovSIwUIKTzPiIcOY9Q))
+**🟡 Türkiye opposes wider regional spread of US-Iran conflict, Erdogan says - TRT World**
+> *President Erdogan met KRG leader Masrour Barzani, discussed developments in Iraq and reiterated Türkiye's support for stability, cooperation and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.trtworld.com/article/c63516aca96d&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0UoFO8YuiTcCWbFymZPO7g))
 
-**🟢 Manila should avoid becoming a staging ground for Japan's rearmament agenda: Philippine scholar**
-> *... <b>Indo</b>-<b>Pacific</b>.&quot; It is therefore imperative for the Philippines to ... Southeast Asia does not need a rearmed Japan as its <b>security</b> guarantor....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globaltimes.cn/page/202605/1360594.shtml&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3nwUa3u8Iz_V0Tp8jTIBlw))
+**🟢 As new PM Peter Magyar is sworn in will he fulfill his pro-EU promises? | DW News**
+> *Hungary's new prime minister, Peter Magyar, has taken his oath of office, officially ending 16 years of autocratic rule by Viktor Orban,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMfu1Lhge5mo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3e-SjaqbLQHc6_HxwwHvlT))
 
-**🟢 Regional Expert Consultation on Formulating an <b>Asia</b>–<b>Pacific</b> Regional Roadmap for ...**
-> *Related links. <b>Asia</b> and the <b>Pacific</b> Regional Overview of Food <b>Security</b> and Nutrition 2025. Contact. Mr Sridhar Dharmapuri, Senior Food Safety and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fao.org/asiapacific/events/events-detail/regional-expert-consultation-on-formulating-an-asia-pacific-regional-roadmap-for-ending-hunger-and-all-forms-of-malnutrition/en&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0yeBqFR_sJH9nRn6RrqYT5))
+**🟢 Péter Magyar sworn in as Hungary's prime minister - European Interest**
+> *Hungary's Péter Magyar took his oath of office on Saturday, ushering in a new <b>political</b> era after 16 years of Viktor Orbán's authoritarian rule....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.europeaninterest.eu/peter-magyar-sworn-in-as-hungarys-prime-minister/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3MJWHQ1wmOve6f7jZZbFwI))
 
-**🟢 U.S. <b>Indo</b>-<b>Pacific</b> Command Explores Bitcoin's Potential for Network <b>Security</b> - Binance**
-> *Admiral Samuel Paparo addressed the Senate Armed Services Committee, revealing that the U.S. <b>Indo</b>-<b>Pacific</b> Command considers Bitcoin a significant&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/321067929402113&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3PUxnzkliK1ofWtXTyooKT))
+**🟢 Magyar takes over as Hungary's prime minister - RTHK**
+> *Peter Magyar, a pro-EU conservative, was sworn in as Hungary's new prime minister on Saturday, closing the chapter......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/en/component/k2/1854154-20260510.htm&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3B6WKliQMvmeTYzNo6Wk-r))
 
-**🟢 President Ferdinand Marcos Jr. says in a press conference on May 8, 2026, that the ... - Facebook**
-> *Marcos: ASEAN Maritime Center needed given 'unreadable' <b>South China Sea</b> situation. President Ferdinand Marcos Jr. says in a press conf....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/rapplerdotcom/posts/watch-president-ferdinand-marcos-jr-says-in-a-press-conference-on-may-8-2026-tha/1510590361103027/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw32I714xPqmtBhco2X5uf7P))
+**🟢 Hungary enters post-Orbán era after new prime minister sworn in - The Hill**
+> *Péter Magyar was sworn in Saturday as Hungary's new prime minister, ushering in a new era in the country that had been under the autocratic rule&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thehill.com/policy/international/5871040-peter-magyar-sworn-in-hungary-viktor-orban-loss/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1S3cF79UZXTA4mE7esj4rP))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

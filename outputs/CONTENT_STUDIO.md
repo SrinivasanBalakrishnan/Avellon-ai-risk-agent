@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 09 May 2026
+**Date:** 10 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** India still overvalued versus Asian peers, earnings downgrades the 'elephant in the room'
+**Source News:** Fed Warning: America's Financial System Is Strong But <b>Risks</b> Are Rising - Forbes
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India still overvalued versus Asian peers, earnings downgrades the 'elephant in the room'
+- **The News:** Fed Warning: America's Financial System Is Strong But <b>Risks</b> Are Rising - Forbes
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Federal Reserve Survey Flags <b>Geopolitical</b> and AI <b>Risks</b> | Let's Data Science
+**Source News:** Daily Voice: Worst phase for oil prices likely behind us, defense theme could remain ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Federal Reserve Survey Flags <b>Geopolitical</b> and AI <b>Risks</b> | Let's Data Science
+- **The News:** Daily Voice: Worst phase for oil prices likely behind us, defense theme could remain ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Singapore's Commercial Real Estate Chalks Up Record Quarter as Fear and Greed Loom
+**Source News:** Enbridge Delivered Its 31st Consecutive Dividend Increase and a $40B Backlog
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Singapore's Commercial Real Estate Chalks Up Record Quarter as Fear and Greed Loom
+- **The News:** Enbridge Delivered Its 31st Consecutive Dividend Increase and a $40B Backlog
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** India and Australia deepen defence ties, hold 10th edition of Defence Policy Talks
+**Source News:** Hungary's new leader promises '<b>regime change</b>' and corruption probe - NZ Herald
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India and Australia deepen defence ties, hold 10th edition of Defence Policy Talks
+- **The News:** Hungary's new leader promises '<b>regime change</b>' and corruption probe - NZ Herald
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
