@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 10 May 2026
+**Date:** 11 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Fed Warning: America's Financial System Is Strong But <b>Risks</b> Are Rising - Forbes
+**Source News:** Morning News Summary (11/05/2026) - IndoPremier
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Fed Warning: America's Financial System Is Strong But <b>Risks</b> Are Rising - Forbes
+- **The News:** Morning News Summary (11/05/2026) - IndoPremier
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Daily Voice: Worst phase for oil prices likely behind us, defense theme could remain ...
+**Source News:** Bitcoin Eyes $83,400 as Iran Tensions, CPI Week Test Bulls - BeInCrypto
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Daily Voice: Worst phase for oil prices likely behind us, defense theme could remain ...
+- **The News:** Bitcoin Eyes $83,400 as Iran Tensions, CPI Week Test Bulls - BeInCrypto
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Enbridge Delivered Its 31st Consecutive Dividend Increase and a $40B Backlog
+**Source News:** Asia open: US futures dipped as US-Iran peace deal hopes dimmed - MarketPulse
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Enbridge Delivered Its 31st Consecutive Dividend Increase and a $40B Backlog
+- **The News:** Asia open: US futures dipped as US-Iran peace deal hopes dimmed - MarketPulse
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Hungary's new leader promises '<b>regime change</b>' and corruption probe - NZ Herald
+**Source News:** Netanyahu says Iran <b>regime change</b> 'possible, not guaranteed'
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Hungary's new leader promises '<b>regime change</b>' and corruption probe - NZ Herald
+- **The News:** Netanyahu says Iran <b>regime change</b> 'possible, not guaranteed'
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
