@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 11 May 2026
+**Date:** 12 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Morning News Summary (11/05/2026) - IndoPremier
+**Source News:** Algeria as a <b>Geopolitical</b> Actor: Strategic Dynamics and Regional Implications
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Morning News Summary (11/05/2026) - IndoPremier
+- **The News:** Algeria as a <b>Geopolitical</b> Actor: Strategic Dynamics and Regional Implications
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Bitcoin Eyes $83,400 as Iran Tensions, CPI Week Test Bulls - BeInCrypto
+**Source News:** Gold, Silver Surge Past ₹1.54 Lakh on MCX Amid <b>Geopolitical</b> Fears | Whalesbook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bitcoin Eyes $83,400 as Iran Tensions, CPI Week Test Bulls - BeInCrypto
+- **The News:** Gold, Silver Surge Past ₹1.54 Lakh on MCX Amid <b>Geopolitical</b> Fears | Whalesbook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Asia open: US futures dipped as US-Iran peace deal hopes dimmed - MarketPulse
+**Source News:** Strategy (MSTR) keeps stacking BTC - Binance
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia open: US futures dipped as US-Iran peace deal hopes dimmed - MarketPulse
+- **The News:** Strategy (MSTR) keeps stacking BTC - Binance
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Netanyahu says Iran <b>regime change</b> 'possible, not guaranteed'
+**Source News:** DHL Express launches heavyweight service for shipments up to 3000kg
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Netanyahu says Iran <b>regime change</b> 'possible, not guaranteed'
+- **The News:** DHL Express launches heavyweight service for shipments up to 3000kg
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
