@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 May 2026
+**Date:** 13 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Algeria as a <b>Geopolitical</b> Actor: Strategic Dynamics and Regional Implications
+**Source News:** Political <b>risk</b> shifts from war zones to 'contested systems', Willis warns | Insurance Business
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Algeria as a <b>Geopolitical</b> Actor: Strategic Dynamics and Regional Implications
+- **The News:** Political <b>risk</b> shifts from war zones to 'contested systems', Willis warns | Insurance Business
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold, Silver Surge Past ₹1.54 Lakh on MCX Amid <b>Geopolitical</b> Fears | Whalesbook
+**Source News:** Five ways banks turn GCCs into AI value engines | EY - Sweden
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold, Silver Surge Past ₹1.54 Lakh on MCX Amid <b>Geopolitical</b> Fears | Whalesbook
+- **The News:** Five ways banks turn GCCs into AI value engines | EY - Sweden
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Strategy (MSTR) keeps stacking BTC - Binance
+**Source News:** Gold, Silver Prices Jump Amid Global Fears and India Tariff Shock | Whalesbook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Strategy (MSTR) keeps stacking BTC - Binance
+- **The News:** Gold, Silver Prices Jump Amid Global Fears and India Tariff Shock | Whalesbook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** DHL Express launches heavyweight service for shipments up to 3000kg
+**Source News:** What's a bored Donald Trump to do? Apparently, target Cuba - Salon.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** DHL Express launches heavyweight service for shipments up to 3000kg
+- **The News:** What's a bored Donald Trump to do? Apparently, target Cuba - Salon.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
