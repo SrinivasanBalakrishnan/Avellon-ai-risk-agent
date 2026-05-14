@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 13 May 2026
+**Date:** 14 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Political <b>risk</b> shifts from war zones to 'contested systems', Willis warns | Insurance Business
+**Source News:** The 'big <b>danger</b>' for Australia as Trump meets Xi - The Sydney Morning Herald
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Political <b>risk</b> shifts from war zones to 'contested systems', Willis warns | Insurance Business
+- **The News:** The 'big <b>danger</b>' for Australia as Trump meets Xi - The Sydney Morning Herald
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Five ways banks turn GCCs into AI value engines | EY - Sweden
+**Source News:** Morgan Stanley Hikes S&amp;P 500 Target to 8,300 on Earnings Boom - AdvisorHub
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Five ways banks turn GCCs into AI value engines | EY - Sweden
+- **The News:** Morgan Stanley Hikes S&amp;P 500 Target to 8,300 on Earnings Boom - AdvisorHub
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold, Silver Prices Jump Amid Global Fears and India Tariff Shock | Whalesbook
+**Source News:** Inflation hedges Gold energy or equities - Saxo Bank
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold, Silver Prices Jump Amid Global Fears and India Tariff Shock | Whalesbook
+- **The News:** Inflation hedges Gold energy or equities - Saxo Bank
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** What's a bored Donald Trump to do? Apparently, target Cuba - Salon.com
+**Source News:** Finance Minister Nirmala Sitharaman's Russia Visit Cancelled Amid PM Modi's Austerity Call
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** What's a bored Donald Trump to do? Apparently, target Cuba - Salon.com
+- **The News:** Finance Minister Nirmala Sitharaman's Russia Visit Cancelled Amid PM Modi's Austerity Call
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
