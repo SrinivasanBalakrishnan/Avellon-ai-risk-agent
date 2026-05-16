@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 15 May 2026
+**Date:** 16 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Energy</b> Department Awards $94 Million to American Companies to Help Expedite the ...
+**Source News:** Longship sees <b>risk</b> for short sea market as Hormuz closure drags on - TradeWinds
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Energy</b> Department Awards $94 Million to American Companies to Help Expedite the ...
+- **The News:** Longship sees <b>risk</b> for short sea market as Hormuz closure drags on - TradeWinds
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** IoD press release: Growth was resilient as Iran conflict kicked off
+**Source News:** Evolving <b>geopolitical</b> landscape is creating new opportunities in the Middle East: Pelagos CEO
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** IoD press release: Growth was resilient as Iran conflict kicked off
+- **The News:** Evolving <b>geopolitical</b> landscape is creating new opportunities in the Middle East: Pelagos CEO
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** What are the impacts of energy crises and how can they be avoided? - LSE
+**Source News:** HYPE Falls 6% As CME, ICE Target Hyperliquid Over Oil <b>Risks</b> - TradingView
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** What are the impacts of energy crises and how can they be avoided? - LSE
+- **The News:** HYPE Falls 6% As CME, ICE Target Hyperliquid Over Oil <b>Risks</b> - TradingView
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Rabindrajayanti | Celebration of Tagore day versus <b>regime change</b> - Telegraph India
+**Source News:** The Philippines And Canada: <b>Indo</b>-<b>Pacific</b> Partners For Regional <b>Security</b> – Analysis
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rabindrajayanti | Celebration of Tagore day versus <b>regime change</b> - Telegraph India
+- **The News:** The Philippines And Canada: <b>Indo</b>-<b>Pacific</b> Partners For Regional <b>Security</b> – Analysis
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
