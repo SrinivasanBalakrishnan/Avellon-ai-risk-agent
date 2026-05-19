@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 18 May 2026
+**Date:** 19 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Nuclear Energy Expansion, Uranium Supply, and <b>Geopolitical Risks</b> in 2026 - IndexBox
+**Source News:** <b>Geopolitical</b> tensions push Chinese manufacturers to innovate, new research finds
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Nuclear Energy Expansion, Uranium Supply, and <b>Geopolitical Risks</b> in 2026 - IndexBox
+- **The News:** <b>Geopolitical</b> tensions push Chinese manufacturers to innovate, new research finds
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil prices up sharply as traders weighed ongoing supply disruptions, benchmark crude ... - Gulf News
+**Source News:** The Blogs: When Fat Tails Become the Norm: The New Geometry of <b>Geopolitical Risk</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil prices up sharply as traders weighed ongoing supply disruptions, benchmark crude ... - Gulf News
+- **The News:** The Blogs: When Fat Tails Become the Norm: The New Geometry of <b>Geopolitical Risk</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Credit markets shrug off <b>geopolitical</b> turbulence as bond supply surges: SocGen - Seeking Alpha
+**Source News:** U.S. LNG Is Becoming the Backbone of Global Gas Supply | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Credit markets shrug off <b>geopolitical</b> turbulence as bond supply surges: SocGen - Seeking Alpha
+- **The News:** U.S. LNG Is Becoming the Backbone of Global Gas Supply | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Why some CEOs are ditching 5-year plans while others are making 10-year bets - YouTube
+**Source News:** Trump pauses possible Iran strike after Gulf intervention - Al Jazeera
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why some CEOs are ditching 5-year plans while others are making 10-year bets - YouTube
+- **The News:** Trump pauses possible Iran strike after Gulf intervention - Al Jazeera
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
