@@ -1,91 +1,100 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 20 May 2026
+**Date:** 21 May 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 25.0)
-- **Taiwan Strait** (Risk Score: 13.0)
-- **Malacca Strait** (Risk Score: 3)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
+- **Strait of Hormuz** (Risk Score: 20.0)
+- **Taiwan Strait** (Risk Score: 8.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
+- **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟡 Oil Slips as Vance Cites Progress in US-Iran Nuclear Talks - Gotrade**
-> *The diplomatic signal trimmed the <b>geopolitical risk</b> premium that previously supported oil prices. Diplomatic Signals Pressure Risk Premium. Trump&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.heygotrade.com/en/news/oil-slips-vance-cites-progress-us-iran-nuclear-talks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ETdIfj6Hk914TpJWdn8wK))
+**🟡 Microfinance sector recovers after stress cycle but caution prevails amid <b>geopolitical</b>, inflation <b>risks</b>**
+> *... . Analysts warn that while conditions are stabilizing, growth will be disciplined due to <b>geopolitical risks</b> and a changing lending environment....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/companies/news/india-microfinance-sector-recovery-growth-fy27-11779277115073.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ZwbF23gyIUPdeKWslk-fC))
 
-**🟡 Thailand accelerates 'submarine cable sovereignty' to guard against <b>geopolitical</b> crises**
-> *The Risk of Land-Based Reliance. Currently, Thailand faces what policymakers describe as a severe “<b>geopolitical risk</b>”. &middot; Why Submarine Cable&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asianews.network/thailand-accelerates-submarine-cable-sovereignty-to-guard-against-geopolitical-crises/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1qt2rbzFRtkgwSKfk_Bfn5))
+**🟢 US envoy Sergio Gor hints at 'big things' in India-US nuclear <b>energy</b> partnership**
+> *Earlier, Fadnavis said that significant changes are taking place in the <b>global energy</b> transition process. ... Against that backdrop, energy <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/india/us-envoy-hints-at-big-things-in-india-us-nuclear-energy-partnership/articleshow/131238277.cms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw26h-KVQnZy2XQy6WgeWeab))
 
-**🟡 Current price of oil as of May 19, 2026 | Fortune**
-> *If an emergency hits, the U.S. keeps a backup supply of crude oil called the Strategic Petroleum Reserve. It's mainly there to protect <b>energy security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://fortune.com/article/price-of-oil-05-19-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw196ZZNp1TrljfrFgxGTktH))
+**🟡 US removes UN expert Albanese from sanctions list - Anadolu Ajansı**
+> *US Secretary of State Marco Rubio accused Albanese of waging a “campaign of political and <b>economic warfare</b>” against the US and Israel after a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/world/us-removes-un-expert-albanese-from-sanctions-list/3944047&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1XhN5PF3VhXKcvtD8oBIf3))
 
-**🟢 Sustainable Economies Will Own the Future by Bruno Bouygues &amp; Bertrand Badré**
-> *Bruno Bouygues &amp; Bertrand Badré see clean technologies as necessary not only for the planet, but also for sovereignty and <b>energy security</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.project-syndicate.org/commentary/sustainability-is-key-to-economic-security-future-industrial-competitiveness-by-bruno-bouygues-and-bertrand-badre-2026-05&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw38Ic4c0foh1rHzCQS9fbQ8))
+**🟡 Mukesh Ambani's $4 billion Jio IPO hits Iran <b>war</b> roadblock - The <b>Economic</b> Times**
+> *Part of the reason is that India has been grappling with the <b>economic</b> impact of the <b>war</b> in Iran, which has prompted Prime Minister Narendra Modi&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/ipos/fpos/mukesh-ambanis-4-billion-jio-ipo-hits-iran-war-roadblock/articleshow/131239201.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0alHh9JXJXie6kqZ8XLZiS))
 
-**🔴 Iran war live: Attack on Iran in 'two or three days' if no deal, says Trump - Al Jazeera**
-> *<b>International</b> Atomic <b>Energy</b> Agency chief Rafael Grossi will brief the UN <b>Security</b> Council on the recent attack on a nuclear plant in the UAE, a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies%3Fupdate%3D4585303&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1_nYzUN44SLP8q-i-S8Ksa))
+**🔴 Trump, Netanyahu had tense phone call on future of Iran <b>war</b>: reports - The <b>Economic</b> Times**
+> *US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu held a tense phone call regarding the <b>war</b> on Iran....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/defence/trump-netanyahu-had-tense-phone-call-on-future-of-iran-war-reports/articleshow/131238310.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3MkrEmGMemmKLKunCJ1mjt))
 
 
 ## 🏛 CYBER & TECH
-**🟡 Pressure Builds on Supply Chains, Financial <b>Risks</b> Proliferate - <b>Geopolitical</b> Futures**
-> *Pressure Builds on Supply Chains, Financial <b>Risks</b> Proliferate. By <b>Geopolitical</b> Futures May 19, 2026. Summary. Multiple indexes of supply chain strain&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://geopoliticalfutures.com/lens/briefings/monthly-brief-may-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3P5urBfOjn47FR1oqpeKLp))
+**🟢 Rupee Recovers Against USD Amid Iran Negotiation Hopes - Rediff Money**
+> *Rupee recovers 41 paise to 96.45/USD after Trump signals progress in Iran negotiations. <b>Geopolitical risks</b> &amp; oil prices remain key factors....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://money.rediff.com/news/market/rupee-recovers-against-usd-amid-iran-negotiation-hopes/47420620260521&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2hX5MZTcOrgr2W_LfuSU2V))
 
-**🟡 What Jeff Currie wants every commodity investor to know about the Iran ceasefire**
-> *Some of the <b>geopolitical risk</b> premium embedded in prices came off accordingly. The error lies in the next move: treating the removal of tail risk as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://africa.businessinsider.com/local/markets/what-jeff-currie-wants-every-commodity-investor-to-know-about-the-iran-ceasefire/32l7r3l&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3RUScYp4qQSyVHfd8nWzAx))
+**🟢 Gold, silver trade firm as <b>geopolitical risks</b> offset rate hike concerns - CNBC TV18**
+> *... <b>risks</b> against optimism over a potential US–Iran peace deal. While easing <b>geopolitical</b> stress improved <b>risk</b> sentiment in broader markets, concerns&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbctv18.com/market/commodities/gold-silver-prices-comx-edge-higher-us-iran-risks-inflation-us-fed-rates-ws-el-19910431.htm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0xnEgT_D4KafHr3jrCE-ix))
 
-**🟢 Alaska Sustainable Energy Conference Opens with Alaska Center Stage of <b>Global Energy</b> ...**
-> *... <b>world</b>-class renewable potential, and AI innovation to strengthen U.S. <b>energy security</b> and reduce reliance on foreign supply chains. U.S. Secretary&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gov.alaska.gov/alaska-sustainable-energy-conference-opens-with-alaska-center-stage-of-global-energy-landscape/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1zFLiMS-pfnOJ1ZYWt3doA))
+**🟢 APRA's latest System <b>Risk</b> Outlook highlights resilience as <b>geopolitical</b> and technological ...**
+> *APRA has intensified its oversight of banks, insurers and superannuation trustees as <b>geopolitical</b> tensions, artificial intelligence (AI) and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.apra.gov.au/news-and-publications/apra%25E2%2580%2599s-latest-system-risk-outlook-highlights-resilience-as-geopolitical-and-0&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3_IlcIw8j9wN0z7ij__2O-))
 
-**🟢 Relationship matures into cornerstone of <b>security</b> and stability - Chinadaily.com.cn**
-> *... <b>global</b> — <b>security</b> and stability. Far from a mere tactical partnership ... <b>Security</b> and <b>energy</b> cooperation through the Shanghai Cooperation Organization&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://global.chinadaily.com.cn/a/202605/20/WS6a0d098aa310d6866eb49947.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1sgDuC65tGtCA1bQOu7MhQ))
+**🟡 Daily: AI outlook remains strong despite market headwinds | UBS Global**
+> *Risk sentiment has retreated in recent days amid worries that ... <b>geopolitical risks</b> &middot; What do AI disintermediation risks mean for credit&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-20052026.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw11w9vYvHdoP1Y35L_6anzt))
 
-**🟢 Brazil Joins Canada, Germany, UAE, Saudi Arabia, Spain, China, India, Japan and Others in ...**
-> *Supports domestic <b>energy security</b> and economic growth. Enables industrial and transport electrification. Metric, Value. <b>Global</b> Renewable Investment&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.travelandtourworld.com/news/article/43943ddlqhwp/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3homW7sRjbe2pk_nAn20Fl))
+**🟡 Israel Joins US, UK, UAE, France, Saudi Arabia, Bahrain, Qatar, Japan and Others in ...**
+> *Conflict with Iran triggered effective closure of Hormuz, impacting <b>global energy</b> supply. • Israel's <b>security</b> actions amplified international&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.travelandtourworld.com/news/article/09kn6nb0hxa8/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1hgWo1QK55nLJ6EmT8RB1F))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 India Fertilizer Firms Unite to Buy 600000 Tonnes of Sulphur Amid <b>Geopolitical</b> Fears**
-> *<b>Geopolitical Risks</b> to Agriculture. The current geopolitical situation in West Asia is creating instability in global commodity markets. Sulphur&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/news/English/commodities/India-Fertilizer-Firms-Unite-to-Buy-600000-Tonnes-of-Sulphur-Amid-Geopolitical-Fears/6a0cbeb0920520825bc5e5ea&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3CQ01DTKKeWWv5QMZRNSbP))
+**🟡 This Might Be The Most Dangerous Market I've Seen In Years | Seeking Alpha**
+> *The Geopolitical Powder Keg That Could Detonate Everything. This leads to the last but potentially most dire risk, which is the <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4907219-this-might-be-the-most-dangerous-market-ive-seen-in-years&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3fkSFDvKdNqY_NW5ZAl-47))
 
-**🟢 Methanol Spot Market Analysis: <b>Geopolitical</b> Disruptions Subside as Supply-Demand ...**
-> *With <b>geopolitical risk</b> premiums subsiding—counterbalanced by support from high domestic plant operating rates and low port inventories—prices&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-32987.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1n6bo3wVN-jJ2UI3gCtD_w))
+**🟡 US-Iran Talks Ease Geopolitical Risks; Copper Prices Fluctuate at High Levels ... - SunSirs**
+> *As US-Iran negotiations enter their final phase, expectations of <b>geopolitical</b> conflict have cooled significantly. Consequently, market <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-33038.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2RKbXqWOiG4dgP3TB9m7IO))
 
-**🟢 WTI Extends Rally as Hormuz <b>Risks</b> and OPEC+ Tensions Support Crude Prices - VT Markets**
-> *WTI nears $103.20 as <b>geopolitical risks</b> and Iran talks support prices; Hormuz, India hikes keep focus....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vtmarkets.com/live-updates/wti-extends-rally-as-hormuz-risks-and-opec-tensions-support-crude-prices/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0osEWVSQ5ZqEoKLiMbUH3h))
+**🔴 System <b>Risk</b> Outlook - May 2026 | APRA**
+> *<b>Geopolitical</b> tensions, including the escalation of conflict in the Middle East, have increased <b>risks</b> to the global economy and financial markets. More&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.apra.gov.au/system-risk-outlook-may-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1vD8rPbzZ6WhLOqgN2gLF-))
 
-**🟡 Navigating <b>Geopolitical</b> Event <b>Risk</b>: A Practical Framework for Credit, Market and Supply ...**
-> *<b>Geopolitical</b> shocks, from armed conflict and energy disruptions to trade-route blockages, create an information environment that is fast-moving,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/05/navigating-geopolitical-event-risk&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw32XNe3TpZ_XCC0JaPVnGWk))
+**🟢 The Best Emerging Market Equity ETFs to Buy | Morningstar Canada**
+> *BMO MSCI Emerging Markets ETF should benefit from a low fee and a broad portfolio, but indexing is a blunt tool for managing the <b>geopolitical risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://global.morningstar.com/en-ca/etfs/best-emerging-markets-equity-etfs-buy&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2YvKGaNdPHPwttwvaZiKw5))
 
-**🟢 Gold breaks below $4540, silver tests $75 as yields rise, Hormuz talks cap oil - Kitco AM Report**
-> *... <b>risk</b> premium has not disappeared, but the dominant trading impulse is ... <b>geopolitical</b> variable for energy, rates and precious metals. Oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-05-19/gold-breaks-below-4540-silver-tests-75-yields-rise-hormuz-talks-cap-oil&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1H3UJ9ahlFDzWQh1fnQKPB))
+**🟢 Fuel Prices, Governance in Focus as PM Modi Holds Council of Ministers Meeting Today**
+> *... <b>energy security</b> amid <b>global</b> oil market volatility and inflation concerns, following his recent five-nation tour and push for economic resilience....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://openthemagazine.com/india/fuel-prices-governance-in-focus-as-pm-modi-holds-council-of-ministers-meeting-today&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1U-xRj072GgT7dGk9qX0C7))
 
 
 ## 🏛 LEADERSHIP
-**🟢 US-Israel <b>regime</b>-<b>change</b> blueprint for Iran placed Ahmadinejad at centre stage: Report**
-> *The US and Israel were considering installing hardliner Mahmoud Ahmadinejad as the president of Iran as part of the plans for <b>regime change</b> in the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.telegraphindia.com/world/us-israel-regime-change-blueprint-for-iran-placed-mahmoud-ahmadinejad-at-centre-stage-report/cid/2161456&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3iJVrbE9yG5Xklzcc8bZAO))
+**🟢 Castro indictment: Is Trump seeking justice or <b>regime change</b> in Cuba? | DW News**
+> *... <b>regime change</b>? 05:17 - How precarious is this for the Cuban government? 06:42 - What does this mean for Raul Castro? 08:36 - Marco Rubio's message&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dwo-GZ0_IUP8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1MMV-8F80BkGVdghhZAme-))
 
-**🟢 US, Israel had a surprising name in mind for <b>regime change</b> in Iran, reveals report**
-> *Mahmoud Ahmadinejad's home was struck on the first day, with early rumours suggesting the leader who was Iran's President from 2005 to 2013 had&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hindustantimes.com/world-news/us-israel-had-a-surprising-name-in-mind-for-regime-change-in-iran-former-president-mahmoud-ahmadinejad-reveals-report-101779250512333.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0WI-WHs8RwrK3mC8qYdS2e))
+**🟢 After the Castro indictment, what is Trump's endgame in Cuba? - Atlantic Council**
+> *This indictment is another step in the direction of precipitating <b>regime change</b> in Havana and returning democracy, freedom, and prosperity to the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/dispatches/after-the-castro-indictment-what-is-trumps-endgame-in-cuba/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0-ozkpSBwOEYWrDFspLefW))
+
+**🔴 U.S. indicts Cuba's Raúl Castro in latest escalation of tensions | PBS News**
+> *... <b>change</b> from the Cuban <b>government</b> or broader <b>regime</b> pressure and isolation? Michael Bustamante: It's been hard to read the tea leaves on this one&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pbs.org/newshour/show/u-s-indicts-cubas-raul-castro-in-latest-escalation-of-tensions&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1Y6T7DyggZpYtQmXsPDke5))
+
+**🟢 Iran - Georgetown Institute for Women, Peace and Security**
+> *While the movement mobilized Iranians calling for women's rights and <b>regime change</b>, authorities violently suppressed activism and have continued to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://giwps.georgetown.edu/conflict-tracker/country/iran/%3Femci%3Dc9f9e54b-6654-f111-8fcb-000d3a18905c%26emdi%3Dea000000-0000-0000-0000-000000000001%26ceid%3D%7B%7BContactsEmailID%7D%7D&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3MKrcac_KGS7h4Nqur-hLw))
+
+**🟢 GOP lawmaker calls for <b>regime change</b> in Cuba after US indicts Raúl Castro - CNN**
+> *... <b>regime change</b> in Cuba after US indicts Raúl Castro. The Lead. Link Copied! Republican Rep. Nicole Malliotakis joins The Lead. 1:28 • Source: CNN....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnn.com/2026/05/20/world/video/castro-indictment-donald-trump-cuba-lead-jake-tapper&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0tRJwRTJsq7GFF1f-4JEa4))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Undersea Cable <b>Risks</b>: Lessons for Southeast Asia | FULCRUM**
-> *This could accelerate fragmentation of the global internet, with connectivity shaped as much by <b>geopolitics</b> as commercial interests. Rerouting cables&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://fulcrum.sg/undersea-cable-risks-in-hormuz-lessons-for-southeast-asia/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw031zrkg0UgyJHopI9CnP4J))
+**🟢 APRA sharpens oversight, flags tech and <b>geopolitical risks</b> - Financial Standard**
+> *APRA has intensified its supervision of superannuation trustees, insurers and banks as <b>geopolitical</b> instability, rapid artificial intelligence&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.financialstandard.com.au/news/apra-sharpens-oversight-flags-tech-and-geopolitical-risks-179812621&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2lHo7VMjPmK2rUR1-_t9if))
 
-**🟢 India, Nordic nations stress on WTO's central role, maritime <b>security</b> cooperation at Oslo Summit**
-> *... <b>security</b> and reiterated their commitment to a free, open, peaceful and prosperous <b>Indo</b>-<b>Pacific</b> in accordance with international law, including the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indiashippingnews.com/india-nordic-nations-stress-on-wtos-central-role-maritime-security-cooperation-at-oslo-summit/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1VeyjGj58Mc4Wamm5SrrSe))
+**🟢 Privileged but Powerless: Jieun Baek on Pyongyang's greatest weakness - Atlantic Council**
+> *The <b>Indo</b>-<b>Pacific Security</b> Initiative (IPSI) informs and shapes the strategies, plans, and policies of the United States and its allies and partners to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/event/privileged-but-powerless-jieun-baek-on-pyongyangs-greatest-weakness/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1LGoaUQs1Ng0MvAwpu8C9_))
 
-**🟢 A framework for US-Japan cooperation in the Arctic - Atlantic Council**
-> *On Friday, May 29, 2026, at 8:00 a.m. ET, the <b>Indo</b>-<b>Pacific Security</b> Initiative (IPSI) of the Atlantic Council's Scowcroft Center for Strategy and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/event/a-framework-for-us-japan-cooperation-in-the-arctic/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw268vnhk6PdAKD-Cbc_tzG1))
+**🟢 Is Tokyo Becoming Jakarta's New <b>Security</b> Anchor?**
+> *Japan is seeking to play a more proactive role in upholding the vision of a Free and Open <b>Indo</b>-<b>Pacific</b> (FOIP)....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jakartaglobe.id/opinion/is-tokyo-becoming-jakartas-new-security-anchor&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3P5s5IghaknU9BVM-kr4MW))
 
-**🟢 The recent meeting of United States President Donald Trump and <b>Chinese</b> President Xi ... - Facebook**
-> *“We try to come up with the mechanisms to lower the <b>tensions</b> in the <b>South China Sea</b> and that's essentially the message of what we spoke of to each&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/posts/the-recent-meeting-of-united-states-president-donald-trump-and-chinese-president/1509870024521582/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1ESC5TdRGdJM9lKf5NSz-C))
+**🟢 Europe must break China's grip on <b>rare earths</b> pricing to spur investment, sector body says**
+> *Europe's Challenge in <b>Rare Earths</b> and Specialty Metals Pricing &middot; China's Dominance and Its Impact on European Investment &middot; Efforts to Create a European&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/europe-break-chinas-grip-rare-earths-pricing-spur-investment/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0CJc7auRnC8O9e04Dwl6p2))
 
-**🟢 Mount Ridley Mines kicks off heavy <b>rare earths</b> metallurgical testing for Grass Patch - The Australian**
-> *Special Report: Mount Ridley Mines has kicked off phase one metallurgical testwork for its Grass Patch heavy <b>rare earth elements</b> project in WA....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theaustralian.com.au/business/stockhead/content/mount-ridley-mines-kicks-off-heavy-rare-earths-metallurgical-testing-for-grass-patch/news-story/6173f6c299c2116bbe8105d4d8de223a&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0CLF_S1dlfER_QDWqEuD1P))
+**🟢 Bihar hits a <b>rare earth</b> mineral jackpot: Cobalt found in Banka, gold in Jamui, says state minister**
+> *<b>Rare earth elements</b> are a group of 17 naturally occurring metallic elements that play a major role in modern technology. These materials are widely&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/new-updates/bihar-hits-a-rare-earth-mineral-jackpot-cobalt-found-in-banka-gold-in-jamui-says-state-minister/articleshow/131239227.cms&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2mEibcihrIjPVv42COaWgV))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

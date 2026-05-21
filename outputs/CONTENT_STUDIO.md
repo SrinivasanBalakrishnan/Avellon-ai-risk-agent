@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 20 May 2026
+**Date:** 21 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil Slips as Vance Cites Progress in US-Iran Nuclear Talks - Gotrade
+**Source News:** Microfinance sector recovers after stress cycle but caution prevails amid <b>geopolitical</b>, inflation <b>risks</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Slips as Vance Cites Progress in US-Iran Nuclear Talks - Gotrade
+- **The News:** Microfinance sector recovers after stress cycle but caution prevails amid <b>geopolitical</b>, inflation <b>risks</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Pressure Builds on Supply Chains, Financial <b>Risks</b> Proliferate - <b>Geopolitical</b> Futures
+**Source News:** Rupee Recovers Against USD Amid Iran Negotiation Hopes - Rediff Money
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Pressure Builds on Supply Chains, Financial <b>Risks</b> Proliferate - <b>Geopolitical</b> Futures
+- **The News:** Rupee Recovers Against USD Amid Iran Negotiation Hopes - Rediff Money
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** India Fertilizer Firms Unite to Buy 600000 Tonnes of Sulphur Amid <b>Geopolitical</b> Fears
+**Source News:** This Might Be The Most Dangerous Market I've Seen In Years | Seeking Alpha
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India Fertilizer Firms Unite to Buy 600000 Tonnes of Sulphur Amid <b>Geopolitical</b> Fears
+- **The News:** This Might Be The Most Dangerous Market I've Seen In Years | Seeking Alpha
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** US-Israel <b>regime</b>-<b>change</b> blueprint for Iran placed Ahmadinejad at centre stage: Report
+**Source News:** Castro indictment: Is Trump seeking justice or <b>regime change</b> in Cuba? | DW News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US-Israel <b>regime</b>-<b>change</b> blueprint for Iran placed Ahmadinejad at centre stage: Report
+- **The News:** Castro indictment: Is Trump seeking justice or <b>regime change</b> in Cuba? | DW News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
