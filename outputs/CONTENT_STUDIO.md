@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 21 May 2026
+**Date:** 22 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Microfinance sector recovers after stress cycle but caution prevails amid <b>geopolitical</b>, inflation <b>risks</b>
+**Source News:** Oil seen capped near $100 as Iran war demand destruction offsets supply loss
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Microfinance sector recovers after stress cycle but caution prevails amid <b>geopolitical</b>, inflation <b>risks</b>
+- **The News:** Oil seen capped near $100 as Iran war demand destruction offsets supply loss
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Rupee Recovers Against USD Amid Iran Negotiation Hopes - Rediff Money
+**Source News:** Nukes &amp; Israel nobody talks about this <b>risk</b> | CUT - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rupee Recovers Against USD Amid Iran Negotiation Hopes - Rediff Money
+- **The News:** Nukes &amp; Israel nobody talks about this <b>risk</b> | CUT - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** This Might Be The Most Dangerous Market I've Seen In Years | Seeking Alpha
+**Source News:** Asia open: Stock markets surge on US-Iran peace progress and soft Japan CPI
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** This Might Be The Most Dangerous Market I've Seen In Years | Seeking Alpha
+- **The News:** Asia open: Stock markets surge on US-Iran peace progress and soft Japan CPI
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Castro indictment: Is Trump seeking justice or <b>regime change</b> in Cuba? | DW News
+**Source News:** With Castro Indictment, Trump Bets His Venezuela Playbook Will Work in Cuba - WSJ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Castro indictment: Is Trump seeking justice or <b>regime change</b> in Cuba? | DW News
+- **The News:** With Castro Indictment, Trump Bets His Venezuela Playbook Will Work in Cuba - WSJ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
