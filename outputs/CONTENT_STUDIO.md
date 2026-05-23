@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 May 2026
+**Date:** 23 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil seen capped near $100 as Iran war demand destruction offsets supply loss
+**Source News:** Beijing's Diplomatic Sequencing: From Washington to Moscow - Steptoe
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil seen capped near $100 as Iran war demand destruction offsets supply loss
+- **The News:** Beijing's Diplomatic Sequencing: From Washington to Moscow - Steptoe
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Nukes &amp; Israel nobody talks about this <b>risk</b> | CUT - YouTube
+**Source News:** Wall Street Is Getting More Bullish on Stocks Despite <b>Risks</b>—Here's Why - Investopedia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Nukes &amp; Israel nobody talks about this <b>risk</b> | CUT - YouTube
+- **The News:** Wall Street Is Getting More Bullish on Stocks Despite <b>Risks</b>—Here's Why - Investopedia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Asia open: Stock markets surge on US-Iran peace progress and soft Japan CPI
+**Source News:** Asia's Next Energy Hub May Rise in Malaysia | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia open: Stock markets surge on US-Iran peace progress and soft Japan CPI
+- **The News:** Asia's Next Energy Hub May Rise in Malaysia | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** With Castro Indictment, Trump Bets His Venezuela Playbook Will Work in Cuba - WSJ
+**Source News:** Deep Dive: Catastrophe bonds boom as diversifier amid <b>geopolitical</b> chaos
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** With Castro Indictment, Trump Bets His Venezuela Playbook Will Work in Cuba - WSJ
+- **The News:** Deep Dive: Catastrophe bonds boom as diversifier amid <b>geopolitical</b> chaos
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
