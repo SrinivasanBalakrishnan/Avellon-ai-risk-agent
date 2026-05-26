@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 25 May 2026
+**Date:** 26 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil News: Oil Demand and Iran Headlines Keep Crude Futures on Edge - FXEmpire
+**Source News:** Oil News: Crude Oil Futures Sink as Fear Premium Vanishes - FXEmpire
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil News: Oil Demand and Iran Headlines Keep Crude Futures on Edge - FXEmpire
+- **The News:** Oil News: Crude Oil Futures Sink as Fear Premium Vanishes - FXEmpire
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Morning Wrap: <b>Geopolitical Risk</b>-On After the Weekend   (25.05. 2026) | XTB
+**Source News:** Gold declines as USD strengthens on Fed hike bets and Iran peace uncertainty - FXStreet
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Morning Wrap: <b>Geopolitical Risk</b>-On After the Weekend   (25.05. 2026) | XTB
+- **The News:** Gold declines as USD strengthens on Fed hike bets and Iran peace uncertainty - FXStreet
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** ASX rises as oil drops on Iran optimism; Charter Hall rallies - AFR
+**Source News:** Asia Mixed as Oil Rises Amid <b>Geopolitical Risks</b>, Measured Start Seen For Indian Markets
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** ASX rises as oil drops on Iran optimism; Charter Hall rallies - AFR
+- **The News:** Asia Mixed as Oil Rises Amid <b>Geopolitical Risks</b>, Measured Start Seen For Indian Markets
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Rubio's Attempt at Rewriting the India–US Script
+**Source News:** <b>Regime Change</b> Through Indictment: Raúl Castro and the BTTR Flights | Countercurrents
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rubio's Attempt at Rewriting the India–US Script
+- **The News:** <b>Regime Change</b> Through Indictment: Raúl Castro and the BTTR Flights | Countercurrents
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
