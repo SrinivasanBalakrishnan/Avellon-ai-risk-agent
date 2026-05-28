@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 27 May 2026
+**Date:** 28 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** War in the Middle East: Upstream Implications - S&amp;P Global
+**Source News:** Oil Prices Jump After Fresh U.S. Strikes on Iran | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** War in the Middle East: Upstream Implications - S&amp;P Global
+- **The News:** Oil Prices Jump After Fresh U.S. Strikes on Iran | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Singapore CEOs see <b>geopolitical risk</b> as top concern - IT Brief Asia
+**Source News:** Can Data Centers Be Green? How S&amp;P Global Ratings Analyzes Data Center Financings in ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Singapore CEOs see <b>geopolitical risk</b> as top concern - IT Brief Asia
+- **The News:** Can Data Centers Be Green? How S&amp;P Global Ratings Analyzes Data Center Financings in ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** SunSirs: Optimism Over US-Iran Peace Talks Triggers Crude Oil Price Plunge
+**Source News:** Selective buying prospects | The Star
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** SunSirs: Optimism Over US-Iran Peace Talks Triggers Crude Oil Price Plunge
+- **The News:** Selective buying prospects | The Star
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** HOW-TO: Reading Strong Trends with Power Bars - TradingView
+**Source News:** President Marcos seeks stronger PH-Japan parliamentary cooperation amid global <b>security</b> ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** HOW-TO: Reading Strong Trends with Power Bars - TradingView
+- **The News:** President Marcos seeks stronger PH-Japan parliamentary cooperation amid global <b>security</b> ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
