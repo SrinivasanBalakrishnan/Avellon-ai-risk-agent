@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 29 May 2026
+**Date:** 30 May 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** PCE Price Index accelerates in line with forecasts; <b>Geopolitical</b> uncertainty persists - Equiti
+**Source News:** Post-cloud strategy: what comes after hyperscale? | IT Pro - ITPro
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** PCE Price Index accelerates in line with forecasts; <b>Geopolitical</b> uncertainty persists - Equiti
+- **The News:** Post-cloud strategy: what comes after hyperscale? | IT Pro - ITPro
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asia FX Talk - Tail-<b>risk</b> premia appear to be unwinding - MUFG Research
+**Source News:** Tooru backs out of proposed Mylky acquisition - Halifax – Market news
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia FX Talk - Tail-<b>risk</b> premia appear to be unwinding - MUFG Research
+- **The News:** Tooru backs out of proposed Mylky acquisition - Halifax – Market news
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Preparing for retirement? Here's how to invest in a volatile market - The Business Times
+**Source News:** EUR/USD Stalls Below 1.1660 as Dollar Refuses to Break Despite US-Iran Ceasefire Extension
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Preparing for retirement? Here's how to invest in a volatile market - The Business Times
+- **The News:** EUR/USD Stalls Below 1.1660 as Dollar Refuses to Break Despite US-Iran Ceasefire Extension
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** LNG Exports: U.S. Interests in Building National and Economic <b>Security</b> in the <b>Indo</b>-<b>Pacific</b>
+**Source News:** Fidel Castro's anti-communist daughter hopes the U.S. will bring <b>regime change</b> to Cuba
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** LNG Exports: U.S. Interests in Building National and Economic <b>Security</b> in the <b>Indo</b>-<b>Pacific</b>
+- **The News:** Fidel Castro's anti-communist daughter hopes the U.S. will bring <b>regime change</b> to Cuba
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
