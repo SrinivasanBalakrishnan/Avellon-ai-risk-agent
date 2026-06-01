@@ -1,87 +1,96 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 31 May 2026
+**Date:** 01 June 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 31.0)
-- **Taiwan Strait** (Risk Score: 20.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
+- **Taiwan Strait** (Risk Score: 26.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 12.0)
+- **Strait of Hormuz** (Risk Score: 6.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 B15 Biodiesel Rollout Starts Monday: Strategic Move To Strengthen <b>Energy Security</b>**
-> *KUALA LUMPUR, May 31 (Bernama) -- Malaysia is set to enter a new phase in its <b>energy</b> transition amid a <b>global</b> supply crisis, with the biodiesel&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://bernama.com/en/general/news.php%3Fid%3D2563233&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3bXTyB1uzvW77rxc3DQkM2))
+**🟢 Silver price outlook: can US-Iran diplomacy spark the next move? - TradingView**
+> *... <b>risk</b> appetite. A credible diplomatic breakthrough may reduce <b>geopolitical</b> premiums in commodities. A breakdown in talks could lift oil prices&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/invezz:6e88aefa4094b:0-silver-price-outlook-can-us-iran-diplomacy-spark-the-next-move/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw12HEy1OykLNg_14XaWvlUO))
 
-**🟢 Strengthening India's Quad Engagement - Drishti IAS**
-> *Operationalizing the Regional Energy <b>Security</b> and Strategic Crude Reserve: Amid escalating <b>global energy</b> chain shocks, India must leverage the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.drishtiias.com/daily-updates/daily-news-editorials/strengthening-indias-quad-engagement&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0ZESZ7EhQKobt0F1uw8fZx))
+**🟡 What drives the business of airports - intheblack - CPA Australia**
+> *... the shift towards diversified revenue models amid <b>geopolitical risk</b> and public scrutiny. Cameron Cooper. ·. 1 Jun 2026. ·. 12 min read time&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://intheblack.cpaaustralia.com.au/business-and-finance/what-drives-business-of-airports&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Yu6nPYLKzxh98ksr9qH84))
 
-**🔴 How Morocco became strategic hub in China's race to dominate green economy**
-> *... <b>energy</b>, batteries, and electric vehicle manufacturing as geopolitical tensions reshape <b>international</b> ... <b>energy security</b>, and manufacturing networks....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://africa.businessinsider.com/local/markets/how-morocco-became-strategic-hub-in-chinas-race-to-dominate-green-economy/1ht5g7s&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2Mbz-25oLSvU8rf_zNFWMC))
+**🟢 Analysis | Iran's Economy at the Center of <b>Geopolitical Risk</b> if Nuclear Deal Advances**
+> *Analysis | Iran's Economy at the Center of <b>Geopolitical Risk</b> if Nuclear Deal Advances. Analysts warn that sanctions relief, oil dependency, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.israeldefense.co.il/en/node/69208&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw39V3y150APaoGiDA2G604c))
 
-**🔴 Here's why nuclear power may be the future once again - YouTube**
-> *<b>Energy security</b> has grown increasingly tenuous following the start of the Iran war, which has destabilised oil exports and the <b>global</b> economy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DA5YA4lEVvFs&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3HN8WDg2hQL_9F0UbGG3eP))
+**🔴 Financial markets have lost the <b>security</b> blanket that's bailed them out of trouble for so long | Fortune**
+> *Central banks in Japan and Europe have raised similar concerns as the Iran war spikes <b>global energy</b> prices that are spilling over to other parts of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://fortune.com/2026/05/31/financial-markets-policy-put-security-blanket-stock-seloffs-fed-rate-cuts-us-debt/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0RJHOLFhQnv016Bwjp00HH))
 
-**🔴 <b>Global</b> South in the Crossfire: Strategic Competition and Managed Interdependence**
-> *Where imports are tied to health <b>security</b>, digital systems, <b>energy</b> transition hardware, or critical minerals, the central issue is not efficiency but&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://orfme.org/expert-speak/global-south-in-the-crossfire-strategic-competition-and-managed-interdependence/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1iZ8lc96_yd3UCufFckSgz))
+**🟡 Ukraine: Joint Market Monitoring Initiative (JMMI) - Four years of evolution - ReliefWeb**
+> *... <b>economic</b> impacts of the <b>war</b> (2022-2025), May 2026. Format: Assessment ... <b>economy</b>, <b>financial</b> infrastructure, and local markets. In particular&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://reliefweb.int/report/ukraine/ukraine-joint-market-monitoring-initiative-jmmi-four-years-evolution-economic-shock-protracted-economic-impacts-war-2022-2025-may-2026&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1DZYbdme2w47aogNMQYi1h))
 
 
 ## 🏛 CYBER & TECH
-**🟢 RBI says agriculture outlook for FY27 hinges on monsoon progress, distribution; El Nino poses <b>risk</b>**
-> *“While the ongoing <b>geopolitical</b> tensions are likely to exert pressure on the availability and prices of key inputs, particularly fertilisers, the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chinimandi.com/rbi-says-agriculture-outlook-for-fy27-hinges-on-monsoon-progress-distribution-el-nino-poses-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1wBrZDvJztsHgum_ux4HuB))
+**🟢 Markets poised for a positive run if <b>geopolitical risks</b> ease: Ambareesh Baliga**
+> *Market veteran Ambareesh Baliga sees Indian equities well-positioned if <b>geopolitical</b> tensions ease and macro conditions remain supportive....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/expert-view/markets-poised-for-a-positive-run-if-geopolitical-risks-ease-ambareesh-baliga/articleshow/131434794.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0xXLQg8qb-RpdrVU-JdmRe))
 
-**🔴 West Asia crisis could pose headwinds to growth, inflation in the short run: RBI Annual Report**
-> *The central bank said <b>geopolitical risk</b> has re-emerged as the dominant drag on global growth in 2026. “The adverse impact of outbreak of the conflict&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indianexpress.com/article/business/rbi-annual-report-2026-india-gdp-growth-inflation-forecast-west-asia-conflict-impact-10713797/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2bjmviDf91iyI8fdqD618t))
+**🟢 Malaysia's neutrality a strength amid digital fragmentation <b>risks</b> - The Malaysian Reserve**
+> *Despite <b>geopolitical risks</b> to global digital infrastructure, Malaysia's neutrality, diversified investments and strong governance support its role&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://themalaysianreserve.com/2026/06/01/malaysias-neutrality-a-strength-amid-digital-fragmentation-risks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3NbuWO8xTe-P2X0A-8am0R))
 
-**🟢 Asian Paints Expects Up To 10% Volume Growth In FY27 As Demand Holds Up Amid ... - NDTV Profit**
-> *<b>Risks</b> Remain. Asian Paints said <b>geopolitical</b> developments remain the key <b>risk</b> to its outlook because of their potential impact on inflation and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtvprofit.com/business/asian-paints-expects-up-to-10-volume-growth-in-fy27-as-demand-holds-up-amid-inflation-pressures-11567741&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw115hwafYQ5LY-GJBSZSxAb))
+**🟢 South Korea trade remains strong, but currency pressures persist | snaps - ING Think**
+> *KRW appreciation should be gradual. If <b>geopolitical risk</b> eases, then the USDKRW is expected to trade below the 1,500 level. Also, we expect the Bank&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://think.ing.com/snaps/wider-trade-surplus-signals-firm-growth-but-krw-headwinds-persist/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw19z_O-IWchnnlbKobhmEyZ))
 
-**🟢 Iran, China have bright prospects for developing economic, trade ties - IRNA English**
-> *... <b>geopolitical risks</b> for bilateral trade. (2) Financial network interconnection: With Iran's formal accession to the Shanghai Cooperation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.irna.ir/amp/86168791/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1P9kl7NvSMneyEKsE6qhur))
+**🟢 Between solar panels and refineries - The Daily Brief by Zerodha**
+> *As a new report from the <b>International Energy</b> Agency (IEA) notes, what the world considers “energy <b>security</b>” is changing rapidly. To fuel, or not&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thedailybrief.zerodha.com/p/between-solar-panels-and-refineries&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw36Ca2Vtt1oUM6qTrLd7uZo))
 
-**🟢 Oil Prices Fall 9% In 5 Days As US-Iran Tensions Ease - MarketForces Africa**
-> *This lingering disruption continues to maintain a <b>geopolitical risk</b> premium in energy markets. Market analysts note that investors have&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://dmarketforces.com/oil-prices-fall-9-in-5-days-as-us-iran-tensions-ease/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ve3ZOn0lU2e8xvmXAWOIE))
+**🟢 Malaysia's <b>energy</b> wake-up call | The Star**
+> *... <b>global</b> fuel markets, companies gain ... <b>energy security</b> , electricity pricing , Corporate Renewable <b>Energy</b> Supply Scheme , renewable <b>energy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/business/insight/2026/06/01/malaysias-energy-wake-up-call&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2mPeCGU1cNsisWLFRuENQU))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 UAE's Exit from OPEC and Its Implications for India's Energy Security | India Narrative**
-> *... <b>geopolitical risks</b>. Furthermore, the UAE itself does ... risk without becoming excessively dependent on any single producer or geopolitical bloc....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indianarrative.com/opinion/uaes-exit-from-opec-and-its-implications-for-indias-energy-security/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2cZbrYfKyL9EdGxCaiaS28))
+**🟡 Wealth, by Design: The real <b>risk</b> in a crisis is not the market - The Edge Malaysia**
+> *When <b>geopolitical risks</b> escalate, whether in the Middle East or elsewhere, prices move quickly. Oil spikes, equities fall and headlines become&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theedgemalaysia.com/node/804674&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0XOnyjvVx1FggSaYT2923P))
 
-**🟢 US-Iran Endgame in Sight? Markets Vote for Peace as Oil, Yields and Dollar Fall**
-> *The removal of a major <b>geopolitical risk</b> arrived just as ... However, if global oil supply continues normalizing and <b>geopolitical risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.actionforex.com/action-insight/market-overview/weekly-report/642307-us-iran-endgame-in-sight-markets-vote-for-peace-as-oil-yields-and-dollar-fall/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ZQ4zSAVj92Pog7sODE3KM))
+**🟢 Will gold hit $5500 as oil shock and Fed rate <b>risks</b> unsettle markets? - TradingView**
+> *On one side, <b>geopolitical risk</b> continues to support demand for safe-haven assets. On the other, a stronger dollar and higher oil prices are&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/invezz:c0befcc7c094b:0-will-gold-hit-5-500-as-oil-shock-and-fed-rate-risks-unsettle-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2pRs1Dc4XRTIuP-9c89DkA))
 
-**🟢 <b>Energy</b> Investments Shift as Middle East Tensions Rise - Modern Diplomacy**
-> *The IEA's <b>World Energy</b> Investment report for 2026 outlines that <b>global energy</b> ... energy <b>security</b> &middot; energy transition &middot; Oil-Gas &middot; Facebook &middot; X....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/05/30/energy-investments-shift-as-middle-east-tensions-rise/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0OFDAvuy8wxyLAKrVniuzg))
+**🔴 Gold Prices Continue to Shape Jewellery Market**
+> *Ongoing geopolitical tensions, inflation concerns, and economic ... The World Gold Council recently noted that <b>geopolitical risk</b> premiums&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jewelleryworld.net.au/products/gold/gold-prices-continue-to-shape-jewellery-market/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1bd9rbD20rtSDYFm2Rb7va))
 
-**🟢 America's LNG Boom Is Real — But China Is Planning Beyond It | OilPrice.com**
-> *... <b>security</b> and resilience priorities now defining the <b>global energy</b> agenda. Bangkok demands the same level of engagement, but with even greater&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Natural-Gas/Americas-LNG-Boom-Is-Real-But-China-Is-Planning-Beyond-It.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1N4i3Q6ZcNZwUPmwsFUJhX))
+**🟢 Between solar panels and refineries - LinkedIn**
+> *For most of the last half-century, “<b>energy security</b>” meant you needed to keep fuel flowing. Fifty years ago, when the <b>world</b> had been hit by the oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/pulse/between-solar-panels-refineries-zerodha-xmsnc&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3hpb5H1cOWfRgOZd1FMkiB))
 
-**🟢 Zerohedge: What Assets Could Survive a US Treasury <b>Crisis</b>? (Article) - YouTube**
-> *... <b>sovereign debt</b> issues. Commodity-related assets like energy producers, industrial metals, and agricultural assets could also benefit if Treasury&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DPs9E-j9bKvo&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2IFskXo2wyCur9nBohNc7G))
+**🟢 Europe's race to secure its <b>energy</b> supplies — live updates - POLITICO**
+> *POLITICO's <b>Energy</b> and Climate Forum will dive into the debates on <b>energy security</b>, the EU's climate adaptation efforts, climate simplification and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.politico.eu/article/europe-energy-security-climate-forum-live-updates/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3B7HtgwsWa_2RKU0qgyY6R))
 
 
 ## 🏛 LEADERSHIP
-**🟡 Internal intelligence and '<b>regime change</b>'-a crying need - The Hans India**
-> *In the words of Norwegian philosopher Peter Wessel Zapffe, that occurrence was a 'tragic misstep' in human evolution, making man 'mentally over&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehansindia.com/hans/opinion/news-analysis/internal-intelligence-and-regime-change-a-crying-need-1081181&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1MddrzIsOy7cKgiQhZMXVl))
+**🟡 Japan rejects China's 'new militarism' label as hypocritical - AFR**
+> *... <b>security</b> and defence chiefs across the <b>Indo</b>-<b>Pacific</b> and beyond. “Japan's defence policy and defence build-ups are not based on the idea of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/world/asia/japan-rejects-china-s-new-militarism-label-as-hypocritical-20260531-p602f8&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1OEuL9JzNN9yX9K1Xkt1kM))
+
+**🔴 Bangladesh immigrants return - Bengal ejecting Bangladeshis swivels spotlight on Centre's 3D policy**
+> *The Modi govt launched its detect-delete-deport policy after 2024 <b>regime change</b> in Bangladesh and intensified it after Pahalgam attack....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.telegraphindia.com/india/the-great-pushback-bengal-ejecting-bangladeshis-swivels-spotlight-on-centres-3d-policy-prnt/cid/2163350&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw22NkKCv0rDsZ2eQn08gfGW))
+
+**🔴 The biggest political clash since the <b>regime change</b> has become a reality as Hungary's new ...**
+> *Prime Minister Moser, who pushed out the Orban administration in 2016, demanded the resignation of the 'puppet' criticism. President refuses to &quot;&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mk.co.kr/en/world/12062677&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1rvqrVzVwCtfjGEV39S2SO))
+
+**🔴 Live Updates: Latest from Israel, Iran, and Middle East | The Jerusalem Post**
+> *The Iranian regime will make amendments to the ceasefire ... <b>regime change</b>. Ayatollah Ali Khamenei was killed by an Israeli strike on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/middle-east/iran-news/2026-05-31/live-updates-897813&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1tU5eNQcPPgIMzoZ1Ja9D9))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Hormuz outcome and US jobs report to set commodity direction next week**
-> *WTI recorded a monthly decline of around 17 percent. The scale of the selloff reflects how much of the earlier rally was driven by a <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/opinion/hormuz-outcome-and-us-jobs-report-to-set-commodity-direction-next-week-13936491.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw26CI4GVQS-I3To0TYsfr9m))
+**🟢 Gold prices are caught in a double bind: Stalemate in Iran talks, while the Federal Reserve ... - Bitget**
+> *From a technical perspective, short-term bulls took profit after capitalizing on <b>geopolitical risk</b> ... <b>geopolitical risks</b> prevent a deep drop&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bitget.com/amp/news/detail/12560605437515&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw07hX0wZsT84eoY8-TArkxJ))
 
-**🟢 South Africa's ties to Iran unsettle investors as country courts Gulf money**
-> *... <b>geopolitical risk</b>. Nigeria, Africa's other giant, shows the limits of a ... The bigger risk for South Africa is not the loss of Gulf money but a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/international/article-897789&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3VuSWjUXpug1hAWGPYZcGH))
+**🟢 What China's absence from a key defense summit means for regional <b>security</b> in <b>Asia</b> - NPR**
+> *JENNIFER PAK, BYLINE: Defense Secretary Hegseth has tried to reassure allies that the U.S. is still committed to the <b>Indo</b>-<b>Pacific</b> region, but it's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.npr.org/2026/05/31/nx-s1-5837972/what-chinas-absence-from-a-key-defense-summit-means-for-regional-security-in-asia&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw19jnNnxnXQiTqyoE-7_D7W))
 
-**🔴 FPIs sell Rs 32,963 crore worth equities in May: NSDL - Awaz The Voice**
-> *... risks in economic report. 30 May 2026 | 2 min read &middot; <b>Geopolitical Risk</b> Advisor Col Douglas Macgrego. business-news. Prolonged Iran conflict could&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.awazthevoice.in/business-news/fpis-sell-rs-crore-worth-equities-in-may-nsdl-60383.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw21s9rG1Hi0nyMxIlvTXT7K))
+**🟢 2026 Shangri-La Dialogue: Envisioning <b>Asia's security</b> amid global turbulence - CGTN**
+> *The 2026 Shangri-La Dialogue coincides with interwoven <b>security</b> challenges as <b>Asia</b> stands at a crucial crossroads in envisioning and shaping the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.cgtn.com/news/2026-05-31/Shangri-La-Dialogue-Envision-Asia-s-security-amid-global-turbulence-1NACrSDG4bC/p.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0J_r9E-MY5cL3IboLwoyNE))
 
-**🟢 Opening remarks AUKUS Defence Ministers' Meeting, Singapore**
-> *JOHN HEALEY, UK SECRETARY OF STATE FOR DEFENCE: Thank you, good afternoon. <b>Indo</b>-<b>Pacific security</b> and Euro‑Atlantic security are indivisible. What&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.minister.defence.gov.au/speeches/2026-05-30/opening-remarks-aukus-defence-ministers-meeting-singapore&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0RXe5wAeBXqRU4hFQoHsnT))
+**🟢 US, UK and Australia to co-develop underwater drone technology - Khabarhub**
+> *... <b>tensions</b> in areas such as the <b>South China Sea</b>. The underwater drone initiative marks the first major project under Aukus Pillar Two, which focuses&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://english.khabarhub.com/2026/31/551629/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw39Bh5pzuWe9eAd21xorOmc))
 
-**🟢 Japan's Free and Open <b>Indo</b>-<b>Pacific</b>: From Normative Vision to <b>Security</b> Statecraft**
-> *Japan's Free and Open <b>Indo</b>-<b>Pacific</b> (FOIP) strategy has evolved from a normative vision into an instrument of <b>security</b> statecraft....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.e-ir.info/2026/05/30/japans-free-and-open-indo-pacific-from-normative-vision-to-security-statecraft/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3P8grxtxRZ7HZekqpq5mYS))
+**🟢 When <b>Rare Earth</b> Prices Remember: New Study Finds Some <b>Elements</b> May Stay Expensive for Years**
+> *... <b>rare earth elements</b>. What They Found. The most important finding is that not all <b>rare earths</b> behave alike. Neodymium, praseodymium, terbium, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rareearthexchanges.com/news/when-rare-earth-prices-remember-new-study-finds-some-elements-may-stay-expensive-for-years/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2ATQyh7KzOM78ta-FCNC4_))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 31 May 2026
+**Date:** 01 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** B15 Biodiesel Rollout Starts Monday: Strategic Move To Strengthen <b>Energy Security</b>
+**Source News:** Silver price outlook: can US-Iran diplomacy spark the next move? - TradingView
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** B15 Biodiesel Rollout Starts Monday: Strategic Move To Strengthen <b>Energy Security</b>
+- **The News:** Silver price outlook: can US-Iran diplomacy spark the next move? - TradingView
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** RBI says agriculture outlook for FY27 hinges on monsoon progress, distribution; El Nino poses <b>risk</b>
+**Source News:** Markets poised for a positive run if <b>geopolitical risks</b> ease: Ambareesh Baliga
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** RBI says agriculture outlook for FY27 hinges on monsoon progress, distribution; El Nino poses <b>risk</b>
+- **The News:** Markets poised for a positive run if <b>geopolitical risks</b> ease: Ambareesh Baliga
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** UAE's Exit from OPEC and Its Implications for India's Energy Security | India Narrative
+**Source News:** Wealth, by Design: The real <b>risk</b> in a crisis is not the market - The Edge Malaysia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UAE's Exit from OPEC and Its Implications for India's Energy Security | India Narrative
+- **The News:** Wealth, by Design: The real <b>risk</b> in a crisis is not the market - The Edge Malaysia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Internal intelligence and '<b>regime change</b>'-a crying need - The Hans India
+**Source News:** Japan rejects China's 'new militarism' label as hypocritical - AFR
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Internal intelligence and '<b>regime change</b>'-a crying need - The Hans India
+- **The News:** Japan rejects China's 'new militarism' label as hypocritical - AFR
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
