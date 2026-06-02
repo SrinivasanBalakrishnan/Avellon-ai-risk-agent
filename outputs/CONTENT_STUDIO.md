@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 01 June 2026
+**Date:** 02 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Silver price outlook: can US-Iran diplomacy spark the next move? - TradingView
+**Source News:** Cyber <b>risk</b> surges to the top of the business agenda as companies struggle to keep pace, warns BDO
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Silver price outlook: can US-Iran diplomacy spark the next move? - TradingView
+- **The News:** Cyber <b>risk</b> surges to the top of the business agenda as companies struggle to keep pace, warns BDO
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Markets poised for a positive run if <b>geopolitical risks</b> ease: Ambareesh Baliga
+**Source News:** Oil Futures Rise On Concerns About U.S.-Iran Talks - WSJ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Markets poised for a positive run if <b>geopolitical risks</b> ease: Ambareesh Baliga
+- **The News:** Oil Futures Rise On Concerns About U.S.-Iran Talks - WSJ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Wealth, by Design: The real <b>risk</b> in a crisis is not the market - The Edge Malaysia
+**Source News:** Indian Markets Signal Weak Start as <b>Geopolitical Risk</b> Mounts - Whalesbook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Wealth, by Design: The real <b>risk</b> in a crisis is not the market - The Edge Malaysia
+- **The News:** Indian Markets Signal Weak Start as <b>Geopolitical Risk</b> Mounts - Whalesbook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Japan rejects China's 'new militarism' label as hypocritical - AFR
+**Source News:** Outgoing Mossad chief Barnea urges Israel to topple wouned Iranian <b>regime</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Japan rejects China's 'new militarism' label as hypocritical - AFR
+- **The News:** Outgoing Mossad chief Barnea urges Israel to topple wouned Iranian <b>regime</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
