@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 06 June 2026
+**Date:** 07 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Sudan Advances Power Grid Rehab After $3bn War Damage - MEES
+**Source News:** Iran oil shock, weak monsoon raises stagflation <b>risk</b> for India, warns Nuvama - ANI News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Sudan Advances Power Grid Rehab After $3bn War Damage - MEES
+- **The News:** Iran oil shock, weak monsoon raises stagflation <b>risk</b> for India, warns Nuvama - ANI News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** AI Governance Expectations on the Rise for Insurers Amid New Regulatory Activity
+**Source News:** How <b>geopolitical</b> flashpoints are spurring global supply chain diversification - Business Line
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** AI Governance Expectations on the Rise for Insurers Amid New Regulatory Activity
+- **The News:** How <b>geopolitical</b> flashpoints are spurring global supply chain diversification - Business Line
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Tariffs, <b>Geopolitical Risks</b> Hit Biggest Law Firms - Troutman Pepper Locke
+**Source News:** Is HighPeak Energy's (HPK) Insider Stock Grant Hinting at Its Evolving Commodity <b>Risk</b> Strategy?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Tariffs, <b>Geopolitical Risks</b> Hit Biggest Law Firms - Troutman Pepper Locke
+- **The News:** Is HighPeak Energy's (HPK) Insider Stock Grant Hinting at Its Evolving Commodity <b>Risk</b> Strategy?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Gen Angry: Why do the youth protest so much and so often? - Down To Earth
+**Source News:** Investigating the Foolish: The AUKUS Public Inquiry Is Announced | Countercurrents
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gen Angry: Why do the youth protest so much and so often? - Down To Earth
+- **The News:** Investigating the Foolish: The AUKUS Public Inquiry Is Announced | Countercurrents
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
