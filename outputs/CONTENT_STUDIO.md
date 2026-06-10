@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 09 June 2026
+**Date:** 10 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The great gold myth: Why the precious metal isn't the war hedge we're told it is
+**Source News:** <b>Geopolitics</b> and war <b>risk</b> insurance | IUMI
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The great gold myth: Why the precious metal isn't the war hedge we're told it is
+- **The News:** <b>Geopolitics</b> and war <b>risk</b> insurance | IUMI
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** The market outlook for gas and LNG in Asia - Energy Connects
+**Source News:** South Korea Moves to Steady Won With FX, Hedging Steps - TradingPedia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The market outlook for gas and LNG in Asia - Energy Connects
+- **The News:** South Korea Moves to Steady Won With FX, Hedging Steps - TradingPedia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Sensex, Nifty slide over 1% as global, <b>geopolitical risks</b> mount - MSN
+**Source News:** <b>Geopolitical Risk</b>, Inflation and Alts - Wealth Management
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Sensex, Nifty slide over 1% as global, <b>geopolitical risks</b> mount - MSN
+- **The News:** <b>Geopolitical Risk</b>, Inflation and Alts - Wealth Management
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** With 179 officers, Bengal sees biggest police reshuffle under BJP - The Indian Express
+**Source News:** Is Pro-Europe Party Ready to <b>Risk</b> Moscow's Wrath? Armenia's Vote Sparks <b>Geopolitical</b> Showdown
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** With 179 officers, Bengal sees biggest police reshuffle under BJP - The Indian Express
+- **The News:** Is Pro-Europe Party Ready to <b>Risk</b> Moscow's Wrath? Armenia's Vote Sparks <b>Geopolitical</b> Showdown
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
