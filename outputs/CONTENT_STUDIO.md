@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 11 June 2026
+**Date:** 12 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** USD/CHF: Here's Why the Swiss Franc Is Losing Its Safe-Haven Status | Investing.com
+**Source News:** UK <b>economy</b> shrank by 0.1% in April as Iran <b>war</b> held back growth - The Guardian
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** USD/CHF: Here's Why the Swiss Franc Is Losing Its Safe-Haven Status | Investing.com
+- **The News:** UK <b>economy</b> shrank by 0.1% in April as Iran <b>war</b> held back growth - The Guardian
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Morning Report | Westpac IQ
+**Source News:** SpaceX IPO: Regulatory and <b>Geopolitical Risk</b> [In-Depth Analysis] [2026] - Klover.ai
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Morning Report | Westpac IQ
+- **The News:** SpaceX IPO: Regulatory and <b>Geopolitical Risk</b> [In-Depth Analysis] [2026] - Klover.ai
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** US stocks drop on inflation and <b>geopolitical risks</b>; EIA shows oil drawdown - Equiti
+**Source News:** Supply shock sparks energy security push - T. Rowe Price
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US stocks drop on inflation and <b>geopolitical risks</b>; EIA shows oil drawdown - Equiti
+- **The News:** Supply shock sparks energy security push - T. Rowe Price
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Most people who have bought $50k to $100k of overseas shares not wealthy — minister
+**Source News:** Assessing food security and environmental quality under policy stringency and <b>geopolitics</b> ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Most people who have bought $50k to $100k of overseas shares not wealthy — minister
+- **The News:** Assessing food security and environmental quality under policy stringency and <b>geopolitics</b> ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
