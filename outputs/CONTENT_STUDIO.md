@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 June 2026
+**Date:** 13 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** UK <b>economy</b> shrank by 0.1% in April as Iran <b>war</b> held back growth - The Guardian
+**Source News:** Instant Insights: Key Takeaways From Our Research | S&amp;P Global Ratings
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UK <b>economy</b> shrank by 0.1% in April as Iran <b>war</b> held back growth - The Guardian
+- **The News:** Instant Insights: Key Takeaways From Our Research | S&amp;P Global Ratings
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** SpaceX IPO: Regulatory and <b>Geopolitical Risk</b> [In-Depth Analysis] [2026] - Klover.ai
+**Source News:** What just happened? The financial week in five charts - Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** SpaceX IPO: Regulatory and <b>Geopolitical Risk</b> [In-Depth Analysis] [2026] - Klover.ai
+- **The News:** What just happened? The financial week in five charts - Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Supply shock sparks energy security push - T. Rowe Price
+**Source News:** Canadian, U.S. markets rise while oil falls and SpaceX soars in Wall Street debut
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Supply shock sparks energy security push - T. Rowe Price
+- **The News:** Canadian, U.S. markets rise while oil falls and SpaceX soars in Wall Street debut
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Assessing food security and environmental quality under policy stringency and <b>geopolitics</b> ...
+**Source News:** Commentator Gil Troy: World's Two 'Covenental Democracies' Shouldn't Shrink Back from ... - CBN
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Assessing food security and environmental quality under policy stringency and <b>geopolitics</b> ...
+- **The News:** Commentator Gil Troy: World's Two 'Covenental Democracies' Shouldn't Shrink Back from ... - CBN
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
