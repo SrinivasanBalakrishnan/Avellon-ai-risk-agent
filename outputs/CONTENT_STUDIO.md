@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 15 June 2026
+**Date:** 16 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** US-Iran peace deal brings relief but <b>risks</b> linger, ANZ strategist warns - NZ Herald
+**Source News:** Prospective US-Iran Deal Positive, but Still Subject to High Uncertainty - Fitch Ratings
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US-Iran peace deal brings relief but <b>risks</b> linger, ANZ strategist warns - NZ Herald
+- **The News:** Prospective US-Iran Deal Positive, but Still Subject to High Uncertainty - Fitch Ratings
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold gains 2% after US-Iran peace deal eases <b>geopolitical risk</b> - Mettis Global
+**Source News:** BlackRock's Rieder Sees 'Explosive' Rally as Cash Gets Unlocked - Bloomberg
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold gains 2% after US-Iran peace deal eases <b>geopolitical risk</b> - Mettis Global
+- **The News:** BlackRock's Rieder Sees 'Explosive' Rally as Cash Gets Unlocked - Bloomberg
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Trump Signs Peace Deal With Iran But What Impact Will It Have On Markets? | Sensex, Nifty
+**Source News:** Asphalt: Geopolitical Risk Premium Recedes Rapidly; Market Enters Correction ... - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump Signs Peace Deal With Iran But What Impact Will It Have On Markets? | Sensex, Nifty
+- **The News:** Asphalt: Geopolitical Risk Premium Recedes Rapidly; Market Enters Correction ... - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump lands Iran truce, but let's not call it a victory yet - AFR
+**Source News:** Watch PIMCO's Cantrill: <b>Geopolitical Risk</b> Not off the Table - Bloomberg
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump lands Iran truce, but let's not call it a victory yet - AFR
+- **The News:** Watch PIMCO's Cantrill: <b>Geopolitical Risk</b> Not off the Table - Bloomberg
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

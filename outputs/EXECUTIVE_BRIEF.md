@@ -1,87 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 15 June 2026
+**Date:** 16 June 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 25.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 11.0)
-- **Taiwan Strait** (Risk Score: 2)
+- **Strait of Hormuz** (Risk Score: 32.0)
+- **Taiwan Strait** (Risk Score: 13.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 US-Iran peace deal brings relief but <b>risks</b> linger, ANZ strategist warns - NZ Herald**
-> *It is really good news,” ANZ head of <b>geopolitical risk</b> Cameron Mitchell says of the US-Iran peace deal . But it doesn't mean the tension and risk&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nzherald.co.nz/business/us-iran-peace-deal-brings-relief-but-risks-linger-anz-strategist-warns/premium/PRN3QEZZLJGQPJW4SWONSLYHGE/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3qqGpX8uk0YuB9DMA6diM0))
+**🔴 Prospective US-Iran Deal Positive, but Still Subject to High Uncertainty - Fitch Ratings**
+> *The pre-conflict <b>geopolitical</b> equilibrium was already unstable and the war is likely to lead to a period of raised regional security <b>risk</b>. It is not&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fitchratings.com/research/sovereigns/prospective-us-iran-deal-positive-still-subject-to-high-uncertainty-15-06-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ighkZyu-EviyUKAXXv6ga))
 
-**🟢 Japan-UK Summit Meeting and Working Lunch (Summary) | Diplomatic Relations**
-> *(3) The two leaders shared the recognition that <b>energy security</b> is an urgent <b>global</b> challenge facing the <b>world</b>. Prime Minister TAKAICHI&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://japan.kantei.go.jp/105/diplomatic/202606/14bilat.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2VQdbH2u3tfHCVDlvfW0Q0))
+**🟢 Euro Breaks Above 1.1600 as US–Iran Peace Breakthrough Eases <b>Geopolitical Risk</b>**
+> *The euro surged above 1.1600 against the US dollar after a US–Iran diplomatic breakthrough eased Middle East <b>geopolitical risk</b>, weakening the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptorank.io/news/feed/f0131-euro-above-1-1600-us-iran-peace-breakthrough&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2eO6O2KGC-r1YUHDuPy92c))
 
-**🟢 US–Iran Deal Brings Stability To War Though Hormuz Remains <b>Global Energy</b> Flashpoint**
-> *... <b>global</b> oil markets and regional <b>security</b>, yet lasting peace will require sustained trust, enforcement mechanisms, and broader geopolitical&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dk71REO00aoY&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2s5BQcRmwHHFPPK3qD8BCk))
+**🟢 U.S.-Iran peace deal's supply chain effects may be slow-going - Axios**
+> *The prospect of a reopened Strait of Hormuz and a pending U.S.-Iran peace deal could help ease the big inflation <b>risk</b> hanging over Kevin Warsh's first&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.axios.com/2026/06/15/iran-peace-hormuz-supply-chains&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0xyfv8hvDGH7u64llUSlKj))
 
-**🟡 AI widely considered the most profound shift in <b>warfare</b> since nuclear weapons**
-> *EDMONTON— Artificial intelligence is dominating the headlines. Prime Minister Mark Carney used a hospital setting to pledge $200-billion of <b>economic</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hilltimes.com/2026/06/15/ai-widely-considered-the-most-profound-shift-in-warfare-since-nuclear-weapons/507683/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3a0qfh3wuUEWqcq1AdQZ1m))
+**🟡 Anwar heads to Russia with fuel <b>security</b> high on agenda amid <b>global</b> uncertainty**
+> *MUAR, June 16 — Ensuring the country's <b>energy</b> supply remains a key government priority as Prime Minister Datuk Seri Anwar Ibrahim begins his&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.malaymail.com/news/malaysia/2026/06/16/anwar-heads-to-russia-with-fuel-security-high-on-agenda-amid-global-uncertainty/223926&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2cOMflZnTV-ZQluTu-awYY))
 
-**🟢 G7 leaders meet in France after U.S. and Iran declare agreement to end <b>war</b> | Reuters**
-> *G7 leaders meet in the wake of U.S.-Iran agreement; Ukraine, global <b>economic</b> imbalances will also be discussed; Sourcing critical minerals outside&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw25ZpezJhrqGFpEALOYwwXA))
+**🟡 Iran <b>war</b> live: Vance says IAEA to return to Iran, no tolls in Hormuz Strait | US-Israel <b>war</b> on Iran News**
+> *The exchange is not the core engine of <b>economic</b> financing in sanctions-hit Iran, but it has offered insight into the state of the country's <b>economy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0JXpU80mUXbiX7ArECIwgI))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Gold gains 2% after US-Iran peace deal eases <b>geopolitical risk</b> - Mettis Global**
-> *Gold gains 2% after US-Iran peace deal eases <b>geopolitical risk</b> ... June 15, 2026 (MLN): Gold prices climbed about 2% on Monday after reports that the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mettisglobal.news/Gold-gains-2-after-USIran-peace-deal-eases-geopolitical-risk-61114&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3qrH2z54SpjkeWv6MHm29M))
+**🟢 BlackRock's Rieder Sees 'Explosive' Rally as Cash Gets Unlocked - Bloomberg**
+> *... <b>geopolitical risk</b>, he added. More From Bloomberg. BlackRock Moves Headquarters To Hudson Yards. BlackRock's SpaceX IPO Share Order Said to Target $5&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-06-15/blackrock-s-rieder-sees-explosive-rally-as-cash-gets-unlocked&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1GsBYIkvhSgGFmHnlK1rL9))
 
-**🟢 Bitcoin hits a two-week high above $65500 as the US-Iran deal sends oil sliding - CoinDesk**
-> *A peace agreement that reopens the Strait of Hormuz pulled the <b>geopolitical</b> premium out of oil and put back into <b>risk</b> assets....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3R74RxPIyZrcCl7K9Q-NAw))
+**🟡 Strait of Hormuz reopening won't end shipping <b>risks</b> - DW**
+> *But naval mines, high insurance costs and <b>geopolitical risks</b> mean disruption could persist for months....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dw.com/en/us-iran-war-deal-why-strait-of-hormuz-risks-wont-fade-fast/a-77553214&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0IS0y61GFH3YPiKNfYZ46q))
 
-**🟡 Crude cools, Sensex jumps 1,000 points: Is the US-Iran deal setting up a real market rally?**
-> *The proposed framework has raised expectations of improved oil supplies and lower <b>geopolitical risks</b> ... However, he identified the biggest risk&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/cheaper-crude-fires-up-sensex-nifty-why-experts-are-divided-on-india-s-market-rally-13949590.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1kQZeOAdv6qtNFQQUNkTUe))
+**🔴 Uncertainty and resilience on the eve of summer - CaixaBank Research**
+> *... the recent behaviour of the global economy makes for a fragile balance, especially with <b>geopolitical risk</b> remaining so high....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.caixabankresearch.com/en/economics-markets/recent-developments/uncertainty-and-resilience-eve-summer&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3WQFPS0VOfBYVVrBnlpCgY))
 
-**🟢 Oil slips 4% as US, Iran reach peace deal to reopen Strait of Hormuz - Bangkok Post**
-> *&quot;The <b>geopolitical risk</b> premium that had been built into crude is now being unwound quite aggressively as traders price in the prospect of restored&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bangkokpost.com/business/general/3271046/oil-slips-4-as-us-iran-reach-peace-deal-to-reopen-strait-of-hormuz&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw242oba6rBoVrQIChE0RcMp))
+**🟢 ISA Regional Committee Meets in Brussels to Accelerate <b>Global</b> Solar Deployment and ...**
+> *Europe and Partner Nations Strengthen Collaboration on Solar Expansion, Resilient Supply Chains, <b>Energy Security</b> and clean technology financing during&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energetica-india.net/news/isa-regional-committee-meets-in-brussels-to-accelerate-global-solar-deployment-and-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2C7ibzdi5DUKIR21rYNGwq))
 
-**🟢 Gold gains over 1% after US, Iran reach peace deal - CNBC**
-> *&quot;Lower oil prices and a softer dollar, stemming from reduced <b>geopolitical risk</b> ... &quot;Currency debasement concerns, fiscal risks and ongoing geopolitical&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/06/15/gold-gains-over-1percent-after-us-iran-reach-peace-deal.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3EE3NsubYzT0Ed4nhQI97g))
+**🟢 How Taiwan Is Balancing Between US and Chinese Visions of <b>Energy</b> Dominance**
+> *... <b>global energy</b>. Its semiconductors are the physical backbone of the ... energy <b>security</b> and climate liveability. This article was originally&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thediplomat.com/2026/06/how-taiwan-is-balancing-between-us-and-chinese-visions-of-energy-dominance/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw00zLvyanKY8OYypk1g5eDW))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Trump Signs Peace Deal With Iran But What Impact Will It Have On Markets? | Sensex, Nifty**
-> *Recent market reactions have included falling crude oil prices and rising global stock futures as traders price in reduced <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAqBKuw-PHxM&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3bFamLh4nySj6jQJBKYOJo))
+**🟢 Asphalt: Geopolitical Risk Premium Recedes Rapidly; Market Enters Correction ... - SunSirs**
+> *SunSirs: Asphalt: <b>Geopolitical Risk</b> Premium Recedes Rapidly; Market Enters Correction and Consolidation Phase,Asphalt,Chemical....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-33695.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0YZ0InV8NXM1LcW3c3PoDt))
 
-**🟢 Most businesses expect operations to go electric by 2035, survey finds | Reuters**
-> *The Reuters Power Up newsletter provides everything you need to know about the <b>global energy</b> industry. ... energy <b>security</b> and economic ​resilience....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/most-businesses-expect-operations-go-electric-by-2035-survey-finds-2026-06-15/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0cdqRAvNhavzrepE6ySlmY))
+**🟢 SE Asia needs policy rethink for <b>energy security</b>: IEA | Latest Market News - Argus Media**
+> *Surging fuel prices have also led to higher <b>energy</b> bills and inflation. Southeast Asia accounts for nearly 20pc of <b>global</b> demand growth to 2035 under&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.argusmedia.com/news-and-insights/latest-market-news/2840017-se-asia-needs-policy-rethink-for-energy-security-iea&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1SLD7GeXSPAK51hTGn3Gop))
 
-**🟢 New polling shows overwhelming <b>global</b> business support for clean electrification amid ... - E3G**
-> *“The message from businesses is clear: in a <b>world</b> of fossil fuel volatility, clean electrification is the smart choice for <b>energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.e3g.org/news/new-business-polling-electrification-support/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2351tpYx_QjhsUrmqXvaCs))
+**🟢 Study: Electrification 'critical' to UK prosperity, jobs, and <b>energy security</b> - Business Green**
+> *... <b>energy security</b>, and the creation of around 250,000 jobs. The ... <b>energy</b> system that strengthens <b>global</b> competitiveness.&quot; The government&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessgreen.com/news/4531207/study-electrification-critical-uk-prosperity-jobs-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw19HaUiBatlVZknKo0fGClH))
 
-**🟢 Experts react: The US and Iran just announced an interim peace deal. Here's what we know so far.**
-> *... <b>global energy security</b> at its Global Energy Center. He served as director for energy at the White House during the first Trump administration....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/dispatches/experts-react-the-us-and-iran-just-announced-an-interim-peace-deal-heres-what-we-know-so-far/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2aF3AoybpFpkagEBt7g8dI))
+**🟡 The Korea International Broadcasting Foundation - Arirang**
+> *... <b>energy security</b> strategies, following months of disruptions to <b>global</b> oil and gas flows. &quot; South Korea relies heavily on <b>energy</b> imports. So what&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.arirang.com/news/view%3Fid%3D297279&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0pZM0lSiR1aRlbcxmtQjz4))
 
-**🟢 <b>Global Energy</b> Show exudes participants' optimism, as attendance increases - World Oil**
-> *... <b>energy</b> supplier amid growing <b>global</b> demand and increasing concerns over <b>energy security</b>. “Canada is back as a serious <b>energy</b> country. Canada is&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://worldoil.com/news/2026/6/14/global-energy-show-exudes-participants-optimism-as-attendance-increases/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1AleHVrY5BZw-oV3603Iq7))
+**🟢 Restructuring Venezuela's <b>Sovereign Debt</b> and Rebuilding Its Economy Post-Maduro**
+> *Moreover, neither <b>debt</b> restructuring nor economic reconstruction will succeed unless Venezuela addresses its humanitarian <b>crisis</b> and <b>crisis</b> of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://blogs.law.ox.ac.uk/oblb/blog-post/2026/06/restructuring-venezuelas-sovereign-debt-and-rebuilding-its-economy-post&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0AcyA3X5vcgIulm78EQwNs))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Trump lands Iran truce, but let's not call it a victory yet - AFR**
-> *... political concerns, he will still not be able to shrug off outstanding foreign issues. No <b>regime change</b>. Trump on Monday heads for the G7 summit in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/world/north-america/trump-lands-iran-truce-but-let-s-not-call-it-a-victory-yet-20260615-p606ti&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3_KNUng7vwlZFWTY5ZtiD7))
+**🟢 Watch PIMCO's Cantrill: <b>Geopolitical Risk</b> Not off the Table - Bloomberg**
+> *Libby Cantrill, PIMCO Head of Public Policy, discussed the recent developments in negotiations involving Iran, emphasizing that what has been&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/videos/2026-06-15/pimco-s-cantrill-geopolitical-risk-not-off-the-table-video&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2i8YK69shP-3zUnAelCGMU))
+
+**🟡 World Cup 2026: Iran v Iran in the stands as politics and football intertwine - BBC Sport**
+> *&quot;<b>Regime change</b> in Iran,&quot; sang another. Then they broke into song - Iran's pre-revolutionary national anthem. A young man, when asked to translate&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0r0G963NhRA9zJSWi2MVjl))
+
+**🔴 Hundreds protest Iran's '<b>regime</b> team' ahead of World Cup opener - Le Monde**
+> *... <b>regime change</b>.&quot; &quot;When the people get murdered, they ignore it and stay silent,&quot; she told Agence France-Presse (AFP). The match took place under&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lemonde.fr/en/sports/article/2026/06/16/hundreds-protest-iran-s-regime-team-ahead-of-world-cup-opener_6754529_9.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1VS1JHa_asNgeoO51wLMTA))
+
+**🟢 Iran <b>regime change</b> clock starts after Israel government replaced, Bennett says**
+> *&quot;The countdown clock for <b>regime change</b> in Iran will start ticking the moment the government in Israel is replaced,&quot; former Israeli Prime Minister&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iranintl.com/en/202606157538&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1RbYOGbWggLFwSR5ve_VIl))
+
+**🟡 APRA and ASIC announce FAR <b>changes</b> to reduce administrative burden**
+> *APRA and the ASIC will streamline aspects of the Financial Accountability <b>Regime</b> to reduce regulatory burden without lowering accountability&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.apra.gov.au/news-and-publications/apra-and-asic-announce-far-changes-to-reduce-administrative-burden&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3cGKoM9B7W7wC4-uEOl9fd))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Peace deal: ANZ head of <b>geopolitical risk</b> Cameron Mitchell on the Iran situation - NZ Herald**
-> *ANZ head of <b>geopolitical risk</b> Cameron Mitchell talks to business editor-at-large Liam Dann. Video / Cameron Pitney....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nzherald.co.nz/business/economy/peace-deal-anz-head-of-geopolitical-risk-cameron-mitchell-on-the-iran-situation/BINPTWRPENDJ27M5SOBIZ6ORAY/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1m4xUnhazIglbeUvrtpuOL))
+**🟢 US-Iran peace deal lowers <b>geopolitical risk</b> and could reshape NZ's economy - YouTube**
+> *Liam Dann talks to ANZ's <b>geopolitical risk</b> manager Cameron Mitchell about what the US-Iran peace deal means for New Zealand....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQodVzjBhoGE&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3qOV6m7aBtRfXtNfPv_YTz))
 
-**🟢 Sensex, Nifty soar: Global Peace Sentiment Gives Wings To Indian Bourses**
-> *However, Bagga cautioned that several <b>geopolitical risks</b> persist despite the initial optimism. He noted that specific regional actors and hardline&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://openthemagazine.com/business/sensex-nifty-soar-global-peace-sentiment-gives-wings-to-indian-bourses&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3C3oX-UxpdjgLy6MNWb9gi))
+**🟢 Crane NXT (CXT) Stock Valuation After Sector Rally And Easing <b>Geopolitical Risk</b>**
+> *... <b>geopolitical risk</b> and renewed confidence in corporate spending plans. See our latest analysis for Crane NXT. Short term momentum has picked up&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/tech/nyse-cxt/crane-nxt/news/crane-nxt-cxt-stock-valuation-after-sector-rally-and-easing&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3kUpYdn8HTZkJgqUBUYhIV))
 
-**🟢 Former PM Scott Morrison says India-Australia ties hold &quot;key role&quot; as <b>Indo</b>-<b>Pacific</b> takes centre stage**
-> *By Ayushi AgarwalSydney [Australia], June 15 (ANI): Terming the <b>Indo</b>-<b>Pacific</b> region as the absolute &quot;centre of the world,&quot; former Australian Prime&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/world/others/former-pm-scott-morrison-says-india-australia-ties-hold-key-role-as-indo-pacific-takes-centre-stage20260615112318/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2EIQrGCAQyRfniUFWHG5eE))
+**🟢 Beyond Burden Sharing: A Normative Case for <b>Indo</b>-<b>Pacific</b> Maritime Solidarity**
+> *Applied to the <b>Indo</b>-<b>Pacific security</b> architecture, the logic of pacce produces one specific argument, namely that major regional powers need to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.internationalaffairs.org.au/australianoutlook/beyond-burden-sharing-a-normative-case-for-indo-pacific-maritime-solidarity/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2WmrmLqRvMwRkdvJDbkD8O))
 
-**🟢 North Korea, Vietnam discuss ways to boost cooperation on public <b>security</b>, law enforcement**
-> *<b>Asia</b> - <b>Pacific</b>. North Korea, Vietnam discuss ways to boost cooperation ... North Korea and Vietnam held talks in Pyongyang over the weekend to discuss&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/asia-pacific/north-korea-vietnam-discuss-ways-to-boost-cooperation-on-public-security-law-enforcement/3967013&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw020plamW-vVIEEuh4NIwq3))
+**🟢 Australian <b>security</b> strengthened as part of Exercise Austral Shield - Defence**
+> *HMAS Sydney departs on Regional Presence Deployment across <b>Indo</b>-<b>Pacific</b> &middot; Media release. 11 Jun 2026. Projects of Concern Summit held in Canberra....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.defence.gov.au/news-events/releases/2026-06-16/australian-security-strengthened-part-exercise-austral-shield&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1uPpRuLpQjQ1uB4JyvqRQq))
 
-**🟢 Strong India-US relations essential for Quad's long-term relevance in <b>Indo</b>-<b>Pacific</b>: Report**
-> *The Quad demonstrates resilience amid evolving geopolitics, with India as a key partner in shaping the <b>Indo</b>-<b>Pacific security</b> architecture....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehawk.in/news/world/strong-india-us-relations-essential-for-quads-long-term-relevance-in-indo-pacific-report&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1ljgLvaqVfxkfFWmYX2cPF))
+**🟡 India Tests 1000km Long-Range Cruise Missile, DRDO's LRLACM Alters <b>Indo</b>-<b>Pacific</b> Strike Balance**
+> *(DEFENCE <b>SECURITY ASIA</b>) — India's successful second flight test of its indigenously developed Long Range Land Attack Cruise Missile (LRLACM) has&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/india-lrlacm-cruise-missile-test-drdo-1000km-long-range-strike-indo-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1LrBXT8fVCuwJ107P8UATT))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
