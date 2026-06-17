@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 June 2026
+**Date:** 17 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Prospective US-Iran Deal Positive, but Still Subject to High Uncertainty - Fitch Ratings
+**Source News:** APRA sets out minimum expectations to strengthen industry readiness for <b>geopolitical</b> shocks
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Prospective US-Iran Deal Positive, but Still Subject to High Uncertainty - Fitch Ratings
+- **The News:** APRA sets out minimum expectations to strengthen industry readiness for <b>geopolitical</b> shocks
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** BlackRock's Rieder Sees 'Explosive' Rally as Cash Gets Unlocked - Bloomberg
+**Source News:** Cybersecurity Explainer: US and EU Strategy and Policy - German Marshall Fund
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** BlackRock's Rieder Sees 'Explosive' Rally as Cash Gets Unlocked - Bloomberg
+- **The News:** Cybersecurity Explainer: US and EU Strategy and Policy - German Marshall Fund
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Asphalt: Geopolitical Risk Premium Recedes Rapidly; Market Enters Correction ... - SunSirs
+**Source News:** <b>Geopolitical Risk</b> Premium Exits Market, Aluminum Price under Short-Term Pressure and ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asphalt: Geopolitical Risk Premium Recedes Rapidly; Market Enters Correction ... - SunSirs
+- **The News:** <b>Geopolitical Risk</b> Premium Exits Market, Aluminum Price under Short-Term Pressure and ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Watch PIMCO's Cantrill: <b>Geopolitical Risk</b> Not off the Table - Bloomberg
+**Source News:** Anti-<b>regime</b> protests take place outside Iran's first World Cup match - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Watch PIMCO's Cantrill: <b>Geopolitical Risk</b> Not off the Table - Bloomberg
+- **The News:** Anti-<b>regime</b> protests take place outside Iran's first World Cup match - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
