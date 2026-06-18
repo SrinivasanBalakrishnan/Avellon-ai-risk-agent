@@ -1,93 +1,92 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 17 June 2026
+**Date:** 18 June 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 7.5)
-- **Taiwan Strait** (Risk Score: 3)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
+- **Strait of Hormuz** (Risk Score: 17.5)
+- **Taiwan Strait** (Risk Score: 7.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
+- **Cape of Good Hope** (Risk Score: 4.5)
+- **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟡 APRA sets out minimum expectations to strengthen industry readiness for <b>geopolitical</b> shocks**
-> *Although most entities are aware of <b>geopolitical risks</b>, APRA and other agencies on the Council of Financial Regulators have observed common gaps in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.apra.gov.au/news-and-publications/apra-sets-out-minimum-expectations-to-strengthen-industry-readiness-for&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw30SsMPTawMDy9PiohcAfqU))
+**🟢 Will Oil Prices Return to Pre-War Levels? It Depends on China's Economic Growth**
+> *Meanwhile, traders have increasingly hedged <b>geopolitical risk</b> through ... But if China's growth strengthens before <b>geopolitical risks</b> fully&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.investing.com/analysis/will-oil-prices-return-to-prewar-levels-it-depends-on-chinas-economic-growth-200682352&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0RDR3XAox14k2UE11i91km))
 
-**🟡 APRA sets <b>geopolitical risk</b> rules for financial firms - Grafa**
-> *APRA has issued an official warning to banks, insurers, and superannuation funds, mandating that they strengthen their <b>risk</b> management....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://grafa.com/en/news/australia/apra-sets-geopolitical-risk-rules-for-financial-firms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0oR0YkZp-r7ANOZiWC8-1h))
+**🔴 Euro Dips Below 1.1600 as Markets Await Warsh-Led Fed Signals and Rising <b>Geopolitical Risk</b>**
+> *Elsewhere, markets are also waiting for more detail on a US-Iran trade deal, while <b>geopolitical</b> tensions rose after Iran warned of a “hard response”&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vtmarkets.com/live-updates/euro-dips-below-1-1600-as-markets-await-warsh-led-fed-signals-and-rising-geopolitical-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ufa_lRHBKqgsWDEZBAo6L))
 
-**🟢 Trump's Iran <b>war</b> weighs on G7 economies, but don't expect hard talk in France | Reuters**
-> *... <b>war's economic</b> and social consequences. Rising prices have also dented approval ratings for Starmer, German Chancellor Friedrich Merz and French&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/china/trumps-iran-war-weighs-g7-economies-dont-expect-hard-talk-france-2026-06-17/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2FStatLlI2PfdWH70biC_j))
+**🟡 Central Banks Pull Gold Home as <b>Geopolitical Risks</b> Rise - Yahoo Finance**
+> *This reflects growing concerns about <b>geopolitical</b> tensions, sanctions, and access to assets during periods of international instability. The trend is&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/markets/commodities/articles/central-banks-pull-gold-home-160905468.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FGAPo6T0zo6AnPQpglPiI))
 
-**🟡 Canada's New Playbook: Beyond Aid to a Strategic Alliance with Ukraine - BriefGlance.com**
-> *The readout from their discussion reveals a multi-pronged strategy that combines intensified <b>economic warfare</b> against Russia with deep, structural&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://briefglance.com/articles/canadas-new-playbook-beyond-aid-to-a-strategic-alliance-with-ukraine&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0xNsLAxc6k_D1gFAy3X6I1))
+**🔴 Europe explores <b>energy security</b> alternatives after Iran war's turmoil - AP News**
+> *The Iran war's impact on <b>global</b> fuel prices has pushed Europe to explore alternative trade and <b>energy</b> routes....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://apnews.com/article/europe-energy-hormuz-trade-oil-gas-routes-6b36dd445b6ff2b77c0a4308fb2f7e4d&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw04MW9RQNJYVs8K3qzOS6vu))
 
-**🔴 The U.S.–Iran Deal Could Help Transform America's Mideast Strategy - The American Conservative**
-> *<b>Economic Warfare</b>, Militarized Diplomacy Are Brutal and Malfunctioning Tools ... The Trump administration hurts the people it claims to be protecting....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theamericanconservative.com/the-u-s-iran-deal-could-help-transform-americas-mideast-strategy/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1O33PzSO2mEVm11AcskrPP))
+**🟡 S&amp;P <b>Global Energy's</b> biofuels research warns: 'Agriculture stands at a crossroads'**
+> *... <b>global</b> food and <b>energy security</b>. It also offers a stark contrast of consequences for the U.S. farm economy if Congress continues to punt on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.michiganfarmnews.com/s-p-global-energy-s-biofuels-research-warns-agriculture-stands-at-a-crossroads-&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw06Q0EjuP467tC3EaDkTHZi))
 
 
 ## 🏛 CYBER & TECH
-**🔴 Cybersecurity Explainer: US and EU Strategy and Policy - German Marshall Fund**
-> *The 2020 Cybersecurity Strategy included provisions for protecting critical infrastructure from large-scale supply chain attacks and <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gmfus.org/news/cybersecurity-explainer-us-and-eu-strategy-and-policy&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw26IxUI5mr1vY0mgXbCqHDf))
+**🟡 Mapping <b>Geopolitical Risk</b> Across the Value Chain - MSCI**
+> *<b>Geopolitical risks</b> have become a growing concern for institutional investors. Trade disputes, tariffs, conflicts between countries, domestic politics&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msci.com/research-and-insights/blog-post/mapping-geopolitical-risk-across-the-value-chain&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1lqBX6iqaDHuNxtHISlNVm))
 
-**🟡 <b>Geopolitics</b> and the Financial System: Some Echoes From History | Speeches | RBA**
-> *<b>Geopolitical risk</b> – considerations for industry &middot; threats to critical infrastructure, digital and physical, on which the financial system relies &middot; risks&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.rba.gov.au/speeches/2026/sp-ag-2026-06-17.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0tBAAzxgRlR_O4P5uPfC8V))
+**🟢 <b>Geopolitical Risk</b>, Retirement Psychology &amp; AI's Growing Role in Wealth Management**
+> *Plus: AI and alternative investments, a controversial emergency-fund debate, and three psychological patterns that can quietly derail even the best&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thedailyupside.com/podcast/geopolitical-risk-retirement-psychology-ais-growing-role-in-wealth-management/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2h0bjcgRrhG90MASw8Ww6F))
 
-**🟢 Banks, Insurers Expected to Build Resilience Against <b>Geopolitical Risk</b>, APRA Chair Says**
-> *Entities are expected to manage <b>geopolitical risk</b> through APRA's existing prudential framework, including prudential standards on governance, risk&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/news/post/71632432/banks-insurers-expected-to-build-resilience-against-geopolitical-risk-apra&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0GYWJ4dNYZtxdHZpoNrsVf))
+**🟢 Claude AI model ban is a wake-up call for Indian tech cos - Forbes India**
+> *... <b>geopolitical risks</b>. Launch Rapid Reads→. AI-POWERED. The call for sovereign AI has gained traction after the US government directed AI frontier&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forbesindia.com/article/news/deep-dive/claude-ai-model-ban-is-a-wake-up-call-for-indian-tech-cos/2995074/1&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0vFBaFfbDj9jdR00kkEqgq))
 
-**🟡 <b>Geopolitical</b> Shifts Reshape the Landscape: A Critical Turning Point for the Coal-Chemical Market**
-> *Concurrently, international oil prices surged due to a <b>geopolitical risk</b> premium. Consequently, coal-chemical products maintained high price levels—&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-33734.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1_stHUavH6zlQ_XlRAzULL))
+**🟢 Core real estate stands to benefit from rising infrastructure <b>risk</b> - PERE**
+> *The strategy is regaining its appeal as other real assets become more vulnerable amid heightened <b>geopolitical</b> tensions, writes Josh Pristaw,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.perenews.com/core-real-estate-stands-to-benefit-from-rising-infrastructure-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0jDKYgykghGOA-XvEHc2xw))
 
-**🟢 Morning Call Sheet: AI optimism offsets <b>geopolitical</b> market <b>risks</b> - CNBC**
-> *... of Economic Policy at Veda Partners, discuss AI driven market optimism, easing oil volatility, Fed expectations and <b>geopolitical risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/video/2026/06/16/morning-call-sheet-ai-optimism-offsets-geopolitical-market-risks.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1zVfEaBI7pLiTAE8zth7e9))
+**🔴 The new grammar of <b>energy security</b> must not be misdiagnosed - The Hindu**
+> *Every time geopolitical tensions flare or a pipeline is disrupted, the <b>world</b> waits with bated breath, waiting for the inevitable spike in prices&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/business/the-new-grammar-of-energy-security-must-not-be-misdiagnosed/article71113403.ece&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1OF1X5FY5Sf8YYPwxWtn0Y))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟡 <b>Geopolitical Risk</b> Premium Exits Market, Aluminum Price under Short-Term Pressure and ...**
-> *<b>Geopolitical Risk</b> Premium Exits Market, Aluminum Prices Under Short-Term Pressure and Volatility] On the macro front, the US and Iran have&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/en/newscontent/103958254-Geopolitical-Risk-Premium-Exits-Market-Aluminum-Price-under-Short-Term-Pressure-and-Fluctuating-SMM-Aluminum-Morning-Bri&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1jBX1GIVzkbVsxkQjPe_c3))
+**🟢 Precious metals steady as oil-driven inflation fears fade - Saxo Bank**
+> *However, <b>geopolitical risk</b> management and reserve diversification away from traditional reserve currencies are increasingly becoming key&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.home.saxo/content/articles/commodities/precious-metals-steady-as-oil-driven-inflation-fears-fade-17062026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3TDW3ty6DHoCk0888MUnmn))
 
-**🟢 Center on <b>Global Energy</b> Policy Announces Sweeping New Analysis of 20 Countries ...**
-> *The Center on <b>Global Energy</b> Policy (CGEP) at Columbia University SIPA today released a new report examining Project-based Carbon Credit Markets&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energypolicy.columbia.edu/center-on-global-energy-policy-announces-sweeping-new-analysis-of-20-countries-carbon-credit-markets/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0z6wWAFzoFDCgCLKQTAYW6))
+**🔴 The UAE's Exit from OPEC: When Politics and Oil Mix**
+> *Another risk involves the broader fragmentation of Gulf unity. ... There are also escalating <b>geopolitical risks</b> associated with the UAE-Iran tensions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mecouncil.org/publication/the-uaes-exit-from-opec-when-politics-and-oil-mix/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0m3qkE4DP2j1Xy-_npt5Vx))
 
-**🟢 - YouTube**
-> *... <b>global energy security</b> and artificial intelligence governance, the stakes are high. Prime Minister Narendra Modi is representing India and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxfU3bLo5XPynn6fP37mwYHj-QclTtzz1t&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0q1bI-JHPi1VqwOL0yj5c2))
+**🟢 New Potential <b>Energy</b> Study Commissioned by Rockefeller Foundation: Climate Support ...**
+> *Shared concerns – pollution, health, affordability, <b>energy security</b>, and protecting future generations – increased support by more than 10 percentage&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.rockefellerfoundation.org/news/new-potential-energy-study-commissioned-by-rockefeller-foundation-climate-support-strong-across-democracies-but-words-matter/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2FIpTEsh2vQwtVsWdTedap))
 
-**🟢 New S&amp;P <b>Global Energy</b> study shows how biofuels are a catalyst for agriculture**
-> *... could transform American agriculture, reignite rural economies and provide <b>global</b> food and <b>energy security</b>. The study was commissioned by USFRA....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://biodieselmagazine.com/articles/new-sp-global-energy-study-shows-how-biofuels-are-a-catalyst-for-agriculture&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2iPuPYYclUBKGGCP8qCbsY))
+**🟢 <b>Energy security</b> concerns to bolster Uzma's outlook | The Star**
+> *Fresh contract wins worth RM700mil and a pickup in tender activity amid heightened <b>global energy security</b> concerns are expected to underpin&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/business/business-news/2026/06/18/energy-security-concerns-to-bolster-uzmas-outlook&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2oMt5pxLp2FdFV0GysfjvB))
 
-**🟢 Where the Gas Went: Fixing Leaks to Boost Savings and <b>Energy Security</b> in Indonesia**
-> *The <b>World</b> Bank's <b>Global</b> Flaring and Methane Reduction (GFMR) Partnership helps developing countries turn the currently wasted gas into opportunity&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.worldbank.org/en/news/feature/2026/06/02/where-the-gas-went-fixing-leaks-to-boost-savings-and-energy-security-in-indonesia&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0kzvG4708cDXVNHjiY9yeK))
+**🟢 ExxonMobil backs South Africa's first LNG import terminal project - <b>World</b> Oil**
+> *... <b>energy security</b> through access to <b>global</b> LNG markets. “This agreement reflects ExxonMobil's <b>global</b> LNG experience and our commitment to support&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://worldoil.com/news/2026/6/17/exxonmobil-backs-south-africa-s-first-lng-import-terminal-project/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1vLzbl-x9tGBJrsM5gCbYL))
 
 
 ## 🏛 LEADERSHIP
-**🔴 Anti-<b>regime</b> protests take place outside Iran's first World Cup match - YouTube**
-> *FIFA to confiscate all pre-revolution Iranian flags as anti-regime protesters flock to World Cup ... Iranian World Cup protesters call for <b>regime change</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DzaDj8nTi4kU&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0lbv14cfZEr5cFwKd2laq3))
+**🟢 Cuba's Communists Meet To Fast-track Liberal Reforms - Barron's**
+> *But it was unclear whether they will satisfy US President Donald Trump, who has made clear he wants to see <b>regime change</b> and mused about &quot;taking&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.barrons.com/news/cuba-s-under-pressure-communists-meets-to-fast-track-liberal-reforms-61a923e6&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1wShJ_u2SS2TQHC9hr-n0m))
 
-**🔴 Iranian World Cup protesters call for <b>regime change</b>, criticize pre-revolutionary flag ban**
-> *Iranian World Cup protesters call for <b>regime change</b>, criticize pre-revolutionary flag ban | RISING. 1.9K views · 6 hours ago. #Iran #WorldCup #FIFA....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dg8LXnnaBGRg&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0hj46EGSXTRX-IJ3zls9JI))
-
-**🟡 Trump Does Not Understand What He's Saying About the Middle East - The Atlantic**
-> *Just this winter, Trump had promised the Iranian people that the tyrants who ruled them would be gone. But now? “I never cared about <b>regime change</b>,”&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theatlantic.com/newsletters/2026/06/trump-g7-comments-misunderstsand-middle-east/687569/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0uqj4tsjVsf3ZmOxwrmPLU))
+**🟢 <b>Regime change</b>, interrupted - Israel &amp; Jewish News - JNS.org**
+> *<b>Regime change</b>, interrupted. Signing an agreement with the remnants of this crumbling regime is tantamount to no agreement. This cast of sorry&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jns.org/opinion/thane-rosenbaum/regime-change-interrupted&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0sCE30KCk9iV2HZkkiZi-4))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 What matters most to investors during “permanent” volatility? - Schroders**
-> *... <b>geopolitical risks</b> cited as conflict in the Middle East (69 ... <b>geopolitical risk</b>. It is telling that in these circumstances, an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.schroders.com/en-gb/uk/institutional/insights/what-matters-most-to-investors-during-permanent-volatility-&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2abYRi-C82LBQwLCfwo032))
+**🟢 Economists trim Singapore 2026 growth forecast to 3.5 pct amid <b>geopolitical risks</b>: survey**
+> *Economists trim Singapore 2026 growth forecast to 3.5 pct amid <b>geopolitical risks</b>: survey. Source: Xinhua. Editor: huaxia. 2026-06-17 21:27:15&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://english.news.cn/20260617/18ad6e04d80d4706a172f930f5df3a04/c.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1x2vaVD53HLM_ylgecc0BS))
 
-**🔴 Strengthening readiness for <b>geopolitical</b> shocks - APRA**
-> *Entities also need to act now through their own governance, <b>risk</b> management and crisis preparedness practices. As Australia's prudential regulator for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.apra.gov.au/strengthening-readiness-for-geopolitical-shocks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw13_ELA9HfLI1vr3B-Kx4Vv))
+**🟢 Yokohama to Host <b>Pacific</b> Islands Leaders Meeting in 2027 | Nippon.com**
+> *Factbox-EU priorities in Indo-Pacific shift to counter China. News. Sept. 16, 2021 &middot; Abe's <b>Indo</b>-<b>Pacific</b> “<b>Security</b> Diamond” Begins to Shine. Politics....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nippon.com/en/news/yjj2026061700914/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1kFZkljhHprB3u6uiNmDjH))
 
-**🟢 The Defence Decade - PIB**
-> *The country emerged as a more confident <b>security</b> partner across the <b>Indo</b>-<b>Pacific</b> and beyond. Its defence diplomacy increasingly combines technology&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pib.gov.in/PressReleasePage.aspx%3FPRID%3D2273854&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0DGD_De9xOUiazDQ8MAI_V))
+**🟢 PALS 26: Daniel K. Inouye <b>Asia</b>-<b>Pacific</b> Center for <b>Security</b> Studies Presentation - DVIDS**
+> *Retired U.S. Army Maj. Gen. Suzanne Puanani Vares-Lum, director of the Daniel K. Inouye <b>Asia</b>-<b>Pacific</b> Center for <b>Security</b> Studies, gives remarks&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dvidshub.net/image/9757689/pals-26-daniel-k-inouye-asia-pacific-center-security-studies-presentation&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw37BuiB-3t3-PEPSXE2WlUQ))
 
-**🟢 U.S. <b>Pacific</b> Command Designation: Impact Analysis - <b>Security</b> Risks <b>Asia</b>**
-> *... <b>Indo</b>-<b>Pacific</b>, and enhance U.S. alliances and partnerships”. The X ... Expanding capacity and reliance on the Indian Navy in particular for <b>security</b> of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.security-risks.com/post/u-s-pacific-command-designation-impact-analysis&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw33vW0gHSKNSB-Cdb5GoQTK))
+**🟢 US drops '<b>Indo</b>' from <b>Pacific</b> Command amid India map row - MSN**
+> *Name change timing: The US renamed <b>Indo</b>-<b>Pacific</b> Command back to Pacific ... Analysts question US commitment to <b>Indo</b>-<b>Pacific</b>. <b>Security</b> experts argue the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/news/insight/us-drops-indo-from-pacific-command-amid-india-map-row/gm-GMBB5D01C9%3FgemSnapshotKey%3DGMBB5D01C9-snapshot-3&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3Q4kS7ktgGak3YLDd6gMsk))
 
-**🟢 Global health at a crossroads: True partnership, not dependency - The Brussels Times**
-> *On 18 September 2025, the United States released its America First Global Health Strategy, replacing decades of multilateral engagement with&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brusselstimes.com/2194005/global-health-at-a-crossroads-true-partnership-not-dependency/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0eQQoiC6LUOwjnpEGc6YaY))
+**🟢 Pressure Points Part 3: China in the <b>Pacific</b> and Indian oceans - ASPI**
+> *Pressure Points Part 3: China in the Pacific and Indian oceans examines China's expanding defence and <b>security</b> ... <b>Indo</b>-<b>Pacific</b>: Opportunities for the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aspi.org.au/report/pressure-points-china-pacific-indian-oceans/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1Ds-GQHjEEt-Wl9t9qoDt2))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
