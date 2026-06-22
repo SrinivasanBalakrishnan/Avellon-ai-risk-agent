@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 21 June 2026
+**Date:** 22 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Gold answers to the Fed, not the fear - FXStreet
+**Source News:** Increased Supply During Off-Season Drives Continued Decline in China Polyethylene Prices
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold answers to the Fed, not the fear - FXStreet
+- **The News:** Increased Supply During Off-Season Drives Continued Decline in China Polyethylene Prices
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold futures slump as Fed signals and US-Iran uncertainty weigh - MSN
+**Source News:** Daily Voice: IT sector no longer a strong long-term theme, says Samco MF's Umeshkumar Mehta
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold futures slump as Fed signals and US-Iran uncertainty weigh - MSN
+- **The News:** Daily Voice: IT sector no longer a strong long-term theme, says Samco MF's Umeshkumar Mehta
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** London Climate Action Week: Half time team talk on accelerating the <b>energy</b> transition - E3G
+**Source News:** Brent crude drops to $79: Oil markets mixed as Iran, Israel announce halt of offensive ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** London Climate Action Week: Half time team talk on accelerating the <b>energy</b> transition - E3G
+- **The News:** Brent crude drops to $79: Oil markets mixed as Iran, Israel announce halt of offensive ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** The joke in DC: Trump's 'unconditional surrender' meant US — not Iran - The Times
+**Source News:** MoU's forgotten casualty is the Iranian people | Iran International
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The joke in DC: Trump's 'unconditional surrender' meant US — not Iran - The Times
+- **The News:** MoU's forgotten casualty is the Iranian people | Iran International
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
