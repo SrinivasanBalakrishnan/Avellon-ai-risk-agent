@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 June 2026
+**Date:** 23 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Increased Supply During Off-Season Drives Continued Decline in China Polyethylene Prices
+**Source News:** Investors sour on Israel as US moves to end fighting, blunting market's wartime gains
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Increased Supply During Off-Season Drives Continued Decline in China Polyethylene Prices
+- **The News:** Investors sour on Israel as US moves to end fighting, blunting market's wartime gains
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Daily Voice: IT sector no longer a strong long-term theme, says Samco MF's Umeshkumar Mehta
+**Source News:** Hacktivism is an underestimated <b>threat</b>, especially in <b>geopolitical</b> crises | The Strategist
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Daily Voice: IT sector no longer a strong long-term theme, says Samco MF's Umeshkumar Mehta
+- **The News:** Hacktivism is an underestimated <b>threat</b>, especially in <b>geopolitical</b> crises | The Strategist
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Brent crude drops to $79: Oil markets mixed as Iran, Israel announce halt of offensive ...
+**Source News:** Prospects for mining critical materials from nontraditional water sources to meet ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brent crude drops to $79: Oil markets mixed as Iran, Israel announce halt of offensive ...
+- **The News:** Prospects for mining critical materials from nontraditional water sources to meet ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** MoU's forgotten casualty is the Iranian people | Iran International
+**Source News:** 2026 People's Liberation Army Conference | The National Bureau of Asian Research (NBR)
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** MoU's forgotten casualty is the Iranian people | Iran International
+- **The News:** 2026 People's Liberation Army Conference | The National Bureau of Asian Research (NBR)
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
