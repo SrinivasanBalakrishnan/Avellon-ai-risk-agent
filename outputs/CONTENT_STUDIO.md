@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 24 June 2026
+**Date:** 25 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The Iran War Turned Asia's Fragile <b>Energy</b> Dependence Into an Emergency
+**Source News:** Dhaka in China's Proposed Alternative World Order: Strategic Partnership vs. <b>Geopolitical Risk</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Iran War Turned Asia's Fragile <b>Energy</b> Dependence Into an Emergency
+- **The News:** Dhaka in China's Proposed Alternative World Order: Strategic Partnership vs. <b>Geopolitical Risk</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** CNBC Daily Open: Tech rout, MSCI moves on Indonesia and South Korea in focus
+**Source News:** Managing <b>geopolitical</b> cyber security <b>risks</b> | Hellenic Shipping News Worldwide
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** CNBC Daily Open: Tech rout, MSCI moves on Indonesia and South Korea in focus
+- **The News:** Managing <b>geopolitical</b> cyber security <b>risks</b> | Hellenic Shipping News Worldwide
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The Commodities Feed: Hormuz recovery continues to weigh on oil market - ING Think
+**Source News:** Running on Empty: The Hidden Oil Crisis | Financial Sense
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Commodities Feed: Hormuz recovery continues to weigh on oil market - ING Think
+- **The News:** Running on Empty: The Hidden Oil Crisis | Financial Sense
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Gold crashes 24% from record high, loses safe-haven appeal: What's driving the selloff?
+**Source News:** Inside Day 1 of the CGF 2026 Global Summit: How global executives are unlocking their ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold crashes 24% from record high, loses safe-haven appeal: What's driving the selloff?
+- **The News:** Inside Day 1 of the CGF 2026 Global Summit: How global executives are unlocking their ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
