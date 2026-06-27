@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 26 June 2026
+**Date:** 27 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Sky News Business Reporter Ingrid Willinge claims the ASX dipped as markets reacted to ...
+**Source News:** AI Demand, War, and Climate Pressure Push <b>World</b> Back To Nuclear | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Sky News Business Reporter Ingrid Willinge claims the ASX dipped as markets reacted to ...
+- **The News:** AI Demand, War, and Climate Pressure Push <b>World</b> Back To Nuclear | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** European Private Markets Conference 2026 - S&amp;P Global
+**Source News:** Market Outlook: Oil prices fall as Strait of Hormuz shipping rebounds
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** European Private Markets Conference 2026 - S&amp;P Global
+- **The News:** Market Outlook: Oil prices fall as Strait of Hormuz shipping rebounds
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Easing <b>Geopolitical Risks</b> and a Surging US Dollar Drive Crude Oil Prices to Multi-Month ...
+**Source News:** The Best Commodities to Invest in for the Second Half of 2026 | Morningstar UK
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Easing <b>Geopolitical Risks</b> and a Surging US Dollar Drive Crude Oil Prices to Multi-Month ...
+- **The News:** The Best Commodities to Invest in for the Second Half of 2026 | Morningstar UK
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** [UPDATED] 'Like a married couple bickering': Bersatu leader says Pas <b>tension</b> resolved
+**Source News:** Trump is so mad his late-night snack obsession was revealed he's issued a new White House edict
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** [UPDATED] 'Like a married couple bickering': Bersatu leader says Pas <b>tension</b> resolved
+- **The News:** Trump is so mad his late-night snack obsession was revealed he's issued a new White House edict
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
