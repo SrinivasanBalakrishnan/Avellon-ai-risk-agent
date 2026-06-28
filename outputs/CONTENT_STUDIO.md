@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 27 June 2026
+**Date:** 28 June 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** AI Demand, War, and Climate Pressure Push <b>World</b> Back To Nuclear | OilPrice.com
+**Source News:** When oil prices fall and <b>geopolitical risks</b> recede: The sectors that truly win in India
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** AI Demand, War, and Climate Pressure Push <b>World</b> Back To Nuclear | OilPrice.com
+- **The News:** When oil prices fall and <b>geopolitical risks</b> recede: The sectors that truly win in India
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Market Outlook: Oil prices fall as Strait of Hormuz shipping rebounds
+**Source News:** US-Iran Peace Deal Oil Impact: June 2026 Market Analysis - Intellectia AI
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Market Outlook: Oil prices fall as Strait of Hormuz shipping rebounds
+- **The News:** US-Iran Peace Deal Oil Impact: June 2026 Market Analysis - Intellectia AI
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The Best Commodities to Invest in for the Second Half of 2026 | Morningstar UK
+**Source News:** Sagar Adani Calls For Faster Electrification To Boost <b>Energy Security</b>, Growth - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Best Commodities to Invest in for the Second Half of 2026 | Morningstar UK
+- **The News:** Sagar Adani Calls For Faster Electrification To Boost <b>Energy Security</b>, Growth - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump is so mad his late-night snack obsession was revealed he's issued a new White House edict
+**Source News:** China Merchants Securities: In the short term, copper prices will be closely watched for ... - Moomoo
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump is so mad his late-night snack obsession was revealed he's issued a new White House edict
+- **The News:** China Merchants Securities: In the short term, copper prices will be closely watched for ... - Moomoo
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
