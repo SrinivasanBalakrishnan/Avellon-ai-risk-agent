@@ -1,98 +1,100 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 28 June 2026
+**Date:** 29 June 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 54.0)
-- **Taiwan Strait** (Risk Score: 1)
+- **Strait of Hormuz** (Risk Score: 21.5)
+- **Taiwan Strait** (Risk Score: 13.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 5)
+- **Malacca Strait** (Risk Score: 2)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 When oil prices fall and <b>geopolitical risks</b> recede: The sectors that truly win in India**
-> *When this coincides with receding <b>geopolitical risks</b>—such as de-escalation in the Middle East, resolution of the Iran-Israel war, smoother flows&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/when-oil-prices-fall-and-geopolitical-risks-recede-the-sectors-that-truly-win-in-india-13960202.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0EydSYibDPWxsSWw9g4Nks))
+**🔴 EUR/USD Extends Rally as Middle East Developments and ECB Rate Outlook Drive Markets**
+> *<b>Geopolitical Risks</b> and Short-Term Volatility Strategies. With the EUR ... Risk Warning. Trading Contracts for Difference (CFDs) carries a high&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vtmarkets.com/en-asia/live-updates/eur-usd-extends-rally-as-middle-east-developments-and-ecb-rate-outlook-drive-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05aN_jg4G3brtcc0lCfeCI))
 
-**🔴 What Affects Gold Prices? 6 Key Factors Explained - XTB.com**
-> *Fear. Economic and <b>geopolitical</b> uncertainty is one of the main reasons why investors move capital toward gold. During periods of recession <b>risk</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.xtb.com/int/education/what-affects-gold-prices-6key-factors&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0g87BRKOcnavUA754L2unj))
+**🟡 AtkinsRéalis and CANDU Technology: Nuclear Solutions for <b>Energy Security</b> and Net-Zero Ambitions**
+> *... <b>global energy</b> transition. Amid this nuclear renaissance, Canada is widely regarded as one of the world's leading nations in civilian nuclear&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.vneconomy.vn/atkinsrealis-and-candu-technology-nuclear-solutions-for-energy-security-and-net-zero-ambitions.htm&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0ju4xB1eWAZYB4400cl5uH))
 
-**🟢 Artificial Intelligence Won't Replace Bankers - It Will Redefine International Banking**
-> *It is about understanding complex regulatory frameworks, managing <b>geopolitical risk</b>, facilitating cross-border investment, navigating multiple&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.finextra.com/blogposting/32118/artificial-intelligence-wont-replace-bankers---it-will-redefine-international-banking&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3rCpKG08A4O1BtrLwwJeX8))
+**🟡 Clean <b>energy</b> investment reshapes <b>global</b> power market - MarketScale**
+> *<b>Energy security</b> fears and data centre demand are driving a capital surge into renewables, storage, and advanced nuclear, reshaping who builds and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketscale.com/industries/energy/clean-energy-investment-surges-as-security-concerns-and-data-centre-demand-reshape-the-global-power-market&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw22Vu7-7bY8sRZ-Tvns_htk))
 
-**🟢 Positioning Before the Crisis: Strategic Readiness | Fragomen, Del Rey, Bernsen &amp; Loewy LLP**
-> *... <b>geopolitical</b> and <b>risk</b> intelligence, this report provides actionable ... Learn how to strengthen your business continuity planning, integrate immigration&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fragomen.com/fragomen-sibbyline-paper-positioning-before-the-crisis-strategic-readiness.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2xBTBneRWcHOAcvz7n9vIC))
+**🟢 Keeping the Strait of Hormuz open and free to shipping is a priority for Asia**
+> *Not only would it throw sand in the gears of <b>global energy</b> trade, it ... While this shift is marketed as a shift towards 'energy <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://eastasiaforum.org/2026/06/29/keeping-the-strait-of-hormuz-open-and-free-to-shipping-is-a-priority-for-asia/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1OuqRVmM_tcf3x5ZQmCq2X))
 
-**🔴 Permanent Disorder: How Trade Wars and <b>Geopolitical</b> Fractures Are Rewriting the Rules of ...**
-> *That era is now definitively over. In its place, Paiboon identified six compounding structural <b>risks</b>: escalating <b>geopolitical</b> friction, economic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nationthailand.com/business/economy/40067966&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3JiQF-v2JJriLLaSRxwWtW))
+**🔴 Hidden <b>Economic War</b>: Why The US Wants Cheaper Oil Instead Of Crushing Iran - YouTube**
+> *Hidden <b>Economic War</b>: Why The US Wants Cheaper Oil Instead Of Crushing Iran | Scott Bessent. 2 views · 8 minutes ago. #etnow #businessnews #oilprices....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAu_vAVGXI8I&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0gIcUR6sVs0p6IHBT_P9Aj))
 
 
 ## 🏛 CYBER & TECH
-**🟢 US-Iran Peace Deal Oil Impact: June 2026 Market Analysis - Intellectia AI**
-> *... <b>geopolitical risk</b>. For years, oil traders had incorporated significant risk premiums into crude prices to account for the possibility of supply&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://intellectia.ai/blog/us-iran-peace-deal-oil-price-impact-june-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw247SY_fI5IGqxqbQCyx-I9))
+**🟢 Indian shares steady as US-Iran talks temper escalation fears - Reuters**
+> *... winning streak of ‌2026, as investors weigh support from renewed U.S.-Iran diplomacy against lingering <b>geopolitical risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/india/indian-shares-likely-open-steady-us-iran-talks-ease-escalation-fears-2026-06-29/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Vkau-NB_KXo4qJsymZJGO))
 
-**🟢 Nifty, Sensex post modest weekly gains as crude oil prices dip | The Shillong Times**
-> *Easing <b>geopolitical risks</b> amid progressing US–Iran talks, and optimism ... risk appetite. Domestically, industrial production data and June&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theshillongtimes.com/2026/06/28/nifty-sensex-post-modest-weekly-gains-as-crude-oil-prices-dip/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3XWzCDhIg5x_uVIcoKtUgv))
+**🟡 Oil climbs following renewed US, Iran strikes in Middle East**
+> *Oil prices rose as renewed US‑Iran strikes around the Strait of Hormuz heightened <b>geopolitical risks</b> and disrupted shipping, lifting Brent to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/oil-climbs-following-renewed-us-iran-strikes-middle-east/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2jSjreOnqIXnby7cRfU-iz))
 
-**🟡 Exxon Mobil Stock Faces A New Strait Of Hormuz Test - Simply Wall St News**
-> *<b>Geopolitical risk</b> in the Strait of Hormuz has jumped back into focus after fresh drone attacks on commercial ships, putting a question mark over&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/energy/nyse-insw/international-seaways/news/exxon-mobil-stock-faces-a-new-strait-of-hormuz-test&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3-TBPnK7UJYH-LlxTX8rej))
+**🟢 With rising <b>geopolitical risks</b> and hawkish expectations from the Federal Reserve ... - Bitget**
+> *During the Asian session on Monday, spot silver saw a slight pullback after two consecutive days of gains, trading around $58.70 per troy ounce,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bitget.com/amp/news/detail/12560605481143&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw26v5xV-AxDcVFg-9GOo2wN))
 
-**🟢 A Glimpse of the Future Normal - Sustainable Energy for All | SEforALL**
-> *At the <b>Global Energy</b> ... The focus: electrification, energy <b>security</b> and affordability, plus wider access to electricity and clean cooking....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.seforall.org/news/a-glimpse-of-the-future-normal&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3xCvB49s7wK6idRlg2tpft))
+**🟢 JPMorgan sees India's IT sector recovery delayed to FY30 - MSN**
+> *... <b>geopolitical risks</b>. The Times of India + 2. 3 references. 1. The Times of India· 12h. GenAI, geopolitics to keep India's IT sector growth under&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/news/insight/jpmorgan-sees-india-s-it-sector-recovery-delayed-to-fy30/gm-GMA3FD162A%3FgemSnapshotKey%3DGMA3FD162A-snapshot-7%26uxmode%3Druby&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0X4Gg4saCnmREtNLvY3KMi))
 
-**🟡 Trump chose oil prices over Netanyahu's Iran strategy - Israel Hayom analysis**
-> *Its main purpose, according to the argument, is to keep the Strait of Hormuz open and prevent a <b>global energy</b> shock before the elections. But the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iranintl.com/en/202606273830&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2pJjm8dWjP7nPsx_0MtPGA))
+**🟢 China Domestic Gasoline and Diesel Prices Declined in June - SunSirs**
+> *Market Outlook: <b>Geopolitical risk</b> premiums have largely dissipated, and the US dollar remains strong. With crude oil supplies from the Middle East&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-33986.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Aspn0kxiLrlnNWshjosDg))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Sagar Adani Calls For Faster Electrification To Boost <b>Energy Security</b>, Growth - YouTube**
-> *Sagar Adani, Executive Director of Adani Green <b>Energy</b> Limited (AGEL), has called for accelerated electrification to strengthen <b>energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBSKbukQp-tU&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw08-JQYwttCaVkZ8ErIvq8j))
+**🟢 Indian shares likely to open steady as US-Iran talks ease escalation fears - Yahoo Finance**
+> *... <b>geopolitical risks</b>. GIFT Nifty futures ‌were at 24,093, as of 8:07 a.m. ... risk appetite. &quot;Indian markets are expected to trade on a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sg.finance.yahoo.com/news/indian-shares-likely-open-steady-024322803.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2nHK_XGVvTF48n9N5Nh234))
 
-**🟢 Rubio says Trump's early 2027 India visit tied to trade deal push - MSN**
-> *... <b>Indo</b>-<b>Pacific security</b>. This rapport is seen as a driver of trust and a facilitator for faster progress on agreements. Newspoint + 4. I think we're&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/news/insight/rubio-says-trump-s-early-2027-india-visit-tied-to-trade-deal-push/gm-GM7DF323BA%3FgemSnapshotKey%3DGM7DF323BA-snapshot-10%26uxmode%3Druby&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2Nj8Nhto26pn_ohPmFOJrF))
+**🔴 Where Are International Gold and Crude Oil Prices Headed? - SunSirs**
+> *... risk premium associated with Middle East geopolitical tensions ... Once <b>geopolitical risks</b> subsided, safe-haven capital exited rapidly and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-33998.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1SYGNokS2tqAUYya8EX5UR))
 
-**🟡 Greece Is Richer. So Why Do So Many Greeks Still Feel Poor? - Dnews**
-> *Yet average household wealth is still nearly one-fifth below the level recorded in 2009, before Greece's <b>sovereign debt crisis</b> plunged the country&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3aipeJo7rZAHrgjTl5pqEQ))
+**🟢 Qatar and <b>global energy</b> giants urge EU to urgently revise methane rules amid supply concerns**
+> *The four major LNG suppliers to Europe reaffirmed their commitment to strengthening ties with the EU while stressing the importance of <b>energy security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indianchemicalnews.com/energy/qatar-and-global-energy-giants-urge-eu-to-urgently-revise-methane-rules-amid-supply-concerns-30923&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2knAdwNIyMhZ4gYSK2RG1Q))
 
-**🔴 12 remarkable <b>debts</b> and obligations spanning centuries - MSN**
-> *Ten Cases of Debt Crisis and Debt Relief in Human History | wiki.p2pfoundation.net ... List of <b>sovereign debt crises</b> - Wikipedia | en.wikipedia.org...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/money/markets/12-remarkable-debts-and-obligations-spanning-centuries/ss-AA26jD2P&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw07BMvjB6GTuzCB839SSWE-))
+**🟢 Can the Hormuz Crisis Reshape the Hydrogen Economy? - ORF Middle East**
+> *... <b>global energy</b> transition. On the one hand, the rise in fossil fuel ... energy <b>security</b>, particularly in areas where renewable energy is abundant....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://orfme.org/expert-speak/can-the-hormuz-crisis-reshape-the-hydrogen-economy/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0ERCTSheB_QCT4wFpDXi01))
 
-**🟡 The US provokes Venezuela's default to steal its oil - Outrage in China over loans and investments**
-> *Unlike typical practices in <b>sovereign debt crises</b>, the restructuring framework was to be managed by the government of the United States and not&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bankingnews.gr/en/index.php%3Fid%3D884689%26diethni/articles/884689/shock-the-us-provokes-venezuela-s-default-to-steal-its-oil-outrage-in-china-over-loans-and-investments&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1GblsSgMwNVnxs0sMGSSIp))
+**🟢 Oil Markets Are Pricing A Supply Surge That Isn't Guaranteed | OilPrice.com**
+> *Irina Slav. What I Cover Irina Slav has been writing about <b>global energy</b> markets since 2007, covering the oil and gas industry, energy <b>security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Are-Pricing-A-Supply-Surge-That-Isnt-Guaranteed.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0e8MF6ypyQnOk6erxQA2sR))
 
 
 ## 🏛 LEADERSHIP
-**🟢 China Merchants Securities: In the short term, copper prices will be closely watched for ... - Moomoo**
-> *Risk Disclosures: Unexpected developments in the global economy and policy stance, <b>geopolitical risks</b> exceeding expectations, and unanticipated&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/news/post/72134599/china-merchants-securities-in-the-short-term-copper-prices-will&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3q3ENMNNELWZ1DUnY8SCYx))
+**🟢 Navigating a potential China-US G2: Can Middle-Powers learn from Singapore?**
+> *... <b>security</b> dynamics between NATO and <b>Indo</b>-<b>Pacific</b> partners. She has previously served as a research policy intern, research assistant, and political&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://natoassociation.ca/navigating-a-potential-china-us-g2-can-middle-powers-learn-from-singapore/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw20Uxqe73eZvRaoqbvcioYF))
 
-**🟢 Unlike Nixon, Trump has tried unconstitutional actions 'in the wide open' - YouTube**
-> *Legal AF. New. 59K views &middot; 37:24 &middot; Go to channel Katie Couric. <b>REGIME CHANGE</b>: Katie's One-on-One with Maggie Haberman. Katie Couric. New. 90K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DsR3rX9GGW-I&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw39fJUK42z7X6OWD-_8TkB3))
+**🟢 This is one of the best books ever written about Donald Trump - SMH**
+> *<b>Regime Change</b> is the first of what will be a second wave of chronicling Trump's return to power. Trump has evolved in this second term. Trump's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.smh.com.au/culture/books/this-is-one-of-the-best-books-ever-written-about-donald-trump-20260627-p60akf.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0r8Lj919HhQhGDca1SDQIF))
 
-**🟢 Trumpiana: Who is greater than the GOAT? - The American Bazaar**
-> *... <b>Regime Change</b>,” a behind the scenes account of the first 14 months of ... government information for his memoir, “The Room Where It Happened....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/2026/06/27/trumpiana-who-is-greater-than-the-goat-483628/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0oxN-l6SFM7kl4m9-1dv4e))
+**🟢 Bangladesh in the Indo-Pacific: An Analysis of the Interim <b>Government's</b> Foreign Policy**
+> *While Hasina initially tried to assuage the US, continuing censure led her to chastise it for promoting a <b>regime change</b> by supporting opposition&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.orfonline.org/research/bangladesh-in-the-indo-pacific-an-analysis-of-the-interim-government-s-foreign-policy&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1wju3JCyDJhAw6Ow_eijvb))
 
-**🔴 Protests, tension grip Seattle as it hosts Iran v. Egypt World Cup match - MyNorthwest.com**
-> *At the corner of Occidental and King Streets, where attendees were being funneled into ticket lines, pro-<b>regime change</b> Iranian protesters set up&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mynorthwest.com/local/protests-tension-iran-egypt-world-cup/4251881&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3umQKcDcL0766HTy2I10fh))
+**🟢 Trump Shifts Messaging from Iran to Economy - YouTube**
+> *ABC News. New. 154K views &middot; 37:24 &middot; Go to channel Katie Couric. <b>REGIME CHANGE</b>: Katie's One-on-One with Maggie Haberman. Katie Couric. New. 181K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DONLgXVsRVhI&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw18o3AqUu8FXBQ3r9Ogv4EA))
 
-**🟢 Belgian MP Kathleen Depoorter Decries Tehran's Tyranny, Demands End to Appeasement**
-> *Because the people there have taken great risks just to keep alive the call for freedom, the call for <b>regime change</b> from within the country itself....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ncr-iran.org/en/free-iran-2026-posts/belgian-mp-kathleen-depoorter-decries-tehrans-tyranny-demands-end-to-appeasement/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1EzhYAZ5btpqu04vSopBJ-))
+**🟢 Authors of new book on Trump's second term weigh in on Epstein files timeline #shorts - YouTube**
+> *... how Trump's second presidency is a &quot;<b>regime change</b>&quot;. Authors of new book on Trump's second term weigh in on Epstein files timeline #shorts. 11. 0....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/UBEhtLTGQNQ&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3GPHAyEKn1eRBu6jYY0Vgt))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 USA Rare Earth (USAR) Plans Brazilian Mine Deal To Lock In Non Asian Feedstock**
-> *... <b>geopolitical risk</b>. As the Brazilian mine is integrated into the company's existing processing and downstream plans, attention may focus on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/materials/nasdaq-usar/usa-rare-earth/news/usa-rare-earth-usar-plans-brazilian-mine-deal-to-lock-in-non&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Pf5JHzLfXrCYApHXRR9c0))
+**🟢 Cracks deepen in greenback safe haven - Newspaper - DAWN.COM**
+> *The first major driver behind the resurgence of gold is <b>geopolitical risk</b>. The freezing of approximately $300 billion of Russian sovereign&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dawn.com/news/2011535/cracks-deepen-in-greenback-safe-haven&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3DtiSeJVpnjGklaRlZAB0j))
 
-**🟢 Victor Cha's 'Cold Peace' Sparks Debate Over Geneva Agreement Mistakes**
-> *... <b>security</b> interests and <b>Indo</b>-<b>Pacific</b> strategy. Cha has long advocated “hawkish engagement,” combining strong deterrence and diplomacy. His apparent&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chosun.com/english/national-en/2026/06/28/4QVQD3ZTJJFQ3BWIEODPYUCH2A/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1kZ4DF0oX2CIKAJNScGdtT))
+**🔴 Trump's New Envoy to the Philippines Arrives in Manila Amid Rising <b>Indo</b>-<b>Pacific</b> Tensions**
+> *New US Ambassador to the Philippines Lee Lipton arrives in Manila to deepen US-Philippines relations and <b>security</b> ties amid <b>Indo</b>-<b>Pacific</b> tensions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://politiko.com.ph/2026/06/28/trumps-new-envoy-to-the-philippines-arrives-in-manila-amid-rising-indo-pacific-tensions/politiko-lokal/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0BdQohBR5kvvv-uWSft5Y8))
 
-**🟢 Kenyan students are turning coconut shells and corn kernels into an exhaust filter that ... - OkDiario**
-> *... need for <b>rare earth elements</b> or an expensive catalyst. By Sonia Ramirez. Published On: June 27, 2026 at 6:45 PM. Follow Us. Two students from&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://okdiario.com/techy/en/kenyan-students-are-turning-coconut-shells-and-corn-kernels-into-an-exhaust-filter-that-reduces-particulate-matter-by-65-without-the-need-for-rare-earth-elements-or-an-expensive-catalyst/5645/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw280TlCuYh9bLnls6z4cK4z))
+**🟢 Luzon Economic Corridor: Promise, peril, and the Philippine balancing act - PressReader**
+> *After years of heightened <b>South China Sea tensions</b>, President Marcos has sought to recalibrate ties with China by resuming bilateral dialogue and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20260628/282299621892525&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3-GDp8rOyNUVSCtZxs3d5s))
 
-**🟢 The R33 Billion <b>Rare Earth</b> Opportunity: Why Investors Are Watching South Africa**
-> *Other <b>rare earth elements</b> such as cerium, lanthanum, europium, gadolinium and yttrium are widely used in camera lenses, display technologies, medical&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cceonlinenews.com/mining/the-r33-billion-rare-earth-opportunity-why-investors-are-watching-south-africa/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw10F01mIYLMlty_bRv_mCwH))
+**🟢 The <b>rare</b>-<b>earth</b> race is moving to Greenland, and the minerals that matter most are still ... - OkDiario**
+> *The race to secure <b>rare earths</b> has moved north, and Africa is feeling the pressure. Critical Metals Corp. has signed a definitive 15-year offtake&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://okdiario.com/techy/en/the-rare-earth-race-is-moving-to-greenland-and-the-minerals-that-matter-most-are-still-the-ones-china-controls-2/5688/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw29k-CfvMxcPKeBo5CvpHRp))
 
-**🟢 Hindustan Zinc Secures Composite Licence for <b>Rare Earth Elements</b> in UP - Whalesbook**
-> *Hindustan Zinc Ltd secures Composite Licence for <b>Rare Earth Elements</b> in Uttar Pradesh, diversifying its asset base into critical minerals....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Hindustan-Zinc-Secures-Composite-Licence-for-Rare-Earth-Elements-in-UP/6a3fe11e7465030c38bb2cc3&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw221e2QoNHt4WjS-C78xDZ4))
+**🟢 Accelerating the composition design of (xRE1)2Si2O7 with superior anti-CMAS corrosion ...**
+> *... rare-earth components. (IMAGE). Tsinghua University Press. Facebook ... Insight into the synergistic effect of <b>rare</b>-<b>earth elements</b> on the CMAS&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/multimedia/1136249&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3rOii_qieyjju87_9bAXjl))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
