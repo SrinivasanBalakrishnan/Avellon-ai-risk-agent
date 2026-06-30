@@ -2,19 +2,23 @@
     "generated_at": "30 June 2026",
     "stats": {
         "GEOPOLITICS": 45,
-        "CYBER & TECH": 52,
-        "GLOBAL ECONOMY": 22,
+        "CYBER & TECH": 55,
+        "GLOBAL ECONOMY": 20,
         "LEADERSHIP": 8,
-        "GENERAL UPDATES": 16
+        "GENERAL UPDATES": 17
     },
     "top_chokepoints": [
         {
             "name": "Strait of Hormuz",
-            "score": 27.5
+            "score": 29.0
         },
         {
             "name": "Taiwan Strait",
             "score": 9
+        },
+        {
+            "name": "Panama Canal",
+            "score": 1
         },
         {
             "name": "Bab el-Mandeb (Red Sea)",
@@ -23,28 +27,24 @@
         {
             "name": "Malacca Strait",
             "score": 0
-        },
-        {
-            "name": "Panama Canal",
-            "score": 0
         }
     ],
     "industry_risks": [
         {
             "name": "TECH",
-            "score": 152.5
+            "score": 164.5
         },
         {
             "name": "LOGISTICS",
-            "score": 117.5
+            "score": 122.0
         },
         {
             "name": "FINANCE",
-            "score": 80.5
+            "score": 88.5
         },
         {
             "name": "ENERGY",
-            "score": 51.0
+            "score": 54.5
         },
         {
             "name": "DEFENSE",
@@ -53,6 +53,15 @@
     ],
     "items": {
         "GEOPOLITICS": [
+            {
+                "title": "Daily Voice: Market focus shifts from US-Iran conflict to monsoon, corporate earnings, says ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/daily-voice-market-focus-shifts-from-us-iran-conflict-to-monsoon-corporate-earnings-says-alpha-capital-founder-13961806.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw35gzF5VcqjdHlZfcVgACmz",
+                "summary": "As diplomatic efforts came into play, much of the <b>geopolitical risk</b> premium faded. Therefore, <b>geopolitical risks</b> are now lower than they were in&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-06-30T06:54:28Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
             {
                 "title": "Nuclear power: A renaissance in the making | McKinsey",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1ODmdiQXSA5FLM0B8TEgRH",
@@ -261,6 +270,24 @@
                 "risk_color": "green"
             },
             {
+                "title": "Bundesbank president warns eurozone inflation likely to stay well above target",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/europe/bundesbank-president-warns-eurozone-inflation-likely-to-stay-well-above-target/3982049&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw18gtn7Y0N0FgiapLh5K-PW",
+                "summary": "... <b>sovereign debt crisis</b> and the Russia-Ukraine war. \u201cWe no longer need to reach for unconventional instruments,\u201d Lagarde told the Sintra forum&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-06-30T09:29:33Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Bank for International Settlements warns of AI \u201cinvestment bust\u201d - World Socialist Web Site",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsws.org/en/articles/2026/06/30/xfim-j30.html&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3tvJ42knMqDvbf7WWJBuQJ",
+                "summary": "Examination of the report recalls the lead-up to the global financial <b>crisis</b> ... debt with the growing role of non-banks in <b>sovereign debt</b> markets. This&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-06-30T02:23:48Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
                 "title": "Nagel defends digital euro in strategic autonomy push - OMFIF",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.omfif.org/2026/06/nagel-defends-digital-euro-in-strategic-autonomy-push/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3qLTAZUT4JnhhcGayvQhDk",
                 "summary": "Savings and Investment Union initiatives are now underway and designed to address this, 'altering the landscape of the <b>European financial</b> system'....",
@@ -268,24 +295,6 @@
                 "published": "2026-06-29T17:59:50Z",
                 "risk_score": 1,
                 "risk_color": "green"
-            },
-            {
-                "title": "AI Funding Risks Warned by BIS Could Trigger <b>Financial Crisis</b> - The Cryptonomist",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://en.cryptonomist.ch/2026/06/29/ai-funding-risks-bis-warning/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2r3QSEZDIRwd_fEnE7mmHW",
-                "summary": "... financial system in years \u2014 and it isn't about inflation or <b>sovereign debt</b>. It's about AI. The Bank for International Settlements published its&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-06-29T14:25:11Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "BIS warns AI funding risks could rival 2008-era <b>crisis</b> - Cryptopolitan",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cryptopolitan.com/bis-warns-ai-funding-risks-2008-era-crisis/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2sxzzakpwnnkJXTicnKh_0",
-                "summary": "... <b>sovereign debt</b> pressures). These findings strongly suggest that technology companies will continue investing heavily in AI over the coming years&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-06-29T13:45:08Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
             },
             {
                 "title": "Two Settlements, One Message: DOJ Keeps Up The Heat On FCA <b>Trade</b> Enforcement",
@@ -423,22 +432,13 @@
                 "risk_color": "red"
             },
             {
-                "title": "Global Forwarding Is Becoming More Complex, but Peters &amp; May Helps Make It Simpler",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hellenicshippingnews.com/global-forwarding-is-becoming-more-complex-but-peters-may-helps-make-it-simpler/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw3ctqdYth8tYyGc-r2NiJXx",
-                "summary": "<b>Shipping</b> lines have had to rethink <b>routes</b> quickly, using alternative ports, feeder vessel services and overland trucking options where direct <b>routes</b>&nbsp;......",
+                "title": "The Golden <b>Route</b> Reboot: How the Hormuz Crisis Birthed IMEC 2.0 | Ankit Gawande",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://blogs.timesofisrael.com/the-golden-route-reboot-how-the-hormuz-crisis-birthed-imec-2-0/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw01dKDo3rGgD4xFRyFpIC_8",
+                "summary": "Conceptual illustration: A strategic <b>maritime trade</b> hub representing the India\u2013Middle East\u2013Europe Economic Corridor (IMEC). Image: AI-generated (free&nbsp;......",
                 "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-06-29T21:15:55Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "Energy sovereignty for American fishermen | National Fisherman",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nationalfisherman.com/energy-sovereignty-for-american-fishermen&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw3fUPRVSi7_jbilcduz8-IV",
-                "summary": "The oil wells, pipelines, refineries, and distribution networks, he notes, all depend on \u201cfragile <b>maritime trade routes</b> and vast terrestrial pipeline&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-06-29T17:44:19Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "published": "2026-06-30T08:35:48Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
                 "title": "Strait of Hormuz maintains its strategic role in stabilizing the energy market",
@@ -460,6 +460,15 @@
             }
         ],
         "CYBER & TECH": [
+            {
+                "title": "Middle East Daily - MUFG Research",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mufgresearch.com/macro/middle-east-daily-30-june-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2EGrLhGRLZ77aA5KoSPTrE",
+                "summary": "Brent is on track for its largest quarterly decline since the pandemic, reflecting the unwinding of the <b>geopolitical risk</b> premium as tanker traffic&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-06-30T06:37:14Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
             {
                 "title": "Forces shaping Europe's next wave of global investment | EY",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ey.com/en_tr/foreign-direct-investment-surveys/ey-europe-attractiveness-survey&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw025GtUs2-tAxUVeIZv5JvQ",
@@ -494,24 +503,6 @@
                 "source": "Google Alert - Geopolitical Risk",
                 "published": "2026-06-30T01:56:23Z",
                 "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "ASX 200 Live Today - Tuesday, 30th June - Market Index",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketindex.com.au/news/asx-200-live-today-tuesday-30th-june&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1nQXJjM8jcaKyLTVahjPZm",
-                "summary": "... <b>geopolitical risk</b>. Dow rose 0.59% to 52,182.74, the first close above 52,000, while the S&amp;P 500 gained 1.18% to 7,440.43 and the Nasdaq jumped&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-06-29T22:42:26Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "CEOs expect large-scale reskilling as AI reshapes workforce, finds report - Silicon Republic",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconrepublic.com/careers/ceos-expect-large-scale-reskilling-ai-reshapes-workforce-report&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3uRXX5OFewTrd9-z0zOre9",
-                "summary": "... <b>geopolitical risk</b>. EY Ireland has released its CEO Outlook survey, which explores how those in leadership are responding to global issues&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-06-29T21:00:56Z",
-                "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
@@ -569,6 +560,15 @@
                 "risk_color": "green"
             },
             {
+                "title": "CEOs expect large-scale reskilling as AI reshapes workforce, finds report - Silicon Republic",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconrepublic.com/careers/ceos-expect-large-scale-reskilling-ai-reshapes-workforce-report&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3uRXX5OFewTrd9-z0zOre9",
+                "summary": "... disruption including AI-related risks (23pc) and trade and <b>supply chain disruption</b> (22pc). Commenting on the results of the report, Helena O'Dwyer&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-06-29T21:00:56Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
                 "title": "How AI Erased a $184 Billion <b>Supply Chain</b> Blind Spot - PYMNTS.com",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pymnts.com/news/artificial-intelligence/2026/how-ai-erased-a-184-billion-supply-chain-blind-spot/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3-lDA4h7MiLwuM3KmxC05Y",
                 "summary": "The annual cost of <b>supply chain disruptions</b> stands at $184 billion, much of it driven by the lag between spotting a problem and fixing it....",
@@ -605,6 +605,33 @@
                 "risk_color": "red"
             },
             {
+                "title": "Japan's $72.5 Billion Yen Intervention Fails as Currency Plummets | Streamline",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://streamlinefeed.co.ke/news/japans-72-5-billion-yen-intervention-fails-as-currency-plummets&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0eGwxKH5yAMWKEw93C5sfx",
+                "summary": "... <b>sovereign debt crisis</b> by exploding the servicing costs on Japan's monumental national debt (currently over 250% of GDP). Until the central bank&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-06-30T08:44:47Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "<b>Sovereign Debt Crisis</b> May Start in Middle East - Martin Armstrong - SilverTrade",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://silvertrade.com/news/economy/sovereign-debt-crisis-may-start-in-middle-east-martin-armstrong/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0ENN1_UUu53KPaI3kIT-F5",
+                "summary": "SilverTrade delivers precious metal market insights, and exclusive access to our experts \u2014 straight to your inbox....",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-06-30T05:40:42Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "Florence Pisani about AI: \u00abMisallocations are a Hallmark of such Booms\u00bb - finews.com",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.finews.com/news/english-news/72725-florence-pisani-candriam-irankrieg-hormus-oelpreis-weltwirtschaft-anleihenmarkt-usa-ki-hyperscalers-geopolitik-fed-frankreich-2&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1z_k-_b8FMEwSB6DfzE_r7",
+                "summary": "She has written several non-fiction books on topics such as <b>sovereign debt</b> ... financial <b>crisis</b>. finews met her in Zurich at Candriam&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-06-30T04:07:50Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
                 "title": "ECB Returns to Conventional Monetary Policy After Years of <b>Crisis</b> Management - IndexBox",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.indexbox.io/blog/ecb-returns-to-conventional-monetary-policy-after-years-of-crisis-management/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2LnrqF-SuxDqSlQ0RtsKfK",
                 "summary": "... <b>sovereign debt crisis</b> and the pandemic, which led to asset purchases and new instruments. The official explained that when the environment&nbsp;......",
@@ -612,24 +639,6 @@
                 "published": "2026-06-29T20:15:30Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
-            },
-            {
-                "title": "Cameroon Pushes <b>Debt</b> Sustainability Agenda at Paris Forum",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessincameroon.com/public-management/2906-16382-cameroon-pushes-debt-sustainability-agenda-at-paris-forum&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0wxccqvbeV372FN6gv-5o_",
-                "summary": "... <b>sovereign debt</b> and development financing. Led by Minister of Finance ... sovereign financing, debt <b>crisis</b> prevention and debt resolution. The&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-06-29T13:48:25Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "What Senegal cannot see, it cannot manage \u2014 and that is the real budget <b>crisis</b>",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialafrik.com/en/2026/06/29/what-senegal-cannot-see-it-cannot-manage-and-that-is-the-real-budget-crisis/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3JWA1HdH29t4Mo-G0X_E7V",
-                "summary": "A <b>government</b> seeking to reduce its <b>debt</b>-to-GDP ratio may be tempted to sell valuable assets solely to improve this ratio \u2014 even when retaining these&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-06-29T13:29:18Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
             },
             {
                 "title": "[News] Samsung, SK hynix 800 Trillion Won Expansion Strains Chipmaking Tool <b>Supply</b> ...",
@@ -812,6 +821,24 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "WFW advises MPCC on acquisition of four 7000 TEU container vessels",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wfw.com/press/wfw-advises-mpcc-on-acquisition-of-four-7000-teu-container-vessels/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw08jFQp1SFJsld9zPMacm3m",
+                "summary": "... <b>trade routes</b> under long-term charter agreements. The WFW Germany <b>Maritime</b> team that advised MPCC was led by Hamburg Corporate <b>Maritime</b> Partner Dr&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-06-30T09:34:13Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "China claiming space to reshape Earth - GIS Reports",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gisreportsonline.com/r/china-claiming-space/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1qMs0II9Q-iXT2iT3SqPrY",
+                "summary": "<b>Maritime</b> bottlenecks, coaling stations, <b>trade routes</b> and naval infrastructure once shaped geopolitical rivalry across the oceans. As movement,&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-06-30T06:03:15Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Commentary: Will US-Iran talks bring about new <b>trade routes</b> for India and China? - CNA",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/commentary/us-iran-peace-deal-india-china-southeast-asia-trade-energy-hormuz-6212036&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0Q2Z1B_Bb9wPnDLY66iApF",
                 "summary": "A renewed closure or partial disruption of the strait would raise prices, complicate <b>shipping</b> and reinforce Chinese concerns about <b>maritime</b> dependence&nbsp;......",
@@ -819,6 +846,15 @@
                 "published": "2026-06-30T01:43:34Z",
                 "risk_score": 2.5,
                 "risk_color": "yellow"
+            },
+            {
+                "title": "Can Iran Toll the Strait of Hormuz? Here's Why It's Unlikely - NewsGram",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newsgram.com/middle-east/2026/06/30/iran-strait-of-hormuz-toll-unlikely-explained&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw38xh5CFhgjDieZ5GkD2vmd",
+                "summary": "... <b>maritime trade routes</b>, amid renewed tensions between Iran and the United StatesX. Author: The Conversation. Updated on: Jun 29, 2026, 22:30....",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-06-29T23:18:30Z",
+                "risk_score": 2,
+                "risk_color": "green"
             },
             {
                 "title": "Over 60% of India-bound ships go off radar while crossing Strait of Hormuz amid US-Iran ...",
@@ -830,22 +866,22 @@
                 "risk_color": "green"
             },
             {
-                "title": "Iran rejects France's Strait of Hormuz demining proposal, reasserts sole authority over ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/world/iran-rejects-france-s-strait-of-hormuz-demining-proposal-reasserts-sole-authority-over-strategic-waterway-article-13961666.html/amp&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0TCmweUooI8fMa-hBHfhyV",
-                "summary": "... <b>maritime trade routes</b> ... <b>maritime trade routes</b>. Moneycontrol World Desk. June 30, 2026 / 00:35&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-06-29T19:09:06Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
+                "title": "Wimbledon supply chain: serving up The Championships - <b>Logistics</b> Manager",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.logisticsmanager.com/wimbledon-supply-chain-serving-up-the-championships/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw2YPqZDsj5QIRBvv7oMPzwB",
+                "summary": "The Championships are delivered within a very compressed timeframe, with little room for disruption. How do you build <b>resilience</b> into such a high-&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-06-30T07:52:06Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
-                "title": "The Strait of Hormuz's future is unsettled in wake of latest strikes - BNN Bloomberg",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bnnbloomberg.ca/business/2026/06/29/the-strait-of-hormuzs-future-is-unsettled-in-wake-of-latest-strikes/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1sz5aGK8G7HAn9NsLvfVOQ",
-                "summary": "... <b>shipping routes</b> linking the Strait of Hormuz and the Arabian <b>Sea</b>, Tuesday, June 16, 2026. (AP Photo). FRANKFURT, Germany (AP) \u2014 The flow of ships&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-06-29T17:27:55Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
+                "title": "What European railways can learn from Ukraine",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.railwaypro.com/wp/what-european-railways-can-learn-from-ukraine/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw3h1GN5Z5Lef6PWxozPFX7g",
+                "summary": "... <b>Resilience</b>: What European Railways Can Learn from Ukraine\u201d. ... With regard to infrastructure, prioritization is based on <b>logistics</b> corridors, <b>logistics</b>&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-06-30T07:07:40Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "Maersk Asia Pacific Monthly Market Update \u2013 July 2026",
@@ -880,15 +916,6 @@
                 "summary": "Building Real-Time Supply Chain <b>Resilience</b> | BR International #shorts. No views \u00b7 1 hour ago ...more. BR International <b>Logistics</b>. 25....",
                 "source": "Google Alert - Logistics Resilience",
                 "published": "2026-06-30T02:49:20Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "CWT Hosts Investor Presentation, Outlining Multi-Dimensional Value and a High-<b>Resilience</b> ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://en.acnnewswire.com/press-release/english/108072/cwt-hosts-investor-presentation,-outlining-multi-dimensional-value-and-a-high-resilience-growth-blueprint&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0UqmyvJt6_OQP04rB24lyf",
-                "summary": "... <b>resilience</b> business model\u2014built on four synergistic core businesses ... Sectors: <b>Transport</b> &amp; <b>Logistics</b>, Daily Finance, Funds &amp; Equities&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-06-29T18:20:15Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -931,31 +958,22 @@
         ],
         "GLOBAL ECONOMY": [
             {
-                "title": "<b>Geopolitical</b> Premium Fades &amp; Expectations of Loose Supply Drive Sharp Drop in Crude Oil Prices",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-34021.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0RsM-STjfgMwoJlPCwXT8n",
-                "summary": "On Friday, June 26, international crude oil futures experienced a significant pullback as the <b>geopolitical risk</b> premium rapidly evaporated. Weekly&nbsp;......",
+                "title": "WTI Crude Falls as <b>Geopolitics</b> and OPEC+ Tensions Weigh - TradingPedia",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingpedia.com/2026/06/30/wti-crude-falls-as-geopolitics-and-opec-tensions-weigh/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2QK_Ysv6k9oTFhrvr_nLcH",
+                "summary": "The conflicting messages have added to market ambiguity around potential shifts in regional <b>risk</b> and oil supply routes. OPEC Unity Tested as Iraq&nbsp;......",
                 "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-06-30T01:20:00Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
+                "published": "2026-06-30T08:59:08Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
             },
             {
-                "title": "Oil rises on persistent <b>geopolitical risks</b>; Yen hits four-decade low - Equiti",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.equiti.com/jo-en/news/market-news/oil-rises-on-persistent-geopolitical-risks-yen-hits-four-decade-low/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1JFAjxZOzxxZjHvsn8Xa73",
-                "summary": "Oil prices rebounded as persistent US\u2013Iran tensions kept supply <b>risks</b> elevated, despite talks over a possible interim agreement in Doha focused on&nbsp;......",
+                "title": "H2 outlook: crude caught between Iran tensions and supply-demand | CMC Markets",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmcmarkets.com/en-ie/news-and-analysis/h2-outlook-crude-caught-between-iran-tensions-and-supply-demand&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1Qfedr843NWY9BqlY5ZC9L",
+                "summary": "... <b>geopolitical risk</b> premium from oil prices. At the same time, the market ... The key takeaway is clear: crude oil has been carrying a significant&nbsp;......",
                 "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-06-30T00:01:09Z",
-                "risk_score": 2,
-                "risk_color": "green"
-            },
-            {
-                "title": "The price of Europe's unco-ordinated energy transition",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infrastructureinvestor.com/the-price-of-europes-unco-ordinated-energy-transition/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2m6t9oyt-9lGDp43sNXT4R",
-                "summary": "Recent market movements tell a clear story: when <b>geopolitical risk</b> rises, European assets are penalised more heavily than those in other regions....",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-06-29T21:08:31Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "published": "2026-06-30T02:43:41Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
             },
             {
                 "title": "Robotics, energy, and geopolitics: How China is reshaping the <b>global energy</b> landscape",
@@ -1021,6 +1039,24 @@
                 "risk_color": "green"
             },
             {
+                "title": "Shock prediction from the &quot;Socrates&quot; model: Global <b>debt</b> crash due to Iran - Bankingnews",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bankingnews.gr/analyseis-ektheseis/articles/885145/shock-prediction-from-the-socrates-model-global-debt-crash-due-to-iran-after-oil-it-is-the-banks-turn&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1u8EByHBzqVCCSR07eGPlD",
+                "summary": "In other words, a <b>sovereign debt crisis</b> can start in the Middle East.&quot; He continues: &quot;People are completely caught off guard because they believe&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-06-30T07:37:06Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Europe at a Crossroads | GoldBroker.com",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://goldbroker.com/news/europe-at-a-crossroads-3724&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3HZkboFfgYVztUw7hSiGZa",
+                "summary": "... European integration, to the detriment of the countries of the South. The 2008 crisis and the ensuing <b>sovereign debt crisis</b> were the clearest&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-06-30T07:31:18Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
                 "title": "Ethiopia Strikes Deal With Bondholders To Restructure $1bn Bond",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://leadership.ng/ethiopia-strikes-deal-with-bondholders-to-restructure-1bn-bond/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2uXl3jMMXYQuBxNFX9jgJY",
                 "summary": "... debt <b>crisis</b> that has lingered for years. The agreement which was ... <b>sovereign debt</b> workouts involving official and private creditors. Under&nbsp;......",
@@ -1028,33 +1064,6 @@
                 "published": "2026-06-29T19:00:51Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
-            },
-            {
-                "title": "UK <b>Debt Crisis</b>? Why <b>Bonds</b> Are Your Next Big Gamble! #shorts - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DmQh588RQcpE&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1JqTYXiEhIptOddd24iFo4",
-                "summary": "The UK faces elevated interest rates on its <b>sovereign debt</b>, driven by specific <b>government debt</b> management strategies....",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-06-29T17:13:58Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "Peak Dollar Strength - Robin J Brooks - Substack",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://robinjbrooks.substack.com/p/peak-dollar-strength&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3LrWWSSfO_8a0ZKf_jYz7M",
-                "summary": "In the most recent reading - for Jun. 23 - markets are almost as long the Dollar as in 2012 at the height of the Euro zone <b>sovereign debt crisis</b> or in&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-06-29T16:27:48Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Why the central parity could be exactly what the name implies | Nordea Corporate",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://corporate.nordea.com/article/103951/why-the-central-parity-could-be-exactly-what-the-name-implies&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw116CgZJ6EVKm0BaBqZLvv6",
-                "summary": "We have made the chart below showing the 10-year spread between Danish and German government bonds through the European <b>sovereign debt crisis</b>, with&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-06-29T13:35:23Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
             },
             {
                 "title": "ASX wavers as traders dump gold stocks for banks - AFR",
@@ -1075,6 +1084,15 @@
                 "risk_color": "green"
             },
             {
+                "title": "Panama Canal Expansion Surpasses 31,000 Neopanamax Transits in First Decade",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.maritimegateway.com/panama-canal-expansion-surpasses-31000-neopanamax-transits-in-first-decade/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw2Qx6Lwa-Qa9pwPVhw3_wvz",
+                "summary": "... <b>shipping</b>. It has changed how carriers plan <b>routes</b> and has increased flexibility for global <b>trade</b>. Recognition For Vessels. To mark the anniversary&nbsp;......",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-06-30T05:52:05Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "As <b>sea routes</b> are more than avenue for <b>trade</b>, rules should be updated: Chan Chun Sing",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.britcham.org.sg/news/sea-routes-are-more-avenue-trade-rules-should-be-updated-chan-chun-sing&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0buZvlxwHuOsHJ7C_BlkrA",
                 "summary": "The universal legal framework that governs <b>sea routes</b> should be updated to account for the added functions of waterways today, Defence Minister Chan&nbsp;......",
@@ -1090,15 +1108,6 @@
                 "source": "Google Alert - Maritime Trade Routes",
                 "published": "2026-06-30T02:14:13Z",
                 "risk_score": 2,
-                "risk_color": "green"
-            },
-            {
-                "title": "No Russia or Gulf: China puts weight behind third <b>route</b> to Europe - The Indian Express",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianexpress.com/article/world/china-expands-investment-europe-cargo-route-that-avoids-russia-and-middle-east-10762865/lite/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw1o2PlZWd1pZnDKktEt8nf6",
-                "summary": "China is stepping up investment in the Middle Corridor, a multimodal <b>trade route</b> linking China with Europe through Kazakhstan, the Caspian <b>Sea</b>,&nbsp;......",
-                "source": "Google Alert - Maritime Trade Routes",
-                "published": "2026-06-29T17:07:21Z",
-                "risk_score": 1,
                 "risk_color": "green"
             },
             {
@@ -1205,6 +1214,15 @@
         ],
         "GENERAL UPDATES": [
             {
+                "title": "<b>Geopolitical risk</b> is reshaping the role of risk managers - FinTech Global",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://fintech.global/2026/06/30/geopolitical-risk-is-reshaping-the-role-of-risk-managers/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3OtCgiddD8AeaDpnkQY5Wb",
+                "summary": "For most <b>risk</b> professionals, the inability to switch off is an occupational <b>hazard</b>. &middot; Geoeconomic confrontation &middot; Armed conflict and regional&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-06-30T07:47:44Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
                 "title": "Global financial firms pivot to South Korea, cautious on China and India, survey shows",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/china/global-financial-firms-pivot-south-korea-cautious-china-india-survey-shows-2026-06-30/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3AytBYfmfoxIidJeU5vWO4",
                 "summary": "Expansion interest in China has \u2060steadied \u200bat around 40%, down from earlier peaks, as firms weigh \u200bcapital controls, data rules and <b>geopolitical risk</b>....",
@@ -1304,6 +1322,24 @@
                 "risk_color": "green"
             },
             {
+                "title": "Beyond roads: Inland <b>shipping</b> is China's next electrification frontier",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://theicct.org/beyond-roads-inland-shipping-is-chinas-next-electrification-frontier-jun26/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw2mXCXUC0azMDrzATwicQvX",
+                "summary": "This is not surprising given the relatively high technical and economic feasibility of electrifying small ferries operating on short, fixed <b>routes</b>....",
+                "source": "Google Alert - Maritime Trade Routes",
+                "published": "2026-06-30T04:04:42Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "GXO <b>Logistics</b> extends Co-op <b>transport</b> contract - FleetPoint",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.fleetpoint.org/general-fleet-news/gxo-logistics-extends-co-op-transport-contract/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0LeJ0BuTlkxg0RwTjslMt1",
+                "summary": "Under the extended agreement, GXO will continue to work closely with Co-op to improve efficiency, strengthen service levels and enhance <b>resilience</b>&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-06-30T08:16:07Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "GXO and Co-op Extend <b>Transport</b> Partnership with New Five-Year Agreement",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.quiverquant.com/news/GXO%2Band%2BCo-op%2BExtend%2BTransport%2BPartnership%2Bwith%2BNew%2BFive-Year%2BAgreement&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0M7aNu3N5eRRoxp-L1JnDJ",
                 "summary": "GXO is committed to enhancing efficiency and <b>resilience</b> in Co-op's <b>transport</b> network, indicating a focus on continuous improvement and innovation. The&nbsp;......",
@@ -1318,24 +1354,6 @@
                 "summary": "Component II of the EPM (export promotion mission) RELIEF (<b>Resilience</b> and <b>Logistics</b> Intervention for Export Facilitation) intervention facilitates&nbsp;......",
                 "source": "Google Alert - Logistics Resilience",
                 "published": "2026-06-29T19:27:34Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Beyond the Pit: Why Mining Partnerships Are Being Redefined",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.miningweekly.com/article/beyond-the-pit-why-mining-partnerships-are-being-redefined-2026-03-02/rep_id:6088/company:mining-indaba-2016-08-16&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw2LfWrzn5-_iRMzRBQXv6cw",
-                "summary": "Resilience is less about contingency response and more about intentional operating design. ... Integrated accountability, <b>logistics resilience</b>,&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-06-29T18:51:01Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "CMA CGM and Asyad line up $400m multipurpose terminal in Oman - Splash247",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://splash247.com/cma-cgm-and-asyad-line-up-400m-multipurpose-terminal-in-oman/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw1iH6KWBmaAtM15w6i1tftF",
-                "summary": "... <b>logistics</b> terminal in Sohar. The project is expected to involve ... <b>resilience</b> for the group's customers. \u201cThis partnership with Asyad Group&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-06-29T17:21:00Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
