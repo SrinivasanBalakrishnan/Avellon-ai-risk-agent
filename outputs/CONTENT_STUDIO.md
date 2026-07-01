@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 30 June 2026
+**Date:** 01 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Nuclear power: A renaissance in the making | McKinsey
+**Source News:** RBI sees banks' bad loans rising on <b>geopolitical risks</b> - The HinduBusinessLine
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Nuclear power: A renaissance in the making | McKinsey
+- **The News:** RBI sees banks' bad loans rising on <b>geopolitical risks</b> - The HinduBusinessLine
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Forces shaping Europe's next wave of global investment | EY
+**Source News:** Oil prices edge higher as U.S.-Iran talks offset record U.S. crude production
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Forces shaping Europe's next wave of global investment | EY
+- **The News:** Oil prices edge higher as U.S.-Iran talks offset record U.S. crude production
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Geopolitical</b> Premium Fades &amp; Expectations of Loose Supply Drive Sharp Drop in Crude Oil Prices
+**Source News:** Oil Falls as Traders Weigh Middle East Return, Supply Glut <b>Risks</b> - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical</b> Premium Fades &amp; Expectations of Loose Supply Drive Sharp Drop in Crude Oil Prices
+- **The News:** Oil Falls as Traders Weigh Middle East Return, Supply Glut <b>Risks</b> - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Q&amp;A Podcast: Maggie Haberman &amp; Jonathan Swan, &quot;<b>Regime Change</b>&quot; - YouTube
+**Source News:** Malaysia's Foreign Policy: Structural Stability Amid Geopolitical Shifts
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Q&amp;A Podcast: Maggie Haberman &amp; Jonathan Swan, &quot;<b>Regime Change</b>&quot; - YouTube
+- **The News:** Malaysia's Foreign Policy: Structural Stability Amid Geopolitical Shifts
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
