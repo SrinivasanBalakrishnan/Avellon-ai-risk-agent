@@ -1,97 +1,94 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 01 July 2026
+**Date:** 02 July 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
+- **Strait of Hormuz** (Risk Score: 18.5)
 - **Taiwan Strait** (Risk Score: 17.0)
-- **Strait of Hormuz** (Risk Score: 7)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
-- **Cape of Good Hope** (Risk Score: 1)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 2)
+- **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 RBI sees banks' bad loans rising on <b>geopolitical risks</b> - The HinduBusinessLine**
-> *RBI warns that <b>geopolitical risks</b> could increase Indian banks' bad loans, reversing a downward trend by March 2028....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/money-and-banking/rbi-sees-banks-bad-loans-rising-on-geopolitical-risks/article71168634.ece&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3xM1EzI5JV5fh9tXsBps8x))
+**🔴 Netanyahu is caught between Trump and a hard place | Chatham House**
+> *<b>Geopolitical risk</b> is corporate risk. Explore our expert briefings ... geopolitical goals. As the proclaimed goals of the war began to look&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chathamhouse.org/2026/07/netanyahu-caught-between-trump-and-hard-place&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw04BebJgwMLVyLmbMjbU4De))
 
-**🔴 RBI Warns Indian Banks' Bad Loans May Rise on <b>Geopolitical Risks</b> - Bloomberg**
-> *The bad-loan ratio for Indian banks could start inching up from multi-year lows through March 2028 and may even worsen further if <b>geopolitical risks</b>...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-06-30/india-s-rbi-sees-banks-bad-loans-rising-on-geopolitical-risks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Saif99mSCzAQk2isPRgNt))
+**🟢 US nuclear power in state <b>energy</b> planning: A policy roadmap - Atlantic Council**
+> *As electricity demand grows, states must shape a policy environment that encourages building new nuclear reactors and their supply chains....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/blogs/energysource/us-nuclear-power-in-state-energy-planning-a-policy-roadmap/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3bBuhmJWrLk45x9bo3Cli7))
 
-**🟡 Rewiring the Accounting Firm: AI, Strategic Shifts, and the Evolving Liability Landscape**
-> *Rising <b>geopolitical</b> volatility and shifting ownership models demand strategic <b>risk</b> governance. AI-driven transformation is reshaping roles, with&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aon.com/risk-services/professional-services/rewiring-the-accounting-firm-ai-strategic-shifts-and-the-evolving-liability-landscape&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3RSBhUhj_RitIJOaepx5Jy))
+**🟡 Russia's top banker begs for Putin end to Ukraine <b>war</b>, issues stark warning - New York Post**
+> *German Gref, head of the state-controlled Sberbank, said ordinary Russians are increasingly feeling the <b>economic</b> effects of the <b>war</b>, which are being&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw23WJSaT90gWmo1B5iVfa2d))
 
-**🟢 Mark Carney's <b>Energy</b> Vision | PM Backs Oil, Nuclear &amp; Electrification - YouTube**
-> *... <b>global</b> economy updates, and ... <b>energy</b> infrastructure while reducing dependence on foreign markets and strengthening domestic <b>energy security</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DLUleJ0jz5O8&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3h21dCEN1QSdzkeP0pKLsU))
+**🟡 How the U.S.-South Korea Joint Fact Sheet Lays the Future of the Alliance**
+> *Hybrid <b>warfare</b> integrates conventional <b>warfare</b>, irregular <b>warfare</b>, cyber <b>warfare</b>, information <b>warfare</b>, and <b>economic</b> coercion. <b>Warfare</b> has become a <b>w...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://keia.org/publication/how-the-u-s-south-korea-joint-fact-sheet-lays-the-future-of-the-alliance/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3qRrrb5hBEQUqNJJXq0o0j))
 
-**🟢 EM, Canadian Officials Focus on Shared Opportunities for Nuclear Renaissance**
-> *As <b>global</b> expansion of nuclear <b>energy</b> accelerates to bolster <b>energy security</b>, drive economic growth, and meet increasing electricity demands&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energy.gov/em/articles/em-canadian-officials-focus-shared-opportunities-nuclear-renaissance&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2xvk66uGXAuOxElOLRUF9t))
+**🔴 How the Iran <b>war</b> derailed selling season for homebuilders - Marketplace**
+> *After months of <b>war</b>-driven <b>economic</b> uncertainty and mortgage rates around 6%, homebuilders are struggling with affordability this summer. Robert&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketplace.org/story/2026/07/01/home-builders-selling-season-derailed-due-to-the-iran-war&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0f5l1SBRJJbl_MGFKzEffh))
 
 
 ## 🏛 CYBER & TECH
-**🟡 Oil prices edge higher as U.S.-Iran talks offset record U.S. crude production**
-> *<b>Geopolitical risks</b> remain in focus. The absence of direct talks has reinforced uncertainty over how quickly Washington and Tehran can resolve&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/oil-prices-edge-higher-as-usiran-talks-offset-record-us-crude-production-5477637&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3TQPnNz-9hy4U0_Xvm5FcE))
+**🔴 <b>Geopolitical Risk</b> Premium Continues to Narrow, Aluminum Prices in the Doldrums [SMM ...**
+> *The <b>geopolitical risk</b> premium continues to narrow. The dispute over management rights of the Strait of Hormuz persists, and uncertainty remains over&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/en/newscontent/103982845-geopolitical-risk-premium-continues-to-narrow-aluminum-prices-in-the-doldrums-smm-aluminum-morning-briefing&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0KQYbwpHWKgUw_sFZKw9Od))
 
-**🟢 Central banks see gold prices trading between $5000 and $6000 in 12 months - OMFIF Survey**
-> *Protection against <b>geopolitical risk</b> was cited by 51% of reserve managers as a reason to own gold, up 11 percentage points from 2024. At the same time&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-06-30/central-banks-see-gold-prices-trading-between-5000-and-6000-12-months-omfif&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1KwNAoUzAETrbieMRvJVmi))
+**🟡 Saudi Arabia's Critical Minerals Strategy: Raising the Stakes - Geopolitical Monitor**
+> *Just $99 unlocks full, ad-free access to: Weekly newsletter on global <b>geopolitical risk</b> factors; Archive of thousands of articles on global&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/saudi-arabias-critical-minerals-strategy-raising-the-stakes/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0XUhH1B7416z0rfGUmji0e))
 
-**🟢 The Great Supply Chain Squeeze Demands Smarter Sourcing Decisions**
-> *Tariffs, conflict, regulatory fragmentation, <b>geopolitical</b> realignment, environmental shocks and human rights <b>risks</b> are becoming structural features of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-06/the-great-supply-chain-squeeze-demands-smarter-sourcing-decisions/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0E87fXacmVNZNs_XPpd1zK))
+**🟢 Allocators Focus On <b>Risk</b> Management in Increasingly Complex Environment**
+> *According to Coller Capital's 44th global private capital barometer, released in June, 37% of institutional investors said the <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ai-cio.com/news/allocators-focus-on-risk-management-in-increasingly-complex-environment/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw26KQn2DQIqwz2gXr88JBgZ))
 
-**🟡 IMF Executive Board Concludes 2026 Article IV Consultation with Luxembourg**
-> *Rising uncertainty and <b>geopolitical risk</b> require continued close monitoring of liquidity, leverage and funding in the multifaceted financial system....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.imf.org/en/news/articles/2026/06/30/pr26232-luxembourg-imf-concludes-2026-aiv-consultation&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw12W1vQ0c1kk6GmJHGcmI76))
+**🟢 These are the key factors that could restart the gold rally this year, or drive prices even lower - KITCO**
+> *... <b>risk</b> as gold still retains clear upside potential for the remainder of 2026, according to the new mid-year outlook from the World Gold Council (WGC)....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-07-01/these-are-key-factors-could-restart-gold-rally-year-or-drive-prices-even&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ky_mWYJOE-MzlQFgX9qWC))
 
-**🟡 How Agentic AI Is Transforming Electronic Component Sourcing - Logistics Viewpoints**
-> *It is a structural issue: limited price transparency, fragmented supplier data, rising <b>geopolitical risk</b>, and accelerating demand across electronics-&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://logisticsviewpoints.com/2026/06/30/webinar-playback-how-agentic-ai-is-transforming-electronic-component-sourcing/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ZMUmrfmg6IN1-NzekNDOh))
+**🟢 Interview: Cvete Koneska, International SOS - ITIJ**
+> *The report emphasises the convergence of <b>risks</b> – cyber, <b>geopolitical</b>, climate, and social. What does effective integrated <b>risk</b> management look like in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.itij.com/latest/long-read/interview-cvete-koneska-international-sos&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0wg5Y5eDcvpTF9GlSCzBQF))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Oil Falls as Traders Weigh Middle East Return, Supply Glut <b>Risks</b> - YouTube**
-> *Michelle Brouhard Head of Policy and <b>Geopolitical Risk</b> at Kpler joins to discuss. -------- Watch Bloomberg Radio LIVE on YouTube Weekdays 7am-6pm&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdnHti5hUIEY&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FUMMt4kL_O_AyGIM88txs))
+**🟢 Confluence of Three Bearish Factors Drives Continued Weakness in International Thermal Coal**
+> *Complete Dissipation of Middle East <b>Geopolitical Risks</b> ... With stability restored to this vital global energy trade artery, the <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-34096.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3OsTaehFC0DGYrXToVXhkF))
 
-**🟢 Netanyahu Vows 100% Defense Readiness as Israel Signals Permanent Middle East ... - Sahi**
-> *This <b>geopolitical</b> posture suggests long-term defense spending growth and persistent <b>risk</b> premiums in global oil and logistics markets. Author Image....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sahi.com/news/netanyahu-vows-100-defense-readiness-as-israel-signals-permanent-middle-east-geopolitical-risks-war-PE3_MACR&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Tlw4MxD0E6-l86OP11pbs))
+**🟢 How Energy Sector Volatility Is Reshaping D&amp;O <b>Risk</b>**
+> *<b>Geopolitical</b> shocks, federal policy whiplash and surging demand from data centers are accelerating exposures for directors and officers in the energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://riskandinsurance.com/how-energy-sector-volatility-is-reshaping-do-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1DbZ5hjLnWnVspVtyJ3EEV))
 
-**🟢 <b>Global Energy</b> Demand Up 1.7% in 2025 as Clean Power Hits Milestone: Report**
-> *As the world faces unprecedented threats to energy <b>security</b>, the Energy Institute Statistical Review of <b>World Energy</b> documents the ongoing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.saurenergy.com/solar-energy-news/global-energy-demand-up-17-in-2025-as-clean-power-hits-milestone-report-12122112&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1_I1poVZAFJWzIP-R3cf8R))
+**🟢 European shares dip as Iran peace doubts weigh on markets - Modern Diplomacy**
+> *At the same time, investors are balancing <b>geopolitical risks</b> with expectations of further interest rate increases from major central banks and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/07/01/european-shares-dip-as-iran-peace-doubts-weigh-on-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0F0pN9vzzyb4bcBui7KrSg))
 
-**🟢 Nuveen: <b>Energy security</b> is steering its pragmatic approach to the <b>energy</b> transition**
-> *... commercial objectives more than climate philosophy or government policy, says Don Dimitrievich, <b>global</b> head of Nuveen <b>Energy</b> Infrastructure Credit....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.privatedebtinvestor.com/nuveen-energy-security-is-steering-its-pragmatic-approach-to-the-energy-transition/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3qLJIXXaTIe_HBDopMLgs1))
+**🟢 Biofuels to complement, not replace fossil fuels at least until 2040: BPCL's ED Saraogi**
+> *Fossil fuels will continue to play a dominant role in meeting India's <b>energy</b> needs over the next 10-15 years, with biofuels and other alternative&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/business/biofuels-to-complement-not-replace-fossil-fuels-at-least-until-2040-bpcls-ed-saraogi20260701150132/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3c57qBSLcFSShYqM4vQTA5))
 
-**🟢 <b>Energy</b> News Monitor | Volume XXII, Issue 47 - Observer Research Foundation**
-> *... energy security and expand renewable energy capacity. ... The approval comes amid growing concerns over <b>global energy security</b> linked to geopolitical&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.orfonline.org/research/energy-news-monitor-volume-xxii-issue-47&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw33IGuQeJz2NRiY6j3hDlsx))
+**🟢 Analysis: UK newspapers have already printed 63 editorials in 2026 backing North Sea drilling**
+> *UK newspapers have already published 63 editorials this year calling for more oil and gas extraction in the North Sea, according to Carbon Brief&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.carbonbrief.org/analysis-uk-newspapers-have-already-printed-63-editorials-in-2026-backing-north-sea-drilling/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw166BDcZncHdJngwr6vdZmb))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Malaysia's Foreign Policy: Structural Stability Amid Geopolitical Shifts**
-> *Relations with China are susceptible to interracial <b>tension</b>. ... <b>Tensions</b> in the <b>South China Sea</b> have not impeded political engagement&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nbr.org/publication/malaysias-foreign-policy-structural-stability-amid-geopolitical-shifts/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3OEvUCzM_l9jRgj1JzvXE9))
+**🟢 Operation Sindhoor Row | 60 Politicians' Letter To PM Modi Sparks Nationwide Debate | News18**
+> *... change in the government's approach, prompting strong reactions from political ... Maggie Haberman &amp; Jonathan Swan - On “<b>Regime Change</b>” &amp; Inside The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3ajtT8YYLYU&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw298Ix4Jd_RpbOXMy7YN6bb))
 
-**🟢 “<b>Regime Change</b>: Inside the Imperial Presidency of Donald Trump,” the latest book on ... - Facebook**
-> *<b>Regime Change</b>: Inside the Imperial Presidency of Donald Trump,” the latest book on the Trump presidency, written by political journalists Maggie....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/chicagotribune/posts/regime-change-inside-the-imperial-presidency-of-donald-trump-the-latest-book-on-/1061860739530062/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3ZEd03UBwTRHH-sviBHVb4))
+**🔴 FP Live With Michael Bustamante: Will the U.S. Invade Cuba? - Foreign Policy**
+> *But Cuba is not Venezuela. And the fallout from the conflict in Iran may <b>change</b> how Trump is thinking about getting mired in another foreign-policy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3za234dKdc1Kc9j5pOfr6O))
 
-**🟡 I Know the Truth About Trump's Demented Greed | Inside Trump's Head - YouTube**
-> *... changing election rules as new polls point to political trouble ahead. ... Maggie Haberman &amp; Jonathan Swan - On “<b>Regime Change</b>” &amp; Inside The Trump&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQlJDKG6QPXA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0J8-QzwiJlMWbKWiArHu55))
-
-**🟢 Midterm Splits on the Right and Left - YouTube**
-> *... political analyst and former deputy chief of staff for then ... <b>REGIME CHANGE</b>: Katie's One-on-One with Maggie Haberman. Katie Couric. New....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMF7aEbNq2yQ&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3tEfysPaWSq9UrCKB0jwDz))
+**🟢 Haberman, Swan on '<b>Regime Change</b>' - Amanpour - Podcast on CNN Podcasts**
+> *&quot;Unprecedented&quot; is a word often used to described this second Trump presidency. A new book, &quot;<b>Regime Change</b>,&quot; gives the inside scoop of the first&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnn.com/audio/podcasts/amanpour/episodes/1067ea66-b53f-11f0-ba2f-7f5e2357ba7d&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1PD3nso94FtbW1A8anuTcs))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Redefining ASEAN centrality - Lowy Institute**
-> *Pressure test: Can ASEAN meet the <b>Indo</b>-<b>Pacific's security</b> challenges? ... The case for an Indo-Pacific Economic Resilience Bank. Analysis by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lowyinstitute.org/the-interpreter/redefining-asean-centrality&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw36ch2q6ywJy64M1AOW1biR))
+**🟢 North Africa Regional Outlook: July 1, 2026 - Stimson Center**
+> *Burkina Faso, Mali, and Niger are reshaping the Sahel's political and <b>security</b> landscape. Watch the Stimson Center event of a rare joint conversation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.stimson.org/2026/north-africa-regional-outlook-july-1-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0M2pMz3oN8ZBq95eKBdt04))
 
-**🟢 Vietnam's prosperity is closely linked to <b>Indo</b>-<b>Pacific security</b>. - Vietnam.vn**
-> *Vietnam's prosperity is closely linked to <b>Indo</b>-<b>Pacific security</b>. Expert Derek Grossman, Professor of Political Science and International Relations&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vietnam.vn/en/su-thinh-vuong-cua-viet-nam-gan-lien-voi-an-ninh-indo-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw26ZjKNCA0QZObcvlVTL0WK))
+**🟢 Carney says Trudeau-era climate plan was 'too expensive' and 'divisive' | CBC News**
+> *Prime Minister Mark Carney echoed critics of the previous Liberal government's climate plan in a video posted on Tuesday, saying the plan he&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/politics/carney-trudeau-carbon-emissions-climate-change-9.7254619&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2uRnDefmziYDnlc0x0rXWo))
 
-**🟢 India Moves Closer to Su-57E Stealth Fighter Acquisition as Russia Offers Full Source ...**
-> *... Asia amid expanding Western defence-industrial penetration across the <b>Indo</b>-<b>Pacific security</b> architecture. The proposal emerges during a period&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/india-su57e-stealth-fighter-source-codes-local-production-su57d/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2sEc6il1YImUjDYN67FJVL))
+**🟢 India Rushes to Secure Rafale Combat Readiness as New French Support Deal Reshapes ...**
+> *... <b>Indo</b>-<b>Pacific security</b> environment. The negotiations also reveal how defence industrial cooperation between India and France is evolving beyond&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/india-rafale-french-support-deal-indo-pacific-airpower-balance/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2tXYlLbqesN0lxlroJ1A_h))
 
-**🟢 <b>China</b> Deploys World's Largest <b>Tension</b>-Leg Floating Offshore Wind Platform - IndexBox**
-> *... south China, and departed on June 28 for installation in the <b>South China Sea</b>. The platform stands more than 307 meters (1,007 feet) tall and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indexbox.io/blog/china-deploys-worlds-largest-tension-leg-floating-offshore-wind-platform/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2gosaAbh_1MxdAowvUHlaw))
+**🟢 Belgium reaffirmed its commitment to the United Nations Convention on the Law of the <b>Sea</b> ...**
+> *That will mean perpetual <b>tension</b> and even chaos in the oceans and seas of the world. ... China concerning the <b>South China Sea</b>. The EU recalls that the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/posts/belgium-reaffirmed-its-commitment-to-the-united-nations-convention-on-the-law-of/1573798028128781/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1RCBPf8x7qvOzDIfgB8lQt))
 
-**🟢 Stockpiles of Critical Mineral Needed for High-End Magnets Begin to Dwindle**
-> *... <b>rare earth elements</b>. The Defense Department is “interested in expanding ... China mines roughly 60 percent of the world's <b>rare earths</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nationaldefensemagazine.org/articles/2026/7/1/stockpiles-of-critical-mineral-needed-for-highend-magnets-begin-to-dwindle&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0ueEPx_OVqfoW70Ecr3qIE))
+**🟢 GreenMet leads W. Virginia <b>rare earths</b> hub - Metal Tech News**
+> *Flash <b>Metals</b>' role in the West Virginia partnership suggests Flash Joule Heating could be incorporated into the <b>rare earth</b> recovery pathway, though&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.metaltechnews.com/story/2026/07/08/mining-tech/greenmet-leads-w-virginia-rare-earths-hub/2822.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3RTjmRM_4pq5BGvJp8ZGr-))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

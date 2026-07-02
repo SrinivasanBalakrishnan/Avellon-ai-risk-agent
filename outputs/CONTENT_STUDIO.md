@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 01 July 2026
+**Date:** 02 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** RBI sees banks' bad loans rising on <b>geopolitical risks</b> - The HinduBusinessLine
+**Source News:** Netanyahu is caught between Trump and a hard place | Chatham House
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** RBI sees banks' bad loans rising on <b>geopolitical risks</b> - The HinduBusinessLine
+- **The News:** Netanyahu is caught between Trump and a hard place | Chatham House
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil prices edge higher as U.S.-Iran talks offset record U.S. crude production
+**Source News:** <b>Geopolitical Risk</b> Premium Continues to Narrow, Aluminum Prices in the Doldrums [SMM ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil prices edge higher as U.S.-Iran talks offset record U.S. crude production
+- **The News:** <b>Geopolitical Risk</b> Premium Continues to Narrow, Aluminum Prices in the Doldrums [SMM ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Falls as Traders Weigh Middle East Return, Supply Glut <b>Risks</b> - YouTube
+**Source News:** Confluence of Three Bearish Factors Drives Continued Weakness in International Thermal Coal
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Falls as Traders Weigh Middle East Return, Supply Glut <b>Risks</b> - YouTube
+- **The News:** Confluence of Three Bearish Factors Drives Continued Weakness in International Thermal Coal
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Malaysia's Foreign Policy: Structural Stability Amid Geopolitical Shifts
+**Source News:** Operation Sindhoor Row | 60 Politicians' Letter To PM Modi Sparks Nationwide Debate | News18
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Malaysia's Foreign Policy: Structural Stability Amid Geopolitical Shifts
+- **The News:** Operation Sindhoor Row | 60 Politicians' Letter To PM Modi Sparks Nationwide Debate | News18
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
