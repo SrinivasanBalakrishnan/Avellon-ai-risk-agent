@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 02 July 2026
+**Date:** 03 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Netanyahu is caught between Trump and a hard place | Chatham House
+**Source News:** U.S. Refiners Are Running &quot;Incredibly Hard.&quot; Here's Why Gas Prices Aren't Falling
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Netanyahu is caught between Trump and a hard place | Chatham House
+- **The News:** U.S. Refiners Are Running &quot;Incredibly Hard.&quot; Here's Why Gas Prices Aren't Falling
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** <b>Geopolitical Risk</b> Premium Continues to Narrow, Aluminum Prices in the Doldrums [SMM ...
+**Source News:** How the Middle East Conflict Is Reshaping Indian Agriculture
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical Risk</b> Premium Continues to Narrow, Aluminum Prices in the Doldrums [SMM ...
+- **The News:** How the Middle East Conflict Is Reshaping Indian Agriculture
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Confluence of Three Bearish Factors Drives Continued Weakness in International Thermal Coal
+**Source News:** <b>Geopolitics</b> Is Now a Site Selection Variable - Area Development
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Confluence of Three Bearish Factors Drives Continued Weakness in International Thermal Coal
+- **The News:** <b>Geopolitics</b> Is Now a Site Selection Variable - Area Development
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Operation Sindhoor Row | 60 Politicians' Letter To PM Modi Sparks Nationwide Debate | News18
+**Source News:** The Unity Books bestseller chart for the week ending July 3 | The Spinoff
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Operation Sindhoor Row | 60 Politicians' Letter To PM Modi Sparks Nationwide Debate | News18
+- **The News:** The Unity Books bestseller chart for the week ending July 3 | The Spinoff
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

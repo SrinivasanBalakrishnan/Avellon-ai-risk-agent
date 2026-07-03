@@ -1,94 +1,90 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 02 July 2026
+**Date:** 03 July 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 18.5)
-- **Taiwan Strait** (Risk Score: 17.0)
+- **Strait of Hormuz** (Risk Score: 20.5)
+- **Taiwan Strait** (Risk Score: 14.5)
 - **Bab el-Mandeb (Red Sea)** (Risk Score: 2)
-- **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Netanyahu is caught between Trump and a hard place | Chatham House**
-> *<b>Geopolitical risk</b> is corporate risk. Explore our expert briefings ... geopolitical goals. As the proclaimed goals of the war began to look&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chathamhouse.org/2026/07/netanyahu-caught-between-trump-and-hard-place&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw04BebJgwMLVyLmbMjbU4De))
+**🟡 U.S. Refiners Are Running &quot;Incredibly Hard.&quot; Here's Why Gas Prices Aren't Falling**
+> *Croft sees nuclear talks stalling past mid-August, keeping Hormuz ship traffic suppressed and a <b>geopolitical risk</b> premium embedded in XOM and COP....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://247wallst.com/investing/2026/07/02/u-s-refiners-are-running-incredibly-hard-heres-why-gas-prices-arent-falling/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FYcZ6kRbtWUyKnWupMOHx))
 
-**🟢 US nuclear power in state <b>energy</b> planning: A policy roadmap - Atlantic Council**
-> *As electricity demand grows, states must shape a policy environment that encourages building new nuclear reactors and their supply chains....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/blogs/energysource/us-nuclear-power-in-state-energy-planning-a-policy-roadmap/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3bBuhmJWrLk45x9bo3Cli7))
+**🔴 Trump Prioritizes Iran Denuclearization Over War as Brent Crude Eases to $84.50 Per Barrel**
+> *U.S. President shifts focus from 'war' to 'denuclearization' regarding Iran, leading to a decline in the <b>geopolitical risk</b> premium and stabilizing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sahi.com/news/trump-prioritizes-iran-denuclearization-over-war-as-brent-crude-eases-to-84-50-per-barrel-war-PE3_MACR&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3awoa2gTlI4T00YJEmx-qA))
 
-**🟡 Russia's top banker begs for Putin end to Ukraine <b>war</b>, issues stark warning - New York Post**
-> *German Gref, head of the state-controlled Sberbank, said ordinary Russians are increasingly feeling the <b>economic</b> effects of the <b>war</b>, which are being&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw23WJSaT90gWmo1B5iVfa2d))
+**🔴 Gold faces pivotal second half due to <b>geopolitical risk</b>, rate expectations, investor sentiment: WGC**
+> *Gold could resume its upward trend if <b>geopolitical</b> or economic conditions deteriorate, driven by potential macro shocks New York: After a volatile&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://retailjewellerindia.com/gold-faces-pivotal-second-half-due-to-geopolitical-risk-rate-expectations-investor-sentiment-wgc/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2nTWT_rnpM46tkubiFt01A))
 
-**🟡 How the U.S.-South Korea Joint Fact Sheet Lays the Future of the Alliance**
-> *Hybrid <b>warfare</b> integrates conventional <b>warfare</b>, irregular <b>warfare</b>, cyber <b>warfare</b>, information <b>warfare</b>, and <b>economic</b> coercion. <b>Warfare</b> has become a <b>w...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://keia.org/publication/how-the-u-s-south-korea-joint-fact-sheet-lays-the-future-of-the-alliance/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3qRrrb5hBEQUqNJJXq0o0j))
+**🟢 <b>World</b> Nuclear Association highlights nuclear's role in industrial decarbonisation at ...**
+> *... energy <b>security</b>, resilience and the role of low-carbon technologies in meeting growing <b>global energy</b> demand. The IEF, an intergovernmental&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://world-nuclear.org/news-and-media/association-news/world-nuclear-association-highlights-nuclears-role-in-industrial-decarbonisation-at-international-energy-forum&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1JhNNaLR9klFVVDMGs5DUe))
 
-**🔴 How the Iran <b>war</b> derailed selling season for homebuilders - Marketplace**
-> *After months of <b>war</b>-driven <b>economic</b> uncertainty and mortgage rates around 6%, homebuilders are struggling with affordability this summer. Robert&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketplace.org/story/2026/07/01/home-builders-selling-season-derailed-due-to-the-iran-war&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0f5l1SBRJJbl_MGFKzEffh))
+**🔴 Stopped 8 <b>wars</b>: Donald Trump reiterates claim of India-Pakistan ceasefire through tariff threat**
+> *US President Donald Trump claimed he single-handedly averted a nuclear conflict between India and Pakistan by threatening both with 200% tariffs....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/defence/stopped-8-wars-donald-trump-reiterates-claim-of-india-pakistan-ceasefire-through-tariff-threat/articleshow/132150520.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw19ETjsqN0qf1-0Kv8CUmoI))
 
 
 ## 🏛 CYBER & TECH
-**🔴 <b>Geopolitical Risk</b> Premium Continues to Narrow, Aluminum Prices in the Doldrums [SMM ...**
-> *The <b>geopolitical risk</b> premium continues to narrow. The dispute over management rights of the Strait of Hormuz persists, and uncertainty remains over&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/en/newscontent/103982845-geopolitical-risk-premium-continues-to-narrow-aluminum-prices-in-the-doldrums-smm-aluminum-morning-briefing&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0KQYbwpHWKgUw_sFZKw9Od))
+**🔴 How the Middle East Conflict Is Reshaping Indian Agriculture**
+> *The Strait of Hormuz, now vulnerable to heightened <b>geopolitical</b> tensions and maritime <b>risks</b>, serves as a vital route for India's imports of urea,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.orfonline.org/research/how-the-middle-east-conflict-is-reshaping-indian-agriculture&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3-hRUGs-VjUYMQP1-7XxbH))
 
-**🟡 Saudi Arabia's Critical Minerals Strategy: Raising the Stakes - Geopolitical Monitor**
-> *Just $99 unlocks full, ad-free access to: Weekly newsletter on global <b>geopolitical risk</b> factors; Archive of thousands of articles on global&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/saudi-arabias-critical-minerals-strategy-raising-the-stakes/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0XUhH1B7416z0rfGUmji0e))
+**🟢 Voyage to a new edge - China Daily HK**
+> *... <b>risks</b> in the face of Sino-US trade disputes and global <b>geopolitical</b> volatility. ... <b>risk</b> monitoring, thus prompting many international shipowners&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chinadailyasia.com/article/635839&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0lhRkndDMnJrFgQKYhmbh1))
 
-**🟢 Allocators Focus On <b>Risk</b> Management in Increasingly Complex Environment**
-> *According to Coller Capital's 44th global private capital barometer, released in June, 37% of institutional investors said the <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ai-cio.com/news/allocators-focus-on-risk-management-in-increasingly-complex-environment/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw26KQn2DQIqwz2gXr88JBgZ))
+**🔴 Will June's employment data mark a turnaround for gold? | Kitco News**
+> *... geopolitical tensions can do what the soft jobs report started,” he said. “Should falling oil prices amid easing <b>geopolitical risk</b> result in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-07-02/will-junes-employment-data-mark-turnaround-gold&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3mF3h4xO-jSsbaNboRtA53))
 
-**🟢 These are the key factors that could restart the gold rally this year, or drive prices even lower - KITCO**
-> *... <b>risk</b> as gold still retains clear upside potential for the remainder of 2026, according to the new mid-year outlook from the World Gold Council (WGC)....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-07-01/these-are-key-factors-could-restart-gold-rally-year-or-drive-prices-even&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ky_mWYJOE-MzlQFgX9qWC))
+**🟢 PM Modi says India's speed, Japan's expertise will drive <b>global</b> growth - Newsonair**
+> *In her address, Prime Minister of Japan, Sanae Takaichi, said that, among the many areas of cooperation, <b>energy security</b> is one of the most important&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0Tl8kSQnTNU0VALOzcndnh))
 
-**🟢 Interview: Cvete Koneska, International SOS - ITIJ**
-> *The report emphasises the convergence of <b>risks</b> – cyber, <b>geopolitical</b>, climate, and social. What does effective integrated <b>risk</b> management look like in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.itij.com/latest/long-read/interview-cvete-koneska-international-sos&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0wg5Y5eDcvpTF9GlSCzBQF))
+**🟢 India, Japan stress free navigation through Strait of Hormuz, stable <b>energy</b> supply chains**
+> *... energy <b>security</b>,&quot; the joint statement said.The two leaders ... energy supply chains and promote stability in <b>global energy</b> markets.On&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/world/asia/india-japan-stress-free-navigation-through-strait-of-hormuz-stable-energy-supply-chains20260703015949/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3Ab9AcR_ojB4G1ohrauCzH))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Confluence of Three Bearish Factors Drives Continued Weakness in International Thermal Coal**
-> *Complete Dissipation of Middle East <b>Geopolitical Risks</b> ... With stability restored to this vital global energy trade artery, the <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-34096.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3OsTaehFC0DGYrXToVXhkF))
+**🔴 <b>Geopolitics</b> Is Now a Site Selection Variable - Area Development**
+> *For foreign direct investment projects in particular, <b>geopolitical risk</b> has moved to the center of the analysis. Trade tensions across North&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.areadevelopment.com/the-new-rules-of-industrial-site-selection/q2-2026/geopolitics-is-now-a-site-selection-variable.shtml&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Kzn1ToT3calF-clFyhPAT))
 
-**🟢 How Energy Sector Volatility Is Reshaping D&amp;O <b>Risk</b>**
-> *<b>Geopolitical</b> shocks, federal policy whiplash and surging demand from data centers are accelerating exposures for directors and officers in the energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://riskandinsurance.com/how-energy-sector-volatility-is-reshaping-do-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1DbZ5hjLnWnVspVtyJ3EEV))
+**🟡 Geopolitical Risk Premium Fades; Oil Prices Rebound from Multi-Month Lows - SunSirs**
+> *SunSirs is the leading provider of China Commodities Data, Spot Prices &amp; Futures Prices, Commodity Market News and China Business &amp; Financial&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/uk/detail_news-34140.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3d4FV3VTv9scg2Sma0mNPx))
 
-**🟢 European shares dip as Iran peace doubts weigh on markets - Modern Diplomacy**
-> *At the same time, investors are balancing <b>geopolitical risks</b> with expectations of further interest rate increases from major central banks and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/07/01/european-shares-dip-as-iran-peace-doubts-weigh-on-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0F0pN9vzzyb4bcBui7KrSg))
+**🟡 FPI selling spree continues, pull out ₹49,340 crore in June - The Hindu**
+> *... risk aversion, a preference for developed markets, soaring U.S. ... However, <b>geopolitical risks</b> eased in the second half of June following&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/business/Economy/fpi-selling-spree-continues-pull-out-49340-crore-in-june/article71174039.ece&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw37sDqCASIuVPnavvb5qB7t))
 
-**🟢 Biofuels to complement, not replace fossil fuels at least until 2040: BPCL's ED Saraogi**
-> *Fossil fuels will continue to play a dominant role in meeting India's <b>energy</b> needs over the next 10-15 years, with biofuels and other alternative&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/business/biofuels-to-complement-not-replace-fossil-fuels-at-least-until-2040-bpcls-ed-saraogi20260701150132/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3c57qBSLcFSShYqM4vQTA5))
+**🟢 Speech to ANU National <b>Security</b> College | The Hon Madeleine King MP**
+> *Through our resources sector, we make an outsized contribution to <b>global</b> manufacturing and in providing <b>energy security</b> to our region. The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.minister.industry.gov.au/king/media/speech-anu-national-security-college&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3-6a-HxoubyAHhJcI2G_5c))
 
-**🟢 Analysis: UK newspapers have already printed 63 editorials in 2026 backing North Sea drilling**
-> *UK newspapers have already published 63 editorials this year calling for more oil and gas extraction in the North Sea, according to Carbon Brief&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.carbonbrief.org/analysis-uk-newspapers-have-already-printed-63-editorials-in-2026-backing-north-sea-drilling/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw166BDcZncHdJngwr6vdZmb))
+**🟢 Eni and Mercuria to Establish a <b>Global</b> Trading Joint Venture - Europétrole**
+> *... energy solutions that support <b>global energy security</b> and the energy transition. Origine : Communiqué Eni. Voir la fiche entreprise de &quot;Eni&quot;. Les&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.euro-petrole.com/eni-and-mercuria-to-establish-a-global-trading-joint-venture-n-i-30312&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0qPPf7rnpO-UFbNZR0Ty5A))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Operation Sindhoor Row | 60 Politicians' Letter To PM Modi Sparks Nationwide Debate | News18**
-> *... change in the government's approach, prompting strong reactions from political ... Maggie Haberman &amp; Jonathan Swan - On “<b>Regime Change</b>” &amp; Inside The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3ajtT8YYLYU&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw298Ix4Jd_RpbOXMy7YN6bb))
+**🟢 The Unity Books bestseller chart for the week ending July 3 | The Spinoff**
+> *Parker has been touring Aotearoa doing events with adoring fans who buy books – yay, readers! 4 <b>Regime Change</b>: Inside the Imperial Presidency of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thespinoff.co.nz/books/03-07-2026/the-unity-books-bestseller-chart-for-the-week-ending-july-3-2&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3klMuZkw5ZgHcKQCAhWuWG))
 
-**🔴 FP Live With Michael Bustamante: Will the U.S. Invade Cuba? - Foreign Policy**
-> *But Cuba is not Venezuela. And the fallout from the conflict in Iran may <b>change</b> how Trump is thinking about getting mired in another foreign-policy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3za234dKdc1Kc9j5pOfr6O))
-
-**🟢 Haberman, Swan on '<b>Regime Change</b>' - Amanpour - Podcast on CNN Podcasts**
-> *&quot;Unprecedented&quot; is a word often used to described this second Trump presidency. A new book, &quot;<b>Regime Change</b>,&quot; gives the inside scoop of the first&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnn.com/audio/podcasts/amanpour/episodes/1067ea66-b53f-11f0-ba2f-7f5e2357ba7d&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1PD3nso94FtbW1A8anuTcs))
+**🟢 Recycling, Not <b>Mining</b>, Is India's Fastest Route To <b>Critical Minerals</b>: NITI Aayog**
+> *India cannot mine its way out of a <b>critical minerals shortage</b> fast enough. That was the message from NITI Aayog, the government's top policy think&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.groundreport.in/latest/recycling-not-mining-is-indias-fastest-route-to-critical-minerals-niti-aayog/&ct=ga&cd=CAIyGmU0ZDE2NzA0MThmMTdhNzI6Y29tOmVuOklO&usg=AOvVaw03cdVpYu4_ICojMFki7DT9))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 North Africa Regional Outlook: July 1, 2026 - Stimson Center**
-> *Burkina Faso, Mali, and Niger are reshaping the Sahel's political and <b>security</b> landscape. Watch the Stimson Center event of a rare joint conversation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.stimson.org/2026/north-africa-regional-outlook-july-1-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0M2pMz3oN8ZBq95eKBdt04))
+**🟢 US <b>economy</b> added jobs at a slower pace than expected in June - Fox Business**
+> *The Bureau of Labor Statistics released the closely watched June 2026 jobs report, which showed the U.S. <b>economy</b> added jobs at a steady pace last&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.foxbusiness.com/economy/us-jobs-report-june-2026&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2aV-v8cCOGt0IbB3dEF027))
 
-**🟢 Carney says Trudeau-era climate plan was 'too expensive' and 'divisive' | CBC News**
-> *Prime Minister Mark Carney echoed critics of the previous Liberal government's climate plan in a video posted on Tuesday, saying the plan he&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/politics/carney-trudeau-carbon-emissions-climate-change-9.7254619&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2uRnDefmziYDnlc0x0rXWo))
+**🟢 India, Japan reaffirm commitment to <b>Indo</b>-<b>Pacific</b> amid US dropping 'Indo' from Pacific Command**
+> *Progress under the Quadrilateral <b>Security</b> Dialogue (Quad) will be fast-tracked, particularly through the newly established <b>Indo</b>-<b>Pacific</b> Logistics&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indiasnews.net/news/279163195/india-japan-reaffirm-commitment-to-indo-pacific-amid-us-dropping-indo-from-pacific-command&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2H4Cb2JCIyYZAVYuI67Uk_))
 
-**🟢 India Rushes to Secure Rafale Combat Readiness as New French Support Deal Reshapes ...**
-> *... <b>Indo</b>-<b>Pacific security</b> environment. The negotiations also reveal how defence industrial cooperation between India and France is evolving beyond&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/india-rafale-french-support-deal-indo-pacific-airpower-balance/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2tXYlLbqesN0lxlroJ1A_h))
+**🟢 India, Japan seal $10 bn pacts, launch first defence co-development - MSN**
+> *... <b>Indo</b>-<b>Pacific security</b> strategies. Firstpost + 4. ¥10 trillion investment target set. Prime Minister Narendra Modi announced a goal to attract ¥10&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/news/insight/india-japan-seal-10-bn-pacts-launch-first-defence-co-development/gm-GMDF453444%3FgemSnapshotKey%3DGMDF453444-snapshot-1%26uxmode%3Druby&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1G5GSR6wxO2Jjotwg65Zpj))
 
-**🟢 Belgium reaffirmed its commitment to the United Nations Convention on the Law of the <b>Sea</b> ...**
-> *That will mean perpetual <b>tension</b> and even chaos in the oceans and seas of the world. ... China concerning the <b>South China Sea</b>. The EU recalls that the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/posts/belgium-reaffirmed-its-commitment-to-the-united-nations-convention-on-the-law-of/1573798028128781/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1RCBPf8x7qvOzDIfgB8lQt))
+**🟢 India-Japan Joint Declaration on Economic <b>Security</b> Cooperation**
+> *This declaration is a recognition that the synergy between the updated Free and Open <b>Indo</b>-<b>Pacific</b> and the Mutual and Holistic Advancement for <b>Security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mea.gov.in/press-releases%3Fdtl/41395&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw30IojoUi1Q_Sr9gUl3sTw_))
 
-**🟢 GreenMet leads W. Virginia <b>rare earths</b> hub - Metal Tech News**
-> *Flash <b>Metals</b>' role in the West Virginia partnership suggests Flash Joule Heating could be incorporated into the <b>rare earth</b> recovery pathway, though&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.metaltechnews.com/story/2026/07/08/mining-tech/greenmet-leads-w-virginia-rare-earths-hub/2822.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3RTjmRM_4pq5BGvJp8ZGr-))
+**🟢 How gold became the symbol of Donald Trump's second term - The Age**
+> *Donald Trump &middot; North America &middot; Trump diplomacy &middot; Peter Hartcher is <b>political</b> editor and international editor of The Sydney Morning Herald and The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theage.com.au/world/north-america/how-gold-became-the-symbol-of-donald-trump-s-second-term-20260702-p60c2d.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2o3Mkvu0gaNdD7klenWhPG))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
