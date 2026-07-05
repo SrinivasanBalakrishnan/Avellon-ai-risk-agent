@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 04 July 2026
+**Date:** 05 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Aluminum Pulls Back as Gulf Output Gradually Returns - TradingPedia
+**Source News:** Record <b>global energy</b> investment creates unprecedented opportunity for Africa, says Africa ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Aluminum Pulls Back as Gulf Output Gradually Returns - TradingPedia
+- **The News:** Record <b>global energy</b> investment creates unprecedented opportunity for Africa, says Africa ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Former National Security Advisor Calls Iran's $40 Billion Hormuz Toll <b>Threat</b> a &quot;Blackmail ...
+**Source News:** Wall Street bets rallying markets will absorb every market blow - Moneyweb
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Former National Security Advisor Calls Iran's $40 Billion Hormuz Toll <b>Threat</b> a &quot;Blackmail ...
+- **The News:** Wall Street bets rallying markets will absorb every market blow - Moneyweb
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Geopolitical risk</b> is now permanently priced into oil. $5 to $10 on top, indefinitely. #OilMarkets
+**Source News:** As macro signals begins to align finally, stage is already set for India's next bull run
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical risk</b> is now permanently priced into oil. $5 to $10 on top, indefinitely. #OilMarkets
+- **The News:** As macro signals begins to align finally, stage is already set for India's next bull run
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Bank Negara to keep policy rate in July review as <b>geopolitical risks</b> ease — DBS
+**Source News:** Bursa Malaysia poised to extend uptrend, eyes 1,700 level next week - Nst
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bank Negara to keep policy rate in July review as <b>geopolitical risks</b> ease — DBS
+- **The News:** Bursa Malaysia poised to extend uptrend, eyes 1,700 level next week - Nst
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
