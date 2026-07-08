@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 07 July 2026
+**Date:** 08 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** IIR's July 7 Market Scorecard Brings You Breaking <b>Geopolitical</b> News - Industrial Info
+**Source News:** Asia stocks slip as AI valuation fears, higher oil prices weigh on sentiment - Investing.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** IIR's July 7 Market Scorecard Brings You Breaking <b>Geopolitical</b> News - Industrial Info
+- **The News:** Asia stocks slip as AI valuation fears, higher oil prices weigh on sentiment - Investing.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** <b>Geopolitical risk</b> has not been resolved - The Globe and Mail
+**Source News:** GIFT Nifty falls 150 pts, signals weak start for Sensex, Nifty as renewed US-Iran tensions lift oil prices
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical risk</b> has not been resolved - The Globe and Mail
+- **The News:** GIFT Nifty falls 150 pts, signals weak start for Sensex, Nifty as renewed US-Iran tensions lift oil prices
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Global Reinsurance Market Briefing | Monte Carlo
+**Source News:** Travel insurers recalibrate <b>risk</b> as outbound student numbers soar, say insurance CEOs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Global Reinsurance Market Briefing | Monte Carlo
+- **The News:** Travel insurers recalibrate <b>risk</b> as outbound student numbers soar, say insurance CEOs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Live Updates: Latest from Israel, Iran, and Middle East | The Jerusalem Post
+**Source News:** 'We will survive': Ayatollah Khamenei's carefully crafted funeral | Responsible Statecraft
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Live Updates: Latest from Israel, Iran, and Middle East | The Jerusalem Post
+- **The News:** 'We will survive': Ayatollah Khamenei's carefully crafted funeral | Responsible Statecraft
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
