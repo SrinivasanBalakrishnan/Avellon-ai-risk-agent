@@ -1,99 +1,93 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 12 July 2026
+**Date:** 13 July 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 23.0)
-- **Taiwan Strait** (Risk Score: 9.0)
-- **Panama Canal** (Risk Score: 1)
+- **Strait of Hormuz** (Risk Score: 40.0)
+- **Taiwan Strait** (Risk Score: 23.5)
+- **Turkish Straits** (Risk Score: 2.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 WTI holds near $72 amid hopes of Iran de-escalation - Financial Mirror**
-> *Despite diplomatic progress, the <b>geopolitical risk</b> premium remains in place. ... Meanwhile, Rabobank noted that oil traffic through the Strait of Hormuz&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.financialmirror.com/2026/07/11/wti-holds-near-72-amid-hopes-of-iran-de-escalation/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw02c5DKVo52jPyGOnYObJ3r))
+**🔴 Conflict fails to dent Saudi Arabia's A+ rating - MEED**
+> *Ratings agency Fitch points to resilient economy and strong balance sheet, but warns <b>geopolitical risk</b> and rising debt remain weaknesses....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.meed.com/conflict-fails-to-dent-saudi-arabias-a-rating&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2kSPFkXyjHRaqFRWZP-Hw0))
 
-**🔴 Eni CEO warns oil could break above $100 in 2027 if Middle East tensions persist**
-> *... <b>geopolitical risk</b> premium embedded in the market. Brent Oil Futures settled at around $76 a barrel, up about 5.4% for the week, while Crude Oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/eni-ceo-warns-oil-could-break-above-100-in-2027-if-middle-east-tensions-persist-5492231&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ylfiLY3O0hdiKRZxtRJ75))
+**🔴 Gold slides over 1% as oil jumps 4% on Hormuz fears, Fed inflation warning - investingLive**
+> *... <b>geopolitical risk</b>. Oil's move higher builds directly on Monday's earlier 3% surge, extending the market's repricing of the weekend's expanded Gulf&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/gold-slides-over-1-as-oil-jumps-4-on-hormuz-fears-fed-inflation-warning&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw13KxKpfrEzjGrjy7059fhr))
 
-**🟢 Crude Oil Price Forecast July 2026: Brent and WTI Market Analysis - Intellectia AI**
-> *This dramatic price decline reflects a market rapidly repricing <b>geopolitical risk</b> premiums following positive developments in US-Iran diplomatic talks&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://intellectia.ai/blog/crude-oil-price-forecast-july-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0fZEjocGKf-qgtzfLyKQWG))
+**🔴 US-Iran War Live Updates: Iran claims attacks on US assets as Gulf remains on high alert**
+> *The renewed dispute over the strategic waterway has heightened concerns over <b>global energy</b> supplies and maritime <b>security</b>. The Iran-US conflict&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-west-asia-conflict-strait-of-hormuz-trump-tehran-talks-ceasefire-gulf-states/liveblog/132351209.cms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2stOL4GXr9A5XljZlZZWJ7))
 
-**🟡 <b>Global</b> Oil Market May Exceed $100 by Early 2027, Eni CEO Warns**
-> *He calls for diversification of supply routes and greater <b>energy security</b>. Table of Contents. Market Outlook and Strategic Implications; Risks&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/eni-ceo-oil-market-risks-breaking-out-current-range-early/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0QgplLyFkbNus2HB2MN1q1))
+**🟢 Ancient ties between India and Egypt shift gears to strategic partnership - Daily Pioneer**
+> *Both countries are committed to supporting the <b>global energy</b> transition while ensuring energy <b>security</b>. Fifth, people-to-people ties. Lasting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://dailypioneer.com/news/slug-lite/ancient-ties-between-india-and-egypt-shift-gears-to-strategic-partnership%3Fyear%3D2026&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3wwo3Z00ishttkVmhbfebX))
 
-**🟢 3 Strategic Moves: Strait of Hormuz Management Deal Boosts Regional <b>Security</b>**
-> *... and stabilize <b>global energy</b> flows. July 11, 2026 Hour: 12:29 pm. Comparte este artículo. PDF. Strait of Hormuz management talks between Iran and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.telesurenglish.net/strait-of-hormuz-management/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1PHE7kj6pnH3tNhysixN-R))
+**🔴 Grid War: How Geopolitics And Anxiety Drive Home Solar - Forbes**
+> *Recent cyberattacks, like Russia's 2025 &quot;wiper&quot; malware strike on Poland's power grid, highlight a critical shift in <b>energy security</b>. <b>Global</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forbes.com/sites/kensilverstein/2026/07/12/grid-war-how-geopolitics-and-anxiety-drive-home-solar/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1fIPH_Iw8yIgWIUdnpcuaT))
 
 
 ## 🏛 CYBER & TECH
-**🔴 Yields Break First as Markets Wait for Inflation Confirmation - ActionForex**
-> *Brent crude responded by surging above the psychologically important USD 80 level, reviving concerns that a <b>geopolitical risk</b> premium was returning to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.actionforex.com/action-insight/market-overview/weekly-report/646954-yields-break-first-as-markets-wait-for-inflation-confirmation/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw00dzM_eWPI0lBJry-3HnJp))
+**🔴 Indian markets open lower as US-Iran tensions rattle global sentiment - DD India**
+> *... risk-off sentiment to all markets,” he said. ... However, markets remain sensitive to developments in India-US trade negotiations and <b>geopolitical risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ddindia.co.in/2026/07/indian-markets-open-lower-as-us-iran-tensions-rattle-global-sentiment/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0zGNBhSRz-cmHqMX55F8NJ))
 
-**🟢 Iran Rules Out Talks Until U.S. Withdraws: <b>Geopolitical</b> Tensions Keep Markets on Edge**
-> *Markets React to <b>Geopolitical</b> Uncertainty &middot; 🛢️ Oil prices remained supported as traders assessed potential supply <b>risks</b>. &middot; Gold attracted safe-haven&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/343640118317345&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0VGteRVYb1HWh5iKRswbkg))
+**🔴 Oil rises, shipping in Strait of Hormuz slows after renewed US-Iran attacks - Anadolu Ajansı**
+> *... risks in the vital energy corridor. Brent crude, the international ... <b>geopolitical risk</b>.&quot; Share News. NSosyal. Anadolu Agency website contains&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/economy/oil-rises-shipping-in-strait-of-hormuz-slows-after-renewed-us-iran-attacks/3996014&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0PU05JiISgfSlL8BPo-9Qq))
 
-**🔴 China halts helium exports as renewed Middle East tensions threaten chip supplies**
-> *... risk of fresh ... The latest restriction appears aimed at ensuring sufficient domestic supply as <b>geopolitical risks</b> threaten global shipments....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://uk.finance.yahoo.com/news/china-halts-helium-exports-renewed-153408594.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3TOQ_eGtYUZ4AuW-l9i3W4))
+**🟢 Australia: Study projects future of disaster insurance in a changing <b>risk</b> environment**
+> *AI investment offsets <b>geopolitical risks</b> for Asia, says Swiss Re &middot; Record reinsurance capital supports growth and innovation for insurers: Aon &middot; VIG&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/96156/Type/eDaily/Australia-Study-projects-future-of-disaster-insurance-in-a-changing-risk-environment&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0LXQMEig9EdFXf_fX67VjI))
 
-**🔴 Can Australia avoid the next round of the <b>global energy</b> crisis? - ABC News**
-> *... <b>global energy</b> crisis. The tanker, capable of carrying 216,000 cubic ... NYT reporters subpoenaed over Air Force One <b>security</b> concerns stories....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-07-12/australia-avoiding-next-round-of-the-global-energy-crisis/106902908&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1fFRcow7pKTkS_5e_x1i_F))
+**🟢 Bitcoin steadies near $64,000 as Middle East <b>risks</b> loom, CPI eyed - CHOSUNBIZ**
+> *<b>Geopolitical risk</b> in the Middle East rose again after the United States carried out additional strikes on Iran and declared a blockade of the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://biz.chosun.com/en/en-finance/2026/07/13/SD3ZNHCDI5CKRNZK5DOH7TQCNM/%3FoutputType%3Damp&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0UyYAwLFqxyLs7zmy2xI6u))
 
-**🔴 Middle East tensions threaten to push oil prices beyond current range, Eni CEO says**
-> *He said the long-term solution lies in strengthening <b>energy security</b> through diversified supply sources and transport routes. <b>Global</b> oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sana.sy/en/economic/2328816/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0LT9Xx9KBieB8Qbun7zg3e))
+**🔴 Iran expands regional attacks as tensions with U.S. escalate**
+> *The conflict has intensified concerns over regional <b>security</b> and <b>global energy</b> markets, as disruptions to shipping through the Strait of Hormuz&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sana.sy/en/international/2329100/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3rdDijDjyfLBfmZYJ3dVyq))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 The Next Bull Market Could Be Built on Inventory Replenishment | OilPrice.com**
-> *However, production capacity cannot eliminate <b>geopolitical risk</b> on its own. Every additional barrel still depends on pipelines, export terminals&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Crude-Oil/The-Next-Bull-Market-Could-Be-Built-on-Inventory-Replenishment.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw35uTeg3YFH5L4oUFRABRq_))
+**🟡 Brent Futures (UKOIL-F) Surges on Jul 13: What Lie behind the Move? - TradingKey**
+> *Brent crude prices surged today as escalating <b>geopolitical risks</b> in the Middle East significantly tightened the risk premium. Reports of a direct&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/news/market-movers/262025253-market-movers-ukoil-f-20260713&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1mXEjYpRwPdRkq7uoAhWKD))
 
-**🟡 Weekly Review &amp; Indian Stock Market Prediction (July 13th – 17th, 2026) - Liquide Blog**
-> *The episode reinforced crude oil and <b>geopolitical risks</b> as key market drivers. 2. TCS Q1 Boosts IT Sentiment. TCS delivered better-than-expected Q1&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://blog.liquide.life/weekly-review-indian-stock-market-prediction-july-13th-17th-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1vjpqcnB54OeCzq9QpmQyz))
+**🟢 Asia top stories - weekly summary - ICIS**
+> *INSIGHT: Global ammonia market's return to fundamentals fraught with <b>geopolitical risks</b> ... risk as events this week have borne out earlier&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.icis.com/explore/resources/news/2026/07/13/11223415/asia-top-stories-weekly-summary&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3jfkPguuGdb1F65t7xBxuu))
 
-**🟢 DOE's Grid Modernization Initiative targets 21st-century grid demands with national lab partnerships**
-> *... <b>security</b>, or flexibility requirements that modern energy demand places on it. ... <b>global energy</b> supply growth. This trend was highlighted by a notable&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketscale.com/industries/energy/does-grid-modernization-initiative-targets-21st-century-grid-demands-with-national-lab-partnerships&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2llVsJkv2vLAO3i0IooQJO))
+**🔴 IEA Urges EU to Rethink Arctic Drilling Ban - Egypt Oil &amp; Gas**
+> *... <b>energy security</b>,” Birol ​told media in Brussels. “The <b>world</b> needs every drop of oil from Norway,” he added, describing the country as a trusted&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://egyptoil-gas.com/news/iea-urges-eu-to-rethink-arctic-drilling-ban/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0Lv4fLu9ODkYtUWCNaS7PW))
 
-**🟢 The Big E20 Fuel Debate: India's <b>Energy Security</b> Solution Or A Risk For Your Car?**
-> *TakeThree | Is India's E20 push the road to <b>energy security</b>, or are key concerns being overlooked ... Go to channel Hook <b>Global</b> &middot; 'Back On Its Knees For&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dj4UwX7x1a2Q&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw24V8wYzNLgfb1l1mmyXBXK))
+**🔴 Gold, Silver Face Volatility Amid US-Iran <b>Tensions</b>, Crude Oil Spike: Analysts - NDTV Profit**
+> *... <b>Tension</b>: Check Gold, Silver Rates Across Major Indian Cities. Advertisement ... China Rejects Support For 2016&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtvprofit.com/markets/gold-silver-face-volatility-amid-us-iran-tensions-crude-oil-spike-analysts-11761335&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw01XRk4CZE6lUNXtK7vl2kv))
 
-**🟢 Vedanta targets 500,000 bpd oil and gas output to boost India's <b>energy security</b>**
-> *India currently imports nearly 90% of its oil and gas requirements, leaving the economy exposed to <b>global</b> supply disruptions and price volatility....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/vedanta-targets-500-000-bpd-oil-and-gas-output-to-boost-india-s-energy-security-13971566.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3sSC8QsGvVOGjPGw2yguqm))
+**🔴 How a <b>Sovereign Debt Crisis</b> Actually Works – The Mechanics of Collapse - YouTube**
+> *How a <b>Sovereign Debt Crisis</b> Actually Works – The Mechanics of Collapse <b>Sovereign debt crises</b> don't happen overnight — they follow a predictable,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHqKVIJlu9Eo&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0p22ZcELZGh0ZRw8RuTdPc))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Trump threatens to decimate Iran if <b>regime</b> tries to assassinate him - CBS New York**
-> *... <b>regime</b>-tries-to-assassinate-him/. Featured: Student Loan <b>Changes</b> &middot; Essential American Songbook &middot; World Cup Power Rankings &middot; NBA Free Agency Tracker....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/newyork/video/trump-threatens-to-decimate-iran-if-regime-tries-to-assassinate-him/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1Lgt0d99U8zp7QVrH5-4XB))
+**🟢 Ten years on, it is time for the Philippines to move beyond the '<b>South China Sea</b> arbitration myth'**
+> *... <b>tension</b>, sparking widespread anxiety among neighboring countries. What Philippine policymakers should reflect on even more deeply is the actual&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globaltimes.cn/page/202607/1365720.shtml&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw0INrTOa_ruROONeHJu2Q3M))
 
-**🔴 UPDATE: Iran's supreme leader on Saturday vowed revenge for the US-Israeli killing of his ...**
-> *<b>Regime change</b> is truly a must. Just now. Recent ... This escalation follows a joint U.S.-Israeli strike that targeted Khamenei's compound in Tehran as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/posts/update-irans-supreme-leader-on-saturday-vowed-revenge-for-the-us-israeli-killing/1589694973205753/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2Y6uYIm9wIo3n_n_nhUpxr))
+**🟡 <b>Regime Change</b>: The chaos of Donald Trump exposed in blow-by-blow accounts of highly ...**
+> *How the second coming of the most mercurial US leader in history ushered in a presidency driven by 'pure gut instinct'...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.irishtimes.com/culture/books/review/2026/07/11/regime-change-the-chaos-of-donald-trump-exposed-in-blow-by-blow-accounts-of-highly-sensitive-meetings/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2lI2jtmy-uZYBjC_iAykGl))
 
-**🟢 Love, actually, at 31: A 'sexually non-exclusive' couple who can't agree on having kids | The Spinoff**
-> *'I would feel terrible bringing kids into this world, but she thinks I would make a good dad.'...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thespinoff.co.nz/society/12-07-2026/love-actually-at-31-a-sexually-non-exclusive-couple-who-cant-agree-on-having-kids&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1HK0J8rwICPoIuBQ97GM9s))
-
-**🟡 Trump rips Haberman, says she'll 'pay the price' over health reporting - The Hill**
-> *... <b>Regime Change</b>” at number one for the week of July 5, 2026. “Many people disagree with the president's assessment,” Swan wrote. “Thanks to you all&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thehill.com/homenews/5964144-trump-slams-maggie-haberman/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3Pms-zIOEKqm8iJ7WgYDjU))
-
-**🟢 'Demanding a <b>change</b>': Democrats eye flipping seat in Wisconsin - YouTube**
-> *... change.&quot; MS NOW: My Source for News, Opinion, and the World ... <b>Regime Change</b>' authors on the President's mental acuity. MS NOW. New. 50K&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Db6w_y9NJQK8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3ovl3boaij1MsAUtZApD4j))
+**🟢 Romania: MEK Supporters in Bucharest Hold Exhibition Protesting Executions in Iran**
+> *MEK supporters in Bucharest held a photo exhibition and information stand on July 11, 2026 to protest Iran <b>regime</b> executions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://iranfreedom.org/en/iranian-communities/2026/07/romania-mek-supporters-in-bucharest-hold-exhibition-protesting-executions-in-iran/88167/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3kq7r4Qqg20Eb0e6pIhorJ))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Bitcoin nears bottom amid Middle East tensions and Fed rate hold at 3.50%-3.75% - Pluang**
-> *... <b>geopolitical risks</b> weigh on sentiment, yet signs like reduced institutional selling and new accumulation around $60k-$63k suggest Bitcoin may be&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://pluang.com/en/news-feed/bitcoin-mendekati-pasar-terendah-meski-aliran-keluar-spot-etf-8-miliar&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1gfOWYeLsQUFanthgk5wCo))
+**🟢 Beyond Demand: Securing the next wave of data centre investment in Asia Pacific**
+> *Regulatory and <b>geopolitical risk</b> is moving into the core of deal structuring. Regulation is becoming a more significant driver of data centre strategy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hsfkramer.com/insights/2026-07/data-centres-deconstructed&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0En9n4sIo_Pnlyw0g7-f8r))
 
-**🟡 Gold tests $4100 as the inversion dynamic tightens its grip - but the selling may be nearly exhausted**
-> *... <b>geopolitical risk</b>. In decades past, renewed hostilities between the United States and Iran would have sent capital flooding into gold as a safe&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/opinion/2026-07-10/gold-tests-4100-inversion-dynamic-tightens-its-grip-selling-may-be-nearly&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Jx2Hlak7twHgvFHQKRum7))
+**🟢 3 Penny Stocks With Positive Earnings And Low P E Ratios - Simply Wall St News**
+> *... <b>geopolitical risks</b>, many investors are looking for lower-priced stocks ... At the same time, the company carries meaningful funding risk, as its&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/in/consumer-durables/bse-512257/swasti-vinayaka-art-and-heritage-shares/news/3-penny-stocks-with-positive-earnings-and-low-p-e-ratios&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2qmV6h3zUDEqFjAtlgGBkL))
 
-**🟢 A&amp;O Shearman guides EQT on acquisition of Copia Power**
-> *The acquisition unites EQT's <b>global</b> infrastructure investment platform with Copia Power's proven development capabilities across large-scale power&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aoshearman.com/news/ao-shearman-guides-eqt-on-acquisition-of-copia-power&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3fXkeYg_fV7zEjM8zP7VB4))
+**🟢 What Canada's TKMS sub deal means for the <b>Indo</b>-<b>Pacific</b> - Asia Times**
+> *Furthermore, the working assumption that frameworks like AUKUS or the Quadrilateral <b>Security</b> Dialogue, and shipbuilding partnerships have been that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/2026/07/what-canadas-tkms-sub-deal-means-for-the-indo-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3elEnTXu5Fupjqu3yR1MGf))
 
-**🟢 Why America is Fighting China for the Panama Canal | The Blueprint - YouTube**
-> *Why do Donald Trump and the United States care so much about the Panama Canal and why is China at the centre of this geopolitical confrontation?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DM0dVPr74oN8&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1rta_BBwGDmlYOIENzp6WU))
+**🟢 Key Achievements Of The Japanese PM's Visit To India - Analysis - Eurasia Review**
+> *Analysis 1 Business East <b>Asia Pacific</b> South and Central Asia. Key ... Maritime Connectivity And <b>Security</b> In The <b>Indo</b>-<b>Pacific</b> 2.0 – Analysis....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/13072026-key-achievements-of-the-japanese-pms-visit-to-india-analysis/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw09AlywhxSQKVFfI_jAfzYk))
 
-**🟢 India Elevates Defence Ties with <b>Indonesia</b>: BrahMos Missile Agreement Marks New Era ...**
-> *... <b>security</b> partnership at a time when geopolitical competition in the <b>Indo</b>-<b>Pacific</b> is intensifying. The BrahMos agreement represents far more than a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://government.economictimes.indiatimes.com/news/defence/india-elevates-defence-ties-with-indonesia-brahmos-missile-agreement-marks-new-era/132339842&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3uomsGXqpStyqG0-1qixkZ))
+**🟢 How Seychelles Can Boost India's Defence Diplomacy | India Narrative**
+> *... <b>security</b> architecture without generating the kind of overtly confrontational atmosphere associated with the United States' <b>Indo</b>-<b>Pacific</b> strategy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indianarrative.com/opinion/how-seychelles-can-boost-indias-defence-diplomacy/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0qePvtUB4sUHZSgcK4ZCqY))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

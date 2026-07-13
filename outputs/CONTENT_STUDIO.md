@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 July 2026
+**Date:** 13 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** WTI holds near $72 amid hopes of Iran de-escalation - Financial Mirror
+**Source News:** Conflict fails to dent Saudi Arabia's A+ rating - MEED
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** WTI holds near $72 amid hopes of Iran de-escalation - Financial Mirror
+- **The News:** Conflict fails to dent Saudi Arabia's A+ rating - MEED
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Yields Break First as Markets Wait for Inflation Confirmation - ActionForex
+**Source News:** Indian markets open lower as US-Iran tensions rattle global sentiment - DD India
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Yields Break First as Markets Wait for Inflation Confirmation - ActionForex
+- **The News:** Indian markets open lower as US-Iran tensions rattle global sentiment - DD India
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The Next Bull Market Could Be Built on Inventory Replenishment | OilPrice.com
+**Source News:** Brent Futures (UKOIL-F) Surges on Jul 13: What Lie behind the Move? - TradingKey
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Next Bull Market Could Be Built on Inventory Replenishment | OilPrice.com
+- **The News:** Brent Futures (UKOIL-F) Surges on Jul 13: What Lie behind the Move? - TradingKey
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump threatens to decimate Iran if <b>regime</b> tries to assassinate him - CBS New York
+**Source News:** Ten years on, it is time for the Philippines to move beyond the '<b>South China Sea</b> arbitration myth'
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump threatens to decimate Iran if <b>regime</b> tries to assassinate him - CBS New York
+- **The News:** Ten years on, it is time for the Philippines to move beyond the '<b>South China Sea</b> arbitration myth'
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
