@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 15 July 2026
+**Date:** 16 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The Hormuz <b>Energy</b> Crisis Generates a Tailwind for Nuclear <b>Energy</b> in Northeast Asia
+**Source News:** European shares eke out slim gains on luxury rebound even as war <b>risks</b> persist
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Hormuz <b>Energy</b> Crisis Generates a Tailwind for Nuclear <b>Energy</b> in Northeast Asia
+- **The News:** European shares eke out slim gains on luxury rebound even as war <b>risks</b> persist
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Big Banks Smash Earnings Records, but 'Tectonic' <b>Risks</b> Loom - The New York Times
+**Source News:** Macro Scenarios in Focus: Assessing Portfolio Resilience to AI and <b>Geopolitical Risks</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Big Banks Smash Earnings Records, but 'Tectonic' <b>Risks</b> Loom - The New York Times
+- **The News:** Macro Scenarios in Focus: Assessing Portfolio Resilience to AI and <b>Geopolitical Risks</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Asia FX Talk - US inflation decline softens Fed rate hike expectations - MUFG Research
+**Source News:** India's refining rise: From oil importer to <b>global</b> fuel supplier - The Pioneer
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia FX Talk - US inflation decline softens Fed rate hike expectations - MUFG Research
+- **The News:** India's refining rise: From oil importer to <b>global</b> fuel supplier - The Pioneer
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** This 'stealth wealth tax' leaves Kiwis retiring $600,000 poorer. Here's why it's unlikely to <b>change</b> | Stuff
+**Source News:** Why <b>Indo</b>-<b>Pacific</b> needs to be central to India's foreign policy - The Kathmandu Post
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** This 'stealth wealth tax' leaves Kiwis retiring $600,000 poorer. Here's why it's unlikely to <b>change</b> | Stuff
+- **The News:** Why <b>Indo</b>-<b>Pacific</b> needs to be central to India's foreign policy - The Kathmandu Post
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
