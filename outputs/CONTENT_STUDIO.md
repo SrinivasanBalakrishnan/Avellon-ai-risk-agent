@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 July 2026
+**Date:** 17 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** European shares eke out slim gains on luxury rebound even as war <b>risks</b> persist
+**Source News:** Forrester Global Sovereignty Forecast: Despite Rising <b>Geopolitical</b> Tensions, Technology ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** European shares eke out slim gains on luxury rebound even as war <b>risks</b> persist
+- **The News:** Forrester Global Sovereignty Forecast: Despite Rising <b>Geopolitical</b> Tensions, Technology ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Macro Scenarios in Focus: Assessing Portfolio Resilience to AI and <b>Geopolitical Risks</b>
+**Source News:** <b>Geopolitical risk</b> has not been resolved - The Globe and Mail
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Macro Scenarios in Focus: Assessing Portfolio Resilience to AI and <b>Geopolitical Risks</b>
+- **The News:** <b>Geopolitical risk</b> has not been resolved - The Globe and Mail
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** India's refining rise: From oil importer to <b>global</b> fuel supplier - The Pioneer
+**Source News:** The BR International Trade Report: July 2026 - Blank Rome
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India's refining rise: From oil importer to <b>global</b> fuel supplier - The Pioneer
+- **The News:** The BR International Trade Report: July 2026 - Blank Rome
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Why <b>Indo</b>-<b>Pacific</b> needs to be central to India's foreign policy - The Kathmandu Post
+**Source News:** Trump's 'big news' speech only confirmed his own midterm crisis - SMH
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why <b>Indo</b>-<b>Pacific</b> needs to be central to India's foreign policy - The Kathmandu Post
+- **The News:** Trump's 'big news' speech only confirmed his own midterm crisis - SMH
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
