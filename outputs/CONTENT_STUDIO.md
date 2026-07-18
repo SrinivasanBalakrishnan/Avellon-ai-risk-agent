@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 17 July 2026
+**Date:** 18 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Forrester Global Sovereignty Forecast: Despite Rising <b>Geopolitical</b> Tensions, Technology ...
+**Source News:** Gold climbs as Iran war premium revives Fed hike <b>risk</b> - FXStreet
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Forrester Global Sovereignty Forecast: Despite Rising <b>Geopolitical</b> Tensions, Technology ...
+- **The News:** Gold climbs as Iran war premium revives Fed hike <b>risk</b> - FXStreet
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** <b>Geopolitical risk</b> has not been resolved - The Globe and Mail
+**Source News:** Moody's Predicts Slower Growth For India Amid <b>Geopolitical</b> Upheaval, Trade Disruptions
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical risk</b> has not been resolved - The Globe and Mail
+- **The News:** Moody's Predicts Slower Growth For India Amid <b>Geopolitical</b> Upheaval, Trade Disruptions
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The BR International Trade Report: July 2026 - Blank Rome
+**Source News:** South China Sea: Rising Maritime and <b>Geopolitical</b> Tensions - Crisis24
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The BR International Trade Report: July 2026 - Blank Rome
+- **The News:** South China Sea: Rising Maritime and <b>Geopolitical</b> Tensions - Crisis24
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Trump's 'big news' speech only confirmed his own midterm crisis - SMH
+**Source News:** Japan to Launch First Centralized Intelligence Agency, Experts Link Move to 2022 National ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump's 'big news' speech only confirmed his own midterm crisis - SMH
+- **The News:** Japan to Launch First Centralized Intelligence Agency, Experts Link Move to 2022 National ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

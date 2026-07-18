@@ -1,99 +1,96 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 17 July 2026
+**Date:** 18 July 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 46.0)
-- **Taiwan Strait** (Risk Score: 18.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 5.0)
+- **Strait of Hormuz** (Risk Score: 35.0)
+- **Taiwan Strait** (Risk Score: 29.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 10.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 Forrester Global Sovereignty Forecast: Despite Rising <b>Geopolitical</b> Tensions, Technology ...**
-> *... <b>geopolitical risks</b>. The index assesses each country across nine dimensions of technology sovereignty: government AI investment, cloud sovereignty&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forrester.com/press-newsroom/forrester-global-sovereignty-forecast-2030/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0MN6QnH9bg_A-FgnnQdmFx))
+**🔴 Gold climbs as Iran war premium revives Fed hike <b>risk</b> - FXStreet**
+> *<b>Geopolitical</b> instability or fears of a deep recession can quickly make Gold price escalate due to its safe-haven status. As a yield-less asset, Gold&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/gold-climbs-as-iran-war-premium-revives-fed-hike-risk-202607171819&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3VtbcBUMNhdRYhbfuTTfgG))
 
-**🔴 IEA warns Strait of Hormuz disruption could deepen <b>global energy</b> crisis, hit Asia hardest**
-> *The escalating military confrontation between the United States and Iran has raised fresh concerns over <b>global energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/world/iea-warns-strait-of-hormuz-disruption-could-deepen-global-energy-crisis-hit-asia-hardest-article-13976281.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw38KsyX1Vh0pJMaUgUXFq76))
+**🟢 Viet Nam hopes to enhance nuclear <b>energy</b> cooperation with Bulgaria: ambassador**
+> *She made the remark while addressing an annual international conference on Bulgarian nuclear energy and national, regional, and <b>global energy security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mst.gov.vn/viet-nam-hopes-to-enhance-nuclear-energy-cooperation-with-bulgaria-ambassador-197260717155600608.htm&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0RVZCcQd5n2yF2CGTkqLKm))
 
-**🔴 IEA chief warns Strait of Hormuz crisis threatens <b>global energy security</b> - Al Jazeera**
-> *Fatih Birol says 'oil <b>security</b> is still a critical issue' and <b>world</b> should be 'worried' if situation does not improve....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2NJEDynlPXroxC4d8IK0Za))
+**🟡 Iran war: How has China's <b>energy</b> transition been impacted? - The World Economic Forum**
+> *... energy flows through the Strait of Hormuz. “It also reflects the fact that analysts in China see the nature of <b>global energy security</b> changing....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.weforum.org/stories/energy-transition/iran-war-china-oil-energy-transition-impacted/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0-X-E2kvrbJIrH8nT6crZI))
 
-**🔴 Iran war live: US carries out strikes on civilian infrastructure in south - Al Jazeera**
-> *IEA chief warns of risk to <b>global energy security</b> if Strait of Hormuz remains shut ... The executive director of the International Energy Agency (IEA)&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3-fOc8fGSwjAZXZynyCtOV))
+**🟢 Inflation is softening. Can it last with <b>war</b> and tariffs? - Marketplace**
+> *A look at promising inflation data, new tariffs, and the rest of the week's <b>economic</b> news for the Weekly Wrap....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketplace.org/story/2026/07/17/inflation-is-softening-can-it-last-with-war-and-tariffs&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2AmPvggCW0nsAGl8zg0hPi))
 
-**🟡 IEA warns <b>global energy security</b> at risk if Strait of Hormuz remains shut - UNB**
-> *International Energy Agency (IEA) Executive Director Fatih Birol has cautioned that <b>global energy security</b> will remain under threat unless oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://unb.com.bd/category/World/iea-warns-global-energy-security-at-risk-if-strait-of-hormuz-remains-shut/190823&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1_UL392SMudFYYQ_fSMcnP))
+**🟢 America's <b>war</b> on international justice - Middle East Monitor**
+> *Investigate alleged crimes by Israel, or leave open the possibility that American personnel could face scrutiny, and Washington reaches for <b>economic</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.middleeastmonitor.com/20260717-americas-war-on-international-justice/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2BO76wIW-SE9z-a-Vmuru1))
 
 
 ## 🏛 CYBER & TECH
-**🟢 <b>Geopolitical risk</b> has not been resolved - The Globe and Mail**
-> *We remain invested with a view of continuing resilient global growth, despite a challenging <b>geopolitical</b> environment and renewed inflationary pressure&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/funds/MAX8036.CF/pressreleases/3151779/geopolitical-risk-has-not-been-resolved/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0sD4z30B87vPOEtNWdgM4k))
+**🟢 Moody's Predicts Slower Growth For India Amid <b>Geopolitical</b> Upheaval, Trade Disruptions**
+> *South Asian Countries at more <b>risk</b> if Strait of Hormuz remains closed. On the other hand, the International Energy Agency has highlighted the <b>risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.thewire.in/article/economy/moodys-predicts-slower-growth-india-west-asia-crisis&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2LnWhjbCFBihnGWMmpuiTh))
 
-**🟢 Tracking 2026 midyear trends: <b>Geopolitical</b>, AI, inflation and people <b>risk</b> - WTW**
-> *Boards and executives report ongoing volatility across <b>geopolitics</b>, AI and new technologies, economics, and people <b>risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wtwco.com/en-gb/insights/2026/07/tracking-2026-midyear-trends-geopolitical-ai-inflation-and-people-risk&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2SqJPuAYHZpKK8MUE5hiwD))
+**🟢 Interview with Anni Coonan, Senior Analyst and Stepwise Editor - Steptoe**
+> *... <b>risks</b> for non-Strait energy transit options (like pipelines) and renewables. In the Stepwise <b>Risk</b> Outlook we try to surface <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/interview-with-anni-coonan-senior-analyst-and-stepwise-editor.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_pRI-rhk1z3SMYo7toL0J))
 
-**🟢 Strategists are backing AI and US equities to drive H2 returns, even as inflation remains a concern**
-> *Inflation and <b>geopolitical risk</b>. Inflation remains persistent in H2, driven by the US-Iran related spike in energy costs. Overall, almost all (97&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.adviservoice.com.au/2026/07/strategists-are-backing-ai-and-us-equities-to-drive-h2-returns-even-as-inflation-remains-a-concern-says/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2CLS0lNgPZ3VHhSmEsOLOM))
+**🟢 Oil rises about 4%, heads for double-digit weekly gains on U.S.-Iran escalation**
+> *... <b>geopolitical risk</b> premium in prices. Still, &quot;there is a lack of urgency in oil circles at present,&quot; said Tamas Varga, analyst at PVM Oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/oil-heads-for-weekly-surge-as-usiran-strikes-stoke-supply-fears-5500702&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw12xYMo-ma-5LRhBQmOUvA3))
 
-**🟢 <b>Global energy security</b> at risk if Strait of Hormuz does not open in weeks, IEA chief says**
-> *If the United States and Iran do not increase oil flowing through the Strait of Hormuz soon, the <b>world</b> should worry about <b>energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.rnz.co.nz/news/world/732156/global-energy-security-at-risk-if-strait-of-hormuz-does-not-open-in-weeks-iea-chief-says&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2BpUiEDcPR9a35fjtc0R_n))
+**🟡 Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz**
+> *Analysts have cautioned that pipelines can act as a hedge against <b>geopolitical risk</b> in Hormuz, but they do not resolve the underlying threat posed by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/07/17/iran-war-iraq-syria-oil-pipeline-strait-hormuz.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1WR-rvlECNdlSrQ-6rVevW))
 
-**🟡 China's AI ascendance gives Xi a stage and a <b>security</b> dilemma - The Japan Times**
-> *<b>ASIA PACIFIC</b>. China's AI ascendance gives Xi a stage and a <b>security</b> dilemma ... <b>security</b> alarm in Washington and Beijing alike. Xi is expected to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2026/07/17/asia-pacific/china-ai-rise-xi-jinping/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1MbqelbQU8hOOMCsLVwTGY))
+**🟢 Steven Cress' Top 2 Stocks H2 2026 (undefined:CRDO) | Seeking Alpha**
+> *Market volatility in H1 2026, driven by inflation, <b>geopolitical risk</b>, and AI CapEx, has created compelling buy-the-dip opportunities for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4922783-steven-cress-top-2-stocks-h2-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1jZ-eTnJSjt_g2QS7k1KGw))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 The BR International Trade Report: July 2026 - Blank Rome**
-> *... <b>geopolitical risk</b> issues impacting businesses domestically and abroad. We invite you to share this resource with your colleagues and visit Blank&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.blankrome.com/news-and-events/the-br-international-trade-report-july-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ebPvVw34Ml6B3Whw8lccu))
+**🟡 South China Sea: Rising Maritime and <b>Geopolitical</b> Tensions - Crisis24**
+> *Rising tensions over the South China Sea anniversary are creating new operational and investment <b>risks</b> for maritime, energy, and trade businesses&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.crisis24.com/articles/south-china-sea-rising-maritime-and-geopolitical-tensions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3K2BlKjbkyn6rqGj_50Xx8))
 
-**🟢 Energy &amp; Utilities Roundup: Market Talk - WSJ**
-> *... <b>geopolitical risk</b> premium over the coming weeks and months,” BCA Research's chief commodity strategist Roukaya Ibrahim says in a report. Even if&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/business/energy-utilities-roundup-market-talk-e3d3f80b&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw29Fr51UB5NpH8jT4zSRvfA))
+**🟢 Tesla, SpaceX and Meta Forecasts – <b>Geopolitical Risks</b> Trigger Pre-Market Tech Selling**
+> *Tesla, SpaceX and Meta Forecasts – <b>Geopolitical Risks</b> Trigger Pre-Market Tech Selling. Christopher Lewis. Fri, 17 July 2026 at 6:06 am GMT-7 3&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://uk.finance.yahoo.com/news/tesla-spacex-meta-forecasts-geopolitical-130655837.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw002Ov2cHSCHvk0LfOYMtQs))
 
-**🔴 Market outlook: beyond the chokepoint: how the Middle East conflict is triggering a global ...**
-> *Previous oil shocks were driven by physical supply losses, whereas the Hormuz disruption increasingly reflected the pricing of <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energyconnects.com/opinion/features/2026/july/market-outlook-beyond-the-chokepoint-how-the-middle-east-conflict-is-triggering-a-global-energy-reset/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1nGuLUszzzisYG6_UvQpW9))
+**🟢 Trade Tools for Accelerating the Electric Vehicle Transition: Best Practices from Existing Frameworks**
+> *... <b>geopolitical risk</b>. Rules of Origin. Rules of origin (RoO) sit at the heart of EV-related trade governance because they shape where investment flows&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.csis.org/analysis/trade-tools-accelerating-electric-vehicle-transition-best-practices-existing-frameworks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2zw2fT_o4OKZX-9uxRnTIF))
 
-**🟢 Market Bell update - 24/7 Wall St.**
-> *Markets turn cautious as fresh <b>geopolitical risk</b> collides with a slate of major earnings reports expected through the close....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://247wallst.com/cards/markets-turn-cautious-as-fresh-geopolitical-risk-collides-wi-gspc-market-bell-01kxnkrtdffa4bjxxbxswfamp5&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3DkCxtyCGo7lwHyBDSYlmJ))
+**🟢 Western oil companies see 'fantastic' future in Iraq, sign agreements | Reuters**
+> *... <b>global energy security</b>. BP has a long history in Iraq, having been involved in the discovery of Kirkuk in 1927. Advertisement · Scroll to continue....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/western-oil-companies-see-fantastic-future-iraq-sign-agreements-2026-07-17/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3cLWZ3Cf6Tn0Y6FWXNCnRi))
 
-**🟢 Investor Caution Starts to Override Market Optimism - StoneX**
-> *Consequently, markets are becoming more sensitive to <b>geopolitical</b> headlines than to corporate results, reducing investors' willingness to extend <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.stonex.com/en/insights/investor-caution-starts-to-override-market-optimism/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_CtXHA9yz1R5I6_C3utRz))
+**🟢 What the Modi-Prabowo Summit Reveals About <b>Indo</b>-<b>Pacific</b> Realignment - RSIS**
+> *The Deliverables: Defence, Maritime <b>Security</b>, Minerals and Trade. The headline outcome was a defence agreement allowing <b>Indonesia</b> to acquire India's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rsis.edu.sg/rsis-publication/rsis/what-the-modi-prabowo-summit-reveals-about-indo-pacific-realignment/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0lIuNoIinNx7lt86xVtAW6))
 
 
 ## 🏛 LEADERSHIP
-**🔴 Trump's 'big news' speech only confirmed his own midterm crisis - SMH**
-> *There has been no <b>regime change</b>; the hardliners in Tehran are even harder. Iran continues to support its terrorist proxies in the region. Trump's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.smh.com.au/world/north-america/trump-s-big-news-speech-only-confirmed-his-own-midterm-crisis-20260717-p60g5b.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw35eO0x-5d5bLcJL1k03_8R))
+**🟢 Japan to Launch First Centralized Intelligence Agency, Experts Link Move to 2022 National ...**
+> *Rupal Kalebere, an emerging expert on <b>Indo</b>-<b>Pacific</b> geopolitics and Japan's <b>security</b> policy, told Vision Times that the 2022 NSS provides for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.visiontimes.com/2026/07/17/japan-to-launch-first-centralized-intelligence-agency-experts-link-move-to-2022-national-security-strategy.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw08dqbsh9GLV3DLKo8vnTjO))
 
-**🟢 There Are No Good Options Left on Iran - by Ilan Goldenberg**
-> *... <b>regime change</b> operations, supporting Kurdish separatists, large-scale invasions, or attempting to install a new government in Tehran. Most of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jstreetdotorg.substack.com/p/there-are-no-good-options-left-on&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw07raJLJ8duYqTDG0Rq-XhD))
+**🟢 Internal <b>regime change</b> appears to be 'brewing' in Iran, says Victoria Coates - Fox News**
+> *Former Deputy National Security Advisor Victoria Coates and retired Navy Capt. Brent Sadler discuss the state of Iran's ruling <b>regime</b> on 'Hannity....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/video/6401438929112&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw39WjHOvNCMQDWbOEpBQWNj))
 
-**🟢 US-Best-Sellers-Books-PW - myMotherLode.com**
-> *“<b>Regime Change</b>” by Haberman/Swan (Simon &amp; Schuster). 2. “Revolution” by Eric Metaxas (Odysseus). 3. “Cancel Me If You Can” by Dave Portnoy (Gallery)....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://mymotherlode.com/news/national/10998851/us-best-sellers-books-pw.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2dCWkFVNMAX1kXD_2z4etC))
+**🟡 Capital with a compass: How to unlock investments in the hardest places | Brookings**
+> *A plume of smoke rises after a strike on the Iranian capital Tehran, on March. Iran Any attempt at <b>regime change</b> is likely to repeat past mistakes....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brookings.edu/articles/unlocking-private-investment-fragile-states/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0izGr0xg_2I1EMLD087li0))
 
-**🟡 The conspiracy theories that have shaped American history - YouTube**
-> *Author Talk: Maggie Haberman and Jonathan Swan — <b>Regime Change</b>- with Tim Alberta. Politics and Prose•75K views &middot; 56:47. Go to channel PBS NewsHour&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dcv_TKD9UHOo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0eC1Ny4MSo7ciCN_7lMf2i))
-
-**🟢 The Election Deniers Are in Charge Now - YouTube**
-> *... change all of the locks. Get more from your favorite Atlantic ... Maggie Haberman ('<b>Regime Change</b>') on Trump Term 2, Epstein Files, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DWpYUc3Zjymo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2K5QAgsTNK-PJND-Fhxpel))
+**🟢 Overvalued, Bubble, or Revolution? - The Big Picture - Barry Ritholtz**
+> *Concentration really began to tick up after a very significant <b>regime change</b> in M&amp;A and antitrust enforcement in the late '80s and early '90s....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ritholtz.com/2026/07/overvalued-bubble-revolution/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2W4_sTvTHc_Fl1it7_gdQd))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 Manufactured Stress: Refinancing <b>Risk</b> for LBOs in U.S. Capital Goods, Building Materials ...**
-> *<b>Geopolitical Risk</b> &middot; Islamic Finance &middot; Leveraged Finance &amp; CLOs Uncovered &middot; Outlooks &middot; The Future of Banking. Emerging and Established Risks. See All&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/ratings/en/events/webinars/cr-capgoods-72826&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Jn7axYye9ePyXqhTafZhJ))
+**🟢 Australia-India Joint Declaration on Defence and <b>Security</b> Cooperation**
+> *We reaffirm our unwavering commitment to an open, peaceful, stable and prosperous <b>Indo</b>-<b>Pacific</b> region underpinned by: a rules-based architecture based&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://navalinstitute.com.au/australia-india-joint-declaration-on-defence-and-security-cooperation/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1Ujnv8pNX5LQmO_etegXVE))
 
-**🟢 Why France and Italy Should Engage the <b>Indo</b>-<b>Pacific</b> Together - RSIS**
-> *At the <b>security</b> level, Paris and Rome have the two most capable navies in the EU, with a proven record of collaboration in regional <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rsis.edu.sg/rsis-publication/rsis/why-france-and-italy-should-engage-the-indo-pacific-together/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1fUE-NPQNT58Lxfj72OqiQ))
+**🟢 Why Japan Is Looking East in India | SNG Analysis - StratNews Global**
+> *It is investing in the geography it believes will shape Asia's future. Next: The Quiet <b>Security</b> Axis Reshaping the <b>Indo</b>-<b>Pacific</b> Japan's investment&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://stratnewsglobal.com/indo-pacific/japan/why-japan-is-looking-east-in-india-sng-analysis/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0lcStgDs05YaIY44axwQha))
 
-**🟡 Japan's Untapped Asset: Sharing Disaster Expertise with the <b>Indo</b>-<b>Pacific</b>**
-> *... <b>Pacific</b> neighbours. Under the Officials Committee for Domestic and External <b>Security</b> Coordination (ODESC), when disaster strikes offshore, MFAT&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.internationalaffairs.org.au/australianoutlook/japans-untapped-asset-sharing-disaster-expertise-with-the-indo-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0T9CwEbBMds3m6ZHvZ4_z5))
+**🟢 Navy's operational MH-60R sub-hunter chopper fleet set to touch 18 as three Romeos arrive from US**
+> *US envoy Gor called it “excellent news” for the growing bilateral defence partnership and maritime <b>security</b> in the <b>Indo</b>-<b>Pacific</b>. Excellent news&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newindianexpress.com/india/2026/Jul/17/navys-operational-mh-60r-sub-hunter-chopper-fleet-set-to-touch-18-as-three-romeos-arrive-from-us&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1N3m6ob_ez0D2Pl_ZScN-J))
 
-**🟢 Coast Guard Ends Middle East Mission, Moves Cutter Squadron to Western <b>Pacific</b>**
-> *... <b>Indo</b>-<b>Pacific</b>. Previously, one to two National <b>Security</b> Cutters deployed to the region annually and operated under U.S. 7th Fleet....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.usni.org/2026/07/16/coast-guard-ends-middle-east-mission-moves-cutter-squadron-to-western-pacific&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0kw_eLII15mgKP1O-CMq3p))
+**🟢 Malaysia ignores China, expands exploration in the <b>South China Sea</b> | AsiaNews**
+> *In addition to the Philippines and Vietnam, <b>tensions</b> are bound to rise with Malaysia as well, with <b>Chinese</b> coast guard vessels permanently patrolling&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asianews.it/en/east-asia/china/malaysia-ignores-china-expands-exploration-in-the-south-china-sea&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1KNCBxOiufLVBbBZ7XL_T3))
 
-**🟡 Cameroon Eyes Nearly CFA1 Trillion From Five Mining Projects, Gold Reform**
-> *The government also plans to develop critical minerals and <b>rare earth elements</b> identified in various parts of the country. “It is needless to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessincameroon.com/mining/1607-16475-cameroon-eyes-nearly-cfa1-trillion-from-five-mining-projects-gold-reform&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2E0qBWtCH9j4rBxjCcQ989))
+**🟢 US Coast Guard shifts cutter squadron to Western Pacific amid <b>China tensions</b>**
+> *... China's activities in the <b>South China Sea</b>. The Coast Guard's presence will now be based in Singapore and Subic Bay, Philippines, as the U.S.&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptobriefing.com/us-coast-guard-shifts-cutter-squadron-to-western-pacific-amid-china-tensions/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1T9JkzUDCyoX3dPcf6fcfr))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
