@@ -1,97 +1,100 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 20 July 2026
+**Date:** 21 July 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 26.0)
+- **Taiwan Strait** (Risk Score: 26.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 13.0)
+- **Strait of Hormuz** (Risk Score: 4.5)
+- **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Oil hits one-month high as Mideast war keeps investors on edge - France 24**
-> *While the renewed rise in oil prices has injected a fresh <b>geopolitical risk</b> premium into markets, he said cooling underlying US inflation and a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.france24.com/en/live-news/20260720-oil-hits-one-month-high-as-mideast-war-keeps-investors-on-edge&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1fqOHRqcm-EuVxyvhc0MGI))
+**🔴 Baht set to decline again amid Mideast war - Bangkok Post**
+> *According to Krungthai Global Markets, the baht is likely to remain under depreciation pressure in the near term as <b>geopolitical risks</b> intensify. The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bangkokpost.com/business/general/3289139/baht-set-to-decline-again-amid-mideast-war&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2CHDh3XPJv0Oza_3L6ZNm6))
 
-**🔴 Oil rebound seen pressuring Asian currencies, MUFG says. Indian rupee hit hard.**
-> *MUFG's note points to a straightforward transmission channel from the Middle East conflict into Asian currency markets: rising <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/forex/oil-rebound-seen-pressuring-asian-currencies-mufg-says-indian-rupee-hit-hard/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0oj_ePZsHZi7OwlMagUm3H))
+**🔴 Iran Crisis Tests Singapore's <b>Energy</b> Resilience - OpEd - Eurasia Review**
+> *Thus, <b>energy security</b> has become a major strategic dilemma and challenge for Singapore. Beyond managing the impacts of the Iran conflict on <b>global</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/20072026-iran-crisis-tests-singapores-energy-resilience-oped/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2tCtXktPuBd_EpistwZwdr))
 
-**🔴 United States Dollar Index struggles to lure buyers despite Iran tensions, Fed hike bets**
-> *This raises the risk of a broader regional war and prompts traders to continue pricing in the <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/united-states-dollar-index-struggles-to-lure-buyers-despite-iran-tensions-fed-hike-bets-202607200231&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1e6vVzI-Eki_0kon783E4M))
+**🟢 Methane emissions: EU Commission issues recommendations to protect <b>energy</b> supplies**
+> *... <b>global</b> warming as well as reinforcing <b>security</b> of supply by addressing methane leaks. The recommendations issued today recognise the need to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ieu-monitoring.com/editorial/methane-emissions-eu-commission-issues-recommendations-to-protect-energy-supplies/1246160%3Futm_source%3Dieu-portal&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2yNqHnNm8HvEwbJuTD59ht))
 
-**🟡 Ethanol may cut oil imports but pose enormous risks to water and food <b>security</b>, IIM-A study finds**
-> *Synopsis: India's nationwide E20 petrol rollout has reduced oil imports and strengthened <b>energy security</b>, but a new <b>international</b> study warns the fuel&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thesouthfirst.com/beyond-south/ethanol-may-cut-oil-imports-but-pose-enormous-risks-to-water-and-food-security-iim-a-study-finds/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1CBUWcxdBeFXrmK9Fwz2BT))
+**🟡 Why <b>Energy</b> Is the New <b>Global</b> Arms Race - The National Interest**
+> *AI, geopolitical conflict, and military competition are making resilient <b>energy</b> systems a defining pillar of national <b>security</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nationalinterest.org/blog/energy-world/why-energy-is-the-new-global-arms-race&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw26jr9JpO7xEcK5N5KbOMGK))
 
-**🟢 Pakistan Won the <b>War</b> in Iran | Foreign Affairs**
-> *Trump and Iranian Foreign Minister Abbas Araghchi publicly thanked Munir and Prime Minister Shehbaz Sharif. Days later, U.S. Vice President JD Vance&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.foreignaffairs.com/pakistan/pakistan-won-war-iran&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2huOPWeS8w0_Q7yV1hT-Hn))
+**🔴 Kazakhstan Suspends CPC Oil Terminal Loading After Drone Attack on Tankers**
+> *It warned that any attack on international energy infrastructure threatens <b>global energy security</b>, disrupts international trade in energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://caspianpost.com/kazakhstan/kazakhstan-suspends-cpc-oil-terminal-loading-after-drone-attack-on-tankers&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw29kKzOA84BB1Q8cvEiNqlk))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Hong Kong Stocks Recover After Selloff - TradingView**
-> *... risk appetite, although investors remained cautious over <b>geopolitical risks</b> and their potential impact on energy prices and global inflation....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/te_news:568046:0-hong-kong-stocks-recover-after-selloff/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_FhvGiStUU-MrLEO8yRmr))
+**🔴 Investors Underestimating <b>Geopolitical Risks</b>: JPMorgan Chase CEO Jamie Dimon**
+> *<b>Geopolitics</b>, Inflation Remain Key <b>Risks</b>. Dimon said ongoing <b>geopolitical</b> conflicts, persistent inflationary pressures and rising government debt&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtvprofit.com/markets/investors-underestimating-geopolitical-risks-jpmorgan-chase-ceo-jamie-dimon-11798655&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1V1rnCyK1Ya2v_M452fXQJ))
 
-**🟢 Indonesia Stocks Rise as Investors Eye BI Meeting, Oil Rally - Jakarta Globe**
-> *... <b>geopolitical risks</b> that have pushed oil prices sharply higher. Jakarta Composite Index (JCI) rose to 6,197 at the opening, gaining 22 points or&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jakartaglobe.id/business/indonesia-stocks-rise-as-investors-eye-bi-meeting-oil-rally&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1m3TWUv4Wc3UecVAqcA6du))
+**🟡 <b>Geopolitical Risk</b> Brief: July 2026 | S&amp;P Global**
+> *Key factors shaping global <b>risk</b>: A calibrated US-Iran conflict, Ukraine's energy resilience race, and Venezuela's post-earthquake humanitarian&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/07/geopolitical-risk-brief-july-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0LpMztNuGUK0rNyuWdYONd))
 
-**🟡 OIL UNDER PRESSURE for OANDA:BCOUSD by Kelly_Carter12 - TradingView**
-> *<b>Geopolitical Risk</b> ⬇️ Supply Uncertainty ⬇️ Oil Market Volatility ⬇️ Higher Refining &amp; Distribution Costs ⬇️ Potential Changes in Petrol&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/chart/BCOUSD/KybtpS1j-OIL-UNDER-PRESSURE/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw22FIdqDuparaayq9WOp5Mw))
+**🟡 SunSirs: <b>Geopolitical Risk</b> Premium Drives Short-Term Rebound in Crude Oil Prices**
+> *SunSirs: <b>Geopolitical Risk</b> Premium Drives Short-Term Rebound in Crude Oil Prices; Sustained Strength Unlikely in Medium-to-Long Term,WTI crude oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-34583.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0aHo60oX0bXdkxI-IIYN8u))
 
-**🔴 US-Iran "Understanding" Collapses; Crude Oil Prices Remain High - SunSirs**
-> *The <b>geopolitical risk</b> premium has climbed from around $8 per barrel to approximately $14–$15 per barrel. Market analysts believe that the baseline&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-34553.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1vMCX6Iyxeo6bcsqWvy6Yu))
+**🟢 JPMorgan Chase CEO Jamie Dimon says markets underestimate <b>risks</b> - CNBC**
+> *JPMorgan Chase CEO Jamie Dimon said investors are underestimating <b>geopolitical</b> and fiscal <b>risks</b> that could eventually rattle markets....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0sqasM-lEzV65P2Dq_QujI))
 
-**🟢 BTC Slides as <b>Geopolitical Risks</b> Rise, ETH Outperforms on DeFi Strength | Phemex News**
-> *Phemex Crypto Market Daily: BTC Slides as <b>Geopolitical Risks</b> Rise, ETH Outperforms on DeFi Strength (Jul 20). Phemex News 2026/07/19 18:30. Share&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://phemex.com/news/article/phemex-crypto-market-daily-btc-slides-as-geopolitical-risks-rise-eth-outperforms-on-defi-strength-jul-20-93780&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0jz08OaBd2FSSNmRp0122i))
+**🔴 Can European Markets Withstand Rising US-Iran Tensions? - Modern Diplomacy**
+> *European stocks traded cautiously on Monday as investors balanced escalating <b>geopolitical risks</b> in the Middle East against the start of another&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/07/20/can-european-markets-withstand-rising-us-iran-tensions/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2lfuBX-2Em-Y4t8AK7_yjc))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 WTI surges above $83.00 amid escalating US-Iran conflict - FXStreet**
-> *Signs of a prolonged conflict in the Middle East are shifting financial markets, and the heightened <b>geopolitical risk</b> could exert some near-term&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/wti-surges-above-8300-amid-escalating-us-iran-conflict-202607200102&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw34ZiKJMwthr8DXt6X0YBAK))
+**🔴 US To Impose 50% Tariff on Many Canadian Goods | Balance of Power 07/20/2026**
+> *... <b>geopolitical risk</b> at Kepler, joins the conversation to analyze the market's surprisingly muted response, with Brent and WTI crude oil prices&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dgt7qpdCcX6U&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3py688hhUQAQabj6jIStOK))
 
-**🟢 <b>Energy</b> Crossroads - The Statesman**
-> *Yet it also exposes the difficult balance between geopolitical objectives and the realities of <b>international energy security</b>. India finds itself&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestatesman.com/opinion/energy-crossroads-1503618632.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2shY4JQwIQNghp8l8REj5s))
+**🟢 Watch Brouhard on Oil Prices: 'The Market is Exhausted' - Bloomberg**
+> *Michelle Brouhard, head of policy and <b>geopolitical risk</b> at Kepler, joins the conversation to analyze the market's surprisingly muted response,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/videos/2026-07-20/brouhard-on-oil-prices-the-market-is-exhausted-video&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0wD-ffdxwyXZTxZ8RYtxyW))
 
-**🟢 Europe Was Supposed to Run Out of Jet Fuel by June. It Didn't | OilPrice.com**
-> *From the perspective of energy <b>security</b> ... It does suggest that <b>global energy</b> markets are more adaptable than the first weeks of panic usually imply....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Europe-Was-Supposed-to-Run-Out-of-Jet-Fuel-by-June-It-Didnt.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0KNZrdoPHhSeb8oIndIw-U))
+**🟢 Gold Stocks For Rising <b>Geopolitical Risk</b> With 3 Miners Worth A Closer Look - Simply Wall St**
+> *<b>Geopolitical</b> tension in the Middle East, oil above $90 per barrel, and rising real yields are shaking up expectations for both inflation and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/ca/materials/tsx-cgg/china-gold-international-resources-shares/news/gold-stocks-for-rising-geopolitical-risk-with-3-miners-worth&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1-PQPbNIh1ThldYQLADnGh))
 
-**🟢 Balancing <b>energy security</b>, environmental concerns - The HinduBusinessLine**
-> *... <b>global</b> price and supply volatility. Scheme ramp-up. The new scheme marks a fourfold increase over the ₹85 billion coal gasification scheme&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/opinion/balancing-energy-security-environmental-concerns/article71241881.ece&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Jz38tfdRXqgJo_R779LWN))
+**🟢 Construction begins on the Sunrise Expansion Program in B.C. - Enbridge Inc.**
+> *The Sunrise Expansion Program is a $4 billion essential <b>energy</b> infrastructure project that will strengthen <b>energy security</b> and affordability for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.enbridge.com/stories/2026/july/construction-begins-on-sunrise-expansion-program-in-bc&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3G2pxs5Cr4XMHIRTiIdKkV))
 
-**🟡 Dangerous Escalation - Greater Kashmir**
-> *The conflict is increasingly targeting the infrastructure and shipping routes that underpin <b>global energy security</b>. Once commercial vessels become&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.greaterkashmir.com/opinion/dangerous-escalation-12179805&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3Wls76CfG4K6lW0JE9-bKH))
+**🟢 Saudi FM, India's national <b>security</b> adviser discuss maritime <b>security</b> - Saudi Gazette**
+> *They also exchanged views on the latest regional developments and ongoing efforts to enhance <b>energy security</b> and safeguard <b>international</b> maritime&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://saudigazette.com.sa/article/663124/saudi-arabia/saudi-fm-prince-faisal-bin-farhan-receives-indian-national-security-adviser-ajit-doval&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2W_gIJ45vhIsehJACjtdXP))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Canada to join multinational fighter program in observer role: reports - The Canadian Press**
-> *... Anand says '<b>regime change</b>' in Iran would be required for restarting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thecanadianpressnews.ca/politics/canada-to-join-multinational-fighter-program-in-observer-role-reports/article_24dced27-cf89-512d-89df-9726134148be.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2ugX7QJxwbgMBnuQq0pScx))
+**🟡 The Lobito Corridor shows how digitization is shaping critical minerals competition**
+> *<b>Geopolitical risk</b> is corporate risk. Explore our expert briefings ... Chatham House is a world-leading policy institute with a mission to address&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chathamhouse.org/2026/07/lobito-corridor-shows-how-digitization-shaping-critical-minerals-competition&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2NMPVTnDKseFxkgOeeXXA-))
 
-**🔴 Live Updates: Latest from Israel, Iran, and Middle East | The Jerusalem Post**
-> *... regime gets any closer to the Jewish state. Speaking to IDF ... <b>regime change</b>. Ayatollah Ali Khamenei was killed by an Israeli strike on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/middle-east/iran-news/2026-07-19/live-updates-902897&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2b9dCqmAVUO_rTux_GYvSQ))
+**🟡 State Department Makes Case for Repression and Cuba <b>Regime Change</b>**
+> *July 20, 2026. The U.S. State Department just released a 100-page report accusing Cuba of influencing virtually every major progressive movement,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bellyofthebeastcuba.com/state-dept-makes-case-for-repression-and-cuba-regime-change&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3aTmEUcuqPDULoiPZ1qP2d))
 
-**🟢 <b>Regime change</b> lifts hopes of realtors in West Bengal - The Economic Times**
-> *West Bengal's new <b>government</b> is expected to boost real estate activity significantly. Developers anticipate land reforms, including the repeal of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/industry/services/property-/-cstruction/regime-change-lifts-hopes-of-realtors-in-west-bengal/articleshow/132500875.cms&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3AH2xRGaiX0QE1u5AZF5zR))
+**🟢 Iran <b>regime change</b> returns to Trump administration agenda - Financial Times**
+> *Mohammad Amini Dehaghan was executed two weeks before his 38th birthday. The family of 37-year-old executed protester Mohammad Amini Dehaghani has&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iranintl.com/en/202607207871&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3ibNCcfnwg1dBHlhGIZMw6))
 
-**🟢 Calcutta HC Stays Abhishek's Party Office Demolition - Deccan Chronicle**
-> *Uddhav Support Wangchuk, Calls for <b>Regime Change</b>. 2026-07-19 17:34 GMT&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/amp/nation/calcutta-hc-stays-abhisheks-party-office-demolition-1972335&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3QbbJZOr7qhxN2ixwIL5OQ))
+**🟢 Nicaraguan President: Country will no longer hold elections - Genocide Watch**
+> *With that statement, he explicitly ruled out the electoral process as a mechanism for <b>political change</b> ahead of the elections scheduled for November&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.genocidewatch.com/single-post/nicaraguan-president-country-will-no-longer-hold-elections&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3GVtkWhKE7HnyyFmVYqOvg))
 
-**🟢 Delhi Fortified After Wangchuk's Call to March on Parliament - Deccan Chronicle**
-> *Cockroach Janta Party. Similar News. Uddhav Support Wangchuk, Calls for <b>Regime Change</b>. 2026-07-19 17&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/amp/nation/delhi-fortified-after-wangchuks-call-to-march-on-parliament-1972330&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0mnTu4HZtORKhmxJj8fkhQ))
+**🟢 The Interview | Maggie Haberman, US journalist: Trump tests limits - BBC Audio**
+> *Paddy O'Connell speaks to Maggie Haberman, White House correspondent for The New York Times and co-author of <b>Regime Change</b>: Inside the Imperial&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/audio/play/w3ct8klh&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2hq-0fFR8XP7J8i7ivNdCQ))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 The Palestinian <b>economy</b> is struggling. In the West Bank, the problem is too much cash**
-> *The excess liquidity stems from a conflict between the Bank of Israel and the Palestinian Monetary Authority, which oversees Palestinian banks and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newindianexpress.com/world/2026/Jul/20/the-palestinian-economy-is-struggling-in-the-west-bank-the-problem-is-too-much-cash&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3hPm8YuMJmIbXdzz2_x_nt))
+**🟢 Understanding India's Tech Partnerships**
+> *... <b>security</b> cooperation with a bilateral commitment “to consult on ... India and Indonesia Enter a New <b>Indo</b>-<b>Pacific</b> Phase? Long Read | The&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indiasworld.in/understanding-indias-tech-partnerships/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw232atoH1K1ulII7ue4DPHK))
 
-**🟢 US Secretary of State Rubio travels to Philippines for ASEAN, Quad meetings - Telangana Today**
-> *US Secretary of State Marco Rubio travelled to the Philippines for ASEAN meetings and the Quad ministerial, focusing on <b>Indo</b>-<b>Pacific security</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://telanganatoday.com/us-secretary-of-state-rubio-travels-to-philippines-for-asean-quad-meetings&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0NujT2ik09qtpm7DMFX2D1))
+**🟢 Australia's Indian Ocean moment | Lowy Institute**
+> *Japan has used its observer status to advance its “Free and Open <b>Indo</b>-<b>Pacific</b>” vision and strengthen maritime <b>security</b> in the western Indian Ocean....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lowyinstitute.org/the-interpreter/australia-s-indian-ocean-moment&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1g2IN2wIdKYDIxeU5biR6g))
 
-**🟢 Peacekeeping must adapt to new <b>security</b> threats - Turaga - Fijivillage**
-> *... <b>Indo</b>-<b>Pacific</b> Conference at the Grand Pacific Hotel in Suva. The ... <b>security</b> challenges across the <b>Indo</b>-<b>Pacific</b> region. Stay tuned for the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fijivillage.com/news/peacekeeping-must-adapt-to-new-security-threats-turaga-c5dee9/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1D6k9F3-kiIryUqCFgpZmE))
+**🟢 HMAS Choules arrives in <b>Indonesia</b> for Exercise <b>Pacific</b> Partnership 26 - Defence**
+> *... <b>security</b> across the <b>Indo</b>-<b>Pacific</b>. “By working alongside Indonesia, the US and other partner nations, we are enhancing our practical cooperation to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.defence.gov.au/news-events/releases/2026-07-21/hmas-choules-arrives-indonesia-exercise-pacific-partnership-26&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3_YYiDE0dzOxR2WQWbSUWe))
 
-**🟢 Forging a New <b>Indo</b>-<b>Pacific</b> Arc - Raksha Anirveda**
-> *During Prime Minister Modi's visit, India and <b>Indonesia</b> signed 14 agreements covering critical minerals, maritime <b>security</b>, defence cooperation, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://raksha-anirveda.com/forging-a-new-indo-pacific-arc/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0U6uWO5FeB6fg_lJ-N3QGj))
+**🟢 [INTERVIEW] Greece seeks to elevate Korea ties through maritime innovation, <b>Indo</b>-<b>Pacific</b> ...**
+> *... <b>Security</b> and Defence Partnership and NATO's engagement with <b>Indo</b>-<b>Pacific</b> partners. He added that Greece's presidency of the Council of the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.koreatimes.co.kr/amp/foreignaffairs/20260721/greece-seeks-to-elevate-korea-ties-through-maritime-innovation-indo-pacific-partnership&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw22UhreDwQO5NpiFbLFG8KM))
 
-**🟢 SL's return to Upper Middle Income Status: Cause for celebration or a Call to Action?**
-> *View(s):. Sri Lanka's reclassification by the World Bank as an Upper Middle Income Country (UMIC) on July 1, 2026 marks an important milestone in the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sundaytimes.lk/260719/business-times/sls-return-to-upper-middle-income-status-cause-for-celebration-or-a-call-to-action-649095.html&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2Xc5PlLhErvrg9aTP5Ous-))
+**🟢 Pakistan Arms Hangor-Class Submarines With China's YJ-17 Hypersonic Missiles ...**
+> *This shift also aligns Pakistan more closely with China's broader <b>Indo</b>-<b>Pacific security</b> agenda, leveraging cutting-edge hypersonic technologies to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/islamabads-deepening-defence-partnership-with-beijing-set-to-transform-pakistans-newly-built-hangor-class-fleet-into-a-mach-5-hypersonic-strike-force-capable-of-threatening-naval-task-forces-and/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1H1iChX9HAaJ08o0tE-pKL))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
