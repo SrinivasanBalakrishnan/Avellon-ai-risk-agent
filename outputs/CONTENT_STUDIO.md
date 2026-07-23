@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 July 2026
+**Date:** 23 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil Futures Extend Rally on Continued U.S., Iran Strikes - WSJ
+**Source News:** The Gold Nile: Sudan's Civil War and the Gold Trade | Steptoe
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Futures Extend Rally on Continued U.S., Iran Strikes - WSJ
+- **The News:** The Gold Nile: Sudan's Civil War and the Gold Trade | Steptoe
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Yen slides past 163 mark to fresh four-decade low against US dollar - The Business Times
+**Source News:** Asia FX Talk - Energy supply <b>risks</b> back in focus as US-Iran tensions intensify
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Yen slides past 163 mark to fresh four-decade low against US dollar - The Business Times
+- **The News:** Asia FX Talk - Energy supply <b>risks</b> back in focus as US-Iran tensions intensify
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Morning Report - Westpac IQ
+**Source News:** From lithium to nickel: How the UN is helping countries make the most of critical minerals
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Morning Report - Westpac IQ
+- **The News:** From lithium to nickel: How the UN is helping countries make the most of critical minerals
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** <b>regime change</b> cover | | journal-news.com
+**Source News:** Citi Philippines CEO Paul Favila is confident of continued growth for the Philippines ... - Facebook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>regime change</b> cover | | journal-news.com
+- **The News:** Citi Philippines CEO Paul Favila is confident of continued growth for the Philippines ... - Facebook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
