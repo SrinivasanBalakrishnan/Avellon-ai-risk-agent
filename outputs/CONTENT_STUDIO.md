@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 23 July 2026
+**Date:** 24 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The Gold Nile: Sudan's Civil War and the Gold Trade | Steptoe
+**Source News:** Oil prices top $100 amid Middle East export disruptions and rising <b>geopolitical</b> tensions.
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Gold Nile: Sudan's Civil War and the Gold Trade | Steptoe
+- **The News:** Oil prices top $100 amid Middle East export disruptions and rising <b>geopolitical</b> tensions.
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asia FX Talk - Energy supply <b>risks</b> back in focus as US-Iran tensions intensify
+**Source News:** Tightening Constraints, Widening Outcomes, Enduring Purpose | GIC ThinkSpace
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia FX Talk - Energy supply <b>risks</b> back in focus as US-Iran tensions intensify
+- **The News:** Tightening Constraints, Widening Outcomes, Enduring Purpose | GIC ThinkSpace
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** From lithium to nickel: How the UN is helping countries make the most of critical minerals
+**Source News:** PODCAST: <b>Geopolitics</b>, storage <b>risks</b> and LNG flows reshape European winter gas outlook
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** From lithium to nickel: How the UN is helping countries make the most of critical minerals
+- **The News:** PODCAST: <b>Geopolitics</b>, storage <b>risks</b> and LNG flows reshape European winter gas outlook
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Citi Philippines CEO Paul Favila is confident of continued growth for the Philippines ... - Facebook
+**Source News:** Why Europe needs Pakistan now more than ever - <b>Asia</b> Times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Citi Philippines CEO Paul Favila is confident of continued growth for the Philippines ... - Facebook
+- **The News:** Why Europe needs Pakistan now more than ever - <b>Asia</b> Times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
