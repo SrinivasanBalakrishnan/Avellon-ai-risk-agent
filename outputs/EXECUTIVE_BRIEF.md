@@ -1,101 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 24 July 2026
+**Date:** 25 July 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 60.0)
-- **Taiwan Strait** (Risk Score: 27.0)
-- **Strait of Hormuz** (Risk Score: 16.0)
-- **Cape of Good Hope** (Risk Score: 3)
-- **Panama Canal** (Risk Score: 1)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 37.0)
+- **Taiwan Strait** (Risk Score: 25.5)
+- **Strait of Hormuz** (Risk Score: 23.0)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Oil prices top $100 amid Middle East export disruptions and rising <b>geopolitical</b> tensions.**
-> *... <b>geopolitical risk</b> premium remains high as the U.S. considers major military actions against Iran, keeping oil markets volatile and prices elevated....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://pluang.com/en/news-feed/harga-minyak-melampaui-100-dolar-akibat-ketegangan-tengah-timur&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2f_qmq-C1ASgtD03vkl-Vc))
+**🟡 Oil Futures Post Weekly Gains on Middle East Escalation - WSJ**
+> *... <b>geopolitical risk</b> at least in the short term.” On the flip side, he adds, “if this conflict is resolved diplomatically and we don't have any major&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-2971174b&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2PkM7HnQT3MaDpfBMz0YoN))
 
-**🔴 Singapore's GIC posts lower returns as wars, tariffs turn global markets volatile - The Straits Times**
-> *“Today, <b>geopolitical risks</b> are no longer episodic disruptions but ... “Together, these dynamics are changing how markets price <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.straitstimes.com/business/singapores-gic-posts-lower-returns-as-wars-tariffs-turn-global-markets-volatile&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1etCARRBLirw_Bl-LsqYN7))
+**🟡 Examining the Hidden Fragilities in Auto Supply Chains**
+> *... <b>geopolitical risks</b> and global trends. Moody's latest analysis explores ... Germany has a moderate risk-warning, despite 7% of suppliers being at high&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://supplychaindigital.com/news/examining-the-hidden-fragilities-in-auto-supply-chains&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1Q1_GKGpo_EvKQW6sxO11u))
 
-**🔴 Saudi Arabia takes center stage as oil hits $100 and the Iran war escalates amid Houthi attacks**
-> *... dangers of traveling through the strait. While the nuclear deal may represent added motivation, Fernando Ferreira, director of the <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://fortune.com/2026/07/23/saudi-arabia-center-stage-oil-hits-100-iran-war-escalates-houthi-nuclear/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3uOkVapWVsGAa0jaVvlyeP))
+**🔴 <b>Security</b> Council debrief: Race for critical minerals intensifies amidst warnings of conflict**
+> *They are all essential as part of the <b>global</b> shift away from fossil fuels towards cleaner <b>energy</b> sources. But there is a catch. Many of these&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.un.org/en/story/2026/07/1168024&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1o0d6loPGErRI1FIdcXJ2t))
 
-**🟡 The Wax Was Melting: AI Speed and the Nuclear Decision | <b>Geopolitical</b> Monitor**
-> *The <b>danger</b> lies not in recklessness but in a boundary that announces itself only after it has been crossed. Military AI is now compressing the one&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/the-wax-was-melting-ai-speed-and-the-nuclear-decision/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0oUCBYohSHkai47Kvzuy1P))
+**🔴 IRAN WARNS TRUMP! Ghalibaf Threatens <b>Global</b> Oil Shock | ET Now | Latest News**
+> *... <b>security</b> in the strategic waterway depends on the ... <b>global energy</b> supplies, and the risk of wider disruption to international oil markets....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DmPc-pzGcTBk&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2z4vYoETDcg30eVpvyOHg1))
 
-**🟢 My Say: Take stock of geoeconomic strategy - The Edge Malaysia**
-> *It is part of economic statecraft, which includes <b>economic warfare</b>, something great powers have exhibited time and again. ... economic and financial&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theedgemalaysia.com/node/811328&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1UEBkY3TaaRIJD0nzOyzvz))
+**🔴 U.S.-Iran strikes escalate as the ongoing war rattles <b>global energy</b> markets - NPR**
+> *In a few minutes, we'll speak with former national <b>security</b> official Jon Finer about how Iran-backed Houthis in Yemen are further complicating the war&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.npr.org/2026/07/24/nx-s1-5904556/u-s-iran-strikes-escalate-as-the-ongoing-war-rattles-global-energy-markets&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1VUa4PPy2sSFnDRNXDGA7T))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Tightening Constraints, Widening Outcomes, Enduring Purpose | GIC ThinkSpace**
-> *<b>Geopolitical risks</b> are becoming structural, AI is driving greater ... Together, these dynamics are changing how markets price <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gic.com.sg/thinkspace/macro-outlook/tightening-constraints-widening-outcomes/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0OC1R_CmT8lPOm6Oc6MGUu))
+**🟢 By Regulatory Design: <b>Geopolitical</b> Concentration In The US Morphine Supply Chain**
+> *Concentration of this kind creates a supply-chain resilience risk. <b>Geopolitical risk</b> is one form—bilateral relations can deteriorate. Agricultural&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.healthaffairs.org/content/forefront/regulatory-design-geopolitical-concentration-us-morphine-supply-chain&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2c2BwfDMK4z0UQN2cDi6NQ))
 
-**🟢 Oil crosses $100: A 'perfect hurricane' can trigger bigger shock soon - The Economic Times**
-> *Analysts at RBC Capital Markets argue that oil prices remain a &quot;lagging indicator&quot; of <b>geopolitical risk</b> in the region. Their assessment is that a full&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/international/global-trends/oil-crosses-100-a-perfect-hurricane-can-trigger-bigger-shock-soon/articleshow/132586558.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1KoBR2oBf5zlH9KA0CNtmn))
+**🟢 investingLive Americas FX news wrap 24 Jul: <b>Geopolitics</b> remain the focus for traders.**
+> *... <b>geopolitical risk</b> premium. Gold added 0.17% to $4,055.67, benefiting from the decline in Treasury yields, but was well off the high at $4082.14&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-jul-geopolitics-remain-the-focus-for-traders/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3PTrrpfqktm80PwC6bA42_))
 
-**🔴 Gray Zone Attacks Against U.S. Allies and Partners | Council on Foreign Relations**
-> *... risks associated with inaction. F. David Diaz. Principal, <b>Geopolitical Risk</b> Management and Executive Advisory, Signal Hill Advisers; Adjunct&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/reports/gray-zone-attacks-against-u-s-allies-and-partners&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3fNBpXgATF1bAyjffkZnj6))
+**🟢 Rupee Climbs as RBI Dollar Sales Counter Oil-Driven Pressure - TradingPedia**
+> *US Treasury yields near 4.70% and a jump in Fed hike odds to 35.8% reinforce US Dollar strength and risk aversion. ... <b>Geopolitical Risks</b> Sustain&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingpedia.com/2026/07/24/rupee-climbs-as-rbi-dollar-sales-counter-oil-driven-pressure/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1mFsmS_Qo3_QcwZ0pHZEk2))
 
-**🟢 Coal remains bedrock of SA <b>energy security</b> as companies diversify - Business Day**
-> *... <b>global energy</b> mix. He said this reinforced the need for coal producers to diversify into other energy sources rather than abandon the fuel. Seriti&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businessday.co.za/economy/2026-07-23-coal-to-remain-central-as-energy-companies-broaden-businesses/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1kxSh90rEwzKSqSr4wOuBB))
+**🟢 The U.S. pharmaceutical supply chain problem is not about China - STAT News**
+> *... <b>risk</b> analyses of other supply chains like rare earth and critical minerals. ... <b>risks</b> to securing our pharmaceuticals regulatory, not <b>geopolitical</b>. And&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.statnews.com/2026/07/24/pharmaceutical-supply-chain-resilience-china/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw02JhXjlh-iUuD78zXz5Owi))
 
-**🟢 Beyond the chip: How the US can shape <b>global</b> standards for AI in <b>energy</b> - Atlantic Council**
-> *Within a decade, it reshaped how every major provider built its <b>security</b> architecture. The same mechanism can accelerate integration today: requiring&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/blogs/energysource/beyond-the-chip-how-the-us-can-shape-global-standards-for-ai-in-energy/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3AAzHBdH3tjHxsYZ35WCl1))
+**🟢 Three Export Corridor Disruptions Push Brent Above $100, Favoring Oil Assets Outside ...**
+> *... <b>geopolitical risks</b> affecting commodity exports. Across the Strait of Hormuz, Bab el-Mandeb, and the CPC export route, transportation risk is no&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cruxinvestor.com/posts/three-export-corridor-disruptions-push-brent-above-100-favoring-oil-assets-outside-maritime-chokepoints&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2QfJXAv9NLp_ywJk18TUb2))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 PODCAST: <b>Geopolitics</b>, storage <b>risks</b> and LNG flows reshape European winter gas outlook**
-> *LONDON (ICIS)–As European gas markets navigate a complex mix of <b>geopolitical risk</b>, storage concerns and shifting LNG flows, the outlook continues&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.icis.com/explore/resources/news/2026/07/23/11225582/podcast-geopolitics-storage-risks-and-lng-flows-reshape-european-winter-gas-outlook&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0QE5qBpL1IuLrd1zT8QpTR))
+**🔴 Oil above $100 per barrel reignites global inflation fears - The National News**
+> *Geopolitical developments crucial in determining how long ... “If tensions ease, the <b>geopolitical risk</b> premium could unwind relatively quickly....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thenationalnews.com/business/energy/2026/07/24/oil-above-100-per-barrel-could-reignite-inflation-fears/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3kohF-s39bN8cnE7-vMB57))
 
-**🔴 investingLive Americas FX news wrap 23 Jul: <b>Risk</b> off sentiment as <b>geopolitical</b> tensions rise.**
-> *Bottom Line. The market finished the day in classic <b>risk</b>-off mode. Rising <b>geopolitical</b> tensions pushed oil sharply higher, Treasury yields climbed as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/news/investinglive-americas-fx-news-wrap-23-jul-risk-off-sentiment-as-geopolitical-tensions-rise&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2G4-bjTXh5rjROCLMER2GU))
+**🟢 US dollar rises as yields and <b>geopolitical risks</b> lift DXY, while Japan inflation keeps yen ...**
+> *Rising US and global bond yields, combined with <b>geopolitical risk</b> and higher energy prices, have supported the US Dollar, while expectations of a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forexfactory.com/news/1410205-us-dollar-rises-as-yields-and-geopolitical-risks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0_gOzYUFpDqHcg2vD0_icz))
 
-**🟢 ExxonMobil (XOM) Is Up 6.9% After <b>Geopolitical</b> Oil Spike and Earnings Optimism - What's Changed**
-> *We'll now look at how higher <b>geopolitical risk</b>–driven oil prices and expectations for strong earnings shape ExxonMobil's broader investment narrative....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/energy/articles/exxonmobil-xom-6-9-geopolitical-171024141.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_zEBjbSMVNgKNe9HEyEwv))
+**🔴 How Gulf States Are Eyeing Africa's Red Sea Corridor To Bypass Hormuz - YouTube**
+> *... <b>global energy</b> exports, carrying roughly 15 million barrels of crude oil ... <b>Security</b> | Oil Supply Routes | West Asia Conflict | Iran US&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Sr2cthUacqg&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2G4QnmzbGojsRgXC2L4hBa))
 
-**🟢 <b>Energy</b> Department Announces Up to $65.5 Million to Advance Domestic Oil and Natural ...**
-> *Supporting <b>global energy</b> markets through U.S. energy production and trade. ... energy that powers our economy and strengthens our national <b>security</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energy.gov/articles/energy-department-announces-655-million-advance-domestic-oil-and-natural-gas-production&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1MxM60k9LP7m6B3ZL7KYtZ))
+**🟢 The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck | OilPrice.com**
+> *... <b>Global</b> Oil Prices ... Markets have always seen this as reassuring, while strengthening Saudi <b>energy security</b> and reducing dependence on Hormuz....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0MSTy836SxjSlvAKqTvlc9))
 
-**🟢 China Briefing 23 July 2026: 15th five-year plan for renewables | Record power demand**
-> *... energy <b>security</b>”, reported energy news outlet <b>International Energy</b> Net. It added that the rules cover contracts for power, as well as coal and gas&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.carbonbrief.org/china-briefing-23-july-2026-15th-five-year-plan-for-renewables-record-power-demand-hainans-petrol-car-ban&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1yXW1nEosmTeT8o2ayPaXh))
+**🟢 UN General Assembly Interactive Dialogue: Accelerating the <b>Global Energy</b> Transition**
+> *The EU has demonstrated that climate action, competitiveness and <b>energy security</b> can and must go hand in hand. The recent <b>energy</b> crisis only&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-un-general-assembly-interactive-dialogue-accelerating-global-energy-transition_en&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw36znPoCG9Fw5lZqG7fBJF1))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Why Europe needs Pakistan now more than ever - <b>Asia</b> Times**
-> *... <b>Security</b> Policy, Kaja Kallas, together with the 8th ... <b>Indo</b>-<b>Pacific</b> have all increased Pakistan's relevance to Europe's external strategy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/2026/07/why-europe-needs-pakistan-now-more-than-ever/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2wcrp_Cz9kUV1xd9P-MD7p))
+**🟢 Corporate Advisory Update | July 2026 - Lexology**
+> *Proposed new <b>changes</b> to merger control <b>regime</b> - void to become voidable, control and extensions. On 2 July 2026, the <b>government</b> introduced what it&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lexology.com/library/detail.aspx%3Fg%3D8a6e90ee-5791-44b5-b9cb-4d187d4a0182&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0zDEBqiFdRq3aOGQp1Jpwo))
 
-**🔴 Is Cockroach Janta Party Indian 'Laughtivism' for <b>regime change</b>? - OpIndia**
-> *Although Cockroach Janta Party protestors are now issuing “Nepal bana denge” threats, indicating Bangladesh- and Nepal-like violent <b>regime changes</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.opindia.com/2026/07/cockroach-janta-party-leftist-anarchy-blueprint-regime-change-yogendra-yadav/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0crhuK9j_TKeHDIZbFWnkn))
+**🟡 Get out of <b>regime</b>-<b>change</b> business, socialism a 'dirty word'? and more letters to the editors**
+> *Get out of <b>regime</b>-<b>change</b> business, socialism a 'dirty word'? and more letters to the editors &middot; It's not 'just politics' &middot; Another misstep in Middle East....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.timesfreepress.com/news/2026/jul/24/get-out-of-regime-change-business-socialism-a/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2lECPlGBPQfHKlUvMtFHjZ))
 
-**🔴 Legal Eagle Harish Salve LIVE With Arnab On CJP's Violent Protest In Delhi - YouTube**
-> *... <b>regime change</b>” intent are put under the scanner, as the narrative shifts from exam outrage and student anger to something that looks far more&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Ds_Fioa3nkaY&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0Wc6Tq0Mg3HXv9vJ9oz5Uf))
+**🟡 <b>Changes</b> in US student visa <b>regime</b>: Costs of closing doors - Deccan Herald**
+> *The Donald Trump administration's recent strictures on H-1B visas, which had long enabled highly skilled foreign citizens to work in the United&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.deccanherald.com/education/changes-in-us-student-visa-regime-costs-of-closing-doors-4086648&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0NXOD2Wh4yH9E7o1ZYvYRK))
 
-**🟢 A New Private Fund Managers <b>Regime</b> in the UK: Good News for Non-UK Managers?**
-> *In our recent alerts, “A New <b>Regime</b> for UK Private Fund Managers: Latest From the FCA and HMT” and “Remuneration Rules for UK Private Fund&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/a-new-private-fund-managers-regime-in-7269312/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2Ha2szj9bGRcVNi6eP1DS8))
+**🟢 Major <b>changes</b> to the UK's right to work <b>regime</b> | Business Immigration - Freeths**
+> *Major <b>changes</b> to UK right to work laws are coming in October 2026. Learn how expanded compliance rules could affect employers and labour supply&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.freeths.co.uk/insights-events/legal-articles/2026/major-changes-to-the-uks-right-to-work-regime/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0CUMxvr1TvFqfib6jWrouL))
 
-**🟢 DSA's Policy Wish List Lives in a Fantasy Land - Americans for Prosperity**
-> *How will DSA policies manage the high levels of pollution needed to mine, extract, and process <b>rare earth elements</b> commonly found in electric cars&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://americansforprosperity.org/policy-corner/dsas-policy-wish-list-lives-in-a-fantasy-land/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw08K3Gcwv1_PLXuh4B7a8kB))
+**🟡 Enervoxa eyes <b>rare earth</b> processing project in India - Mining Technology**
+> *The proposed facility would process <b>rare earths</b> from red mud, a waste product of aluminium manufacturing, Enervoxa CEO Vandit Verma told Reuters. Go&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mining-technology.com/news/enervoxa-rare-earth-processing-project-india/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw316cwjvWl8IFv8IFtBgZpX))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 ASEAN urges safe transit through Hormuz - <b>Asia</b> &amp; <b>Pacific</b> - The Jakarta Post**
-> *... <b>Asia</b>-<b>Pacific's</b> largest multilateral <b>security</b> dialogue unfolded in Manila. In a joint communiqué issued during the 59th ASEAN Foreign Ministers&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thejakartapost.com/world/2026/07/24/asean-urges-safe-transit-through-hormuz&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2sgbHpw--3XjkDtGtwGF7s))
+**🟢 Interview with Samuel Bloebaum, Senior Analyst - Steptoe**
+> *With a background in <b>geopolitical risk</b> analysis and complex investigations spanning English-speaking countries, Latin America and the Middle East&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/interview-with-samuel-bloebaum-senior-analyst.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1Sd__sS-1QogTX_-5Jzi-n))
 
-**🟢 Philippines says <b>China</b> Coast Guard fired water cannon at gov't vessel | ABS-CBN News**
-> *“The Chinese is the one who escalates the <b>tension</b>, carry out ... Philippines clash 'has not changed' <b>South China Sea</b> code hopes: Chinese envoy...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.abs-cbn.com/news/nation/2026/7/23/philippines-says-china-coast-guard-fired-water-cannon-at-gov-t-vessel-1423&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1RBDr9nkMwwqvVxN_MlmqZ))
+**🟢 EU and Philippines launch Enhanced Partnership and expand <b>security</b> cooperation**
+> *Worth EUR 15 million, the first measure to be implemented in the <b>Indo</b>-<b>Pacific</b> region marks a major milestone in European Union-Philippines <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ieu-monitoring.com/editorial/eu-and-philippines-launch-enhanced-partnership-and-expand-security-cooperation/1246493/%3Futm_source%3Dieu-portal&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw047pHYqyrV6f2_UGJZCMsE))
 
-**🟢 Middle East tops Asean agenda | The Star**
-> *... <b>South China Sea tensions</b> , US-Russia relations. Is this article useful? of our readers find this article useful. Report a mistake. What is the issue&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/24/middle-east-tops-asean-agenda&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2Zuy4XKzndg3CKox5CZZ9F))
+**🟢 Philippines' provocations at multiple points in <b>South China Sea</b> show anxiety, craving for ...**
+> *Jiang Lue, spokesperson for the <b>China</b> Coast Guard (CCG), stated that the CCG on Friday took necessary countermeasures in accordance with the law&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globaltimes.cn/page/202607/1366747.shtml&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw11NuWTGYRQepv7tY9TTHy0))
 
-**🟢 ASEAN meeting: <b>China</b>, Japan, <b>South</b> Korea call on bloc to tackle shared global challenges**
-> *Comments &middot; ASEAN Plus Three urges cooperation despite <b>South China Sea tensions</b> | East Asia Tonight (Jul 23) &middot; Marco Rubio Arrives as Philippines Hosts&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Da21x2Fdbu7o&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw08gJSi81CI4FxHTYGqXbkC))
+**🔴 China, Philippines, U.S.: Maritime Escalation Pushes <b>South China Sea</b> Dispute Onto Trump ...**
+> *... <b>South China Sea</b> confrontation in five days, Reuters reported on July 24 ... In the <b>South China Sea</b>, Managed <b>Tension</b> Masks Long-Term Volatility (April 14&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://worldview.stratfor.com/situation-report/china-philippines-us-maritime-escalation-pushes-south-china-sea-dispute-trump-xi&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1mgbkknazyEaDKqEdl_sM0))
 
-**🟡 China, Philippines: Water Cannon Incident Marks Second <b>South China Sea</b> Confrontation in ...**
-> *A <b>Chinese</b> coast guard vessel fired its water cannon for more than two minutes at a Philippine Bureau of Fisheries and Aquatic Resources vessel&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://worldview.stratfor.com/situation-report/china-philippines-water-cannon-incident-marks-second-south-china-sea-confrontation&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1Ak2ZIZUC2fi69seUNa0zQ))
+**🔴 <b>China</b> Hits Philippine Fishers With Water Cannons Three Times in Five Days at Scarborough Shoal**
+> *China Philippines <b>South China Sea</b> water cannon ... Friday's confrontation underscores a structural <b>tension</b> at the heart of <b>South China Sea</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.techtimes.com/articles/321505/20260724/china-hits-philippine-fishers-water-cannons-three-times-five-days-scarborough-shoal.htm&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3z3Zgn10lPwsKCBELWrjH_))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
