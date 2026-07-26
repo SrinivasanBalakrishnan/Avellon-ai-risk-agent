@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 25 July 2026
+**Date:** 26 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil Futures Post Weekly Gains on Middle East Escalation - WSJ
+**Source News:** Brent Crude Near $100: India's Inflation Concerns in 2026 - Discovery Alert
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Futures Post Weekly Gains on Middle East Escalation - WSJ
+- **The News:** Brent Crude Near $100: India's Inflation Concerns in 2026 - Discovery Alert
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** By Regulatory Design: <b>Geopolitical</b> Concentration In The US Morphine Supply Chain
+**Source News:** Apple's biggest-ever leak happened in India. Will firms rethink their China relocations?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** By Regulatory Design: <b>Geopolitical</b> Concentration In The US Morphine Supply Chain
+- **The News:** Apple's biggest-ever leak happened in India. Will firms rethink their China relocations?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil above $100 per barrel reignites global inflation fears - The National News
+**Source News:** Uganda tightens its grip on Kenya fuel corridor amid Red Sea risks - The EastAfrican
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil above $100 per barrel reignites global inflation fears - The National News
+- **The News:** Uganda tightens its grip on Kenya fuel corridor amid Red Sea risks - The EastAfrican
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Corporate Advisory Update | July 2026 - Lexology
+**Source News:** India's 'Cockroach' movement ends protests after education minister resigns - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Corporate Advisory Update | July 2026 - Lexology
+- **The News:** India's 'Cockroach' movement ends protests after education minister resigns - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
