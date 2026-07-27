@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 26 July 2026
+**Date:** 27 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Brent Crude Near $100: India's Inflation Concerns in 2026 - Discovery Alert
+**Source News:** WTI Futures (USOIL-F) Drops on Jul 27: Key Factors to Watch - TradingKey
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brent Crude Near $100: India's Inflation Concerns in 2026 - Discovery Alert
+- **The News:** WTI Futures (USOIL-F) Drops on Jul 27: Key Factors to Watch - TradingKey
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Apple's biggest-ever leak happened in India. Will firms rethink their China relocations?
+**Source News:** Clyde &amp; Co Survey Shows Rapid Escalation of AI, <b>Geopolitical Risks</b> - Insurance Journal
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Apple's biggest-ever leak happened in India. Will firms rethink their China relocations?
+- **The News:** Clyde &amp; Co Survey Shows Rapid Escalation of AI, <b>Geopolitical Risks</b> - Insurance Journal
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Uganda tightens its grip on Kenya fuel corridor amid Red Sea risks - The EastAfrican
+**Source News:** Canadian Dollar advances as easing <b>risk</b> aversion lifts US Dollar
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Uganda tightens its grip on Kenya fuel corridor amid Red Sea risks - The EastAfrican
+- **The News:** Canadian Dollar advances as easing <b>risk</b> aversion lifts US Dollar
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** India's 'Cockroach' movement ends protests after education minister resigns - YouTube
+**Source News:** PM Modi announces high-powered task force led by Nandan Nilekani for exam reforms
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India's 'Cockroach' movement ends protests after education minister resigns - YouTube
+- **The News:** PM Modi announces high-powered task force led by Nandan Nilekani for exam reforms
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
