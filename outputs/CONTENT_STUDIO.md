@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 28 July 2026
+**Date:** 29 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Market outlook stays positive despite war <b>risks</b> | The Star
+**Source News:** Oil Prices Surge on Fresh Middle East Strikes and API Crude Draw | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Market outlook stays positive despite war <b>risks</b> | The Star
+- **The News:** Oil Prices Surge on Fresh Middle East Strikes and API Crude Draw | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** WTI Slides to $82.60 as US-Iran Pause Eases <b>Risk</b> Premium, Volatility Falls - VT Markets
+**Source News:** Gold, Silver Rate Today Live Updates: Bullion slips as Fed decision, stronger dollar keep ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** WTI Slides to $82.60 as US-Iran Pause Eases <b>Risk</b> Premium, Volatility Falls - VT Markets
+- **The News:** Gold, Silver Rate Today Live Updates: Bullion slips as Fed decision, stronger dollar keep ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Hopes for Renewed Negotiations Trigger Pullback in <b>Geopolitical Risk</b> Premium; Crude Oil ...
+**Source News:** Escalating Middle East tensions shift the balance of <b>risk</b> - Funds Global MENA
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Hopes for Renewed Negotiations Trigger Pullback in <b>Geopolitical Risk</b> Premium; Crude Oil ...
+- **The News:** Escalating Middle East tensions shift the balance of <b>risk</b> - Funds Global MENA
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** NY Times reporter admits Trump's 'delusional' foes have wrongly written his <b>political</b> obituary ...
+**Source News:** Rules of International Law? Not For Us! | Toda Peace Institute
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** NY Times reporter admits Trump's 'delusional' foes have wrongly written his <b>political</b> obituary ...
+- **The News:** Rules of International Law? Not For Us! | Toda Peace Institute
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
