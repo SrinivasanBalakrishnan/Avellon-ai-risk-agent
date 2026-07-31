@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 30 July 2026
+**Date:** 31 July 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Jurisdiction is Alpha: The New Logic of Asian Cross-Border Capital - ARC Group
+**Source News:** Oil falls more than $1 on greater flows despite US-Iran war - Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Jurisdiction is Alpha: The New Logic of Asian Cross-Border Capital - ARC Group
+- **The News:** Oil falls more than $1 on greater flows despite US-Iran war - Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Persian Gulf <b>Geopolitical Risks</b> Bolster Oil Prices, ING Analysts Report - CryptoRank
+**Source News:** New state-backed property insurer formed to resolve liability insurer's <b>risk</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Persian Gulf <b>Geopolitical Risks</b> Bolster Oil Prices, ING Analysts Report - CryptoRank
+- **The News:** New state-backed property insurer formed to resolve liability insurer's <b>risk</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** How NDIV Generates Income in Volatile Markets - ETF Database
+**Source News:** India imports oil from 40 countries to beat market volatility - Awaz The Voice
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How NDIV Generates Income in Volatile Markets - ETF Database
+- **The News:** India imports oil from 40 countries to beat market volatility - Awaz The Voice
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** India Sees Renewed Fiscal <b>Risks</b> From Middle East Impasse - Financial Post
+**Source News:** Potential <b>Changes</b> to the UK's Employee Automatic Transfer <b>Regime</b> | JD Supra
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India Sees Renewed Fiscal <b>Risks</b> From Middle East Impasse - Financial Post
+- **The News:** Potential <b>Changes</b> to the UK's Employee Automatic Transfer <b>Regime</b> | JD Supra
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
