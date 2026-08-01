@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 31 July 2026
+**Date:** 01 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil falls more than $1 on greater flows despite US-Iran war - Reuters
+**Source News:** Bull vs. Bear: The Market's Path Forward - TradingView
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil falls more than $1 on greater flows despite US-Iran war - Reuters
+- **The News:** Bull vs. Bear: The Market's Path Forward - TradingView
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** New state-backed property insurer formed to resolve liability insurer's <b>risk</b>
+**Source News:** Oil prices set to spike again after more Strait of Hormuz disruptions, Red Sea attacks
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** New state-backed property insurer formed to resolve liability insurer's <b>risk</b>
+- **The News:** Oil prices set to spike again after more Strait of Hormuz disruptions, Red Sea attacks
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** India imports oil from 40 countries to beat market volatility - Awaz The Voice
+**Source News:** Crude Oil Sits Between Middle East Supply <b>Risk</b> and a Payrolls Test - StoneX
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India imports oil from 40 countries to beat market volatility - Awaz The Voice
+- **The News:** Crude Oil Sits Between Middle East Supply <b>Risk</b> and a Payrolls Test - StoneX
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Potential <b>Changes</b> to the UK's Employee Automatic Transfer <b>Regime</b> | JD Supra
+**Source News:** How accurate is Christopher Nolan's 'The Odyssey'? | Ideastream Public Media
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Potential <b>Changes</b> to the UK's Employee Automatic Transfer <b>Regime</b> | JD Supra
+- **The News:** How accurate is Christopher Nolan's 'The Odyssey'? | Ideastream Public Media
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
