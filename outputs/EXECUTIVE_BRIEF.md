@@ -1,96 +1,101 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 02 August 2026
+**Date:** 03 August 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 18.0)
-- **Strait of Hormuz** (Risk Score: 15.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 11.0)
+- **Taiwan Strait** (Risk Score: 19.0)
+- **Strait of Hormuz** (Risk Score: 16.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 9.5)
+- **Malacca Strait** (Risk Score: 4.5)
+- **Cape of Good Hope** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 <b>Geopolitical</b> tensions could spark inflation beyond oil prices, warns Jefferies - BusinessToday**
-> *Jefferies said inflation <b>risks</b> extend beyond crude oil, with prolonged shipping disruptions likely to raise LNG, freight, insurance and broader supply&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.in/latest/economy/story/geopolitical-tensions-could-spark-inflation-beyond-oil-prices-warns-jefferies-546673-2026-08-02&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2aI1I-QHLUuPOAHk9_Jjxn))
+**🟡 Oil plunges nearly 5% as Trump delays Iran strike, bets on nuclear deal - Firstpost**
+> *While Trump's latest remarks helped erase part of the <b>geopolitical risk</b> premium that had built up over recent weeks, traders are expected to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/business/oil-prices-trump-delays-iran-strike-nuclear-deal-strait-of-hormuz-14035508.html/amp&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0SvQFJKMTGLcoVRc0VIm_9))
 
-**🔴 Iran threatens infrastructure retaliation as <b>geopolitical risk</b> clouds crypto markets**
-> *Iran's warning to target regional infrastructure if attacked puts Bitcoin mining and crypto market stability directly in the line of <b>geopolitical</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptobriefing.com/iran-infrastructure-threat-bitcoin-crypto-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw28sO80rQv59ZaTITaOZPrP))
+**🟢 Bitcoin Rebounds As Michael Saylor Clarifies Strategy's $5bn Sale Claim**
+> *BTC slightly outperformed a broadly flat market amidst easing <b>geopolitical risk</b> after the US cancelled planned military strikes against Iran. US&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://dmarketforces.com/bitcoin-rebounds-as-michael-saylor-clarifies-strategys-5bn-sale-claim/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1SIjO14iZ8B4Mq1y0-lR-z))
 
-**🔴 Drone strike near suez raises shipping <b>security</b> fears - A News**
-> *The expanding U.S.-Iran conflict is threatening another strategic shipping corridor, raising fresh concerns over <b>global energy security</b> beyond the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.anews.com.tr/webtv/world/drone-strike-near-suez-raises-shipping-security-fears&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3E7UnU_eL745qaUDKY5-B4))
+**🔴 Oil Prices Tumble as Trump Holds Off Iran Attack for Nuclear Deal**
+> *Trump paused planned strikes on Iran to pursue rapid negotiations, reducing <b>geopolitical risk</b> and sending oil prices down sharply. Brent crude&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ZAgugZQvxbhD_AOG7PUkk))
 
-**🟢 Mark Carney promised to take on Donald Trump. He's done anything but - Toronto Star**
-> *If Donald Trump really was intent on waging <b>economic warfare</b> against Canada and was cracking casual jokes about its annexation, the situation clearly&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com/opinion/contributors/mark-carney-promised-to-take-on-donald-trump-hes-done-anything-but/article_132eff09-b677-4190-8118-b37a6b6a2e1e.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1MwR1lChWCEkZ1f-jJzz0J))
+**🟢 Trump: Iran Talks Set for Monday, No Deadline for Nuclear Deal**
+> *Impact on Global Energy Markets; Iranian ... Closure of Strait of Hormuz is 'greatest <b>global energy security</b> threat in history,' warns IEA chief&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.globalbankingandfinance.com/trump-iran-talks-take-place-monday-sets-deadline-deal/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2kJxK6R4V3QIUkzxTTX0-d))
 
-**🟡 Fed 'hostage' to a <b>war</b> thousands of miles away - <b>Financial</b> Mirror**
-> *The Federal Reserve's decision to hold interest rates steady at 3.5% to 3.75% was shaped less by <b>economic</b> data than by a conflict thousands of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.financialmirror.com/2026/08/01/fed-hostage-to-a-war-thousands-of-miles-away/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw09CWwkdfVkttmnn6QSntBb))
+**🔴 Fuel Shortages and Banking Paralysis Deepen Iran's <b>Economic</b> Crisis - الحرة**
+> *A severe fuel shortage, a crippled banking sector and rapidly accelerating inflation have pushed Iran's <b>economy</b> deeper into crisis as the <b>war</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://alhurra.com/en/30974&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2B7zoJ7TUZ9qEyel4ATB15))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Nonfarm Payrolls Collide With Big Tech Earnings; US-Japan Joint Yen Intervention in Focus ...**
-> *On the earnings front, Palantir, AMD, SpaceX, SanDisk, Western Digital, and Eli Lilly all report, though AI bubble concerns and <b>geopolitical risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/78facb7f-9770-42c7-a545-3c22dc06e497&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1yjaoGqv39f3sRISYrj-mA))
+**🟢 Strong Raw Materials vs. Weak Demand – China ABS Prices Consolidate After July Rise - SunSirs**
+> *Risks to shipping in the Strait of Hormuz increased, sparking market ... <b>geopolitical risk</b> premium. Additionally, domestic pure benzene&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-34932.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1xgI5VX4T-OSbunvi2RAAe))
 
-**🔴 Shocking Facts on Strait of Hormuz Tensions Driving Oil Prices Up 24% - teleSUR English**
-> *... <b>geopolitical risk</b> premium to crude prices. Mexican export crude also rose, closing at $80.56, up 93 cents, as the regional impact of the crisis&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.telesurenglish.net/strait-of-hormuz/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3emySGhI8abBNX5sj3Z0ls))
+**🟡 Reasons to stay <b>risk</b>-on - The Globe and Mail**
+> *We highlighted <b>geopolitical risks</b> and critical chokepoints as forces shaping markets in our 2026 Midyear Global Outlook. The latest Middle East&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/funds/RBF260.CF/pressreleases/3513583/reasons-to-stay-risk-on/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1h9NFNPJW3VTgMu--psSne))
 
-**🟢 Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March - EnergyNow.com**
-> *<b>GEOPOLITICAL RISKS</b> ​REMAIN. Research firm Gelber &amp; Associates wrote in a note that the “<b>geopolitical risk</b> premium (remains) firmly in place near&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energynow.com/2026/08/oil-price-rises-after-iran-says-it-stops-ships-in-hormuz/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1TOqmkT1l8iyj7jJ4YNgHS))
+**🔴 RBI likely to hold rates in Aug as inflation <b>risks</b> persist, say economists - The Shillong Times**
+> *... <b>risks</b> from <b>geopolitical</b> tensions, elevated crude oil prices and an uneven monsoon. Economists said the central bank will remain in a “wait-and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theshillongtimes.com/2026/08/03/rbi-likely-to-hold-rates-in-aug-as-inflation-risks-persist-say-economists/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_0P8YANrcGOs1XJ60VyxS))
 
-**🟢 Oil prices settle more than 1% higher | The Daily Star**
-> *Research firm Gelber &amp; Associates wrote in a note that the “<b>geopolitical risk</b> premium (remains) firmly in place near chokepoints like the Strait of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thedailystar.net/business/global-economy/news/oil-prices-settle-more-1-higher-4237831&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3bkeGiZ0_bhwXYA5-enDt_))
+**🟢 SG Hiscock launches <b>global</b> resources fund to capitalise on AI and <b>energy</b> transition demand**
+> *“Artificial intelligence is increasing demand for electricity, grids and critical minerals. Governments are investing in <b>energy security</b>, domestic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.adviservoice.com.au/2026/08/sg-hiscock-launches-global-resources-fund-to-capitalise-on-ai-and-energy-transition-demand/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1R6YMedfU8cIsRkzI1lRZf))
 
-**🟡 Iran ramps up threats to Mideast <b>energy</b> sites as fears of major US strike grow**
-> *Nour News, an outlet close to Iran's Supreme National <b>Security</b> Council, described threats against Iranian infrastructure as “blackmail against <b>global</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iranintl.com/en/202608014458&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw09kFGtFmkGdmYOQviv9w1d))
+**🔴 After days of threats, US President Donald Trump says strikes are on hold - Facebook**
+> *The decision highlights how geopolitical tensions and <b>global energy security</b> remain closely interconnected in today's international landscape....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/deutschewellenews/posts/after-days-of-threats-us-president-donald-trump-says-strikes-are-on-hold-for-now/1500617102093599/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1BhQhZ4CEKjrufHK1KLOih))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 When Liquidity Becomes A Substitute For Reform: The Political Economy Of PSO's Crisis**
-> *... <b>Geopolitical Risk</b>, PRIME, July 28, 2026. Every few years Pakistan State Oil (PSO) returns to the headlines with the same story: mounting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thefridaytimes.com/01-Aug-2026/liquidity-becomes-substitute-reform-political-economy-pso-s-crisis&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1THW8XEpdoiPDyAqoUs4j5))
+**🟢 Europe's New Gas Geography in the 2030s - Modern Diplomacy**
+> *Explore Europe's post-Russian energy strategy, key pipelines, investment needs, and <b>geopolitical risks</b>. ... risk interior while introducing major&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/08/03/europes-new-gas-geography-in-the-2030s/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Ko3aJwNNP-rNPGVkwifCw))
 
-**🔴 Oil markets defy conflict fears as analysts question <b>risk</b> of price spike - The Indian Sun**
-> *... <b>geopolitical risks</b> dominate headlines. He pointed to a recent pullback in oil prices following heightened rhetoric between the United States and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theindiansun.com.au/2026/08/02/oil-markets-defy-conflict-fears-as-analysts-question-risk-of-price-spike/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3MOzmaJmti9DQyyKkcG_me))
+**🟢 PBOC Releases Easing Signals, Aluminum Price Upside Room Limited Amid Supply ...**
+> *... <b>geopolitical risk</b> premium in the Middle East has jointly underpinned aluminum prices, significantly boosting short-term market confidence. However&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/en/newscontent/104037585-pboc-releases-easing-signals-aluminum-price-upside-room-limited-amid-supply-demand-and-geopolitical-game-smm-aluminum-mo&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1n3Wl1XymEs7AndhGft50-))
 
-**🟢 ADNOC sets new well delivery standard, drilling more than one mile in single day**
-> *... <b>energy</b> online faster for the UAE and the <b>world</b>. At the centre of this transformation is ADNOC's Real ... <b>energy security</b> and industrial ambitions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wam.ae/en/article/17cpqr3-adnoc-sets-new-well-delivery-standard-drilling&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0HFGaWUdVSJxiKqSamc90Y))
+**🟢 Oil Declines on Iran Deal Optimism, Yen in Focus: Markets Wrap - SWI swissinfo.ch**
+> *“The only dampener on the market last week was escalating <b>geopolitical risk</b>,” Kyle Rodda, a senior analyst at Capital.com, wrote in a note to clients....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.swissinfo.ch/eng/oil-declines-on-iran-deal-optimism%252C-yen-in-focus%253A-markets-wrap/91835908&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1hzhj5drxfaF5rNpDWYMOd))
 
-**🟢 3 High-Yield <b>Energy</b> Stocks to Buy With $1000 Right Now and Hold Through 2030**
-> *... <b>global</b> economy. As countries assess their <b>energy security</b>, North America could become an increasingly important source of oil and natural gas. 10&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3598675/3-high-yield-energy-stocks-to-buy-with-1000-right-now-and-hold-through-2030/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0OzoZHcUDS8hoL1ZpToGPt))
+**🟢 Post from Al Jazeera English - YouTube**
+> *... world's most important shipping routes. As tensions rise from Jordan ... <b>global energy</b> markets, the US, and international <b>security</b>. Watch for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxOw4nS8IOMkGujNVyQleuGlc1hsK98WwN&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1ruzdDVFUDW_27D52F7PrU))
 
-**🔴 Suriname's $26 Billion Oil Bet Is Finally Paying Off | OilPrice.com**
-> *, is playing havoc with <b>world energy</b> markets. An ongoing dispute over ... <b>Security</b> on the Line&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3VHkX3T7TpcoEUlq0zdHCr))
+**🔴 Petroleum deregulation is not enough for <b>energy security</b> - The Express Tribune**
+> *... <b>global</b> oil markets caused by geopolitical conflicts, supply disruptions, and changing <b>energy</b> policies. This convergence has created both&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tribune.com.pk/story/2621719/petroleum-deregulation-is-not-enough-for-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3a5XzPHakAs8aE8NIHtmqm))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Behind the interview: Reza Pahlavi and the future of Iran | On Assignment - YouTube**
-> *... <b>regime</b>-<b>change</b>-inside-reza-pahlavis-faltering-bid-lead-iran-2026-07-27/ Subscribe: https://reut.rs/4b8fRGn Keep up with the latest news from&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DemRAQPbFqRw&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3zC3FuIt7Ta5BXxeVZZI5F))
+**🟡 Donald Trump's entered a new phase. Is this the unmaking of his presidency? - SMH**
+> *Trump also wanted <b>regime change</b> for the Iranian people. “America is ... The regime in Iran has changed – for the worse. It is more hardline&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.smh.com.au/world/north-america/trump-s-entered-a-new-phase-the-unmaking-of-his-presidency-20260803-p60kt1.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1iTzvEwsp0lIhpHYQsNgNd))
 
-**🟢 FCRA seeks to tighten grip on foreign funds amid <b>regime</b>-<b>change</b> concerns**
-> *The Centre's proposed amendments to the Foreign Contribution (Regulation) Act (FCRA) are being viewed within the <b>government</b> and the security&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sundayguardianlive.com/news/top-5/fcra-seeks-to-tighten-grip-on-foreign-funds-amid-regime-change-concerns-251428/amp/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3COEsqufN9TZCt7xJqM0nf))
+**🟡 Damage assessment - Newspaper - DAWN.COM**
+> *<b>Regime Change</b> is no less scathing about Trump's record in office. Its subtitle Inside the imperial presidency of Donald Trump indicates its focus is&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dawn.com/news/2020266&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw28TqskwGD3Qc6t5Buskqr9))
 
-**🔴 Al Khalifa <b>Regime</b> Banned Shiite Friday Prayers for 95th Consecutive Week - ABNA English**
-> *The Al Khalifa <b>regime</b>, continuing its religious suppression policies, prevented the holding of the central Shiite Friday prayers at the Imam Sadiq&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.abna24.com/news/1847607/Al-Khalifa-Regime-Banned-Shiite-Friday-Prayers-for-95th-Consecutive&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3cLgWwqWwHuFbtw8Iu6DZE))
+**🟡 Iranians hold funeral for victims of recent US strikes - YouTube**
+> *<b>Regime change</b>? Inside Reza Pahlavi's faltering bid to lead Iran ... ': China Shreds Netanyahu's Government Over Gaza, Sends Veiled Message to Trump....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D4yOxuXOC4o4&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0bov3JAb4YDjwBECejfVzM))
 
-**🔴 Janamancha: Gen Z; A Wave of <b>Change</b> or a Wake-Up Call? Youth Protests Spark National Debate**
-> *MP vs MLA Over Haldidihi Breach: Political Tension Erupts in Binjharpur Flood Review ... | CJP Protest | <b>Regime Change</b>. Madhyom. New. 6.7K views &middot; 31:12....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D_s_rN1uKvaw&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw19z8JLifOSGv_fURqBRO5F))
+**🟢 Leg Anatomy - Measured Retracement and Extension — Indicatore di AlgoSmart-Official**
+> *A measured distribution describes what happened, not what will. Sample sizes are small by the standards of statistics and <b>regimes change</b>. Use it with&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://it.tradingview.com/script/3xcJbsWI-Leg-Anatomy-Measured-Retracement-and-Extension/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0wDVSQRZ4G7V5iy9DpX8VE))
+
+**🟢 A Decapitation Strike That Cut Off Nothing - OpEd - Eurasia Review**
+> *The strike did not produce <b>regime change</b> because the regime was never a single man. It was an architecture: institutions, security services, patronage&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/02082026-a-decapitation-strike-that-cut-off-nothing-oped/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw06agZQkzg5AmW6wkmnrM0a))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 Volatile week ahead for commodities as Iran strikes and US jobs data loom**
-> *... <b>geopolitical risk</b> premium rapidly. Brent then reversed sharply, surging 8 percent after US forces intercepted an Iranian ballistic missile and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/opinion/volatile-week-ahead-for-commodities-as-iran-strikes-and-us-jobs-data-loom-13991063.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ZaJ-PgKnBPuu-5alW8CmR))
+**🟢 <b>Geopolitical risk</b> shapes maritime investment landscape? What Neptune Leasing says**
+> *<b>Geopolitical risk</b> is the new driver of investment in shipping alongside decarbonization as maritime transport is no longer judged only by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://shippingtelegraph.com/hellenic-shipping-news/geopolitical-risk-shapes-maritime-investment-landscape-what-neptune-leasing-says/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FushMkUZkOK5ZTSQR4sdP))
 
-**🟡 Gold's Consolidation Tightens as a Hawkish Fed and a Resurgent Dollar Test the Metal's <b>Geopolitical</b>**
-> *Gold Slips as Dollar Rebounds, Fed Split and <b>Geopolitical Risks</b> Loom ... <b>Geopolitical Risk</b> Cuts Both Ways. The Middle East situation continues to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-s-consolidation-tightens-as-a-hawkish-fed-and-a-resurgent-dollar-test/69909062&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3zifC9zZTP9pzi7tI5AH_i))
+**🟢 Canada's Bootprint: An Effort to Mitigate Its Carbon Footprint – NAOC**
+> *Canada has increasingly recognized that climate change is not only an environmental issue but also a growing national and <b>international security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://natoassociation.ca/canadas-bootprint-an-effort-to-mitigate-its-carbon-footprint/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3dLwDdSYWlV6VB4vykcTAu))
 
-**🟢 Modi's <b>Pacific</b> Diplomacy: A New Era of India's Global Leadership - India Tribune**
-> *In an era marked by growing <b>security</b> challenges in the <b>Indo</b>-<b>Pacific</b>, India and Australia are steadily emerging as indispensable partners committed&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indiatribune.com/modis-pacific-diplomacy-a-new-era-of-indias-global-leadership&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw05ZJck7Ym2n7z7MM57kFeu))
+**🔴 Sri Lanka boosts prison <b>security</b> after riot kills one - Reuters**
+> *... by Uditha Jayasinghe; Editing by Saad Sayeed. Our Standards: The Thomson Reuters Trust Principles. , opens new tab. Suggested Topics: <b>Asia Pacific</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/asia-pacific/sri-lanka-boosts-prison-security-after-riot-kills-one-2026-08-02/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3UK_IHfeoUbb-kRnvYFm1n))
 
-**🟢 Japan Defense Focus No.196 3/8**
-> *... <b>Indo</b>-<b>Pacific</b> (FOIP). France welcomed these developments and reiter-ated ... Based on their shared recognition that <b>security</b> in the Euro-Atlantic and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mod.go.jp/en/jdf/no196/pageindices/index3.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2hqLNgZz6p-dzKh64Q_m8X))
+**🔴 Group backs US bill vs <b>China's</b> 'gray zone' - The Manila Times**
+> *The SeaLight Foundation, which monitors China's activities in the <b>South China Sea</b> ... <b>tension</b> in disputed waters, including the <b>South China Sea</b>. Gray-&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.manilatimes.net/2026/08/03/news/national/group-backs-us-bill-vs-chinas-gray-zone/2396606/amp&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw15E41oW-QnoUeEJ9HCptdh))
 
-**🟢 Japan Defense Focus No.196 6/8**
-> *Recognizing that the <b>security</b> of the Euro-Atlantic and of the <b>Indo</b>-<b>Pacific</b> are inseparable, they reaffirmed the importance of trilateral cooperation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mod.go.jp/en/jdf/no196/pageindices/index6.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3atttk8d-pgmgeFKvgcJjH))
+**🟢 Amid row with Philippines, China issues new rules to assert control over <b>South China Sea</b> shoal**
+> *China enforces new rules in the <b>South China Sea</b>, escalating <b>tensions</b> with the Philippines amid ongoing territorial disputes....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/news/international/amid-row-with-philippines-china-issues-new-rules-to-assert-control-over-south-china-sea-shoal/article71295672.ece&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2C056IdWzXZdupWp7wLM_B))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
