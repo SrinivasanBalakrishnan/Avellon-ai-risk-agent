@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 05 August 2026
+**Date:** 06 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Rising demand for nuclear fuels: security, supply and the AI power boom | Wood Mackenzie
+**Source News:** Ukraine's “Kinetic” Sanctions Against Russian Energy Infrastructure Add New Pressure to ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rising demand for nuclear fuels: security, supply and the AI power boom | Wood Mackenzie
+- **The News:** Ukraine's “Kinetic” Sanctions Against Russian Energy Infrastructure Add New Pressure to ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Quarterly Review | Company Announcement - Investegate
+**Source News:** Rethinking Water as a Frontline Security <b>Risk</b> - CSIS
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Quarterly Review | Company Announcement - Investegate
+- **The News:** Rethinking Water as a Frontline Security <b>Risk</b> - CSIS
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Biofuels Markets Find Their Footing Amid Fragile Iran Ceasefire (2026-Q3-BF ... - ResourceWise
+**Source News:** Morning Report - Westpac IQ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Biofuels Markets Find Their Footing Amid Fragile Iran Ceasefire (2026-Q3-BF ... - ResourceWise
+- **The News:** Morning Report - Westpac IQ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** This Is Why Jeanine Pirro Defied Trump: Wolff | Inside Trump's Head - YouTube
+**Source News:** Pakistan <b>Regime Change</b>: Shehbaz Sharif की कुर्सी पर संकट? Mohsin Naqvi की नई चाल!
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** This Is Why Jeanine Pirro Defied Trump: Wolff | Inside Trump's Head - YouTube
+- **The News:** Pakistan <b>Regime Change</b>: Shehbaz Sharif की कुर्सी पर संकट? Mohsin Naqvi की नई चाल!
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
