@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 06 August 2026
+**Date:** 07 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Ukraine's “Kinetic” Sanctions Against Russian Energy Infrastructure Add New Pressure to ...
+**Source News:** The Dawn of a New Strategic Era: India has begun to absorb the lessons from the Iran war
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Ukraine's “Kinetic” Sanctions Against Russian Energy Infrastructure Add New Pressure to ...
+- **The News:** The Dawn of a New Strategic Era: India has begun to absorb the lessons from the Iran war
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Rethinking Water as a Frontline Security <b>Risk</b> - CSIS
+**Source News:** Asian shares pause for US jobs, oil extends gains on Mideast <b>risk</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rethinking Water as a Frontline Security <b>Risk</b> - CSIS
+- **The News:** Asian shares pause for US jobs, oil extends gains on Mideast <b>risk</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Morning Report - Westpac IQ
+**Source News:** China bets on synthetic gas as <b>geopolitical risk</b> drives need for energy security
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Morning Report - Westpac IQ
+- **The News:** China bets on synthetic gas as <b>geopolitical risk</b> drives need for energy security
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Pakistan <b>Regime Change</b>: Shehbaz Sharif की कुर्सी पर संकट? Mohsin Naqvi की नई चाल!
+**Source News:** China ABS Prices Fluctuating Within a Range - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Pakistan <b>Regime Change</b>: Shehbaz Sharif की कुर्सी पर संकट? Mohsin Naqvi की नई चाल!
+- **The News:** China ABS Prices Fluctuating Within a Range - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
