@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 07 August 2026
+**Date:** 08 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The Dawn of a New Strategic Era: India has begun to absorb the lessons from the Iran war
+**Source News:** Dollar faces a tougher period as Fed expectations may shift | MarketPulse by OANDA Group
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Dawn of a New Strategic Era: India has begun to absorb the lessons from the Iran war
+- **The News:** Dollar faces a tougher period as Fed expectations may shift | MarketPulse by OANDA Group
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asian shares pause for US jobs, oil extends gains on Mideast <b>risk</b>
+**Source News:** US Dollar Weekly Forecast: Sticky inflation, weaker jobs and hopes of peace - FXStreet
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asian shares pause for US jobs, oil extends gains on Mideast <b>risk</b>
+- **The News:** US Dollar Weekly Forecast: Sticky inflation, weaker jobs and hopes of peace - FXStreet
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** China bets on synthetic gas as <b>geopolitical risk</b> drives need for energy security
+**Source News:** FAO Food Price Index edges up amid weather, energy and <b>geopolitical</b> concerns
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** China bets on synthetic gas as <b>geopolitical risk</b> drives need for energy security
+- **The News:** FAO Food Price Index edges up amid weather, energy and <b>geopolitical</b> concerns
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** China ABS Prices Fluctuating Within a Range - SunSirs
+**Source News:** Yield Strength — Indikator von gabrieldagracadedeus - TradingView
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** China ABS Prices Fluctuating Within a Range - SunSirs
+- **The News:** Yield Strength — Indikator von gabrieldagracadedeus - TradingView
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
