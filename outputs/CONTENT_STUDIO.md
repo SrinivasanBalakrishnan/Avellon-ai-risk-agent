@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 10 August 2026
+**Date:** 11 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Global LNG and natural gas prices surge as US and Iran resume hot war
+**Source News:** Houthis escalate Yemen war, threatening Red Sea <b>security</b> and <b>global energy</b> routes
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Global LNG and natural gas prices surge as US and Iran resume hot war
+- **The News:** Houthis escalate Yemen war, threatening Red Sea <b>security</b> and <b>global energy</b> routes
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** India: Bajaj General Insurance partners with Swiss Re Corporate Solutions
+**Source News:** More expensive gas, more expensive electricity: Hormuz closure unprecedented, says Tomáš Plocek
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India: Bajaj General Insurance partners with Swiss Re Corporate Solutions
+- **The News:** More expensive gas, more expensive electricity: Hormuz closure unprecedented, says Tomáš Plocek
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Brent (UKOIL) Is up by 2.87% on Aug 9: Is the Demand Outlook Changing? - TradingKey
+**Source News:** EB-5 Lessons from the IMF &amp; World Bank Group with Chris Mason and Andrew Diroll-Black
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brent (UKOIL) Is up by 2.87% on Aug 9: Is the Demand Outlook Changing? - TradingKey
+- **The News:** EB-5 Lessons from the IMF &amp; World Bank Group with Chris Mason and Andrew Diroll-Black
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Live Updates: Latest from Israel, Iran, and the Middle East | The Jerusalem Post
+**Source News:** Masterclass: Geo-economics | Summer 2026 Kellogg Magazine
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Live Updates: Latest from Israel, Iran, and the Middle East | The Jerusalem Post
+- **The News:** Masterclass: Geo-economics | Summer 2026 Kellogg Magazine
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
