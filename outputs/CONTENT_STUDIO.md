@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 August 2026
+**Date:** 13 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** The US-Saudi Nuclear Deal: Ramifications for Global Proliferation and the Fracturing ...
+**Source News:** When neutrality pays: How Malaysia is navigating the <b>global</b> fuel crisis - Malay Mail
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The US-Saudi Nuclear Deal: Ramifications for Global Proliferation and the Fracturing ...
+- **The News:** When neutrality pays: How Malaysia is navigating the <b>global</b> fuel crisis - Malay Mail
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Cramer says ask yourself these 3 questions to figure out what's really happening in the market
+**Source News:** TikTok reversal exposes limits of security claims - Chinadaily.com.cn
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Cramer says ask yourself these 3 questions to figure out what's really happening in the market
+- **The News:** TikTok reversal exposes limits of security claims - Chinadaily.com.cn
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Dow Falls 184 Points as Stalled U.S.-Iran Talks Reignite <b>Geopolitical Risks</b> - BigGo Finance
+**Source News:** <b>Geopolitical</b> stability seen as aviation's most significant <b>threat</b> - Asia Insurance Review
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Dow Falls 184 Points as Stalled U.S.-Iran Talks Reignite <b>Geopolitical Risks</b> - BigGo Finance
+- **The News:** <b>Geopolitical</b> stability seen as aviation's most significant <b>threat</b> - Asia Insurance Review
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Heirs prepare to strike back - The Kathmandu Post
+**Source News:** <b>Regime</b> Compass: indicador de IvanLabrie - TradingView
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Heirs prepare to strike back - The Kathmandu Post
+- **The News:** <b>Regime</b> Compass: indicador de IvanLabrie - TradingView
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
