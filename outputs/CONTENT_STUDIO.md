@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 13 August 2026
+**Date:** 14 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** When neutrality pays: How Malaysia is navigating the <b>global</b> fuel crisis - Malay Mail
+**Source News:** AI-driven cybercrime surges at scale, Flashpoint warns - SecurityBrief Australia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** When neutrality pays: How Malaysia is navigating the <b>global</b> fuel crisis - Malay Mail
+- **The News:** AI-driven cybercrime surges at scale, Flashpoint warns - SecurityBrief Australia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** TikTok reversal exposes limits of security claims - Chinadaily.com.cn
+**Source News:** EUR <b>risk</b>: Latvia issues air <b>threat</b> alert, Finland restricts Gulf of Finland traffic - investingLive
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** TikTok reversal exposes limits of security claims - Chinadaily.com.cn
+- **The News:** EUR <b>risk</b>: Latvia issues air <b>threat</b> alert, Finland restricts Gulf of Finland traffic - investingLive
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Geopolitical</b> stability seen as aviation's most significant <b>threat</b> - Asia Insurance Review
+**Source News:** Intensified Price Volatility in Commodity Markets - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical</b> stability seen as aviation's most significant <b>threat</b> - Asia Insurance Review
+- **The News:** Intensified Price Volatility in Commodity Markets - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** <b>Regime</b> Compass: indicador de IvanLabrie - TradingView
+**Source News:** Governments in Italy: Average Length of Office and Why They Change So Often
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Regime</b> Compass: indicador de IvanLabrie - TradingView
+- **The News:** Governments in Italy: Average Length of Office and Why They Change So Often
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
