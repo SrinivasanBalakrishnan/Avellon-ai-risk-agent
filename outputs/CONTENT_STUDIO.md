@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 14 August 2026
+**Date:** 15 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** AI-driven cybercrime surges at scale, Flashpoint warns - SecurityBrief Australia
+**Source News:** Republic of Tajikistan Upgraded To 'B+' On Contin | S&amp;P Global Ratings
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** AI-driven cybercrime surges at scale, Flashpoint warns - SecurityBrief Australia
+- **The News:** Republic of Tajikistan Upgraded To 'B+' On Contin | S&amp;P Global Ratings
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** EUR <b>risk</b>: Latvia issues air <b>threat</b> alert, Finland restricts Gulf of Finland traffic - investingLive
+**Source News:** Week Ahead: US30 Braces for Retail Reckoning - FXTM
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** EUR <b>risk</b>: Latvia issues air <b>threat</b> alert, Finland restricts Gulf of Finland traffic - investingLive
+- **The News:** Week Ahead: US30 Braces for Retail Reckoning - FXTM
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Intensified Price Volatility in Commodity Markets - SunSirs
+**Source News:** Oil Prices Rally as Global Stocks Fall Amid <b>Geopolitical</b> Tensions
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Intensified Price Volatility in Commodity Markets - SunSirs
+- **The News:** Oil Prices Rally as Global Stocks Fall Amid <b>Geopolitical</b> Tensions
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Governments in Italy: Average Length of Office and Why They Change So Often
+**Source News:** National Security and Investment Act 2021 (NSIA) and Trust Structures: Hidden Risks for ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Governments in Italy: Average Length of Office and Why They Change So Often
+- **The News:** National Security and Investment Act 2021 (NSIA) and Trust Structures: Hidden Risks for ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
