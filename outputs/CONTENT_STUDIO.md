@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 15 August 2026
+**Date:** 16 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Republic of Tajikistan Upgraded To 'B+' On Contin | S&amp;P Global Ratings
+**Source News:** Hormuz deadlock, Fed pause bets set stage for two-way commodity volatility next week
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Republic of Tajikistan Upgraded To 'B+' On Contin | S&amp;P Global Ratings
+- **The News:** Hormuz deadlock, Fed pause bets set stage for two-way commodity volatility next week
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Week Ahead: US30 Braces for Retail Reckoning - FXTM
+**Source News:** S&amp;P 500 Index Forecast: JPMorgan Raises Target to 8,000; Can AI Earnings Push US ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Week Ahead: US30 Braces for Retail Reckoning - FXTM
+- **The News:** S&amp;P 500 Index Forecast: JPMorgan Raises Target to 8,000; Can AI Earnings Push US ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Prices Rally as Global Stocks Fall Amid <b>Geopolitical</b> Tensions
+**Source News:** 5.3 million recipients to receive STR Phase 3 payments starting today | The Star
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Prices Rally as Global Stocks Fall Amid <b>Geopolitical</b> Tensions
+- **The News:** 5.3 million recipients to receive STR Phase 3 payments starting today | The Star
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** National Security and Investment Act 2021 (NSIA) and Trust Structures: Hidden Risks for ...
+**Source News:** INDIA'S FOREIGN POLICY - The Indian Panorama
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** National Security and Investment Act 2021 (NSIA) and Trust Structures: Hidden Risks for ...
+- **The News:** INDIA'S FOREIGN POLICY - The Indian Panorama
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
