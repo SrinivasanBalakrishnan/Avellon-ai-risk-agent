@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 17 August 2026
+**Date:** 18 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Korea stocks eye Fed signals as inflation eases and bond <b>risks</b> loom - CHOSUNBIZ
+**Source News:** European gas gains for 4th straight session as Hormuz blockade <b>risks</b> escalate
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Korea stocks eye Fed signals as inflation eases and bond <b>risks</b> loom - CHOSUNBIZ
+- **The News:** European gas gains for 4th straight session as Hormuz blockade <b>risks</b> escalate
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil edges higher as Middle East tensions return to focus | Seeking Alpha
+**Source News:** Global ties vital as <b>geopolitical risks</b> reshape Los Angeles business - Chinadaily.com.cn
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil edges higher as Middle East tensions return to focus | Seeking Alpha
+- **The News:** Global ties vital as <b>geopolitical risks</b> reshape Los Angeles business - Chinadaily.com.cn
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Bessent eyes Iran economic squeeze, but Chinese teapot ties limit options - investingLive
+**Source News:** Why Libya's Next Oil Pipeline Could Be a <b>Geopolitical</b> Game-Changer | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bessent eyes Iran economic squeeze, but Chinese teapot ties limit options - investingLive
+- **The News:** Why Libya's Next Oil Pipeline Could Be a <b>Geopolitical</b> Game-Changer | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Lasting peace is the only guarantor of <b>change</b> in Iran | Morning Star
+**Source News:** 'Be quiet': Trump berates reporter who asked about his relationship with female staffer
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Lasting peace is the only guarantor of <b>change</b> in Iran | Morning Star
+- **The News:** 'Be quiet': Trump berates reporter who asked about his relationship with female staffer
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
