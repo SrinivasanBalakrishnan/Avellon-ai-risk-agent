@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 19 August 2026
+**Date:** 20 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Cash remittances may post slowest growth since pandemic this year - BusinessWorld Online
+**Source News:** Trump vows crushing new economic operation against Iran, warns allies - investingLive
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Cash remittances may post slowest growth since pandemic this year - BusinessWorld Online
+- **The News:** Trump vows crushing new economic operation against Iran, warns allies - investingLive
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** LME Copper Inventories Increased for Two Consecutive Days, Tight Supply Expectations ...
+**Source News:** UAE halts all trade with Iran after new missile fire in Gulf, cutting off a key export route for Tehran
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** LME Copper Inventories Increased for Two Consecutive Days, Tight Supply Expectations ...
+- **The News:** UAE halts all trade with Iran after new missile fire in Gulf, cutting off a key export route for Tehran
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Global Boom in Oil-and-Gas Pipeline Construction Driven by Geopolitical Risks - SunSirs
+**Source News:** Singapore-headquartered StoneBench's new research Fragmentation Finance maps how ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Global Boom in Oil-and-Gas Pipeline Construction Driven by Geopolitical Risks - SunSirs
+- **The News:** Singapore-headquartered StoneBench's new research Fragmentation Finance maps how ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Man Utd transfer news: Barcelona midfielder Gavi rejects chance to join Old Trafford - Paper Talk
+**Source News:** Policy Series: Canada-South Korea Technology <b>Security</b> Cooperation
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Man Utd transfer news: Barcelona midfielder Gavi rejects chance to join Old Trafford - Paper Talk
+- **The News:** Policy Series: Canada-South Korea Technology <b>Security</b> Cooperation
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
