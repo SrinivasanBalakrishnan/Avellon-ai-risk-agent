@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 August 2026
+**Date:** 23 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Dollar near three-month low on Treasury buyback worries - CNBC
+**Source News:** Dollar pressured as euro hits three-month high | IDNFinancials
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Dollar near three-month low on Treasury buyback worries - CNBC
+- **The News:** Dollar pressured as euro hits three-month high | IDNFinancials
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** <b>Geopolitical Risk</b> Brief: August 2026 - S&amp;P Global
+**Source News:** Oil Market Rallies, Brent Price Increases By 6.4% In 5 Days - MarketForces Africa
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical Risk</b> Brief: August 2026 - S&amp;P Global
+- **The News:** Oil Market Rallies, Brent Price Increases By 6.4% In 5 Days - MarketForces Africa
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold's Historic Rise: What's Behind Ups Downs | Bybit Wiki
+**Source News:** F&amp;O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold's Historic Rise: What's Behind Ups Downs | Bybit Wiki
+- **The News:** F&amp;O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Stabilization through Borrowed Dollars: Pakistan's $10 Billion <b>Geopolitical</b> Rent - CADTM
+**Source News:** Why did Donald Trump stop when Iran could have been defeated? | The Jerusalem Post
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Stabilization through Borrowed Dollars: Pakistan's $10 Billion <b>Geopolitical</b> Rent - CADTM
+- **The News:** Why did Donald Trump stop when Iran could have been defeated? | The Jerusalem Post
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
