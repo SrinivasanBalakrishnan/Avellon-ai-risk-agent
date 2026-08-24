@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 23 August 2026
+**Date:** 24 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Dollar pressured as euro hits three-month high | IDNFinancials
+**Source News:** Going nuclear ... Iran security chief warns Tehran may seek nuclear weapons after US strikes
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Dollar pressured as euro hits three-month high | IDNFinancials
+- **The News:** Going nuclear ... Iran security chief warns Tehran may seek nuclear weapons after US strikes
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil Market Rallies, Brent Price Increases By 6.4% In 5 Days - MarketForces Africa
+**Source News:** Treasury buyback renews dollar-debasement fears | Metrobank Wealth Insights
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Market Rallies, Brent Price Increases By 6.4% In 5 Days - MarketForces Africa
+- **The News:** Treasury buyback renews dollar-debasement fears | Metrobank Wealth Insights
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** F&amp;O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week
+**Source News:** Oil Stocks To Watch As Higher Crude Puts Upstream Producers In Demand - Simply Wall St
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** F&amp;O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week
+- **The News:** Oil Stocks To Watch As Higher Crude Puts Upstream Producers In Demand - Simply Wall St
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Why did Donald Trump stop when Iran could have been defeated? | The Jerusalem Post
+**Source News:** In his desperate search for a Middle East victory, Trump confuses tactics with strategy - opinion
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why did Donald Trump stop when Iran could have been defeated? | The Jerusalem Post
+- **The News:** In his desperate search for a Middle East victory, Trump confuses tactics with strategy - opinion
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
