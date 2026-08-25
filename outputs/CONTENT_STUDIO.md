@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 24 August 2026
+**Date:** 25 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Going nuclear ... Iran security chief warns Tehran may seek nuclear weapons after US strikes
+**Source News:** Asia-Pacific Markets Open Mixed-To-Lower On US Sanctions And Trade Tensions - Sahi
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Going nuclear ... Iran security chief warns Tehran may seek nuclear weapons after US strikes
+- **The News:** Asia-Pacific Markets Open Mixed-To-Lower On US Sanctions And Trade Tensions - Sahi
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Treasury buyback renews dollar-debasement fears | Metrobank Wealth Insights
+**Source News:** Asian stocks under pressure after US tech sell-off - The Business Times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Treasury buyback renews dollar-debasement fears | Metrobank Wealth Insights
+- **The News:** Asian stocks under pressure after US tech sell-off - The Business Times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Stocks To Watch As Higher Crude Puts Upstream Producers In Demand - Simply Wall St
+**Source News:** Natural Gas Futures Consolidate Near Range Lows as Supply Glut Meets <b>Geopolitical Risk</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Stocks To Watch As Higher Crude Puts Upstream Producers In Demand - Simply Wall St
+- **The News:** Natural Gas Futures Consolidate Near Range Lows as Supply Glut Meets <b>Geopolitical Risk</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** In his desperate search for a Middle East victory, Trump confuses tactics with strategy - opinion
+**Source News:** Combative Díaz-Canel says Cuba won't make concessions to Trump, talks are 'very stalled'
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** In his desperate search for a Middle East victory, Trump confuses tactics with strategy - opinion
+- **The News:** Combative Díaz-Canel says Cuba won't make concessions to Trump, talks are 'very stalled'
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
