@@ -1,90 +1,91 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 27 August 2026
+**Date:** 28 August 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 9.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 9.0)
-- **Taiwan Strait** (Risk Score: 6)
+- **Strait of Hormuz** (Risk Score: 27.0)
+- **Taiwan Strait** (Risk Score: 9.0)
+- **Panama Canal** (Risk Score: 2)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 <b>Geopolitical</b> Premium Fades &amp; Bearish Inventory Data Drive Sharp Drop in Crude Oil Prices ...**
-> *... geopolitical conflicts—moving from &quot;conflict panic&quot; to a &quot;game of economic sanctions.&quot; This led to a rapid unwinding of the <b>geopolitical risk</b> premium....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-35628.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3j-mv5ZHdzwvG_4CzrzQzV))
+**🔴 Crude Calculations: Why the Iran War Hasn't Yet Caused an Oil Shock**
+> *... <b>global energy</b> demand. In the early months following the Strait of ... Information. From Energy <b>Security</b> and Climate Change Program. Creative&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/articles/crude-calculations-why-the-iran-war-hasnt-yet-caused-an-oil-shock&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1IIbPRTAtBYNg73G1kevMA))
 
-**🟢 Australia and China strengthen <b>energy</b> and climate cooperation towards net zero | Ministers**
-> *Ministers discussed the economic opportunities of the <b>global</b> shift to net zero and the opportunity to strengthen <b>energy security</b> while transitioning&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://minister.dcceew.gov.au/bowen/media-releases/australia-and-china-strengthen-energy-and-climate-cooperation-towards-net-zero&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0c5l7XFfbmV-SjOwJWLds9))
+**🟢 India's <b>Energy Security</b>: The Future of Integration and Technology, ETEnergyworld**
+> *India's economic growth will require substantial volumes of oil and gas for decades, while the <b>global energy</b> system is simultaneously moving toward&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energy.economictimes.indiatimes.com/amp/news/oil-and-gas/indias-next-energy-security-phase-will-depend-on-integration-technology-and-execution-vikram-saxena-director-tfs-ongc/133569014&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3Mw-VW03hXMu8EPPSAIBHi))
 
-**🔴 Octopus Boss Warns UK Is Too Exposed to <b>Global</b> Gas Prices | OilPrice.com**
-> *He claims that new drilling in the oilfields would bolster the UK's <b>energy security</b> and push down prices, warning that the country is “staring down&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Natural-Gas/Octopus-Boss-Warns-UK-Is-Too-Exposed-to-Global-Gas-Prices.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0W2bRYKTP36v8c-G5X26el))
+**🔴 Don't let the Iran war distract the United States from Africa | Brookings**
+> *The U.S.-Israel war on Iran is reshaping <b>global energy</b> markets, shipping routes, and foreign policy attention in ways that carry significant and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brookings.edu/articles/dont-let-the-iran-war-distract-the-united-states-from-africa/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0tbOBNbIpVkJNkid-IrzkK))
 
-**🟡 Is Economic Patience Running Out? - YouTube**
-> *Since February 28, the Iran war has reshaped <b>global energy</b> markets, regional <b>security</b>, and the role that energy <b>security</b> plays in foreign policy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DEPBFlUxW1iE&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Si3XAVkGZ8Iz2V_Do2Np8))
+**🟡 David Knight Legg: A strategic Canadian oil reserve could turn empty threats into real trade leverage**
+> *... <b>world</b>-leading <b>energy security</b> and economic resilience. Article content. In March 2026 the prime minister discovered the need for a strategic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://financialpost.com/commodities/energy/oil-gas/strategic-canadian-oil-reserve-real-trade-leverage&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Ym-nA6u4xyw61hv7eyiaF))
 
-**🟢 What Is the Iranian President's Strategy in the <b>Economic War</b>? - Islam Times**
-> *Islam Times - The outcome of the <b>economic war</b> with the United States will be determined less in Washington than in Tehran. The United States can&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.islamtimes.com/en/article/1301828/what-is-the-iranian-president-s-strategy-in-economic-war&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2YMk5982C2tUmBTYaprkjR))
+**🟡 Could Trump's <b>economic war</b> on Iran actually work? Former national security adviser weighs in**
+> *President Trump has declared <b>economic war</b> on Iran, leveraging secondary sanctions to cut off illicit cash to the Iranian military....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D2z2vOqCkhQg&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw00PhFGBgubUyJe4aARHjvv))
 
 
 ## 🏛 CYBER & TECH
-**🟢 China's industrial profit growth cools as AI-linked sectors outpace | Reuters**
-> *... <b>geopolitical risks</b> continue to cloud the outlook, pressuring margins and profitability. Make sense of global markets with the Trading Day&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/asia-pacific/chinas-industrial-profits-grow-176-january-july-2026-08-27/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0rtO_u9GO9BbpHcBVvtIxi))
+**🟢 My Top 2 Covered Call ETFs For Volatility-Powered Income | Seeking Alpha**
+> *Expect extreme market volatility amid record valuations, deficits, and <b>geopolitical risks</b>. Read here for a detailed analysis of macroeconomy....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4940573-my-top-2-covered-call-etfs-for-volatility-powered-income&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2EA1LvbEB3Ol3y02NwkiA_))
 
-**🟢 Daily Market Wire 27 August 2026 - Grain Central**
-> *That leaves macro markets still balancing sticky inflation, higher-for-longer rates and persistent <b>geopolitical risk</b>. Local: All eyes offshore as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.graincentral.com/markets/daily-market-wire-27-august-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw04q3hSuOSfz-kk_IRqjF5D))
+**🟢 Oil prices set for weekly decline as Iran tensions persist | Free Press Kashmir**
+> *... <b>geopolitical risk</b> premiums”, said Suvro Sarkar, head of energy research at DBS Bank. Flows through the Strait of Hormuz, although still increasing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://freepresskashmir.news/2026/08/28/oil-prices-set-for-weekly-decline-as-iran-tensions-persist/amp/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2EHbAspDrqd6SCYMkqjLHZ))
 
-**🟢 Are markets reacting to Putin's threats? - XTB.com**
-> *The main sentiment on stock exchanges deteriorated (S&amp;P 500 -0.17%, DAX -0.09%, Dow Jones -0.32%), reflecting the growing <b>geopolitical risk</b> premium....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.xtb.com/int/market-analysis/news-and-research/are-markets-reacting-to-putin-s-threats&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3zI6Ss-WS0sebqtATDQ2bb))
+**🟢 Nifty Ends Above 24150, Sensex Gains 331 Points; IT Stocks Jump 4% - Outlook Business**
+> *Sensex rises 331 points and Nifty gains 85 as IT stocks rally on strong global tech cues, while crude and <b>geopolitical risks</b> limit gains....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.outlookbusiness.com/markets/nifty-ends-above-24150-sensex-gains-331-points-it-stocks-jump-4&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3e7OG9ErTmKJGKJ2cddQG6))
 
-**🟡 Canadian Dollar consolidates near weekly low as USD bulls seem hesitant - TMGM**
-> *<b>Geopolitical risks</b> support crude oil prices, underpinning the Loonie and capping the major. ... Moreover, the <b>geopolitical risk</b> premium remains in play,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tmgm.com/en/analysis/market-news/article/canadian-dollar-consolidates-near-weekly-low-as-usd-bulls-seem-hesitant-202608270201&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3wxIIQRr0VdHShkKZJcbhq))
+**🟡 Conflict-Mineral <b>Risks</b> Persist in DRC's Coltan Supply Chain Despite International Scrutiny**
+> *... <b>geopolitical risk</b> increasingly becomes a factor in critical-mineral procurement. News image 1. Data Source Statement: Except for publicly available&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/en/newscontent/104085964-conflict-mineral-risks-persist-in-drcs-coltan-supply-chain-despite-international-scrutiny&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1YUTkA3UwWxdkshM5rNalM))
 
-**🟡 Oil Prices Slide on Growing Hopes for Strait of Hormuz Reopening - EnergyNow.com**
-> *WTI has fallen to its lowest levels in more than two weeks as traders reduce the <b>geopolitical risk</b> premium built into crude prices. Brent crude's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energynow.com/2026/08/oil-prices-slide-on-growing-hopes-for-strait-of-hormuz-reopening/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0cgC0PWkwWVGIAWNhLY8bd))
+**🟢 U.S. says pipelines will make Strait of Hormuz irrelevant. <b>Energy</b> experts disagree - NPR**
+> *It has traditionally accounted for about 5% of <b>global energy</b> exports. ... &quot;I think you are seeing a significant push for renewables for energy <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2G_tz8UTFybJswpD-uXz4C))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 NVIDIA, Fed Moves and Small Caps**
-> *... geopolitical tension, plus a look at ... A stronger gold and silver backdrop often suggests caution around rates, inflation or <b>geopolitical risk</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://smallcaps.com.au/videos/nvidias-96bn-quarter-golds-surge-and-small-caps-to-watch&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0OOVBmr4OFbfWOOS86g-cW))
+**🟡 Hecate Energy and EGH Acquisition Corp. Provide Update on Path to Planned Nasdaq ...**
+> *... <b>geopolitical risk</b> and changes in applicable laws or regulations; (xv) ... risk; (xvii) litigation and regulatory enforcement risks, including&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://markets.businessinsider.com/news/stocks/hecate-energy-and-egh-acquisition-corp-provide-update-on-path-to-planned-nasdaq-listing-and-progress-toward-business-combination-1036502719&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Vf_z3TVtvtHMIeFFrf1IC))
 
-**🔴 European gas slumps 3% as Middle East ceasefire hopes unwind supply <b>risk</b> premium**
-> *Trading desks actively unwound <b>geopolitical risk</b> premia following a parallel collapse in global crude oil futures, where Brent crude dropped over&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hellenicshippingnews.com/european-gas-slumps-3-as-middle-east-ceasefire-hopes-unwind-supply-risk-premium/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1IoEdnWnxyqvt0jcNMvZ5t))
+**🟢 Oil Prices Lower as Hormuz Flows Improve, U.S.-Iran Standoff Continues - EnergyNow.com**
+> *... <b>geopolitical risk</b> premium. Latest Oil Prices. Oil prices are slightly to moderately lower Friday morning, with traders balancing continuing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energynow.com/2026/08/oil-prices-lower-as-hormuz-flows-improve-u-s-iran-standoff-continues/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FkVxxZ7WL1WME63hlR1MT))
 
-**🟢 The <b>Energy</b> Buildout: Five Investment Themes In A Power-Hungry <b>World</b>**
-> *<b>Energy security</b> risks extend beyond fossil fuels. Nearly 40 per cent of <b>global</b> uranium supply comes from a single country, Kazakhstan. This&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wealthbriefing.com/html/article.php/the-energy-buildout%253A-five-investment-themes-in-a-power_dash_hungry-world--&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3VXd5oG5WWG8TrDJPZQlDn))
+**🟡 FCNR(B) inflow may touch USD 85bn, total FX flow seen at ~USD 100 bn: Citi India's CEO ...**
+> *RBI scheme has helped arrest the rupee's sharp decline, while <b>geopolitical risks</b> and return of foreign capital will determine the currency's next&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/banking/fcnr-b-inflow-may-touch-usd-85bn-total-fx-flow-seen-at-usd-100-bn-citi-india-s-ceo-balasubramanian-k-article-14017687.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0V7z1S5DiW9ySsFVgBEAsy))
 
-**🟢 Labour can't dodge blame for <b>energy</b> costs policy - The Telegraph**
-> *If gas is a <b>globally</b> priced commodity, why do other countries, notably America, have much lower prices?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.telegraph.co.uk/opinion/2026/08/26/labour-cant-dodge-blame-for-energy-costs-policy/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2GefefmBhImOoLid5ATTD5))
+**🟢 Retirement portfolios are getting eaten up by inflation. Here are some assets to consider**
+> *“Inflation is becoming an increasingly important consideration in portfolio construction amid the confluence of <b>geopolitical risks</b>, fiscal&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.sg/wealth/wealth-investing/retirement-portfolios-are-getting-eaten-inflation-here-are-some-assets-consider&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0VVyvwGjf9CLcszBxgZpG-))
 
-**🟡 INTERVIEW: Neptun Deep gas work uninterrupted after recent drone incident: CEO**
-> *That is part of <b>energy security</b>, and it's also part of economic prosperity.&quot; Crude Oil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/082526-interview-neptun-deep-gas-work-uninterrupted-after-recent-drone-incident-ceo&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Db4tEBME8XxVsnFKEr24l))
+**🟢 Beyond solar panels: China's role in the <b>global</b> green transition - CGTN**
+> *... <b>energy security</b> by reducing reliance on volatile <b>international</b> fuel markets. While solar does not eliminate external dependence altogether, it&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.cgtn.com/news/2026-08-28/Beyond-solar-panels-China-s-role-in-the-global-green-transition-1PYovHsj2Mg/p.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2XsnmNiI2qGgYZed8Qymud))
 
 
 ## 🏛 LEADERSHIP
-**🟡 <b>Indonesia</b> tightens <b>security</b> as students rally one year after deadly protests - Reuters**
-> *<b>Indonesia</b> has boosted <b>security</b> ​around parliament in the capital Jakarta and in other major cities as demonstrators gathered ‌for rallies on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/asia-pacific/indonesia-tightens-security-students-rally-one-year-after-deadly-protests-2026-08-27/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1VLgUWcmkKIZKPuf7Utpj_))
+**🔴 Live Updates: Latest from Israel, Iran, and the Middle East | The Jerusalem Post**
+> *The figures could change as some ships typically switch off transponders during the voyage. ... <b>regime change</b>. Ayatollah Ali Khamenei was killed by an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/middle-east/iran-news/2026-08-28/live-updates-906868&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw34jzgz_kEXXSxqJhcDxdhQ))
 
-**🟢 Jon Ossoff went low on Natalie Harp. The plan worked | Moira Donegan - The Guardian**
-> *... <b>Regime Change</b>, by the New York Times' Maggie Haberman and Jonathan Swan. In the book, Harp features like a silent sentinel, ever present but&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/commentisfree/2026/aug/27/natalie-harp-trump-jon-ossoff&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw04d2lgbOlIVF32rP4ogiHS))
+**🟡 Up for the Fight? - IPA**
+> *Compare his botched <b>regime change</b> with Trump's in Venezuela or his decapitation of the Iranian theocracy. American economic power has proved resilient&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ipa.org.au/ipa-review-article/up-for-the-fight&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3RyhXngE459zuq8U9lRU_P))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 The Identity Shift Reshaping the Gulf | Aparajita Acharya - The Blogs - The Times of Israel**
-> *Rajaratnam School of International Studies and has experience across <b>geopolitical risk</b>, defence technology and security analysis. Her interests&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://blogs.timesofisrael.com/the-identity-shift-reshaping-the-gulf/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1dEEI2i7BqelZ5BPZ8WT-K))
+**🟢 Course in <b>Geopolitical</b> Intelligence Analysis 17 October 2026 - SpecialEurasia**
+> *Participants will examine how to investigate a country, region or geopolitical dynamic with the purpose of producing <b>geopolitical risk</b> assessments,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.specialeurasia.com/2026/08/28/geopolitical-intelligence-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_tXUOaej3ozhctWRErG86))
 
-**🟢 [Japan's Voices No.20 / Global Perspectives on Japan] The FOIP at Ten: Latin America's ...**
-> *#<b>Indo</b>-<b>Pacific</b> &middot; #<b>Security</b> &middot; #Economic <b>Security</b> &middot; #Economy &amp; Global Issues &middot; #JIIA Center for Global Outreach (CGO) &middot; #Japan's Voices....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jiia.or.jp/eng/report/2026/08/20260827-2.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0VgDD2_5AR-LM_638B0RNW))
+**🟢 What matters is not what you build, but who you build it with - JStories**
+> *With years of innovation ties across the Pacific now converging with rising <b>geopolitical risk</b>, the economic-security environment looks set to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jstories.media/what-matters-is-not-what-you-build_but-who-you-build-it-with/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FMKxe5_duqkpdDiFYqGhl))
 
-**🟢 HMAS Stuart joins 2026 Regional Presence Deployment program | Defence**
-> *... <b>Indo</b>-<b>Pacific</b>.” “That presence reassures our allies and partners that we're committed to contributing to the collective <b>security</b> of the Indo&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www1.defence.gov.au/news-events/releases/2026-08-27/hmas-stuart-joins-2026-regional-presence-deployment-program&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3hPkdgVn7ge6q0lIQTbCFP))
+**🟢 India Signs US Deal to Buy Javelin Anti Tank Missiles - Modern Diplomacy**
+> *... <b>security</b> ties with New Delhi in the <b>Indo Pacific</b>. Analysis. The deal highlights an important distinction in India US relations: political and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/08/28/india-signs-us-deal-to-buy-javelin-anti-tank-missiles/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3qlrjYUWFBG7S-cfaetAhF))
 
-**🟢 <b>Indonesia's</b> tightening state grip on the economy - Lowy Institute**
-> *... Indo-Pacific Development Centre. ... More on Indonesia. Explore Indonesia &middot; Event Replay &middot; Pressure test: Can ASEAN meet the <b>Indo</b>-<b>Pacific's security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lowyinstitute.org/the-interpreter/indonesia-s-tightening-state-grip-on-the-economy&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1cVJGWQ42BI8YF5MCDPNU7))
+**🟡 Australia Arms HMAS Hobart With Tomahawk, Aegis BMD in Major <b>Indo</b>-<b>Pacific</b> Power Shift**
+> *(DEFENCE <b>SECURITY ASIA</b>) — HMAS Hobart has completed the dry-dock phase of Australia's most consequential destroyer modernisation, beginning its&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://defencesecurityasia.com/en/australia-hmas-hobart-tomahawk-aegis-sm6-missile-defence/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0-jUigQEqzG0M_M32f9ezN))
 
-**🟢 Visionary Machines and Thales to advance passive counter-drone detection - APDR**
-> *<b>Asia Pacific</b> Defence Reporter. 1 week ago. <b>Asia Pacific</b> Defence Reporter. ADF supports Pacific-led maritime <b>security</b> operation in Solomon Islands&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiapacificdefencereporter.com/visionary-machines-and-thales-to-advance-passive-counter-drone-detection/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2TvtX4YuiT-pEQB65HC8mf))
+**🟢 US defense review presses NATO allies to prove they are taking the lead in Europe**
+> *... <b>security</b> challenges closer to home and in the <b>Indo</b>-<b>Pacific</b> region. The U.S. has begun cutting the forces it has stationed in Europe — around&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://abcnews.com/International/wireStory/us-defense-review-presses-nato-allies-prove-taking-136013093&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0Dqr-Emoz5hsF5D60OFXS7))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
