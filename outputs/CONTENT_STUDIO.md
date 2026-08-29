@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 28 August 2026
+**Date:** 29 August 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Crude Calculations: Why the Iran War Hasn't Yet Caused an Oil Shock
+**Source News:** Gold's debt-driven rally | The Star
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Crude Calculations: Why the Iran War Hasn't Yet Caused an Oil Shock
+- **The News:** Gold's debt-driven rally | The Star
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** My Top 2 Covered Call ETFs For Volatility-Powered Income | Seeking Alpha
+**Source News:** Why is Palo Alto Networks stock sliding today? - Investing.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** My Top 2 Covered Call ETFs For Volatility-Powered Income | Seeking Alpha
+- **The News:** Why is Palo Alto Networks stock sliding today? - Investing.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Hecate Energy and EGH Acquisition Corp. Provide Update on Path to Planned Nasdaq ...
+**Source News:** Oil, GBP/USD Forecast: Two trades to watch 1407 - StoneX
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Hecate Energy and EGH Acquisition Corp. Provide Update on Path to Planned Nasdaq ...
+- **The News:** Oil, GBP/USD Forecast: Two trades to watch 1407 - StoneX
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Live Updates: Latest from Israel, Iran, and the Middle East | The Jerusalem Post
+**Source News:** Return of the Common Good - The American Mind
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Live Updates: Latest from Israel, Iran, and the Middle East | The Jerusalem Post
+- **The News:** Return of the Common Good - The American Mind
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
