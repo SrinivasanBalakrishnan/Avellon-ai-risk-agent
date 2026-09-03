@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 02 September 2026
+**Date:** 03 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Mixed Fundamentals Point to High-level Volatility for Methanol Futures - SunSirs
+**Source News:** SCO Bishkek Summit: Economic Cooperation and Strategic Autonomy - SpecialEurasia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Mixed Fundamentals Point to High-level Volatility for Methanol Futures - SunSirs
+- **The News:** SCO Bishkek Summit: Economic Cooperation and Strategic Autonomy - SpecialEurasia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** BlackRock: Higher rates, selective AI, and unresolved <b>geopolitics</b> define 2026
+**Source News:** Asia looks to store oil, gas closer to home after Strait of Hormuz crisis | Energy | Al Jazeera
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** BlackRock: Higher rates, selective AI, and unresolved <b>geopolitics</b> define 2026
+- **The News:** Asia looks to store oil, gas closer to home after Strait of Hormuz crisis | Energy | Al Jazeera
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Beyond Slogans: The Ten Structural Realities Governing Modern Energy Systems
+**Source News:** Why the US is now a vector for concentration <b>risk</b> - The Banker
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Beyond Slogans: The Ten Structural Realities Governing Modern Energy Systems
+- **The News:** Why the US is now a vector for concentration <b>risk</b> - The Banker
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** 'It's been hard': Sandy man speaks out on behalf of cousin facing death in Iran for protesting
+**Source News:** Bangladeshi HE's latest round of <b>political</b> purges must be its last
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 'It's been hard': Sandy man speaks out on behalf of cousin facing death in Iran for protesting
+- **The News:** Bangladeshi HE's latest round of <b>political</b> purges must be its last
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
