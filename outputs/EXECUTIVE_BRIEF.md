@@ -1,100 +1,95 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 03 September 2026
+**Date:** 04 September 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 30.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
-- **Panama Canal** (Risk Score: 3.5)
-- **Taiwan Strait** (Risk Score: 3)
+- **Strait of Hormuz** (Risk Score: 11.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 SCO Bishkek Summit: Economic Cooperation and Strategic Autonomy - SpecialEurasia**
-> *... <b>geopolitical risk</b>, while stressing that connectivity projects must respect sovereignty and territorial integrity. Modi also linked regional&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.specialeurasia.com/2026/09/02/sco-bishkek-summit-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3IEWQhEidAcnrwYP1KOOEE))
+**🔴 Crude Oil, Interest Rates, Iran War: How 3 <b>Risks</b> Can Shake Indian Stock Markets - NDTV**
+> *For Indian investors, three global factors can have an outsized impact on stocks -- crude oil prices, global interest rates and <b>geopolitical</b> tensions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtv.com/business-news/crude-oil-us-interest-rates-iran-war-risks-shake-india-stock-markets-11996553&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-89X8xKrpknvB2_uuAboq))
 
-**🟡 CNN report US military escorts 40 tankers with 18 million barrels through Hormuz**
-> *That is a bearish input for the <b>geopolitical risk</b> premium currently embedded in Brent and WTI, since it undercuts the disruption narrative that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/cnn-report-us-military-escorts-40-tankers-with-18-million-barrels-through-hormuz/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw19PoKSnBIyhN--vi4ROXgR))
+**🟢 The Japan-Thailand Relationship: Light and Shadow - The Diplomat**
+> *Shadow (1): The <b>Geopolitical Risks</b> of Interdependence. Deep ... The most immediate is the direct impact of <b>geopolitical risk</b>. During&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thediplomat.com/2026/09/the-japan-thailand-relationship-light-and-shadow/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2a0bqaLRUj8KV8UOwVBBMM))
 
-**🟡 The UK Jurisdictional Taskforce Legal Statement and European developments - Clyde &amp; Co**
-> *<b>Geopolitical risk</b> &amp; sanctions &middot; Connected World Blog &middot; Our People &middot; Our ... AI systems are categorised according to the level of risk they present, with&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.clydeco.com/en/insights/2026/08/the-ukjt-consultation-and-european-developments&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1odCC0cA15Fp16FNPdHgcK))
+**🟢 China urges U.S. to lift sanctions on Chinese firms, citizens - Xinhua**
+> *... <b>global energy security</b> and stable supply, the spokesperson said. China urged the U.S. side to immediately correct its wrongful practices and lift&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://english.news.cn/20260903/9d68bad9006d4bc4a97db9fd063d9921/c.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3lGXejqysYP2krIfb5X4Dc))
 
-**🟢 Cotton to Burgum: Accelerate Domestic <b>Energy</b> Production to Protect Arkansans from ...**
-> *Ongoing disruptions to <b>global energy</b> markets and transportation routes ... energy <b>security</b>. I look forward to working with you on this matter&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cotton.senate.gov/news/press-releases/cotton-to-burgum-accelerate-domestic-energy-production-to-protect-arkansans-from-foreign-market-volatility/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0nCBxi4E0YVI0a2KXKgwvf))
+**🟢 Beijing urges US to lift Iran-related sanctions on Chinese companies - Anadolu Ajansı**
+> *China opposes 'unilateral sanctions that have no basis in international law or authorization from the UN Security ... <b>global energy security</b> and stable&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aa.com.tr/en/asia-pacific/beijing-urges-us-to-lift-iran-related-sanctions-on-chinese-companies/4046575&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3YaqK1pb-snYfjUkU6ujGO))
 
-**🟡 Report: Trump weighs declaring Iran <b>war</b> over as US military digs in for long haul**
-> *WSJ reports Trump favors ending the <b>war</b> and relying on <b>economic</b> pressure, even as Pentagon extends deployments and keeps 50000 troops in the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ynetnews.com/article/b1srso8dzl&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1k2GEcWe3EsaVwc39qtCmZ))
+**🔴 Bankrupting the Adversary: Why Cybersecurity is an <b>Economic War</b> - Security Boulevard**
+> *Unit <b>economics</b> of a modern cyberattack. In 2026, cybercrime is a massive, highly structured global service <b>economy</b>. Threat actors operate with precise&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://securityboulevard.com/2026/09/bankrupting-the-adversary-why-cybersecurity-is-an-economic-war/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1wP1bMt1TZ4en-eJ4nHd47))
 
 
 ## 🏛 CYBER & TECH
-**🔴 Asia looks to store oil, gas closer to home after Strait of Hormuz crisis | Energy | Al Jazeera**
-> *“The crisis is producing two very different kinds of investment: infrastructure that bypasses <b>geopolitical risk</b>, and infrastructure that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2T7lFcEUUnCh6qJcBZW8B2))
+**🟢 Iraq August Oil Exports Reach 73 Million Barrels, Generating $4.5 Billion Revenue - Sahi**
+> *Key <b>Risks</b> to Watch. <b>Geopolitical</b> Fragility: The export recovery depends on temporary transit approvals through the Strait of Hormuz, which can be&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sahi.com/news/iraq-august-oil-exports-reach-73-million-barrels-generating-4-5-billion-revenue-oil-PE3_MACR&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3yVA-OBsHd8yJWHgV0SA-n))
 
-**🔴 Bond market rout brings gilt yields to financial crisis levels | Portfolio Adviser**
-> *... <b>geopolitical risk</b> and competition for investor capital in the context of the AI boom, but it continues to be a major concern that UK government&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://portfolio-adviser.com/bond-market-rout-brings-gilt-yields-to-financial-crisis-levels/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2sMIsxu3qAzQt5esMPZ05J))
+**🟢 Container lines are pulling back from Novorossiysk. FESCO's replacement route is thirteen ...**
+> *Rosatom-controlled FESCO suspended Black Sea shipments &quot;until a risk-based solution is developed&quot;. ... <b>Geopolitical Risk</b>Maritime SecurityService&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://container-mag.com/article/container-lines-are-pulling-back-from-novorossiysk-fesco-s-r-a0nyzvq&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw14d-66U9xa3x2ABwHHW2y_))
 
-**🟡 Crude oil futures rise for sixth straight session to Rs 8,592 per barrel - Telangana Today**
-> *According to analysts, the prospect of a wider confrontation has put <b>geopolitical risk</b> firmly back in the driving seat for crude, with market&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://telanganatoday.com/crude-oil-futures-rise-for-sixth-straight-session-to-rs-8592-per-barrel&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Gk5v8Tf3DAUwJM16f2-P-))
+**🔴 US Treasury secretary blames Ukraine for <b>global</b> rise in <b>energy</b> prices | Ukrainska Pravda**
+> *... <b>global energy</b> shock and pushing up fuel prices worldwide ... Ukraine's <b>Security</b> Service says it foiled FSB terror attack, UP sources&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pravda.com.ua/eng/news/2026/09/04/8051833/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3R3lZ5DrxXhnuhCgcyDW8c))
 
-**🟡 Ukraine's strikes on Russian oil partly fueled <b>global</b> '<b>energy</b> shock,' Bessent says**
-> *Ukrainian strikes against Russian <b>energy</b> assets have contributed to <b>energy</b> prices surging <b>worldwide</b>, U.S. Treasury Secretary Scott Bessent told&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://kyivindependent.com/ukraines-strikes-on-russian-oil-partly-fueled-global-energy-shock-bessent-says/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2mByZh7E6-TCsTksnGnB_5))
+**🟢 Nigeria Formalises <b>Energy</b> Partnership With IEA - TheFact Daily**
+> *... <b>global energy</b> policy and supporting nations on issues of <b>security</b>, affordability and sustainability. - Advertisement -. “Nigeria's admission as an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thefact.ng/nigeria-formalises-energy-partnership-with-iea/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0oQJIoedntqngJTUapyD_c))
 
-**🟢 India-Germany Strengthen Cooperation On Sustainable <b>Energy</b> Development**
-> *... <b>global energy</b> transition. The discussions come against the backdrop of ... energy <b>security</b> and economic growth. With both sides committing to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sarkaritel.com/india-germany-cooperation-energy-security-low-carbon-development/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0HrlfKKJxp6dhDGfhsV9jK))
+**🟢 Nigeria, IEA Sign Agreement To Strengthen <b>Energy</b> Sector - Channels TV**
+> *... energy policy and investment across the value chain for economic growth and energy <b>security</b>. ... <b>global energy</b> landscape, he said the effort of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.channelstv.com/2026/09/03/nigeria-iea-sign-agreement-to-strengthen-energy-sector/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3K51zbAEx-ILAjkitdB7_E))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Why the US is now a vector for concentration <b>risk</b> - The Banker**
-> *<b>Geopolitics</b>, public debt and critical tech are usually separate <b>risks</b>, but the US is now a common denominator....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thebanker.com/content/e155ab49-8912-4edc-ae0a-e8ffe840fb90&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0FP7qIb3xh7o6hkkecQdBH))
+**🟡 APPEC: <b>Energy security</b> takes center stage as Asia confronts shifting oil, shipping flows**
+> *While the conference, hosted by S&amp;P <b>Global Energy</b> over Sept. 7-10 in Singapore, would spotlight critical themes ranging from market stability to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hellenicshippingnews.com/appec-energy-security-takes-center-stage-as-asia-confronts-shifting-oil-shipping-flows/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2sUeS29Ed3lLYt0jtc-UR0))
 
-**🟢 Reshoring survey finds U.S. manufacturing momentum building - Floor Covering News**
-> *Manufacturers cited tariffs, <b>geopolitical risks</b> and proximity to customers as leading reasons for bringing production back to the U.S.. Companies also&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fcnews.net/2026/09/reshoring-survey-finds-u-s-manufacturing-momentum-building/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0s7F6sx9Xe2cF80v5ye_ZJ))
+**🟢 Costlier second shock likely as oil buffer shrinks | FMT - Free Malaysia Today**
+> *He cited estimates by the <b>International Energy</b> Agency that global oil ... energy <b>security</b>. It also signed an agreement with QatarEnergy to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.freemalaysiatoday.com/category/nation/2026/09/04/costlier-second-shock-likely-as-oil-buffer-shrinks&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw37VOCg-e4y6DaPMSgBdAYe))
 
-**🟡 Oil and Gas Sector Update : Crude Compass: <b>Geopolitical Risk</b> Returns as Chinese ...**
-> *Oil and Gas Sector Update : Crude Compass: <b>Geopolitical Risk</b> Returns as Chinese Refinery Runs Rise Choice Institutional Equities....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investmentguruindia.com/newsdetail/oil-and-gas-sector-update-crude-compass-geopolitical-risk-returns-as-chinese-refinery-runs-rise-choice-institutional-equities900709&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3tRPVhg2ZrBPKesvBns0q7))
+**🟡 India's Russian oil bet is about <b>energy security</b>, not geopolitics - Weekly Blitz**
+> *India is one of the <b>world's</b> largest <b>energy</b> consumers, yet it imports roughly 90% of the crude oil it uses. Such dependence leaves the country&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://weeklyblitz.net/2026/09/04/indias-russian-oil-bet-is-about-energy-security-not-geopolitics/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3u2Y1q3qVIGEzFmKxVG5Vk))
 
-**🟢 FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and <b>Security</b> ...**
-> *Thanks to President Trump's leadership, a new era of <b>energy</b> investment and production is taking hold in Venezuela, delivering greater prosperity&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energy.gov/articles/fact-sheet-delivering-president-trumps-promise-unleash-prosperity-and-security-united&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1tngMwh_8oTvuRCi5MSmmd))
+**🟢 How SCO Can Drive Transition to Renewable <b>Energy</b> in Central Asia - The Astana Times**
+> *... <b>energy security</b> concerns, and China's <b>global</b> leadership in clean <b>energy</b> technologies. Individual member states are also experiencing a renewable&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://astanatimes.com/2026/09/how-sco-can-drive-transition-to-renewable-energy-in-central-asia/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2tntPw3Fnb98OiCGRQzrr2))
 
-**🟢 Iran Creates Oil Bonanza for the Americas - Brazil Energy Insight**
-> *... focus on <b>energy security globally</b> could transform this emergency response into a lasting structural change. Oil production in the Americas…...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://brazilenergyinsight.com/2026/09/02/iran-creates-oil-bonanza-for-the-americas/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0WQEuqyQivkojawQ5a2tTD))
+**🔴 The inflation genie could be out of the bottle — and bond markets are sounding the alarm - CNBC**
+> *... <b>sovereign debt</b>. Pressure on yields is not just a factor of this year's ... financial <b>crisis</b> — heralding wide-ranging implications for investors'&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3R9KNpZw9EuQZ4rNGPhZIb))
 
 
 ## 🏛 LEADERSHIP
-**🔴 Bangladeshi HE's latest round of <b>political</b> purges must be its last**
-> *... <b>regime change</b>. To break this destructive cycle, a clear boundary must be drawn between ideological persecution and legitimate judicial&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.timeshighereducation.com/opinion/bangladeshi-hes-latest-round-political-purges-must-be-its-last&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3_6yHeDANtJq8KFE46aTh8))
+**🟡 We've never seen this kind of assault on American democracy - YouTube**
+> *... Political Editor Nick Watt. #newsnight # ... Go to channel Democracy Now! “<b>Regime Change</b>” Author Maggie Haberman on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Di58hIG92rw0&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0hv2_LHeu8gikMQbGf7K8n))
 
-**🟢 Iran Says U.S. Strike Hit Wedding Celebration; A Look at Megadonors Shaping the Midterms**
-> *... change if Democrats retake control of Congress in November. And ... Go to channel Democracy Now! “<b>Regime Change</b>” Author Maggie Haberman on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7tpfhlIaTkY&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0S5QL9j9bpyeVsRMappEiT))
+**🟢 Gloria Steinem in 2015: “Trump is not going to be president” | Full Interview - YouTube**
+> *Author Talk: Maggie Haberman and Jonathan Swan — <b>Regime Change</b>- with Tim Alberta. Politics and Prose•112K views &middot; 2:09:42 &middot; Go to channel History&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DXswFPIwVDnA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1JzltNvsw8KQzS0XJx417L))
 
-**🟢 'Enormous interest': Coalition says exiled crown prince of Iran will visit Australia | SBS News**
-> *Demonstrators hold an Iranian flag with Reza Pahlavi's face on it. Reza Pahlavi has long advocated for <b>regime change</b> in Iran, and positioned himself&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sbs.com.au/news/article/enormous-interest-coalition-says-exiled-crown-prince-of-iran-will-visit-australia/nxd2nb6h7&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2uvj7E4jvFzrLiv0wLgMZc))
+**🔴 America's Bonds Crisis Should Be Worrying Israelis - Israel News - Haaretz**
+> *One partner (America) entered the conflict hoping it would be short, sweet, and end with <b>regime change</b> ... regime in Tehran would have been impossible&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.haaretz.com/israel-news/2026-09-04/ty-article/.premium/americas-bonds-crisis-should-be-worrying-israelis/000001a0-66a3-d43a-affe-7ff3587f0000&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0lFBXcPSXdrzsbAVTDO1Rw))
 
-**🟢 My Say: When archetypes become millstones: <b>Changing</b> my priors - The Edge Malaysia**
-> *... regime in which they are observed? And if the <b>regime changes</b>, how do those relationships change? Khazanah Nasional Bhd chief economist Shafizal&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theedgemalaysia.com/node/816423&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw22SOzDE3EA70B-Q_oT830p))
-
-**🟢 Trump revives Iran <b>regime change</b> speculation with cryptic call for people to 'rise up'**
-> *President Donald Trump revived speculation over <b>regime change</b> in Iran Tuesday night, openly asking when Iranians would “rise up and fight” as his&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wwbl.com/2026/09/02/trump-revives-iran-regime-change-speculation-with-cryptic-call-for-people-to-rise-up/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw12uEVWJw1HgLgV3EBBB3Dd))
+**🟢 Netanyahu says toppling Iran's <b>regime</b> is 'within reach'**
+> *<b>Changes</b> to Iran's subsidized foreign-exchange system have added another source of pressure on medicine prices. A pharmacist sorts medicines at a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iranintl.com/en/202609033028&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0KYyy8Jf_pufWc-hzHYtFj))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 Dutch Central Bank Shifts 86 Tonnes of Gold to London Citing <b>Geopolitical Risk</b>**
-> *The Dutch central bank has moved 86 tonnes of its gold reserves from the United States and Canada to London, citing increasing <b>geopolitical</b> unrest&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/68b5729f-fbb5-4870-826b-6d570268673d&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1V6ctTGSpTQTr1D98mW7l2))
+**🟡 Global Chemical Prices Surge Across the Board - SunSirs**
+> *A &quot;triple resonance&quot; of extremely low inventories, supply contraction, and peak-season expectations amplified the <b>geopolitical risk</b> premium,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-35871.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0sRZWo_JKcsyRSuddxRpkj))
 
-**🟢 UK Royal Navy HMS Tamar Visits Cambodia Ream Base - The Southeast <b>Asia</b> Desk**
-> *This indicates that maritime <b>security</b> in the <b>Indo</b>-<b>Pacific</b>, including Southeast Asia, is considered a priority for the United Kingdom. Why It's on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thesoutheastasiadesk.com/p/uk-royal-navy-hms-tamar-cambodia-ream-base&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2mMuTtvCdyVF8AGbGiuX_6))
+**🟢 Tata Chemicals Clarifies Media Reports On Kenya Unit Confirming Compliance - Sahi**
+> *The political escalation from President William Ruto injects immediate <b>geopolitical risk</b> into Tata Chemicals' international soda ash portfolio....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sahi.com/news/tata-chemicals-clarifies-media-reports-on-kenya-unit-confirming-compliance-280-PE1_CORP&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3rbDf1UE0V7EXfqODmrj-j))
 
-**🟢 28th <b>Indo</b>-<b>Pacific</b> Chiefs of Defense Conference Focuses on Strengthening Regional <b>Security</b>**
-> *... <b>Security</b>: Navigating Challenges in a Dynamic <b>Indo</b>-<b>Pacific</b> Landscape.” US PACOM is committed to enhancing stability in the region by promoting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dvidshub.net/image/9907984/28th-indo-pacific-chiefs-defense-conference-focuses-strengthening-regional-security&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3cKfh3I3CCiV4fmaQ9d8EZ))
+**🔴 Dutch Central Bank Pulls Gold Bars Out of New York for 'Crisis Preparedness ... - Yahoo Finance**
+> *Dutch Central Bank Pulls Gold Bars Out of New York for 'Crisis Preparedness' Amid Ongoing <b>Geopolitical Risk</b> ... <b>geopolitical risks</b> are perceived to be&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/markets/commodities/articles/dutch-central-bank-pulls-gold-133441928.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1EDus2Kw8gS1dwCFoEYRgs))
 
-**🟢 Canada concludes 28th <b>Indo</b>-<b>Pacific</b> Chiefs of Defense Conference in Victoria**
-> *“Canada is a Pacific nation, and our <b>security</b> and prosperity are closely connected to the <b>security</b> of the <b>Indo</b>-<b>Pacific</b>. Bringing defence leaders&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.canada.ca/en/department-national-defence/news/2026/09/canada-concludes-28th-indo-pacific-chiefs-of-defense-conference-in-victoria.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0Bc0zxM0siufutSG0PCpHn))
+**🟢 The Netherlands moves Gold out of North America citing <b>geopolitical risk</b> - FXStreet**
+> *The Netherlands moved approximately 86 tonnes of gold valued at over €10 billion from North America to London, citing “increasing <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/analysis/the-netherlands-moves-gold-out-of-north-america-citing-geopolitical-risk-202609032009&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw36frO8lEYBdQTNN2bxTlG_))
 
-**🟢 Turning the tide: <b>China</b> seeks to set the rules at <b>sea</b> - Brookings Institution**
-> *<b>Tensions</b> between the Philippines and <b>China</b> repeatedly spike at Scarborough Shoal as well as further <b>south</b> in the Spratly Islands, where <b>China</b> already&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brookings.edu/articles/turning-the-tide-china-seeks-to-set-the-rules-at-sea/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3bI89xssocqsb2zaHsLOmi))
+**🟢 The Netherlands Moves Gold Out of North America Citing <b>Geopolitical Risk</b> - LinkedIn**
+> *Money Metals - Buy Gold, Silver &amp; Precious Metals for Investment By Michael Maharrey The Netherlands moved approximately 86 tonnes of gold valued&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/pulse/netherlands-moves-gold-out-north-america-citing-geopolitical-ypmze&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3U6fyJcT1LecLsOQBv6Cq3))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

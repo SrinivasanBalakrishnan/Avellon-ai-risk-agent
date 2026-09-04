@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 03 September 2026
+**Date:** 04 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** SCO Bishkek Summit: Economic Cooperation and Strategic Autonomy - SpecialEurasia
+**Source News:** Crude Oil, Interest Rates, Iran War: How 3 <b>Risks</b> Can Shake Indian Stock Markets - NDTV
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** SCO Bishkek Summit: Economic Cooperation and Strategic Autonomy - SpecialEurasia
+- **The News:** Crude Oil, Interest Rates, Iran War: How 3 <b>Risks</b> Can Shake Indian Stock Markets - NDTV
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asia looks to store oil, gas closer to home after Strait of Hormuz crisis | Energy | Al Jazeera
+**Source News:** Iraq August Oil Exports Reach 73 Million Barrels, Generating $4.5 Billion Revenue - Sahi
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia looks to store oil, gas closer to home after Strait of Hormuz crisis | Energy | Al Jazeera
+- **The News:** Iraq August Oil Exports Reach 73 Million Barrels, Generating $4.5 Billion Revenue - Sahi
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Why the US is now a vector for concentration <b>risk</b> - The Banker
+**Source News:** APPEC: <b>Energy security</b> takes center stage as Asia confronts shifting oil, shipping flows
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why the US is now a vector for concentration <b>risk</b> - The Banker
+- **The News:** APPEC: <b>Energy security</b> takes center stage as Asia confronts shifting oil, shipping flows
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Bangladeshi HE's latest round of <b>political</b> purges must be its last
+**Source News:** We've never seen this kind of assault on American democracy - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Bangladeshi HE's latest round of <b>political</b> purges must be its last
+- **The News:** We've never seen this kind of assault on American democracy - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
