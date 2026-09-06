@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 05 September 2026
+**Date:** 06 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Iran war live: Trump says US may target Iran's Pickaxe Mountain 'very soon' - Al Jazeera
+**Source News:** Why Resource Circulation Is Becoming a Security Issue: What Japan-Finland Cooperation ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran war live: Trump says US may target Iran's Pickaxe Mountain 'very soon' - Al Jazeera
+- **The News:** Why Resource Circulation Is Becoming a Security Issue: What Japan-Finland Cooperation ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold and Bitcoin Hit by Hot US Payrolls as Fed Hike <b>Risk</b> | Investing.com
+**Source News:** Is India overpaying for its semiconductor dream? - Deccan Herald
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold and Bitcoin Hit by Hot US Payrolls as Fed Hike <b>Risk</b> | Investing.com
+- **The News:** Is India overpaying for its semiconductor dream? - Deccan Herald
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** US–Venezuela Oil Deal Redraws <b>Global Energy</b> Power - Gulf News
+**Source News:** UBS: Commodities can add diversification as inflation, <b>geopolitical risks</b> rise
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US–Venezuela Oil Deal Redraws <b>Global Energy</b> Power - Gulf News
+- **The News:** UBS: Commodities can add diversification as inflation, <b>geopolitical risks</b> rise
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** WNBA Commissioner Cathy Engelbert to Step Down - Blazer's Edge
+**Source News:** Who gets to influence Donald Trump? Jonathan Swan, co-author of '<b>Regime Change</b> ... - Instagram
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** WNBA Commissioner Cathy Engelbert to Step Down - Blazer's Edge
+- **The News:** Who gets to influence Donald Trump? Jonathan Swan, co-author of '<b>Regime Change</b> ... - Instagram
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
