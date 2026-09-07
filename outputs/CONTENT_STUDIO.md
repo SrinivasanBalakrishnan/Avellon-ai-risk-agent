@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 06 September 2026
+**Date:** 07 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Why Resource Circulation Is Becoming a Security Issue: What Japan-Finland Cooperation ...
+**Source News:** US military strikes Iranian oil tanker, triggering <b>geopolitical risks</b> as Brent crude nears $97 mark
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why Resource Circulation Is Becoming a Security Issue: What Japan-Finland Cooperation ...
+- **The News:** US military strikes Iranian oil tanker, triggering <b>geopolitical risks</b> as Brent crude nears $97 mark
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Is India overpaying for its semiconductor dream? - Deccan Herald
+**Source News:** Europe's stock rally fails to inspire confidence - The Star
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Is India overpaying for its semiconductor dream? - Deccan Herald
+- **The News:** Europe's stock rally fails to inspire confidence - The Star
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** UBS: Commodities can add diversification as inflation, <b>geopolitical risks</b> rise
+**Source News:** Nigeria joins IEA as Association country, launches joint work programme
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UBS: Commodities can add diversification as inflation, <b>geopolitical risks</b> rise
+- **The News:** Nigeria joins IEA as Association country, launches joint work programme
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Who gets to influence Donald Trump? Jonathan Swan, co-author of '<b>Regime Change</b> ... - Instagram
+**Source News:** Japan finds normality brings its own challenges | East <b>Asia</b> Forum
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Who gets to influence Donald Trump? Jonathan Swan, co-author of '<b>Regime Change</b> ... - Instagram
+- **The News:** Japan finds normality brings its own challenges | East <b>Asia</b> Forum
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
