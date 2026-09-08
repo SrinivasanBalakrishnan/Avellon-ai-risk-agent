@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 07 September 2026
+**Date:** 08 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** US military strikes Iranian oil tanker, triggering <b>geopolitical risks</b> as Brent crude nears $97 mark
+**Source News:** <b>Energy Security</b> Is Not <b>Energy</b> Sovereignty: Indonesia's New Strategic Dilemma
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US military strikes Iranian oil tanker, triggering <b>geopolitical risks</b> as Brent crude nears $97 mark
+- **The News:** <b>Energy Security</b> Is Not <b>Energy</b> Sovereignty: Indonesia's New Strategic Dilemma
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Europe's stock rally fails to inspire confidence - The Star
+**Source News:** Arctic trade route becoming a reality - Grain Central
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Europe's stock rally fails to inspire confidence - The Star
+- **The News:** Arctic trade route becoming a reality - Grain Central
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Nigeria joins IEA as Association country, launches joint work programme
+**Source News:** Indian markets open lower amid <b>geopolitical</b> headwinds, rising crude prices - ANI News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Nigeria joins IEA as Association country, launches joint work programme
+- **The News:** Indian markets open lower amid <b>geopolitical</b> headwinds, rising crude prices - ANI News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Japan finds normality brings its own challenges | East <b>Asia</b> Forum
+**Source News:** 'Republicans Hell-Bent on Sweeping This Under the Rug': Katie Phang Drops Epstein Bombshells
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Japan finds normality brings its own challenges | East <b>Asia</b> Forum
+- **The News:** 'Republicans Hell-Bent on Sweeping This Under the Rug': Katie Phang Drops Epstein Bombshells
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
