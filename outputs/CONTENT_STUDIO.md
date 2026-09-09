@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 08 September 2026
+**Date:** 09 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Energy Security</b> Is Not <b>Energy</b> Sovereignty: Indonesia's New Strategic Dilemma
+**Source News:** Wheat jumps on war tensions as soybeans rise and corn retreats in Chicago - AgroLatam
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Energy Security</b> Is Not <b>Energy</b> Sovereignty: Indonesia's New Strategic Dilemma
+- **The News:** Wheat jumps on war tensions as soybeans rise and corn retreats in Chicago - AgroLatam
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Arctic trade route becoming a reality - Grain Central
+**Source News:** Iran's Proxy Strategy Is Never Coming Back - Foreign Policy
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Arctic trade route becoming a reality - Grain Central
+- **The News:** Iran's Proxy Strategy Is Never Coming Back - Foreign Policy
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Indian markets open lower amid <b>geopolitical</b> headwinds, rising crude prices - ANI News
+**Source News:** <b>Risks</b> Increased For A Stock Market Sell-Off (NYSEARCA:SPY) | Seeking Alpha
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Indian markets open lower amid <b>geopolitical</b> headwinds, rising crude prices - ANI News
+- **The News:** <b>Risks</b> Increased For A Stock Market Sell-Off (NYSEARCA:SPY) | Seeking Alpha
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** 'Republicans Hell-Bent on Sweeping This Under the Rug': Katie Phang Drops Epstein Bombshells
+**Source News:** Strongman Model:Replacing one problem with another | Fred Saberi - The Blogs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 'Republicans Hell-Bent on Sweeping This Under the Rug': Katie Phang Drops Epstein Bombshells
+- **The News:** Strongman Model:Replacing one problem with another | Fred Saberi - The Blogs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
