@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 09 September 2026
+**Date:** 10 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Wheat jumps on war tensions as soybeans rise and corn retreats in Chicago - AgroLatam
+**Source News:** <b>Energy</b> efficiency: India's next strategic power resource - ORF Middle East
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Wheat jumps on war tensions as soybeans rise and corn retreats in Chicago - AgroLatam
+- **The News:** <b>Energy</b> efficiency: India's next strategic power resource - ORF Middle East
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Iran's Proxy Strategy Is Never Coming Back - Foreign Policy
+**Source News:** Fool's gold: How <b>geopolitical risk</b> is taking some of the shine off the US dollar - VoxEU
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran's Proxy Strategy Is Never Coming Back - Foreign Policy
+- **The News:** Fool's gold: How <b>geopolitical risk</b> is taking some of the shine off the US dollar - VoxEU
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Risks</b> Increased For A Stock Market Sell-Off (NYSEARCA:SPY) | Seeking Alpha
+**Source News:** Gift Nifty Signals Flat Opening As Oil Tops $100; <b>Geopolitical Risks</b>, US Yields Weigh On Sentiment
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Risks</b> Increased For A Stock Market Sell-Off (NYSEARCA:SPY) | Seeking Alpha
+- **The News:** Gift Nifty Signals Flat Opening As Oil Tops $100; <b>Geopolitical Risks</b>, US Yields Weigh On Sentiment
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Strongman Model:Replacing one problem with another | Fred Saberi - The Blogs
+**Source News:** <b>Regime Change</b> - History News Network
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Strongman Model:Replacing one problem with another | Fred Saberi - The Blogs
+- **The News:** <b>Regime Change</b> - History News Network
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
