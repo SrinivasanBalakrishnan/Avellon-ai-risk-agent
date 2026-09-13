@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 12 September 2026
+**Date:** 13 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** India's Iran Balancing Act: <b>Energy Security</b>, Hormuz And Strategic Autonomy - ETV Bharat
+**Source News:** Trump signals possible end to US-Iran war, oil prices set to fall - Businessday NG
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India's Iran Balancing Act: <b>Energy Security</b>, Hormuz And Strategic Autonomy - ETV Bharat
+- **The News:** Trump signals possible end to US-Iran war, oil prices set to fall - Businessday NG
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Houthis Gain Control Of Yemen's Red Sea Coastline - MEES
+**Source News:** The BRICS Test: A Multipolar World Meets Hard Limits - Buttondown
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Houthis Gain Control Of Yemen's Red Sea Coastline - MEES
+- **The News:** The BRICS Test: A Multipolar World Meets Hard Limits - Buttondown
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Research Update: Emirate of Sharjah 'BBB-/A-3' Ra | S&amp;P Global Ratings
+**Source News:** Have we moved past the <b>risk</b> of rationing in Australia? - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Research Update: Emirate of Sharjah 'BBB-/A-3' Ra | S&amp;P Global Ratings
+- **The News:** Have we moved past the <b>risk</b> of rationing in Australia? - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Libya Elections Roadmap Undermined By Instability &amp; Political Rivalries - MEES
+**Source News:** Katie Fang Reveals Why She's Suing Trump's DOJ For Records | WORLD NEWS - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Libya Elections Roadmap Undermined By Instability &amp; Political Rivalries - MEES
+- **The News:** Katie Fang Reveals Why She's Suing Trump's DOJ For Records | WORLD NEWS - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
