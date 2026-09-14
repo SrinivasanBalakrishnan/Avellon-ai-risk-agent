@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 13 September 2026
+**Date:** 14 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Trump signals possible end to US-Iran war, oil prices set to fall - Businessday NG
+**Source News:** MAERSK SEOUL: dangerous goods, container packing, and the consequences of getting it wrong
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump signals possible end to US-Iran war, oil prices set to fall - Businessday NG
+- **The News:** MAERSK SEOUL: dangerous goods, container packing, and the consequences of getting it wrong
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** The BRICS Test: A Multipolar World Meets Hard Limits - Buttondown
+**Source News:** Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz | The Star
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The BRICS Test: A Multipolar World Meets Hard Limits - Buttondown
+- **The News:** Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz | The Star
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Have we moved past the <b>risk</b> of rationing in Australia? - YouTube
+**Source News:** Progressing from global energy security to meeting growing demand at scale
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Have we moved past the <b>risk</b> of rationing in Australia? - YouTube
+- **The News:** Progressing from global energy security to meeting growing demand at scale
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Katie Fang Reveals Why She's Suing Trump's DOJ For Records | WORLD NEWS - YouTube
+**Source News:** Israel considers possible Iranian attack amid economic pressure — Jerusalem Post
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Katie Fang Reveals Why She's Suing Trump's DOJ For Records | WORLD NEWS - YouTube
+- **The News:** Israel considers possible Iranian attack amid economic pressure — Jerusalem Post
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
