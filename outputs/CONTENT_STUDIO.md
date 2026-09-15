@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 14 September 2026
+**Date:** 15 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** MAERSK SEOUL: dangerous goods, container packing, and the consequences of getting it wrong
+**Source News:** Houthis Tighten Their Grip on the Bab al-Mandab | <b>Geopolitics</b> Weekly
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** MAERSK SEOUL: dangerous goods, container packing, and the consequences of getting it wrong
+- **The News:** Houthis Tighten Their Grip on the Bab al-Mandab | <b>Geopolitics</b> Weekly
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz | The Star
+**Source News:** Gold holds steady as investors await Fed policy cues - CNBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz | The Star
+- **The News:** Gold holds steady as investors await Fed policy cues - CNBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Progressing from global energy security to meeting growing demand at scale
+**Source News:** [MARKET UPDATE]: <b>Geopolitical risk</b>-on trade seen after reports US seeks &quot;step-by ... - Newsquawk
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Progressing from global energy security to meeting growing demand at scale
+- **The News:** [MARKET UPDATE]: <b>Geopolitical risk</b>-on trade seen after reports US seeks &quot;step-by ... - Newsquawk
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Israel considers possible Iranian attack amid economic pressure — Jerusalem Post
+**Source News:** 'Palpable <b>tension</b>' as Philippines Muslim region holds first elections • FRANCE 24 English
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Israel considers possible Iranian attack amid economic pressure — Jerusalem Post
+- **The News:** 'Palpable <b>tension</b>' as Philippines Muslim region holds first elections • FRANCE 24 English
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
