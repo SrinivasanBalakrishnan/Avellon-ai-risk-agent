@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 September 2026
+**Date:** 17 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Mobilization law: How politics and business are reacting - Table.Briefings
+**Source News:** Talmiz Ahmad, Ex-Envoy To Saudi Arabia, Exclusive | Saudi Oil Exports Under Threat?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Mobilization law: How politics and business are reacting - Table.Briefings
+- **The News:** Talmiz Ahmad, Ex-Envoy To Saudi Arabia, Exclusive | Saudi Oil Exports Under Threat?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil Declines But Remains Elevated Amid Supply Concerns, <b>Geopolitical Risks</b> - WSJ
+**Source News:** Asian stocks edge higher as hawkish Fed, elevated yields and <b>geopolitical</b> cap upside
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Declines But Remains Elevated Amid Supply Concerns, <b>Geopolitical Risks</b> - WSJ
+- **The News:** Asian stocks edge higher as hawkish Fed, elevated yields and <b>geopolitical</b> cap upside
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** U.S' 'Big statement' at UNSC as fresh Houthi strikes on Saudi Arabia threaten <b>global energy security</b>
+**Source News:** TrumpXi summit 5 things investors should watch and where volatility can show up | Saxo
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** U.S' 'Big statement' at UNSC as fresh Houthi strikes on Saudi Arabia threaten <b>global energy security</b>
+- **The News:** TrumpXi summit 5 things investors should watch and where volatility can show up | Saxo
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** 'The end of the keyboard is near': SAP CEO predicts voice translation will be the next ...
+**Source News:** Will Australian-Iranians embrace Iran's exiled crown prince on down under visit?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 'The end of the keyboard is near': SAP CEO predicts voice translation will be the next ...
+- **The News:** Will Australian-Iranians embrace Iran's exiled crown prince on down under visit?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
