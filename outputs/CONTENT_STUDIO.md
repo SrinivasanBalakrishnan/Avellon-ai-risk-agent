@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 17 September 2026
+**Date:** 18 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Talmiz Ahmad, Ex-Envoy To Saudi Arabia, Exclusive | Saudi Oil Exports Under Threat?
+**Source News:** India says Russia sanctions bill threatening 100% tariffs can impact US ties, <b>global energy</b> market
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Talmiz Ahmad, Ex-Envoy To Saudi Arabia, Exclusive | Saudi Oil Exports Under Threat?
+- **The News:** India says Russia sanctions bill threatening 100% tariffs can impact US ties, <b>global energy</b> market
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asian stocks edge higher as hawkish Fed, elevated yields and <b>geopolitical</b> cap upside
+**Source News:** Oil Futures Fall 1% for Third Straight Session as Saudi Alternative Supply Route Eases ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asian stocks edge higher as hawkish Fed, elevated yields and <b>geopolitical</b> cap upside
+- **The News:** Oil Futures Fall 1% for Third Straight Session as Saudi Alternative Supply Route Eases ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** TrumpXi summit 5 things investors should watch and where volatility can show up | Saxo
+**Source News:** Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes - CNBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** TrumpXi summit 5 things investors should watch and where volatility can show up | Saxo
+- **The News:** Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes - CNBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Will Australian-Iranians embrace Iran's exiled crown prince on down under visit?
+**Source News:** Bank of England policymakers set out views on rates outlook - Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Will Australian-Iranians embrace Iran's exiled crown prince on down under visit?
+- **The News:** Bank of England policymakers set out views on rates outlook - Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
