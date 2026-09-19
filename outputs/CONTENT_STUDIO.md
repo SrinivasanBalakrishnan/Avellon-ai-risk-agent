@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 18 September 2026
+**Date:** 19 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** India says Russia sanctions bill threatening 100% tariffs can impact US ties, <b>global energy</b> market
+**Source News:** Can India retain freedom not to choose sides amid US sanction <b>threat</b> - Awaz The Voice
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India says Russia sanctions bill threatening 100% tariffs can impact US ties, <b>global energy</b> market
+- **The News:** Can India retain freedom not to choose sides amid US sanction <b>threat</b> - Awaz The Voice
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil Futures Fall 1% for Third Straight Session as Saudi Alternative Supply Route Eases ...
+**Source News:** Ottawa's 'mega deduction' tax write-off could boost these TSX stocks, analysts say
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Futures Fall 1% for Third Straight Session as Saudi Alternative Supply Route Eases ...
+- **The News:** Ottawa's 'mega deduction' tax write-off could boost these TSX stocks, analysts say
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,32 +35,17 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes - CNBC
+**Source News:** Barclays, UBS back BoE hikes as inflation <b>risks</b> mount - Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes - CNBC
+- **The News:** Barclays, UBS back BoE hikes as inflation <b>risks</b> mount - Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
 **Tags:** #AvellonIntelligence #RiskManagement #GLOBAL ECONOMY #Strategy
----
-
-## 📝 DRAFT POST: Leadership Angle
-**Source News:** Bank of England policymakers set out views on rates outlook - Reuters
-
-**LinkedIn Hook Options:**
-1. 🛑 Supply chain alert: Critical chokepoint activity detected...
-2. 💡 Why logistics leaders are watching this waterway today...
-
-**Draft Body Structure:**
-- **The News:** Bank of England policymakers set out views on rates outlook - Reuters
-- **The Insight:** This isn't just political; it's a warning signal for market stability.
-- **The Avellon View:** Resilience is the new currency. How is your organization preparing?
-
-**Tags:** #AvellonIntelligence #RiskManagement #LEADERSHIP #Strategy
 ---
 
