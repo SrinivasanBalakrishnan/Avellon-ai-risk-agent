@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 21 September 2026
+**Date:** 22 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Carney welcomes Norwegian PM to Ottawa to discuss Arctic <b>security</b>, <b>energy</b> - CTV News
+**Source News:** War Is Now A Core <b>Risk</b> Category For Data Centre Operators | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Carney welcomes Norwegian PM to Ottawa to discuss Arctic <b>security</b>, <b>energy</b> - CTV News
+- **The News:** War Is Now A Core <b>Risk</b> Category For Data Centre Operators | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Kospi Reclaims 7,000 Mark as Samsung Electronics Surges 5% - TradingKey
+**Source News:** Asia: <b>Geopolitics</b> and El Niño will deepen food insecurity and civil unrest <b>risks</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Kospi Reclaims 7,000 Mark as Samsung Electronics Surges 5% - TradingKey
+- **The News:** Asia: <b>Geopolitics</b> and El Niño will deepen food insecurity and civil unrest <b>risks</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Hormuz shuttles keep oil flowing, but at a high cost - Reuters
+**Source News:** Oil Slides Below $100 as Iran Diplomacy Hopes and Recovering Saudi Exports Strip Away ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Hormuz shuttles keep oil flowing, but at a high cost - Reuters
+- **The News:** Oil Slides Below $100 as Iran Diplomacy Hopes and Recovering Saudi Exports Strip Away ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** The Wealthy Miami Residents Who Are Plotting Cuba's Future - WSJ
+**Source News:** Moraes gives 5 days for PGR to manifest on progression of &quot;Débora do Batom&quot; <b>regimen</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Wealthy Miami Residents Who Are Plotting Cuba's Future - WSJ
+- **The News:** Moraes gives 5 days for PGR to manifest on progression of &quot;Débora do Batom&quot; <b>regimen</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
