@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 22 September 2026
+**Date:** 23 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** War Is Now A Core <b>Risk</b> Category For Data Centre Operators | OilPrice.com
+**Source News:** Gulf tech firms turn to Hong Kong and Singapore as Iran war grinds on
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** War Is Now A Core <b>Risk</b> Category For Data Centre Operators | OilPrice.com
+- **The News:** Gulf tech firms turn to Hong Kong and Singapore as Iran war grinds on
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asia: <b>Geopolitics</b> and El Niño will deepen food insecurity and civil unrest <b>risks</b>
+**Source News:** ERM's influence is growing as its ranks are shrinking - <b>Risk</b>.net
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia: <b>Geopolitics</b> and El Niño will deepen food insecurity and civil unrest <b>risks</b>
+- **The News:** ERM's influence is growing as its ranks are shrinking - <b>Risk</b>.net
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Slides Below $100 as Iran Diplomacy Hopes and Recovering Saudi Exports Strip Away ...
+**Source News:** SGE, GE Vernova, Hitachi and Samsung C&amp;T sign MoU to advance BWRX-300 fleet ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Slides Below $100 as Iran Diplomacy Hopes and Recovering Saudi Exports Strip Away ...
+- **The News:** SGE, GE Vernova, Hitachi and Samsung C&amp;T sign MoU to advance BWRX-300 fleet ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Moraes gives 5 days for PGR to manifest on progression of &quot;Débora do Batom&quot; <b>regimen</b>
+**Source News:** Afghanistan's opposition wants a monarchy – and an Olympics - Lowy Institute
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Moraes gives 5 days for PGR to manifest on progression of &quot;Débora do Batom&quot; <b>regimen</b>
+- **The News:** Afghanistan's opposition wants a monarchy – and an Olympics - Lowy Institute
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
