@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 24 September 2026
+**Date:** 25 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** A Near-Record Market Is Ignoring The Economy's Biggest <b>Risk</b> | Seeking Alpha
+**Source News:** Daily Memo: US Warns Europe About Russian <b>Threat</b> - <b>Geopolitical</b> Futures
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** A Near-Record Market Is Ignoring The Economy's Biggest <b>Risk</b> | Seeking Alpha
+- **The News:** Daily Memo: US Warns Europe About Russian <b>Threat</b> - <b>Geopolitical</b> Futures
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Ringgit's slide a temporary blip | The Star
+**Source News:** Upstream spending to anchor O&amp;G outlook - The Star
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Ringgit's slide a temporary blip | The Star
+- **The News:** Upstream spending to anchor O&amp;G outlook - The Star
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Banking Essentials Newsletter: September 23rd Edition | S&amp;P Global
+**Source News:** IBSA FMs call for UNSC reform, <b>energy security</b>; condemn Pahalgam Terror Attack ... - ANI News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Banking Essentials Newsletter: September 23rd Edition | S&amp;P Global
+- **The News:** IBSA FMs call for UNSC reform, <b>energy security</b>; condemn Pahalgam Terror Attack ... - ANI News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Iran News in Brief – September 24, 2026 - NCRI
+**Source News:** Examining think tank proposal that US cut and run in <b>Asia</b>-<b>Pacific</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran News in Brief – September 24, 2026 - NCRI
+- **The News:** Examining think tank proposal that US cut and run in <b>Asia</b>-<b>Pacific</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
