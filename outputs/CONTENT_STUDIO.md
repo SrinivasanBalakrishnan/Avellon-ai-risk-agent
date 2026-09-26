@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 25 September 2026
+**Date:** 26 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Daily Memo: US Warns Europe About Russian <b>Threat</b> - <b>Geopolitical</b> Futures
+**Source News:** KBRA Affirms Ratings for BlackRock Private Credit Fund
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Daily Memo: US Warns Europe About Russian <b>Threat</b> - <b>Geopolitical</b> Futures
+- **The News:** KBRA Affirms Ratings for BlackRock Private Credit Fund
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Upstream spending to anchor O&amp;G outlook - The Star
+**Source News:** How Hong Kong firms are future-proofing business in challenging times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Upstream spending to anchor O&amp;G outlook - The Star
+- **The News:** How Hong Kong firms are future-proofing business in challenging times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** IBSA FMs call for UNSC reform, <b>energy security</b>; condemn Pahalgam Terror Attack ... - ANI News
+**Source News:** New <b>Energy</b> Corridors Link Iraq To <b>Global</b> Markets, Boosting <b>Energy Security</b>!! - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** IBSA FMs call for UNSC reform, <b>energy security</b>; condemn Pahalgam Terror Attack ... - ANI News
+- **The News:** New <b>Energy</b> Corridors Link Iraq To <b>Global</b> Markets, Boosting <b>Energy Security</b>!! - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Examining think tank proposal that US cut and run in <b>Asia</b>-<b>Pacific</b>
+**Source News:** From the China Initiative to Today: US - China Tensions, Civil Rights, and Academic Exchange
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Examining think tank proposal that US cut and run in <b>Asia</b>-<b>Pacific</b>
+- **The News:** From the China Initiative to Today: US - China Tensions, Civil Rights, and Academic Exchange
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
