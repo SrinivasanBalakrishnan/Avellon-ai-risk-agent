@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 26 September 2026
+**Date:** 27 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** KBRA Affirms Ratings for BlackRock Private Credit Fund
+**Source News:** Oil Prices Moderated Week-on-Week On Easing Supply <b>Risk</b> - MarketForces Africa
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** KBRA Affirms Ratings for BlackRock Private Credit Fund
+- **The News:** Oil Prices Moderated Week-on-Week On Easing Supply <b>Risk</b> - MarketForces Africa
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** How Hong Kong firms are future-proofing business in challenging times
+**Source News:** Stocks end week flat amid oil, <b>geopolitical</b> uncertainty - Newspaper - DAWN.COM
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How Hong Kong firms are future-proofing business in challenging times
+- **The News:** Stocks end week flat amid oil, <b>geopolitical</b> uncertainty - Newspaper - DAWN.COM
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** New <b>Energy</b> Corridors Link Iraq To <b>Global</b> Markets, Boosting <b>Energy Security</b>!! - YouTube
+**Source News:** The Final 100 Days That Decide This Market Are Here (Q4 Outlook) | Seeking Alpha
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** New <b>Energy</b> Corridors Link Iraq To <b>Global</b> Markets, Boosting <b>Energy Security</b>!! - YouTube
+- **The News:** The Final 100 Days That Decide This Market Are Here (Q4 Outlook) | Seeking Alpha
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** From the China Initiative to Today: US - China Tensions, Civil Rights, and Academic Exchange
+**Source News:** Video: Lavrov calls killing of Ali Khamenei 'unacceptable' | Iran International
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** From the China Initiative to Today: US - China Tensions, Civil Rights, and Academic Exchange
+- **The News:** Video: Lavrov calls killing of Ali Khamenei 'unacceptable' | Iran International
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
