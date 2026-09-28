@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 27 September 2026
+**Date:** 28 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil Prices Moderated Week-on-Week On Easing Supply <b>Risk</b> - MarketForces Africa
+**Source News:** Old Trade Order is Fraying: KPMG | MHL News - Material Handling &amp; Logistics
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Prices Moderated Week-on-Week On Easing Supply <b>Risk</b> - MarketForces Africa
+- **The News:** Old Trade Order is Fraying: KPMG | MHL News - Material Handling &amp; Logistics
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Stocks end week flat amid oil, <b>geopolitical</b> uncertainty - Newspaper - DAWN.COM
+**Source News:** Gold's Rate Problem Turns Technical as 4,230 Fibonacci Support Gives Way - ActionForex
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Stocks end week flat amid oil, <b>geopolitical</b> uncertainty - Newspaper - DAWN.COM
+- **The News:** Gold's Rate Problem Turns Technical as 4,230 Fibonacci Support Gives Way - ActionForex
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** The Final 100 Days That Decide This Market Are Here (Q4 Outlook) | Seeking Alpha
+**Source News:** Oil Rises on <b>Geopolitical Risks</b>, Stockpile Decline - WSJ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** The Final 100 Days That Decide This Market Are Here (Q4 Outlook) | Seeking Alpha
+- **The News:** Oil Rises on <b>Geopolitical Risks</b>, Stockpile Decline - WSJ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Video: Lavrov calls killing of Ali Khamenei 'unacceptable' | Iran International
+**Source News:** Brian Kilmeade: Trump's vision goes 'beyond' November | Fox News Video
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Video: Lavrov calls killing of Ali Khamenei 'unacceptable' | Iran International
+- **The News:** Brian Kilmeade: Trump's vision goes 'beyond' November | Fox News Video
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
