@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 28 September 2026
+**Date:** 29 September 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Old Trade Order is Fraying: KPMG | MHL News - Material Handling &amp; Logistics
+**Source News:** Natural Gas and Oil Forecast: Iran Talks Stall as Gulf Crude Flows Recover | FXEmpire
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Old Trade Order is Fraying: KPMG | MHL News - Material Handling &amp; Logistics
+- **The News:** Natural Gas and Oil Forecast: Iran Talks Stall as Gulf Crude Flows Recover | FXEmpire
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold's Rate Problem Turns Technical as 4,230 Fibonacci Support Gives Way - ActionForex
+**Source News:** Five Financial Signals from Climate Week NYC - MSCI
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold's Rate Problem Turns Technical as 4,230 Fibonacci Support Gives Way - ActionForex
+- **The News:** Five Financial Signals from Climate Week NYC - MSCI
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil Rises on <b>Geopolitical Risks</b>, Stockpile Decline - WSJ
+**Source News:** <b>Geopolitical risk</b> is reshaping global finance, one bank loan at a time - CEPR
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Rises on <b>Geopolitical Risks</b>, Stockpile Decline - WSJ
+- **The News:** <b>Geopolitical risk</b> is reshaping global finance, one bank loan at a time - CEPR
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Brian Kilmeade: Trump's vision goes 'beyond' November | Fox News Video
+**Source News:** Congress Flags U.S.-Mongolia Policy Tensions - Legis1
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brian Kilmeade: Trump's vision goes 'beyond' November | Fox News Video
+- **The News:** Congress Flags U.S.-Mongolia Policy Tensions - Legis1
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
