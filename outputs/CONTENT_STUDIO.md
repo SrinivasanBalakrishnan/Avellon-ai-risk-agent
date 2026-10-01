@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 30 September 2026
+**Date:** 01 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** <b>Geopolitical</b> Determinants : ωϭοϭϣϟ΍ ϡγ΍ Global Gold Price Scenarios Between ...
+**Source News:** NNSA Conducts Nonproliferation Experiment to Strengthen America's Nuclear Explosion ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical</b> Determinants : ωϭοϭϣϟ΍ ϡγ΍ Global Gold Price Scenarios Between ...
+- **The News:** NNSA Conducts Nonproliferation Experiment to Strengthen America's Nuclear Explosion ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** LSE welcomes Celine Herweijer as Visiting Professor in Practice in Energy, AI and <b>Geopolitics</b>
+**Source News:** CCTV Script 01/10/26 - CNBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** LSE welcomes Celine Herweijer as Visiting Professor in Practice in Energy, AI and <b>Geopolitics</b>
+- **The News:** CCTV Script 01/10/26 - CNBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Is the Yen Carry Trade Spiking Global Yields? - Robin J Brooks
+**Source News:** Why Is the Dollar Outshining Gold? | Presented by CME Group - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Is the Yen Carry Trade Spiking Global Yields? - Robin J Brooks
+- **The News:** Why Is the Dollar Outshining Gold? | Presented by CME Group - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** When Elections Are Not Enough | The India Forum
+**Source News:** A Sovereignist Foreign Policy? The World as Seen by National Rally Lawmakers | Ifri
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** When Elections Are Not Enough | The India Forum
+- **The News:** A Sovereignist Foreign Policy? The World as Seen by National Rally Lawmakers | Ifri
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

@@ -1,99 +1,101 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 30 September 2026
+**Date:** 01 October 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 9.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 9.0)
-- **Strait of Hormuz** (Risk Score: 7.5)
+- **Strait of Hormuz** (Risk Score: 26.5)
+- **Taiwan Strait** (Risk Score: 11.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 5)
+- **Malacca Strait** (Risk Score: 4.5)
+- **Panama Canal** (Risk Score: 3.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 <b>Geopolitical</b> Determinants : ωϭοϭϣϟ΍ ϡγ΍ Global Gold Price Scenarios Between ...**
-> *against <b>geopolitical risk</b>. After the freezing of $300 billion in Russian assets following the 2022 Russia±Ukraine war, Moscow relied on its gold&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://futureuae.com/rss/Mainpage/Report/10575&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3v96lpOYKSueOaOsAClndd))
+**🟢 NNSA Conducts Nonproliferation Experiment to Strengthen America's Nuclear Explosion ...**
+> *The experiment reinforces President Trump's commitment to maintaining American leadership in <b>global</b> nuclear <b>security</b> and ensuring the United States&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energy.gov/nnsa/articles/nnsa-conducts-nonproliferation-experiment-strengthen-americas-nuclear-explosion&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0Syx6dgv4OGUhwVYqzfU-M))
 
-**🔴 How Wars and <b>Geopolitical</b> Conflicts Can Affect Stock Market Performance: What History Shows**
-> *A useful way to frame <b>geopolitical risk</b> is as a set of potential supply and demand shocks – for example, disruptions to energy, shipping lanes,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chase.com/personal/investments/learning-and-insights/article/wars-geopolitical-conflicts-and-stock-market-performance&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2LWVrDAIruzVwmo1oHS0Gk))
+**🟡 Strait of Hormuz disruption puts India's <b>energy security</b> in focus: What former diplomat said**
+> *Former Ambassador Navtej Sarna linked <b>energy security</b> to the broader question of strategic autonomy as <b>global</b> economic and geopolitical relationships&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.in/latest/economy/story/strait-of-hormuz-disruption-puts-indias-energy-security-in-focus-what-former-diplomat-said-558909-2026-10-01&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3b66ZPoTjER0pOH-vizUg3))
 
-**🟢 Saskatchewan nuclear power plan aims to produce 2,600MW by 2050 | Globalnews.ca**
-> *“We understand the economic, environmental and <b>energy security</b> benefits that safe, reliable and carbon-free nuclear power can provide for our&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://globalnews.ca/news/12077256/saskatchewan-plans-for-nuclear-energy/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2gx9ve92E_CMcF8JaPn_eJ))
+**🟢 America's Strategic Oil Reserves Are at 44-Year Lows - And Trump Just Gave Away Another ...**
+> *For investors, that keeps the energy-<b>security</b> premium alive. ... <b>global energy</b> map overnight. But the real story is what it means for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://247wallst.com/investing/2026/09/30/americas-strategic-oil-reserves-are-at-44-year-lows-and-trump-just-gave-away-another-40-million-barrels/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0vgTc11t-uf6ygHvS2OR-S))
 
-**🟢 Saskatchewan Advances Nuclear Power to Support Long-Term <b>Energy Security</b> | News and Media**
-> *... <b>global</b> leader in nuclear <b>energy</b>. This ambitious plan turns that potential into action - strengthening our <b>energy security</b>, attracting investment&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.saskatchewan.ca/government/news-and-media/2026/september/29/saskatchewan-advances-nuclear-power-to-support-long-term-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2cUdhd33tTUdKbwuG6dVmQ))
+**🔴 Donald Trump's <b>war</b> on the world faces a lethal blow - The Age**
+> *BusinessThe <b>economy</b>Trade <b>wars</b>. Opinion. Donald Trump's <b>war</b> on the world ... <b>economies</b> and 86 countries (the 27-member European Union was&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theage.com.au/business/the-economy/trump-s-war-on-the-world-faces-a-lethal-blow-20261001-p611xx.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2_mei1sFVam3b4fHFwiyKw))
 
-**🔴 <b>Global energy security</b> enters new era as wars expose hidden vulnerabilities | Caliber.Az**
-> *The Russia-Ukraine and US-Iran conflicts are exposing weaknesses in the <b>global energy</b> system that extend far beyond the supply of oil and gas,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://caliber.az/en/post/global-energy-security-enters-new-era-as-wars-expose-hidden-vulnerabilities&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3U8CUvv9MdWqXcmzQ13OH_))
+**🔴 Donald Trump's <b>war</b> on the world faces a lethal blow - SMH**
+> *BusinessThe <b>economy</b>Trade <b>wars</b>. Opinion. Donald Trump's <b>war</b> on the world faces a lethal blow. Stephen BartholomeuszSenior&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.smh.com.au/business/the-economy/trump-s-war-on-the-world-faces-a-lethal-blow-20261001-p611xx.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2khIeBhZTXWqI-He-xHECZ))
 
 
 ## 🏛 CYBER & TECH
-**🟢 LSE welcomes Celine Herweijer as Visiting Professor in Practice in Energy, AI and <b>Geopolitics</b>**
-> *... <b>geopolitical risk</b> is relocated as the chokepoints and dependencies shift. LSE has a unique mix of talent – economics, geopolitics, trade, energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lse.ac.uk/granthaminstitute/news/lse-welcomes-celine-herweijer-as-visiting-professor-in-practice-in-energy-ai-and-geopolitics/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1QCxqFjp1WHWoIlvw1YAi-))
+**🟢 CCTV Script 01/10/26 - CNBC**
+> *At the same time, security conditions within the strait remain far from normal, with <b>geopolitical risk</b> premiums continuing to underpin high oil prices&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/10/01/cctv-script-01/10/26.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1LV1xxTaK3pPTB0SvdpdnP))
 
-**🟡 India Has the Solar. Can It Power the AI Boom? - Bloomberg**
-> *Energy from Russia and the Middle East is fraught with <b>geopolitical risk</b>; coal is abundant locally, but it contributes to deadly air pollution in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/opinion/articles/2026-09-29/india-has-the-solar-can-it-power-the-ai-boom&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1hxrwwj_gPObBPb2hY6xpE))
+**🟢 NCE Engineers Collective podcast: <b>geopolitical risk</b> takeaways for project teams**
+> *<b>Geopolitical</b> uncertainty around energy security, supply chains and defence spending is pushing UK construction and engineering clients to demand&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.geomechanics.io/news/article/nce-engineers-collective-podcast-geopolitical-risk-takeaways-for-project-teams&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0nkLYmy76CgM4-X05KZxf9))
 
-**🔴 Russia-Ukraine Energy Strikes Keep a Floor Under Crude's <b>Risk</b> Premium - StoneX**
-> *Crude oil's <b>geopolitical risk</b> premium rests on two fronts, U.S.-Iran tensions and Russia-Ukraine attacks on energy infrastructure....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.stonex.com/en/insights/russia-ukraine-energy-strikes-keep-a-floor-under-crude-s-risk-premium/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1cRc61_DQYNAPxMj0hKk2R))
+**🟢 Schwab's FNDE ETF upgraded to Hold amid strong EM trends but China <b>risk</b> remains high.**
+> *Despite its attractive valuation and favorable emerging market macro trends, FNDE carries significant <b>geopolitical risk</b> due to its 57% exposure to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://pluang.com/en/news-feed/fnde-masih-pemimpin-nilai-pasar-negara-berkembang-dengan-risiko-geopolitik&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1tPyWlOVQeHBPN-07EK03a))
 
-**🟢 Republican Senator Wicker says US <b>security</b> commitments to Taiwan must be upheld**
-> *Wicker also said he discussed ​with Yui what he called the rise of Chinese aggression against the United States' <b>Indo</b>-<b>Pacific</b> allies. &quot;In response&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/us/republican-senator-wicker-says-us-security-commitments-taiwan-must-be-upheld-2026-09-30/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw12IlXzwMd9lmA2cl4zIm1x))
+**🟡 30 Sep Daily Market Update for OANDA:XAUUSD by HaloDestiny - TradingView**
+> *US–Iran talks stall: Both sides broadly accept the proposed framework, but disagreement over sequencing keeps diplomacy stuck and <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/chart/XAUUSD/wNdlle51-30-Sep-Daily-Market-Update/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ebYyFyQ0yZEzJZVEekida))
 
-**🟢 India: PM Narendra Modi Welcomes Japanese PM Sanae Takaichi Holds Summit Talks At ...**
-> *... <b>security</b> frameworks across the <b>Indo</b>-<b>Pacific</b>.(Photo by Raj K Raj/Hindustan Times/Sipa USA). View all. Image. Create an account to license. Share Item&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reutersconnect.com/item/india-pm-narendra-modi-welcomes-japanese-pm-sanae-takaichi-holds-summit-talks-at-hyderabad-house/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBCTDU3MUo%3FlastViewed%3DdGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBCTDU3MUo%26position%3D1&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3fWZUfdUvlfVtwq_hPK3S6))
+**🟢 Crude Oil Futures Extend Gains, Brent Posts 14% Monthly Surge—<b>Geopolitical</b> ... - BigGo Finance**
+> *... <b>geopolitical risk</b> premium. Qatar has stepped in as a mediator between Washington and Tehran, but no agreement has been reached, and President&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/2fd5ad23-889a-47d1-9bbd-674b98b6546c&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw02LWvSNfUjc9489RkmDr9z))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Is the Yen Carry Trade Spiking Global Yields? - Robin J Brooks**
-> *The opposite is true. Rising <b>geopolitical risk</b> - which is what higher oil prices are about - is making markets more attuned to the fact that fiscal&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://robinjbrooks.substack.com/p/is-the-yen-carry-trade-spiking-global&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1o3zEYURqldUfP86vO-TlX))
+**🟢 Why Is the Dollar Outshining Gold? | Presented by CME Group - YouTube**
+> *With the Fed tightening policy and <b>geopolitical risks</b> still high, are energy costs changing where investors seek safety? Presented by @cmegroup&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dt0rWWwFYO74&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ra0uEmIVqqWU3yChUPQVi))
 
-**🔴 What impact do <b>geopolitical</b> tensions have on inflation? - De Nederlandsche Bank (DNB)**
-> *For policymakers, it is not only relevant how <b>geopolitical</b> tensions affect inflation today, but also how <b>risks</b> surrounding expected inflation evolve....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dnb.nl/en/general-news/background-2026/what-impact-do-geopolitical-tensions-have-on-inflation/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3p33fC-b8Phv893bN658xi))
+**🟢 Roundtable: Is debt too much of a good thing? - Infrastructure Investor**
+> *“A lot of European investors are citing <b>geopolitical risk</b> in the US as a concern,” Agrawal says. “Investors need to have a global investing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.infrastructureinvestor.com/roundtable-is-debt-too-much-of-a-good-thing/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2G-suJGC-mqRhxiXKBPY-E))
 
-**🟢 How are markets weighing <b>geopolitical risk</b>? - YouTube**
-> *Sadiq Adatia, CIO at BMO Global Asset Management, joins BNN Bloomberg to discuss the outlook on the markets. +++ Subscribe to BNN Bloomberg to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DN3V5MT5xU8I&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-RN2GqpFhFiAHRrjZSHmZ))
+**🟢 FNDE: Still A Leader In EM Value With High <b>Geopolitical Risk</b> - Seeking Alpha**
+> *The Schwab Fundamental Emerging Markets Equity ETF employs a fundamental-weighting RAFI strategy, outperforming the benchmark SPEM....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4951182-fnde-still-leader-in-em-value-with-high-geopolitical-risk&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0en6jXFOr73OawTXX9hx2C))
 
-**🟡 IRENA tells UN News that renewables are redefining energy <b>security</b> as <b>global energy</b> ...**
-> *Renewable energy is increasingly being framed as a core element of “energy <b>security</b>” after conflict and fuel price shocks disrupted <b>global energy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.fundsforngos.org/2026/09/30/irena-renewables-reshape-energy-security-global/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1XfB6BPL-8Efjgz4fBTB6m))
+**🟢 The LNG decade: <b>security</b>, competitiveness and the power of diversified portfolios**
+> *... energy <b>security</b>, strengthen customer relationships, and contribute to a more balanced <b>global energy</b> system. Energy Connects includes information&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energyconnects.com/opinion/thought-leadership/2026/september/the-lng-decade-security-competitiveness-and-the-power-of-diversified-portfolios/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw186Ku_kEiz9nv0p4o2sek6))
 
-**🟢 China Has an 18-Wheel Answer to Soaring <b>Global</b> Diesel Prices - Bloomberg**
-> *Around a third of trucks sold in China this year will run on electricity, furthering Beijing's goal of bolstering <b>energy security</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/features/2026-09-29/eighteen-wheeler-e-trucks-are-china-s-answer-to-soaring-global-diesel-prices&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1GG3adP4eQ97vo9Yk7MPTs))
+**🟡 The trouble with China's bigger, better batteries - Financial Times**
+> *Today, CATL produces two-fifths of the <b>world's</b> EV batteries © Xinhua/Shutterstock. But the power storage boom has brought <b>energy security</b> worries of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/b84778e5-ce8b-4baa-9ca7-402cdf277b4d%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1DJGiW7ufax_6bhj89XnSg))
 
 
 ## 🏛 LEADERSHIP
-**🟢 When Elections Are Not Enough | The India Forum**
-> *<b>Political</b> Removability. One of the defining assumptions of modern democracy is that citizens can <b>change</b> their <b>government</b> through elections....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theindiaforum.in/forum/when-elections-are-not-enough&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3KfGa0QFmqESNdzgkmzK4I))
+**🟢 A Sovereignist Foreign Policy? The World as Seen by National Rally Lawmakers | Ifri**
+> *The New Geography of <b>Geopolitical Risk</b>. Date de publication. 28 May 2026 ... Manufacturing Risk: Geopolitical Doxa and the Corporate World. Date&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ifri.org/en/studies/sovereignist-foreign-policy-world-seen-national-rally-lawmakers&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1utaNort8J_u6N-ebaMlO_))
 
-**🟢 Can the U.S. Still Lead in Today's World? A Conversation with Jake Sullivan - YouTube**
-> *Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy ... Government Website. Forbes Breaking News. New. 48K views &middot; 46:34 &middot; Go to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dvnda4aDjI3Y&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0xmIXfbHL6iX49pyK-yY0D))
+**🟢 Competing for allies in the <b>Indo</b>-<b>Pacific</b>: CASO panel discusses ally building in ... - U.S. Army**
+> *The current national <b>security</b> environment coupled with directives from senior leaders has aligned the college's mission to that a lethality and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.army.mil/article/295839/competing_for_allies_in_the_indo_pacific_caso_panel_discusses_ally_building_in_alignment_with_curriculum_current_national_security_environment&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2xi3HC-GxwPtjXNQGew_qf))
 
-**🟢 Countering Asia's Axis of Authoritarianism - YouTube**
-> *... regimes to advance their political and security narratives at home and abroad ... Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DktUDRKlHVwM&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1uYUa8WzV9dssurvSUJJQo))
+**🟢 Sybiha discusses deepening <b>security</b>, defence cooperation with Japanese parliamentary delegation**
+> *... <b>security</b> in Europe and the <b>Indo</b>-<b>Pacific</b> region. Separately, the interlocutors explored opportunities to deepen cooperation in the areas of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.interfax.com.ua/news/general/1212514.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2aF4_5WfterTNw44Nq6yDP))
 
-**🟢 Did the federal <b>government</b> help speed up a major B.C. LNG project? | Power &amp; Politics**
-> *Stelco rejecting government assistance shows PM can't 'buy your ... Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DI0zR8-4mYFs&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2pGIctFFm6ARkxnCIhCLoR))
+**🟢 Anand Giridharadas on Jordan Neely, Daniel Penny, Race and Public Safety - YouTube**
+> *Author Talk: Maggie Haberman and Jonathan Swan — <b>Regime Change</b>- with Tim Alberta. Politics and Prose•121K views &middot; 17:55 &middot; Go to channel James Talarico&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DLrs_ILkEC8Q&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3rWyVGWoc7UUk75nKRrupf))
 
-**🟡 Has Gaza broken US politics? | Let's Focus - YouTube**
-> *32K views &middot; 43:35 &middot; Go to channel Timothy Snyder. Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder. New. 244K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DCOPaFln9WHU&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0HyPIX_YkTmGK0RPNsDBz9))
+**🟢 New Zealand tax bill proposes reforms to reduce tax barriers for investment, talent and cross ...**
+> *... <b>change</b> before enactment. Executive summary. On 10 September 2026, the New ... <b>Changes</b> to the research and development tax incentive (RDTI) <b>regime</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://globaltaxnews.ey.com/news/2026-2078-new-zealand-tax-bill-proposes-reforms-to-reduce-tax-barriers-for-investment-talent-and-cross-border-business&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1e45GRQ6R-Y1N5HybngBKK))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Morning note: the agenda for Wednesday 30 September - Il Sole 24 ORE**
-> *- Rome: the event 'Sistema Italia and <b>geopolitical risk</b>: challenges and opportunities', organised by the <b>Geopolitical Risk</b> Observatory of the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.ilsole24ore.com/art/morning-note-the-agenda-for-wednesday-30-september-AJJTCiTB&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw00DnLA1qMpBYip3TsSBMj7))
+**🟡 Interview with La Croix - <b>European</b> Central Bank**
+> *You have experienced all the major <b>crises</b>: the <b>financial crisis</b> of 2008 when you were the French Minister of the Economy, the Greek <b>crisis</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260930~10084a5f3d.pt.html&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3rBSohxTat-lddxj4Dtxkp))
 
-**🟢 Supervisory <b>risk</b> appetite, efficiency and effectiveness - European Central Bank**
-> *Bali, 30 September 2026. Banks are operating in an increasingly complex environment shaped by <b>geopolitical</b> fragmentation, rapid technological&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260930~d495288355.de.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3I5qMDk2mB0ShrzT2mJV1L))
+**🟡 U.S. Invests $29.5 Million To Develop Critical Minerals Technology - Forbes**
+> *<b>Rare earth elements</b>: rare earth oxides of gadolinium, praseodymium, cerium, samarium, lanthanum and neodymium. USDA ARS. This new round of federal&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forbes.com/sites/noelfletcher/2026/09/30/us-invests-295-million-to-develop-critical-minerals-technology/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2d7RPPIQNbNrh94XTbrSHs))
 
-**🟢 From Space to Safety: How InSAR is Transforming Infrastructure Monitoring in Australia**
-> *... Radar) and the Cosmo-SkyMed satellite constellation are transforming the monitoring of critical infrastructure across Australia and the <b>Indo</b>-<b>Pacific</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://spaceanddefense.io/from-space-to-safety-how-insar-is-transforming-infrastructure-monitoring-in-australia/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0pbj5a0hwvLnulbGwVt8K8))
+**🟢 Direct evidence from lamprophyres in the Jinshan gold mine, Jiaodong Peninsula, North ...**
+> *... <b>rare earth elements</b> (LREEs), depletion in high field strength elements ... element (ppm) and platinum-group element (ppb) compositions of the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38926.1/786173/Limited-gold-endowment-from-the-Paleo-Pacific%3Fsearchresult%3D1&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0Z99MBjNhTszawlWgUWD-l))
 
-**🟢 US Army <b>Pacific</b>, regional partners gather to discuss collective <b>security</b> - PACOM**
-> *AUCKLAND, New Zealand — Army leaders from more than 25 nations gathered here for the 50th annual <b>Indo</b>-<b>Pacific</b> Armies Management Seminar (IPAMS)&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pacom.mil/Media/News/News-Articles/Article/4614454/us-army-pacific-regional-partners-gather-to-discuss-collective-security/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3U1NfWKVlpNJ_xkJKO6Ii9))
+**🟢 Top 3 <b>Rare Earth</b> Stocks To Watch In October 2026 - Simply Wall St**
+> *Seeking Alternatives Beyond <b>Rare Earths</b>? Fresh ideas move first. Breakout themes, early momentum, and stocks still flying under the radar for now can&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/materials/nasdaq-crml/critical-metals/news/top-3-rare-earth-stocks-to-watch-in-october-2026&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw00DaXww6uhpRGVd2LR_PpM))
 
-**🟢 Future Center - Why Has the <b>Tension</b> in Sino-Japanese Relations Yet to Subside?**
-> *... China Sea, known in China as the Diaoyu Islands, and the <b>South China Sea</b>. There, Tokyo contends, Beijing acts according to the logic of bullying&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://futureuae.com/en-US/Mainpage/Item/11305/structural-disagreements-why-has-the-tension-in-sino-japanese-relations-yet-to-subside&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1TrI6SmffzpFoquK_sXXUr))
+**🟢 Lynas <b>Rare Earths</b> buys Brazil-focused Meteoric Resources as it spreads its wings to South America**
+> *Lynas <b>Rare Earths</b> is spreading its wings to South America with a near-$1 billion deal that will hand it the largest known ionic clay <b>rare earths</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thewest.com.au/business/mining/lynas-rare-earths-buys-brazil-focused-meteoric-resources-as-it-spreads-its-wings-to-south-america-c-22951463&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2OwhwsAijdxmmPtBXbnXEF))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
