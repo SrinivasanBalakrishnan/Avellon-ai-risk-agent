@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 01 October 2026
+**Date:** 02 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** NNSA Conducts Nonproliferation Experiment to Strengthen America's Nuclear Explosion ...
+**Source News:** Beyond ESG: Why <b>Geopolitics</b> and Biodiversity Belong in the Boardroom
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** NNSA Conducts Nonproliferation Experiment to Strengthen America's Nuclear Explosion ...
+- **The News:** Beyond ESG: Why <b>Geopolitics</b> and Biodiversity Belong in the Boardroom
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** CCTV Script 01/10/26 - CNBC
+**Source News:** Cocktail of <b>Risks</b> Boosts Demand for Safest Bonds: Markets Wrap - SWI swissinfo.ch
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** CCTV Script 01/10/26 - CNBC
+- **The News:** Cocktail of <b>Risks</b> Boosts Demand for Safest Bonds: Markets Wrap - SWI swissinfo.ch
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Why Is the Dollar Outshining Gold? | Presented by CME Group - YouTube
+**Source News:** <b>Geopolitics</b>, crude, and global yields may push 10-year G-sec yield beyond 7.25%
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why Is the Dollar Outshining Gold? | Presented by CME Group - YouTube
+- **The News:** <b>Geopolitics</b>, crude, and global yields may push 10-year G-sec yield beyond 7.25%
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** A Sovereignist Foreign Policy? The World as Seen by National Rally Lawmakers | Ifri
+**Source News:** Why Mongolia matters to Canada's <b>Indo</b>-<b>Pacific</b> Strategy: Bryon Wilfert for Inside Policy
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** A Sovereignist Foreign Policy? The World as Seen by National Rally Lawmakers | Ifri
+- **The News:** Why Mongolia matters to Canada's <b>Indo</b>-<b>Pacific</b> Strategy: Bryon Wilfert for Inside Policy
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
