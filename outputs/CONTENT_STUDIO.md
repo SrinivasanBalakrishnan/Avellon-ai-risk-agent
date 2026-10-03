@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 02 October 2026
+**Date:** 03 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Beyond ESG: Why <b>Geopolitics</b> and Biodiversity Belong in the Boardroom
+**Source News:** The Week in Oil: Crude Exports Recover But Regional Tensions Remain Elevated
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Beyond ESG: Why <b>Geopolitics</b> and Biodiversity Belong in the Boardroom
+- **The News:** The Week in Oil: Crude Exports Recover But Regional Tensions Remain Elevated
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Cocktail of <b>Risks</b> Boosts Demand for Safest Bonds: Markets Wrap - SWI swissinfo.ch
+**Source News:** What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Cocktail of <b>Risks</b> Boosts Demand for Safest Bonds: Markets Wrap - SWI swissinfo.ch
+- **The News:** What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Geopolitics</b>, crude, and global yields may push 10-year G-sec yield beyond 7.25%
+**Source News:** Libya, Egypt Sign Energy Cooperation MoU - MEES
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitics</b>, crude, and global yields may push 10-year G-sec yield beyond 7.25%
+- **The News:** Libya, Egypt Sign Energy Cooperation MoU - MEES
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Why Mongolia matters to Canada's <b>Indo</b>-<b>Pacific</b> Strategy: Bryon Wilfert for Inside Policy
+**Source News:** Rachel Maddow in conversation: Surviving Putin's prison - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why Mongolia matters to Canada's <b>Indo</b>-<b>Pacific</b> Strategy: Bryon Wilfert for Inside Policy
+- **The News:** Rachel Maddow in conversation: Surviving Putin's prison - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
