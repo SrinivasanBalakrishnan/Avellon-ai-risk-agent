@@ -1,94 +1,93 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 03 October 2026
+**Date:** 04 October 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 10.0)
-- **Strait of Hormuz** (Risk Score: 9.5)
-- **Taiwan Strait** (Risk Score: 5)
-- **Panama Canal** (Risk Score: 1)
+- **Strait of Hormuz** (Risk Score: 21.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 10.5)
+- **Taiwan Strait** (Risk Score: 2)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 The Week in Oil: Crude Exports Recover But Regional Tensions Remain Elevated**
-> *<b>GEOPOLITICAL RISKS</b>: With diplomatic efforts offering little clarity, markets face the risk of prolonged disruptions, keeping a sizable geopolitical&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/dow-jones/202610024524/the-week-in-oil-crude-exports-recover-but-regional-tensions-remain-elevated&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0HJBdaEMhsogE4z35RVjrf))
+**🔴 RBI Governor Warns Next Financial Crisis Could Begin With Cyberattack or Technology Failure**
+> *... <b>Risk</b>RBI Says Shocks Cannot Be Eliminated CompletelyBetter Data ... <b>Geopolitical</b> Shocks Are Becoming Financial <b>Risks</b>. Cybersecurity was only&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://the420.in/rbi-governor-cyberattack-next-financial-crisis-ai-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3dgkHYoG171Qk3t06c8wW2))
 
-**🟢 Natural gas and oil prices rise amid Middle East tensions and supply concerns. - Pluang**
-> *Meanwhile, oil prices, including WTI and Brent, are climbing due to <b>geopolitical risks</b> as Saudi Arabia considers military action against the Iran&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://pluang.com/en/news-feed/rebound-minyak-gas-alami-serangan-saudi-houthi&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0dWYFee1h-uGbnXAUC7qGG))
+**🟡 'Crazy' FlyDubai landing explained by Israeli pilot, who offers steps to prevent future crises**
+> *&quot;If you ask the airlines today what are the main risks that they are looking forward on, it is <b>geopolitical risk</b>,&quot; he said. &quot;... We are tracking&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/world/crazy-flydubai-landing-explained-israeli-pilot-offers-steps-prevent-future-crises.amp&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2JBhFSMTwAHkc1_WIPpeHU))
 
-**🔴 Sudan Warns Of 'Economic War' As Energy Facilities Attacked - MEES**
-> *Assess future risks and opportunities. I Accept Mees Terms of Use. Unlock Content. Countries: Sudan. Sections: <b>Geopolitical Risk</b> &middot; About Mees....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mees.com/2026/10/2/geopolitical-risk/sudan-warns-of-economic-war-as-energy-facilities-attacked/2acc10d0-be66-11f1-8daa-1f02ec93879a&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0hf8IiCK1FN_oqBDKVZxKR))
+**🟢 Global Macro Outlook: Fourth Quarter 2026 | Seeking Alpha**
+> *We think growth should remain positive through 2026, though elevated oil prices, market complacency and <b>geopolitical risks</b> warrant caution....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4951659-global-macro-outlook-fourth-quarter-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3L-f0s9nYubpaNEPde09g2))
 
-**🟢 Freedom: expensive energy could push the ECB to raise rates**
-> *... <b>geopolitical risks</b> outweighed signs of a recovery in oil exports from the Persian Gulf. In September, analysts also warned about the risk of a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://fbroker.kz/en/news/52334-freedom-expensive-energy-could-push-the-ecb-to-raise-rates-en-2&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0759BHmrY4LFjmBcDbnyaC))
+**🟢 Both the US Dollar and US Treasury Yields Soar, BofA Strategist Warns That Selling ... - NAI500**
+> *... risk assets are unlikely to fade in the short term. Energy inflation and <b>geopolitical risks</b> continue to support long-end yields, while the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://nai500.com/blog/2026/10/both-the-us-dollar-and-us-treasury-yields-soar-bofa-strategist-warns-that-selling-pressure-on-risk-assets-has-not-subsided/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2aOE8U9YpUOwse_uaUVXxQ))
 
-**🟢 The risks of the strategic petroleum reserve's four-decade low - Atlantic Council**
-> *... security, energy poverty, and international ... <b>global energy security</b>, drive economic opportunity, and foster a sustainable energy future....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-risks-of-the-strategic-petroleum-reserves-four-decade-low/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2XzTo1il8i157AeexG9OOD))
+**🔴 NZ fuel supplies <b>secure</b> but 'less room for error' - 1News**
+> *The country's biggest fuel supplier Z <b>Energy</b> warns that the risks for the <b>global</b> fuel system mean there is little margin for error....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.1news.co.nz/2026/10/04/nz-fuel-supplies-secure-but-less-room-for-error/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1aHbFj7Jtmk93hyMzWuK8R))
 
 
 ## 🏛 CYBER & TECH
-**🟢 What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com**
-> *... <b>geopolitical risk</b>. Bearish RSI divergence on the daily chart signals fading upside momentum in Treasury yields. A break back below a key threshold&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.forex.com/en-sg/news-and-analysis/what-stretched-10-year-yields-mean-for-major-currency-pairs-in-q4/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0YT_5JfdKzHNCRAvkFqwus))
+**🟢 Powerus: The Ambitious American Defence Contractor Fuelling South Asia's Drone Race**
+> *The Powerus deal has raised concerns that U.S. defence companies are also moving away from neutrality and careful <b>geopolitical risk</b> assessment in an&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indianarrative.com/opinion/powerus-the-ambitious-american-defence-contractor-fuelling-south-asias-drone-race/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw21By5LKEdmjvWCh9RwiWDW))
 
-**🟢 European gas pulls back on partial Middle East supply recovery - Yahoo Finance**
-> *The day's decline across European energy bourses arrived as market participants weighed ongoing <b>geopolitical risks</b> across the Persian Gulf against&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://au.finance.yahoo.com/news/european-gas-pulls-back-partial-090012246.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1JdIK4ZhFXJLH6ROVwDZJ_))
+**🟢 Lockheed Martin Keeps Raising Its Dividend as Pentagon Money Keeps Flowing**
+> *Chris Lange is a financial and geopolitical writer with more than a decade of experience covering a myriad of topics. ... <b>geopolitical risk</b> refuses to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://247wallst.com/investing/2026/10/03/lockheed-martin-keeps-raising-its-dividend-as-pentagon-money-keeps-flowing/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1wJgjQjApDu-zvkxpRwc6X))
 
-**🟢 Lam Research set for strong Q3 with rising growth and margins amid <b>geopolitical risks</b>.**
-> *The company's consistent history of outperforming revenue and earnings supports confidence in its growth and profitability. Profit gains are driven by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://pluang.com/en/news-feed/lam-research-ramalan-kuartal-september-meningkat&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw34otgMHoXzIj2nG-_lInnb))
+**🟢 TSMC Reportedly Evaluating Partnership with Elon Musk's Terafab; Texas Fab Plans Surface**
+> *Musk has publicly stated that building its own fab is a response to <b>geopolitical risks</b> in the Taiwanese supply chain. ... risk 2026-10 Reports&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/1b58b1cc-f99d-46c8-a1f2-3d5c870ca92f&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw05ZM2SqRK7iHUHfMCBhrEX))
 
-**🟡 The Market's Hidden Weakness Is Finally Too Big to Ignore - TheStreet Pro**
-> *The indexes are being held up by the AI trade while the rest of the market deals with rising rates and <b>geopolitical risk</b>. It is interesting that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://pro.thestreet.com/market-commentary/the-markets-hidden-weakness-is-finally-too-big-to-ignore&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ywO3PyV4AaPe2RR4HT79t))
+**🟡 Zelenskiy Pledges Ukraine Will Target Russian Oil Refineries In Response To Intensified Strikes**
+> *The ongoing drone campaign threatens global diesel and refined product supplies, adding to <b>geopolitical risk</b> premiums in energy markets. SAHI&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sahi.com/news/zelenskiy-pledges-ukraine-will-target-russian-oil-refineries-in-response-to-intensified-strikes&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0gVtOVesZQnyV21ppkJFtB))
 
-**🟡 UNGA 81: Can cooperation keep pace in a changing world?**
-> *... risk to humanity as a whole. ... The leaders discussed Taiwan and Iran, but the summit produced no new proposals for managing these <b>geopolitical risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.weforum.org/stories/global-cooperation/unga-81-explained-can-cooperation-keep-pace-with-the-changing-world/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0tT1j0Z2bXHE9H6DXkpzAd))
+**🟢 Houthis: The high-altitude insurgency that took the Middle East by storm | The Business Standard**
+> *... <b>global energy security</b> and regional geopolitics. To understand how a movement born in the rugged, impoverished mountains of northern Yemen became&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tbsnews.net/features/big-picture/houthis-high-altitude-insurgency-took-middle-east-storm-1560416&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Zh9Uqnw2ZhFmaN0xxjQuW))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Libya, Egypt Sign Energy Cooperation MoU - MEES**
-> *Assess future risks and opportunities. I Accept Mees Terms of Use. Unlock Content. Countries: Libya Egypt. Sections: <b>Geopolitical Risk</b> Power &amp; Water....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mees.com/2026/10/2/geopolitical-risk/libya-egypt-sign-energy-cooperation-mou/00d70240-be67-11f1-90b5-d37f58788eac&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ALyXpyLMLZUloCK7ShGsp))
+**🔴 FPI outflows hit ₹3.05 lakh cr in Jan-Sep 2026 | Market News &amp; Analysis**
+> *Users linked higher crude to inflation <b>risks</b> and a tougher backdrop for corporate margins. Ongoing <b>geopolitical</b> conflicts, including references to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.multibagg.ai/market-pulse/articles/fpi-outflows-jan-sep-2026-cmuslgo8q000a38p9q244u3xm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3DLCqIHbHcPXIbyJvHVyUz))
 
-**🔴 G7 Leaders' Online Meeting regarding the <b>global energy</b> situation (including responses to ...**
-> *During this meeting, the G7 leaders discussed measures to address the serious challenges to <b>energy security</b> caused by the conflict in the Middle East&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mofa.go.jp/press/release/pressite_000001_02702.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3AEI4OTVbSzZM7x9O_7k_s))
+**🟢 G7 agrees to coordinated 100 million barrel release to stabilise <b>energy</b> markets**
+> *Group of Seven leaders agreed to coordinate the release of 100 million barrels through the <b>International Energy</b> Agency over four months,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gulfbusiness.com/en/2026/energy/g7-agrees-coordinated-100-million-barrel-release-to-stabilise-energy-markets&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2pIg65hxZ5PK5Kfk2XhDCZ))
 
-**🟢 Why the new era of electricity will be defined by volatility - Enlit World**
-> *... the probabilities change. ABOUT THE AUTHOR: Andrea Stone is the chief executive officer of Zema <b>Global</b>. Related tags. <b>Energy Security</b>. Share:&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.enlit.world/library/why-the-new-era-of-electricity-will-be-defined-by-volatility&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1YxooJTjet2pciFHDBjNzn))
+**🔴 325 million oil barrels released to counter <b>global energy</b> crisis: IEA - Business Line**
+> *According to a statement issued by the IEA on Friday, Birol made the remarks during a G7 Leaders' video meeting on <b>energy security</b> and markets, where&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/markets/commodities/325-million-oil-barrels-released-to-counter-global-energy-crisis-iea/article71542902.ece&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1UuAbdg6vV8pLq76GOMX-a))
 
-**🟢 G7 Leaders' Statement on <b>global energy security</b> and market stability - Consilium.europa.eu**
-> *Following a G7 video conference meeting on 2 October 2026, leaders issued a statement on <b>global energy security</b> and market stability....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2mz3ZvJqzA2l0RzjpwA0iW))
+**🟡 James Van Straten: <b>Sovereign debt</b> levels leave little room for further escalation**
+> *James Van Straten notes that <b>debt</b> burdens have been shifted to the <b>sovereign</b>, or <b>government</b>, level, with no higher authority left to assume&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/market-voices/show/3642803-sovereign-debt-van-straten/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw27iQ3yFcRS76WlxE05qLnz))
 
-**🟢 Executive Director participates in G7 Leaders' meeting on <b>energy security</b> and markets - IEA**
-> *Executive Director participates in G7 Leaders' meeting on energy <b>security</b> and markets - News from the <b>International Energy</b> Agency....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iea.org/news/executive-director-participates-in-g7-leaders-meeting-on-energy-security-and-markets&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3_vU5V-GlMGt8vNHY2EQsk))
+**🟢 Greece Attracts Foreign Property Investors With 6.25% Yields - Greek City Times**
+> *... government bonds than many major European cities. According to an ... <b>sovereign debt crisis</b>. Further credit rating upgrades could strengthen&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://greekcitytimes.com/2026/10/04/greece-property-investment-foreign-investors-yields/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw125pJKh_aDmz8x9Qw71fmr))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Rachel Maddow in conversation: Surviving Putin's prison - YouTube**
-> *278K views &middot; 43:35 &middot; Go to channel Timothy Snyder. Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder. New. 340K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D1HYm07a4T5k&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0XHFLNhwYm1cGIVE-asGrI))
+**🟡 'There was worse to come' | Simon Marks' American Week - YouTube**
+> *400K views &middot; 43:35 &middot; Go to channel Timothy Snyder. Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder. New. 373K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DZvsd2YS_xZY&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw21Q9SMcqA-YDiQzcT9jrix))
 
-**🟡 Trump Has No Basis To Declare a State of Emergency Over Midterms Says Frost - YouTube**
-> *6.6K views &middot; 43:35. Go to channel Timothy Snyder &middot; Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder. New. 339K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DX9mU28jHZ1I&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2xxuCL1PrSJfiLklSTYzam))
+**🟢 How to reform the tax system | The Economist - YouTube**
+> *244K views &middot; 43:35 &middot; Go to channel Timothy Snyder &middot; Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder. New. 365K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3De9OAazrjenc&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3LPn81qdkleKiWLttI0LBY))
 
-**🟢 What do the Democratic Socialists of America believe in? | BBC Americast - YouTube**
-> *2.4K views &middot; 43:35 &middot; Go to channel Timothy Snyder. Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder. New. 337K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DUvHOa2ycUQE&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1ZhM6JMHzpJgvtl__BtQGN))
+**🟢 Brazil <b>Rare Earth</b> Refining Timeline and 2025 Election Impact**
+> *Meanwhile, near the Atlantic shore, Brazilian <b>Rare Earths</b> Limited plans Monte Alto mining and Carester-supported processing at Camaçari Petrochemical&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://rareearthexchanges.com/news/brazil-rare-earth-refining-election/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0ctrF4ii2DTDppS4Zx2NNQ))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Why Is US <b>Indo</b>-<b>Pacific</b> Commander Samuel Paparo Visiting India? - YouTube**
-> *U.S. <b>Indo</b>-<b>Pacific</b> Command chief Admiral Samuel J. Paparo is visiting ... <b>security</b> environment across the <b>Indo</b>-<b>Pacific</b> region. #samuelpaparo&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHPHW5K0wp5w&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0Y3Zvv4UiPGrZZWzc_IeY6))
+**🟡 RBI Governor flags emerging global financial <b>risks</b>, calls for stronger resilience**
+> *... <b>risk</b>-taking and leverage, stressing the need for continued vigilance as <b>geopolitical</b> fragmentation, technological disruption, climate change and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestatesman.com/business/rbi-governor-flags-emerging-global-financial-risks-calls-for-stronger-resilience-1503646469.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2_v5_9KG6pZCh8LweGAa4_))
 
-**🟢 Institutional Choice and the Limits of <b>Security</b> Governance: EU–India Maritime Cooperation ...**
-> *... <b>Security</b> Conclave, and the <b>Indo</b>-<b>Pacific</b> Oceans Initiative. The authors note that India has “(co-)initiated no fewer than seven IIGOs” and three&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indiasworld.in/institutional-choice-and-the-limits-of-security-governance-eu-india-maritime-cooperation-in-the-western-indian-ocean/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2iondgrU8lG7ll9pJMzKAQ))
+**🟢 Australia news live updates: Property auction clearance rates hit three-month low - AFR**
+> *Latest In Federal. Opinion; Foreign relations &middot; Global citizen Albo can't fly over the <b>economy</b> ... © Copyright 2026 The Australian <b>Financial</b> Review,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/politics/federal/australian-news-live-october-4-2026-20261004-p612mj&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2BER2suCWJuULiHzzyTxH0))
 
-**🟢 <b>Indo</b>-<b>Pacific</b> Outlook 2026 (Vol. 2) | APF Canada**
-> *... <b>Indo</b>-<b>Pacific</b> Strategy ... <b>security</b>, economics, and technology across the region. Part of the <b>Asia Pacific</b> Foundation of Canada's <b>Indo</b>-<b>Pacific</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiapacific.ca/publication/indo-pacific-outlook-2026-vol-2&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw34hXzbf6288GsuTQKnrZGL))
+**🟢 India deepens <b>Indo</b>-<b>Pacific</b> Maritime outreach as INS Sahyadri, Kulish conclude naval exercise**
+> *... <b>Indo</b>-<b>Pacific security</b> # India Indonesia defence cooperation. Support Our Journalism. We cannot do without you.. your contribution supports unbiased&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indiablooms.com/news/india-deepens-indo-pacific-maritime-outreach-as-ins-sahyadri-kulish-conclude-naval-exercise/details&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0mOAWYlWQRXh37JIH1LNeJ))
 
-**🟢 USS Shiloh decommissions after 34 years of dedicated service - Seapower Magazine**
-> *During her service, Shiloh supported combat operations, humanitarian assistance, and maritime <b>security</b> missions across the <b>Indo</b>-<b>Pacific</b> region and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seapowermagazine.org/uss-shiloh-decommissions-after-34-years-of-dedicated-service/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3OStg0s56TR1cJ6iKQg-ds))
+**🟢 Sukanya Samriddhi Account interest rate: Has <b>government changed</b> SSA rate from 8.2% for ...**
+> *However, a quarterly review does not necessarily mean that the interest rate will change every quarter. The last time the <b>government changed</b> the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/wealth/invest/sukanya-samriddhi-account-interest-rate-has-government-changed-ssa-rate-from-8-2-for-october-december-2026-quarter/articleshow/134652653.cms&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2Tc2SDiH7rcLX1q1IRQJ8y))
 
-**🟢 Uphold rule of law in <b>South China Sea</b>, Duterte tells regionals leaders - Politiko.com.ph**
-> *... China Sea (SCS) dispute to respect the rule of law to avoid escalating <b>tension</b> ... <b>South China Sea</b>,” according to him. Roque added that other&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://politiko.com.ph/uphold-rule-of-law-in-south-china-sea-duterte-tells-regionals-leaders/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2afAs8JCOJjQUhSqa7yzKD))
+**🟢 Tavleen Singh writes: <b>Political change</b> needed now | The Indian Express**
+> *I find the times we have been living through for the past few months interesting because they seem to herald <b>change</b> in a <b>political</b> landscape that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-political-change-needed-now-10905661/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3vXHT6HaJVFqANZDokPXTf))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
