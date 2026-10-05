@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 04 October 2026
+**Date:** 05 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** RBI Governor Warns Next Financial Crisis Could Begin With Cyberattack or Technology Failure
+**Source News:** Strategic Optionality for Indonesia's New Energy Era
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** RBI Governor Warns Next Financial Crisis Could Begin With Cyberattack or Technology Failure
+- **The News:** Strategic Optionality for Indonesia's New Energy Era
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Powerus: The Ambitious American Defence Contractor Fuelling South Asia's Drone Race
+**Source News:** Japanese Yen bulls hesitant as USD reverses post-NFP losses | FXStreet
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Powerus: The Ambitious American Defence Contractor Fuelling South Asia's Drone Race
+- **The News:** Japanese Yen bulls hesitant as USD reverses post-NFP losses | FXStreet
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** FPI outflows hit ₹3.05 lakh cr in Jan-Sep 2026 | Market News &amp; Analysis
+**Source News:** Gold falls 1 pc, silver trades higher amid <b>geopolitical risks</b> - Investment Guru India
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** FPI outflows hit ₹3.05 lakh cr in Jan-Sep 2026 | Market News &amp; Analysis
+- **The News:** Gold falls 1 pc, silver trades higher amid <b>geopolitical risks</b> - Investment Guru India
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** 'There was worse to come' | Simon Marks' American Week - YouTube
+**Source News:** FX Weekly: US Dollar Has the Wind, but Not Yet the Breakout | Investing.com India
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 'There was worse to come' | Simon Marks' American Week - YouTube
+- **The News:** FX Weekly: US Dollar Has the Wind, but Not Yet the Breakout | Investing.com India
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
