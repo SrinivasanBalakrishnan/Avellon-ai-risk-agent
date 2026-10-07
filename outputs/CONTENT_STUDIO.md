@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 06 October 2026
+**Date:** 07 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** What Nord Stream tells us about Europe's next energy relationships | Global Policy Journal
+**Source News:** Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery - CNBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** What Nord Stream tells us about Europe's next energy relationships | Global Policy Journal
+- **The News:** Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery - CNBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold falls 1%, silver rises on <b>geopolitical risk</b> - Nagaland Post
+**Source News:** Why $100 Oil Is Hard to Kill | OilPrice.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold falls 1%, silver rises on <b>geopolitical risk</b> - Nagaland Post
+- **The News:** Why $100 Oil Is Hard to Kill | OilPrice.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Crude Oil Falls As Rising Global Supply Signals Outweigh <b>Geopolitical Risk</b> Fears
+**Source News:** Not all <b>geopolitical</b> shocks are inflationary - CEPR
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Crude Oil Falls As Rising Global Supply Signals Outweigh <b>Geopolitical Risk</b> Fears
+- **The News:** Not all <b>geopolitical</b> shocks are inflationary - CEPR
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** PWH Faculty Director Michael C. Horowitz in Conversation with India Today Global
+**Source News:** TRUMP: Migration in France Is 'Out of Control,' Accusing Islam of 'Taking Over' The Country
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** PWH Faculty Director Michael C. Horowitz in Conversation with India Today Global
+- **The News:** TRUMP: Migration in France Is 'Out of Control,' Accusing Islam of 'Taking Over' The Country
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
