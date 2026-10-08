@@ -2,16 +2,12 @@
     "generated_at": "08 October 2026",
     "stats": {
         "GEOPOLITICS": 45,
-        "CYBER & TECH": 57,
-        "GLOBAL ECONOMY": 17,
-        "LEADERSHIP": 6,
+        "CYBER & TECH": 55,
+        "GLOBAL ECONOMY": 18,
+        "LEADERSHIP": 7,
         "GENERAL UPDATES": 20
     },
     "top_chokepoints": [
-        {
-            "name": "Taiwan Strait",
-            "score": 14.0
-        },
         {
             "name": "Strait of Hormuz",
             "score": 10.0
@@ -25,30 +21,34 @@
             "score": 4.5
         },
         {
-            "name": "Cape of Good Hope",
+            "name": "Taiwan Strait",
             "score": 3
+        },
+        {
+            "name": "Panama Canal",
+            "score": 0
         }
     ],
     "industry_risks": [
         {
             "name": "TECH",
-            "score": 163.0
+            "score": 166.5
         },
         {
             "name": "LOGISTICS",
-            "score": 111.5
+            "score": 123.5
         },
         {
             "name": "FINANCE",
-            "score": 105.0
+            "score": 92.0
         },
         {
             "name": "ENERGY",
-            "score": 61.5
+            "score": 67.0
         },
         {
             "name": "DEFENSE",
-            "score": 13.5
+            "score": 10.5
         }
     ],
     "items": {
@@ -225,6 +225,24 @@
                 "risk_color": "green"
             },
             {
+                "title": "Strikes threaten supplies <b>disruption</b> | News | Health Service Journal",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hsj.co.uk/finance-and-efficiency/strikes-threaten-supplies-disruption/8124506.article&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw0zekY3xPFIOcP9yKLWOOBx",
+                "summary": "Lorry drivers based at all seven NHS <b>Supply Chain</b> warehouses are to strike over pay from next week....",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-10-08T06:13:49Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "As Cross-Border Shipping Gets More Complex, Trade Fraud Is Becoming a <b>Supply Chain</b> Problem",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mhlnews.com/global-supply-chain/article/55408874/as-cross-border-shipping-gets-more-complex-trade-fraud-is-becoming-a-supply-chain-problem&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3wM_Ij1DT9hcngm3jECy_4",
+                "summary": "This is why trade fraud should increasingly be viewed as a <b>supply chain</b> intelligence problem rather than a collection of isolated compliance checks....",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-10-08T04:11:27Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
+            {
                 "title": "System Integration - Global Strategic Business Report: Capitalize on the $1.1 Trillion Shift by ...",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://supplychaindigital.com/globenewswire/3376894&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw13NeOsQ-e8BEp1S75guAib",
                 "summary": "<b>Supply Chain</b> Management &middot; Sustainable <b>Supply Chains</b> &middot; <b>Supply Chain</b> ... <b>Disruption</b>. GlobeNewswire Logo. Boost ROI through cloud integration, AI, IoT&nbsp;......",
@@ -261,6 +279,69 @@
                 "risk_color": "red"
             },
             {
+                "title": "EU\u2013US Tariff Agreement: The New Regulations And Their Safeguard Architecture - Mondaq",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mondaq.com/italy/export-controls-trade-investment-sanctions/1848092/euus-tariff-agreement-the-new-regulations-and-their-safeguard-architecture&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw08SSST6RbMv9TNFH5yU-ej",
+                "summary": "Export Controls &amp; <b>Trade</b> &amp; Investment <b>Sanctions</b> &middot; International <b>Trade</b> &amp; Investment &middot; Antitrust/Competition Law &middot; <b>Trade</b> Regulation &amp; Prac...",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T09:11:13Z",
+                "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "UK's Jerusalem consulate downgraded in status after Israel talks - China Daily HK",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinadailyhk.com/article/640757&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw1mVUykbd_qUmWmIuI34wCD",
+                "summary": "The UK's consulate in Jerusalem is being downgraded in status to a mission, following a dispute related to British <b>trade sanctions</b> against Jewish&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T09:00:01Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "What's happening with Britain's Jerusalem consulate? - Reuters",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/middle-east/whats-happening-with-britains-jerusalem-consulate-2026-10-08/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2CypcNuTpQaKUXYXDpH90Q",
+                "summary": "... sanctions on settlements ... <b>trade sanctions</b> imposed by British Prime Minister Andy Burnham on Israeli settlements......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T08:40:06Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "British consulate in East Jerusalem to stay open as UK mission despite Israeli order to close ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/news/world/middle-east/uk-consulate-east-jerusalem-closure-west-bank-sanctions-b3063220.html&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw1A4Fb5R3OY-crsojYF7JoM",
+                "summary": "... <b>trade sanctions</b> imposed by British Prime Minister Andy Burnham on Israeli settlements in the occupied West Bank, in East Jerusalem, October 8, 2026....",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T08:02:16Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "EU agrees to <b>sanction</b> over 1,600 people and entities linked to Russia's war | Euronews",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.euronews.com/2026/10/07/eu-agrees-to-sanction-over-1600-people-and-entities-linked-to-russias-war&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2lJO2caZ97F8CYmZUVgtgJ",
+                "summary": "... <b>sanctions</b>. The decision comes amid an unsettling rise in hybrid attacks ... Rubio urges Europe to wake up as EU <b>trade</b> chief begins key China trip....",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T07:31:55Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Key senators push White House for immediate Russian <b>sanctions</b> to aid Ukraine: Report",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.in/world/story/key-senators-push-white-house-for-immediate-russian-sanctions-to-aid-ukraine-report-560349-2026-10-08&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3sDxqbA5-86o82nRaVm8-L",
+                "summary": "... <b>sanctions</b> package against Moscow, even as crucial <b>trade</b> negotiations between Washington and New Delhi grind to a standstill. Nearly a month after&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T06:55:38Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Britain says consulate in Jerusalem to remain open as a UK mission - Reuters",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/uk/britain-says-consulate-jerusalem-remain-open-uk-mission-2026-10-08/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3OWs5nANQAeE5HGiZSBj_X",
+                "summary": "... <b>trade sanctions</b>... Purchase Licensing Rights , opens new tab Read more. LONDON, Oct 8 (Reuters) - British foreign minister Ed Miliband said on&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T06:48:19Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
                 "title": "Israel must follow through on British consulate closure after Miliband <b>sanctions</b> - editorial",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/opinion/article-910970&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw0NTrf8I9sgaKaq4WbJDP0b",
                 "summary": "On September 8, just hours after British Foreign Secretary Ed Miliband announced sweeping <b>sanctions</b> against <b>trade</b> with Jewish communities beyond&nbsp;......",
@@ -268,69 +349,6 @@
                 "published": "2026-10-08T06:00:11Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
-            },
-            {
-                "title": "Britain removes east Jerusalem consulate signage as Israeli shutdown deadline expires",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jpost.com/israel-news/article-910988&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw0cWdF5dmgJ245k0Ek5dYis",
-                "summary": "... <b>sanctions</b> targeting Israeli settlements in the West Bank, including a <b>trade</b> ban on goods made there. Israel has been adamant that the consulate&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-10-08T05:57:37Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Britain removes East Jerusalem consulate signage as Israeli shutdown deadline expires",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/middle-east/britain-removes-east-jerusalem-consulate-signage-israeli-shutdown-order-expires-2026-10-08/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2y3gXrr7l2Jqnew83vVNuV",
-                "summary": "... <b>trade sanctions</b> imposed... Purchase Licensing Rights , opens new tab Read more. JERUSALEM, Oct 8 (Reuters) - Workers removed signs and plaques at&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-10-08T05:47:34Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Exclusive | German President Steinmeier targets China trip as Berlin sharpens <b>trade</b> stance",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://amp.scmp.com/news/china/diplomacy/article/3370140/german-president-steinmeier-targets-china-trip-berlin-sharpens-trade-stance&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw1Q8TNF59YdU5SrRJuFoC_Y",
-                "summary": "France, Germany seek new EU weapon to instantly cut off market access for China China seeks German help to stave off EU <b>trade sanctions</b> before Xi&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-10-08T05:15:46Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Iran looks for escape routes as US <b>sanctions</b> close in",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.iranintl.com/en/202610072163&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw0XZUZWEdc_e6abexySWF1H",
-                "summary": "Instead, pressure can be applied simultaneously through financial <b>sanctions</b>, transport <b>restrictions</b> ... <b>restrictions</b> on maritime <b>trade</b> and rising&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-10-08T04:35:12Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "The geopolitical age of human rights: <b>trade</b> wars, supply chains and corporate responsibility",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.controlrisks.com/our-thinking/insights/the-geopolitical-age-of-human-rights-trade-wars-supply-chains-and-corporate-responsibility&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3nCZeS4m6tlQUrmioC2yo1",
-                "summary": "<b>Trade bans</b>, like the UFLPA and EU Forced Labour Regulations, have ... The supply chain mapping that identifies labour rights risks can reveal sanctions&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-10-08T01:52:29Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Japan <b>sanctions</b> 35 Russia-linked vessels in new crackdown on Moscow | Maritime Insurance news",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://shippingtelegraph.com/maritime-insurance-news/japan-sanctions-35-russia-linked-vessels-in-new-crackdown-on-moscow/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw3rRjZlWj0O0-80rU2SrN-A",
-                "summary": "The <b>sanctions</b> package, which targets 35 vessels, took effect on October 2 under the Foreign Exchange and Foreign <b>Trade</b> Act. The ships, described&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-10-08T01:03:28Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Joint ministerial statement on addressing structural excess capacity and production",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dfat.gov.au/news/media-release/joint-ministerial-statement-addressing-structural-excess-capacity-and-production&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw0YKPWN6tkLVEsQENGa4ZDH",
-                "summary": "... <b>trade</b> agreements, aid programs, information on <b>sanctions</b> and more. ... <b>restrictions</b>. We are united in our concern with these distortions and&nbsp;......",
-                "source": "Google Alert - Trade Sanctions",
-                "published": "2026-10-07T23:48:16Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
             },
             {
                 "title": "AI's Next Infrastructure Challenge Is Power: DIGITIMES Examines the Shift Toward 800VDC ...",
@@ -342,38 +360,20 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "Can America's Industrial Base Handle a Two-Front War? - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DS9UoZ8XW0YQ&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0yXarroObSVw0m3DXwLEvt",
-                "summary": "Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder\u2022469K views &middot; 37:42 &middot; Go to channel World Knowledge Forum &middot; [WKF2024]&nbsp;......",
+                "title": "BJP's Gaurav Bhatia Attacks AAP After SC Orders Fresh Polls In 50 Punjab Wards - YouTube",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Deg2igFGbRCA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3WVAkmrlqWDgLnOc35od55",
+                "summary": "\u091c\u093f\u0938 Officer \u0938\u0947 \u091a\u093f\u0922\u093c\u0924\u0947 \u0939\u0948 \u0930\u093e\u0939\u0941\u0932-CJP,\u0936\u093e\u0939 \u0928\u0947 \u0909\u0938\u0947 \u092c\u0921\u093c\u093e \u092a\u0926 \u0926\u0947 \u0926\u093f\u092f\u093e!Deepstate \u0915\u093e <b>Regime Change</b> OP FAILl. The&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-10-08T04:31:17Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "The US Is MORE POWERFUL in the Middle East Than EVER BEFORE - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBm9IlAtDg54&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3OIVVhgiwUeRjALm5ZSnCY",
-                "summary": "Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder\u2022469K views &middot; 1:28:37 &middot; Go to channel The Weekly Show with Jon Stewart&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-10-08T04:24:50Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "'You can't just say end the war': Fmr. Biden aide reflects on Oct. 7 attack and its aftermath",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBbsR-XtUlfo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0RABtHVNhx1nbMKlNPYRoT",
-                "summary": "... to channel Zeteo &middot; Four-Star General ADMITS He Was Paid by Iranian <b>Regime</b>-<b>Change</b> Group. Zeteo\u2022861K views &middot; 1:23:18 &middot; Go to channel FRONTLINE PBS |&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-10-08T03:45:04Z",
+                "published": "2026-10-08T09:28:37Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
             },
             {
-                "title": "Sen. Rick Scott urges bombing Iran and <b>regime change</b> as war hits day 221 in exclusive interview",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3De11ScYl8sv4&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2CI28wD4fXUEgEFDCBjryy",
-                "summary": "Republican U.S. Sen. Rick Scott called for bombing Iran and <b>regime change</b> while discussing inflation, the Iran war, and upcoming elections in an&nbsp;......",
+                "title": "Meaning Doesn't Come From the <b>Government</b> - The Dispatch",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://thedispatch.com/newsletter/gfile/israel-meaning-country-government/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1wFZzEMV8uBXtp-R42Pz2h",
+                "summary": "Trusting Donald Trump to carry out a <b>regime</b>-<b>change</b> war in Iran: As it turns out, the Feb. 28 <b>regime</b>-<b>change</b> strike has become a colossal and&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-10-07T22:53:00Z",
+                "published": "2026-10-08T08:20:10Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
@@ -542,31 +542,40 @@
                 "risk_color": "green"
             },
             {
-                "title": "Maintaining stability in the <b>South China Sea</b> amidst a volatile maritime order. - Vietnam.vn",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vietnam.vn/en/giu-on-dinh-bien-dong-trong-boi-canh-trat-tu-hang-hai-bien-dong&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw23Sg-dPJBNhz9bOS8KJPSD",
-                "summary": "Australian Deputy Minister for Foreign Affairs and Trade Michelle Chan called on all parties to exercise restraint, avoid escalating <b>tensions</b>, and&nbsp;......",
-                "source": "Google Alert - South China Sea Tension",
-                "published": "2026-10-07T10:15:34Z",
-                "risk_score": 2,
-                "risk_color": "green"
+                "title": "Survey: 40 per cent of firms hit by climate <b>disruptions</b> to their business - BusinessGreen",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessgreen.com/news/4536973/survey-cent-firms-hit-climate-disruptions-business&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3j-Wv7OCfevvdWjzi9FeHv",
+                "summary": "... <b>disruptions</b> over the next 12 months. But 54 per cent said their approach to <b>supply chain</b> risk management remains largely reactive rather than&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-10-08T08:32:51Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
             },
             {
-                "title": "International Scientific Conference on the <b>South China Sea</b>: Strengthening Cooperation ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vietnam.vn/en/hoi-thao-khoa-hoc-quoc-te-ve-bien-dong-tang-cuong-hop-tac-cung-co-hoa-binh&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2kpdLSAFZ6cl1QDGitp8_7",
-                "summary": "Australian Deputy Minister for Foreign Affairs and Trade Michelle Chan called for restraint from all parties, urging them to avoid escalating <b>tensions</b>&nbsp;......",
-                "source": "Google Alert - South China Sea Tension",
-                "published": "2026-10-07T10:01:28Z",
+                "title": "Business <b>interruption</b> claims outpace property damage by 70%",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.insurancebusinessonline.com.au/au/news/breaking-news/business-interruption-claims-outpace-property-damage-by-70-592801.aspx&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw0PT4Z9anKSY5L3rkNJ-805",
+                "summary": "Allianz Commercial data shows BI claim severity rising more than 30% annually, with fire and <b>supply chains</b> driving losses....",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-10-08T08:18:28Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Why more than three-quarters of firms have taken a revenue hit from climate change this year",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://diginomica.com/why-more-three-quarters-firms-have-taken-revenue-hit-climate-change-year&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3sZmw8wX7PzjIf6G2B9Of9",
+                "summary": "Supply chains and IT systems suffer disruption as world ... The biggest consequence of the climate crisis is currently <b>supply chain disruptions</b>&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-10-08T08:09:33Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "How AI and Advanced Analytics are Reshaping <b>Supply Chain</b> Planning | SupplyChainBrain",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.supplychainbrain.com/articles/44975-how-ai-and-advanced-analytics-are-reshaping-supply-chain-planning&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw2lNnLDaqCK84o-Un91eGfY",
+                "summary": "<b>Supply chains</b> have never operated in a forgiving environment, but pandemic-era <b>disruptions</b>, geopolitical instability and rapidly shifting consumer&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-10-08T05:03:42Z",
                 "risk_score": 1,
                 "risk_color": "green"
-            },
-            {
-                "title": "<b>China</b> Philippines <b>Tensions</b> Rise As Beijing Orders Philippine Aircraft To Leave Scarborough Shoal",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://wakeup.sg/china-philippines-scarborough/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3X5DTXwl_plv4wIXjg0siH",
-                "summary": "China and the Philippines trade accusations after a C-208 and Chinese J-16 encounter near disputed Scarborough Shoal in the <b>South China Sea</b>....",
-                "source": "Google Alert - South China Sea Tension",
-                "published": "2026-10-07T06:16:57Z",
-                "risk_score": 3.5,
-                "risk_color": "red"
             },
             {
                 "title": "Allianz: Companies Experience Sharp Increase in Business <b>Interruption</b> Losses",
@@ -576,60 +585,6 @@
                 "published": "2026-10-08T02:09:52Z",
                 "risk_score": 3.5,
                 "risk_color": "red"
-            },
-            {
-                "title": "SAP Connect 2026: How New Agents Will Detect and Respond to <b>Supply Disruptions</b>",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://erp.today/sap-connect-2026-how-new-agents-will-detect-and-respond-to-supply-disruptions/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw24Z-X4Ndd8KxEoAcZgzBd3",
-                "summary": "Two announcements at SAP Connect on October 6 give SAP's Joule Agents a role in handling supplier risk and <b>supply chain disruptions</b>....",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-10-08T00:18:08Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Global <b>disruption</b> reshapes wheat prices and costs for Australian growers \u2013 Rabobank",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://newshub.medianet.com.au/2026/10/global-disruption-reshapes-wheat-prices-and-costs-for-australian-growers-rabobank/175502/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw2wP1fXLq9l8DhoECjcqmMb",
-                "summary": "\u201cCurrent wheat prices reflect geopolitical risk and <b>supply</b>-<b>chain disruption</b> more than supply scarcity.\u201d And while global conflict is reshaping&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-10-07T22:40:26Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Business <b>interruption</b> claims | Allianz Commercial",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://commercial.allianz.com/news-and-insights/commercial-insights/business-interruption-claims.html&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw0110cAbbom1dqvH3WQgYON",
-                "summary": "Business interruption and <b>supply chain disruption</b> ranks as the third most concerning risk in the Allianz Risk Barometer 2026, having featured in&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-10-07T22:15:36Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "From visibility to autonomy: The next evolution of <b>supply chains</b> | SupplyChainBrain",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.supplychainbrain.com/articles/44982-from-visibility-to-autonomy-the-next-evolution-of-supply-chains&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3SWUhqid4xDBjdohUf7tLb",
-                "summary": "Webinar Description. Billions have been invested in <b>supply chain</b> visibility, yet <b>disruptions</b>, delays and manual intervention remain a daily reality....",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-10-07T19:54:19Z",
-                "risk_score": 2,
-                "risk_color": "green"
-            },
-            {
-                "title": "transportation keynote speaker and futurist: book &amp; hire top expert for corporate meeting events",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.futuristsspeakers.com/transportation-keynote-speaker-futurist-3/&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw39MCHd9xcM4N-IJmSjMWg1",
-                "summary": "<b>Supply chains</b> face <b>disruption</b>. Fuel and energy costs can fluctuate ... <b>Supply chain</b> management. The transportation industry is particularly&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-10-07T19:39:32Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "New ProcureAbility Study Reveals Procurement Readiness Gap: Defined AI Roadmaps and ...",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/new-procureability-study-reveals-procurement-readiness-gap-defined-ai-roadmaps-and-proactive-resilience-strategies-each-reported-by-just-8-of-respondents-302900570.html&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw1lKP-fPNNCCW1I7fN_j7W9",
-                "summary": "<b>Supply chain</b> resilience remains a central priority as organizations navigate geopolitical instability, shifting tariffs, and ongoing market <b>disruption</b>&nbsp;......",
-                "source": "Google Alert - Supply Chain Disruption",
-                "published": "2026-10-07T18:03:16Z",
-                "risk_score": 2,
-                "risk_color": "green"
             },
             {
                 "title": "Polity.org.za African Union to launch continent's first credit rating agency",
@@ -665,6 +620,15 @@
                 "source": "Google Alert - Sovereign Debt Crisis",
                 "published": "2026-10-07T16:07:44Z",
                 "risk_score": 1.5,
+                "risk_color": "green"
+            },
+            {
+                "title": "EU working with Britain to avoid 10% electric vehicle tariffs - POLITICO",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.politico.eu/article/eu-uk-avoid-electric-vehicle-tariff/&ct=ga&cd=CAIyGmIzOWJmNTk5OTE4OTRiZDU6Y29tOmVuOklO&usg=AOvVaw2ZWwdcOKmZkPRHAnqkhvnK",
+                "summary": "EU Trade Commissioner Maro\u0161 \u0160ef\u010dovi\u010d and U.K. Trade Secretary Jonathan ... US&nbsp;......",
+                "source": "Google Alert - Trade Sanctions",
+                "published": "2026-10-08T08:12:57Z",
+                "risk_score": 2,
                 "risk_color": "green"
             },
             {
@@ -749,12 +713,12 @@
                 "risk_color": "green"
             },
             {
-                "title": "12-Hour Shutdown Called By Congress | 8 Parties To Join Protest |Odisha News - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DlwkVYS5V6Mw&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2UyTRLisYj7opqBKUpkGhF",
-                "summary": "12-hour Odisha bandh tomorrow, with eight political ... October Political Storm? 8-Front '<b>Regime Change</b>' Claim Explained| Protest, SIR &amp; Election&nbsp;......",
+                "title": "Dhruv Rathee's first remarks at CJP-led Bengaluru protest: 'Not here for <b>regime change</b>'",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hindustantimes.com/india-news/dhruv-rathee-cjp-protest-says-not-here-for-regime-change-raises-vote-chor-slogan-abhijeet-dipke-prakash-raj-bengaluru-freedom-park-101791450444233.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3gdi7wiydATmt1GOzG5k09",
+                "summary": "\u201cI have not come here for <b>regime change</b>,\u201d Rathee said during the Cockcroach Janta Party (CJP)'s SIR protest at Bengaluru's Freedom Park. Actor Prakash&nbsp;......",
                 "source": "Google Alert - Regime Change",
-                "published": "2026-10-07T22:44:57Z",
-                "risk_score": 2,
+                "published": "2026-10-08T09:31:26Z",
+                "risk_score": 1,
                 "risk_color": "green"
             },
             {
@@ -866,6 +830,42 @@
                 "risk_color": "red"
             },
             {
+                "title": "ZAWYA: Oman, GCC push for joint digital <b>logistics</b> market - TradingView",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-10-08:newsml_Zaw5TX6DK:0-zawya-oman-gcc-push-for-joint-digital-logistics-market/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0SffePaMhlm3_FR4-4wIRM",
+                "summary": "... <b>logistics</b> system capable of responding to regional and international changes and disruptions. He said a <b>resilient logistics</b> system was essential&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-10-08T09:24:36Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "DHL Group plans more than EUR 400 million investment to support growth and supply chain ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-plans-more-than-eur-400-million-investment.html&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw3hPrX3-XYg2q2NngElOPzb",
+                "summary": "... <b>resilience</b> in Central and Eastern Europe ... Multi-year investment program through 2030 will expand <b>logistics</b> infrastructure, <b>transport</b> networks and&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-10-08T08:06:49Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Procurement leaders put supply chain <b>resilience</b> at the heart of Middle East growth ambitions - Zawya",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/press-release/research-studies/procurement-leaders-put-supply-chain-resilience-at-the-heart-of-middle-east-growth-ambitions-1557628&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw1mx88f-k0Bba5H0OHjp9J3",
+                "summary": "<b>Transport</b> and <b>Logistics</b> &middot; ECONOMY &middot; Global &middot; Africa &middot; North Africa &middot; GCC &middot; Levant ... <b>resilience</b>, develop local supplier capability and u...",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-10-08T07:12:49Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "AI Boom Creates Surge in Semiconductor and Digital Infrastructure Supply Chains Across ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://newsroom.fedex.com/newsroom/asia-english/ai-boom-creates-surge-in-semiconductor-and-digital-infrastructure-supply-chains-across-asia-pacific-new-fedex-report-reveals&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw3cJwG-fvs6VJujd367N7wa",
+                "summary": "Industry survey findings show 35% of semiconductor companies are planning expansion across APAC while prioritizing supply chain <b>resilience</b>,&nbsp;......",
+                "source": "Google Alert - Logistics Resilience",
+                "published": "2026-10-08T03:38:16Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Oman, GCC push for joint digital <b>logistics</b> market - Muscat Daily",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.muscatdaily.com/2026/10/07/oman-gcc-push-for-joint-digital-logistics-market/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw2-MW97wjINFXb0alFtKBdB",
                 "summary": "He said a <b>resilient logistics</b> system was essential to maintaining the flow of goods, safeguarding market security and improving the competitiveness of&nbsp;......",
@@ -902,31 +902,13 @@
                 "risk_color": "green"
             },
             {
-                "title": "New forum to drive sector growth | The Press",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thepress.co.nz/rural/361082072/new-forum-drive-sector-growth&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw3O8DSsp7ntsMstp-Hy7c5P",
-                "summary": "... <b>resilience</b> of New Zealand's arable sector. Seed &amp; Grain New ... Identifying opportunities to improve <b>transport</b> and <b>logistics</b>; Developing&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-10-07T20:09:11Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Peel Ports investment to open up one million ft\u00b2 of network space - Logistics Manager",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.logisticsmanager.com/peel-ports-investment-to-open-up-one-million-ft%25C2%25B2-of-network-space/&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0zvJKwLt80yIYFuB7KpsfP",
-                "summary": "... <b>transport</b> movements, improve speed to market and enhance supply chain <b>resilience</b>. \u201cIn a world where every pound, every day and every decision&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-10-07T19:11:02Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "German Government Blocks Cosco's Takeover of Hamburg <b>Logistics</b> Firm Zippel",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/a582fd69-222e-4896-9953-5d3372ae6149&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw0sinqbXXDK8HE20cZB64s7",
-                "summary": "... <b>resilience</b> of supply chains in Germany and the EU. The Federal Cartel Office had cleared the takeover from a competition standpoint in February&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-10-07T18:13:02Z",
-                "risk_score": 1,
-                "risk_color": "green"
+                "title": "RBI may hike <b>rates</b> further as commodity inflation, global <b>volatility</b> remain concerns: Kotak Securities",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/business/rbi-may-hike-rates-further-as-commodity-inflation-global-volatility-remain-concerns-kotak-securities20261008132434/&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw2dC0ct5xydxDQ82yfAk490",
+                "summary": "On crude oil, Banerjee said disruptions in global supply chains, higher <b>freight costs</b> and insurance premiums have pushed the actual landed cost of&nbsp;......",
+                "source": "Google Alert - Freight Rate Volatility",
+                "published": "2026-10-08T07:57:46Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
             },
             {
                 "title": "Europe's LNG Demand, Growing Fleet Size to Pressure <b>Shipping Rates</b> in Winter",
@@ -956,20 +938,20 @@
                 "risk_color": "green"
             },
             {
+                "title": "Kremlin aide visits China amid speculation about potential Xi-Putin-Trump meeting",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/news/china/diplomacy/article/3370170/kremlin-aide-visits-china-amid-speculation-about-potential-xi-putin-trump-meeting&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw31Qg7t5CHFRz6ubBW9grsV",
+                "summary": "While Beijing and Moscow have steadily expanded their maritime ties in recent years \u2013 including the development of <b>Arctic shipping routes</b>, joint&nbsp;......",
+                "source": "Google Alert - Arctic Trade Routes",
+                "published": "2026-10-08T10:03:32Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "The Arab-Balkans Corridor turns Greece into Egypt's gateway to Eastern Europe - Logistics",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://enterpriseam.com/logistics/issues/the-arab-balkans-corridor-turns-greece-into-egypts-gateway-to-eastern-europe/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw0-6oJpCJOvLSznhb8CpgsQ",
                 "summary": "Why it matters: DP World is already on the <b>route</b>. It has worked with Russia's Rosatom on <b>Arctic</b> container <b>shipping</b> since 2021. The pair set up the&nbsp;......",
                 "source": "Google Alert - Arctic Trade Routes",
                 "published": "2026-10-08T05:24:43Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Maine's leadership summit shows state's ambition in the <b>Arctic</b> - <b>ArcticToday</b>",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arctictoday.com/maines-leadership-summit-shows-states-ambition-in-the-arctic/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw18OtSxN2oLRJVe1DHiZ4uU",
-                "summary": "<b>Shipping routes</b> are shifting. Fisheries are migrating. Security dynamics are evolving. These changes will shape the next century of global affairs,&nbsp;......",
-                "source": "Google Alert - Arctic Trade Routes",
-                "published": "2026-10-07T08:02:58Z",
                 "risk_score": 1,
                 "risk_color": "green"
             }
@@ -1120,6 +1102,15 @@
                 "risk_color": "green"
             },
             {
+                "title": "As oil prices swing, bunker <b>costs</b> take control of <b>shipping</b> economics - Moneycontrol.com",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/opinion/as-oil-prices-swing-bunker-costs-take-control-of-shipping-economics-14047546.html&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw34_-HA9zwFHnQLyKwOTGdb",
+                "summary": "The oil markets have moved through repeated cycles of <b>volatility</b> over the past decade. Geopolitical tensions, supply cuts, pandemic disruptions and&nbsp;......",
+                "source": "Google Alert - Freight Rate Volatility",
+                "published": "2026-10-08T07:59:12Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
+            },
+            {
                 "title": "China-Russia Cooperation in the <b>Arctic</b>: The Northern Sea <b>Route</b> - Geopolitical Monitor",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geopoliticalmonitor.com/china-russia-arctic-cooperation-nsr/&ct=ga&cd=CAIyGmY2ZjM2ZDQ0ZDliYWRmYWE6Y29tOmVuOklO&usg=AOvVaw1rQBj0kONYziiaOI7M2ZE7",
                 "summary": "The recent rise of the NSR as an international corridor follows the disruptions to <b>trade routes</b> and chokepoints, including the Red Sea crisis. For&nbsp;......",
@@ -1140,47 +1131,56 @@
                 "risk_color": "green"
             },
             {
+                "title": "'I have not come here for <b>regime change</b>,' says Dhruv Rathee during SIR protest in Bengaluru",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/city/bengaluru/cjp-chappal-protest-live-updates-bengaluru-abhijeet-dipke-ashutosh-ranka-prakash-raj-gyanesh-kumar-sir-freedom-park/liveblog/134777590.cms&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1NgXrN0TyGFgR-OiB5CbwH",
+                "summary": "CJP 'Chappal Protest' Live Updates: The Cockroach Janta Party (CJP) on Thursday held a protest at Freedom Park in Bengaluru under the banner of&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-10-08T09:33:25Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "CEC row LIVE | Not here for <b>regime change</b>: Dhruv Rathee at CJP Bengaluru protest",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://thefederal.com/category/news/india-bloc-mps-protest-against-cec-gyanesh-kumar-258891&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1ZfnrjJaLhU9-JM6RO5rbf",
+                "summary": "Student leaders join Dipke-led CJP protest in Bengaluru while Opposition parties step up agitation after MPs were stopped from reaching Jantar&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-10-08T09:32:57Z",
+                "risk_score": 2,
+                "risk_color": "green"
+            },
+            {
+                "title": "CJP Bengaluru protest LIVE updates: 'Not here for <b>regime change</b>', says Dhruv Rathee ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hindustantimes.com/india-news/cjp-bengaluru-protest-live-updates-abhijeet-dipke-dhruv-pathee-freedom-park-cec-gyanesh-kumar-row-101791432258607.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3MTfx1SiGYVyRqhUyS-ojc",
+                "summary": "Bengaluru CJP protest LIVE updates: The Freedom Park protest, announced by the Cockroach Janta Party (CJP) over the Special Intensive Revision&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-10-08T09:31:15Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "'US and Greek interests overlap' | eKathimerini.com",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ekathimerini.com/politics/foreign-policy/1317517/us-and-greek-interests-overlap/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0SXSuCZ97czte158_uqELd",
+                "summary": "... <b>regime change</b>. We definitely wanted to see the <b>regime change</b> its behavior \u2013 in essence, its sponsorship of terrorism. When the MOU happened and&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-10-08T08:44:30Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Why This Deep Red State Is a Battleground for the GOP's Future | WSJ - YouTube",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOu-YSLb56zo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2KB2UXab_ObyZbrfqrE5q4",
+                "summary": "... political right could mean for the Republican party's national ... Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-10-08T08:41:47Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
+            {
                 "title": "Senator Coons Says US Should Reexamine Ties With Israel - YouTube",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DiahpkdAPGiM&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0aKdwYR02mLkY_VwWi1cM6",
                 "summary": "... channel Timothy Snyder. Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder\u2022469K views &middot; 1:06:13 &middot; Go to channel Drop Site&nbsp;......",
                 "source": "Google Alert - Regime Change",
                 "published": "2026-10-08T05:38:29Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Israel Ambassador to UN Danny Danon Talks October 7th Anniversary - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Do_ckHxg7sHg&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1Zx1Sq8RnPq5_U9XZ__er2",
-                "summary": "... government officials, well-known investors and business leaders ... Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-10-08T04:51:44Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "After October 7: new faces, <b>changing</b> maps | Al Majalla",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://en.majalla.com/node/333455/politics/after-october-7-new-faces-changing-maps&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3ch_VRvI-RYGli8aEKadku",
-                "summary": "Syrian President Bashar al-Assad's <b>regime</b> has also fallen. Al Majalla examines this <b>changed</b> landscape\u2014from Israel's domestic <b>political</b> scene to&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-10-08T04:22:44Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Income Tax Act, 2025: 10 Common Mistakes Practitioners Are Still Making - CAclubindia",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.caclubindia.com/articles/income-tax-act-2025-10-common-mistakes-practitioners-are-still-making-56358.asp&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3Mh4MmQOdC89cn5G6F7Fgj",
-                "summary": "2. It's a new tax <b>regime</b>. It's a restructuring, not a rate <b>change</b>. Rates, slabs and <b>regimes</b> didn't <b>change</b> because of the Act itself&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-10-08T03:23:08Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "How Romney and Kennedy teamed up to reform healthcare | The Big Dig Season 4 | Mitt &amp; Ted",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Do7UGb1Io-TE&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw149y2a3kgHb4qPE56pHEcj",
-                "summary": "... government shutdown in U.S. history, the justification for political ... Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy&nbsp;......",
-                "source": "Google Alert - Regime Change",
-                "published": "2026-10-07T23:05:09Z",
                 "risk_score": 1,
                 "risk_color": "green"
             }
@@ -1241,13 +1241,22 @@
                 "risk_color": "green"
             },
             {
-                "title": "The 18th International Scientific Conference on the <b>South China Sea</b> opens in Hanoi.",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vietnam.vn/en/hoi-thao-khoa-hoc-quoc-te-ve-bien-dong-lan-thu-18-khai-mac-tai-ha-noi&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw34E1-y8cfn_68uQDfF1wQV",
-                "summary": "... <b>South China Sea</b> and Regional Maritime Order,\u201d opened in Hanoi. The ... <b>tension</b>, conflict, and miscalculation. Speakers emphasized dialogue&nbsp;......",
-                "source": "Google Alert - South China Sea Tension",
-                "published": "2026-10-07T10:13:40Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
+                "title": "<b>Value</b> Group Brings Its Integrated Global IROPS <b>Management</b> Model to the World Aviation Festival",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20261007885823/en/Value-Group-Brings-Its-Integrated-Global-IROPS-Management-Model-to-the-World-Aviation-Festival&ct=ga&cd=CAIyGmJjZDE0NTUyMDYyMmYyODk6Y29tOmVuOklO&usg=AOvVaw3mda1EUwo0w2K276lxwYnT",
+                "summary": "<b>Value</b> Group, a leading provider of integrated aviation <b>disruption management</b> solutions, returns to the World Aviation Festival as a Gold Sponsor,&nbsp;......",
+                "source": "Google Alert - Supply Chain Disruption",
+                "published": "2026-10-08T06:35:18Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "The constitutional amendment has eliminated any legal possibility of a <b>change</b> in <b>government</b>",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://lens.civicus.org/interview/nicaragua-the-constitutional-amendment-has-eliminated-any-legal-possibility-of-a-change-in-government/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3UHRjkwn5wUUqubDi2ukG3",
+                "summary": "CIVICUS discusses the elimination of electoral competition and closure of civic space in Nicaragua with Claudia Pineda, director of Asociaci\u00f3n&nbsp;......",
+                "source": "Google Alert - Regime Change",
+                "published": "2026-10-08T08:10:05Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "Heavy <b>Rare Earths</b> Seeks ASX Quotation for New Shares and Options - TipRanks.com",
@@ -1329,15 +1338,6 @@
                 "published": "2026-10-08T05:46:11Z",
                 "risk_score": 1,
                 "risk_color": "green"
-            },
-            {
-                "title": "About 28% of companies plan to relocate if winter is severe, 60% seek alternative <b>logistics</b> routes",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://en.interfax.com.ua/news/general/1216106.html&ct=ga&cd=CAIyGjAyZjI0OTk1NWU4Y2E3M2E6Y29tOmVuOklO&usg=AOvVaw3_LCBk-9xpT9mfnQ-MFFrz",
-                "summary": "According to the survey, the overall level of business <b>resilience</b> stands at 58%, which is in line with the average. The highest scores were recorded&nbsp;......",
-                "source": "Google Alert - Logistics Resilience",
-                "published": "2026-10-07T18:53:41Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
             },
             {
                 "title": "[SMM Iron Ore] <b>Freight</b> Up 50%, Mills Won't Pay: Brazil's Small Miners Squeezed From Both ...",
