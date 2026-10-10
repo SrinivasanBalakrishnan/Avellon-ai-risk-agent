@@ -1,9 +1,9 @@
 {
     "generated_at": "10 October 2026",
     "stats": {
-        "GEOPOLITICS": 48,
-        "CYBER & TECH": 65,
-        "GLOBAL ECONOMY": 16,
+        "GEOPOLITICS": 50,
+        "CYBER & TECH": 61,
+        "GLOBAL ECONOMY": 15,
         "LEADERSHIP": 3,
         "GENERAL UPDATES": 17
     },
@@ -13,12 +13,12 @@
             "score": 11.5
         },
         {
-            "name": "Taiwan Strait",
-            "score": 7
+            "name": "Strait of Hormuz",
+            "score": 8.5
         },
         {
-            "name": "Strait of Hormuz",
-            "score": 6.5
+            "name": "Taiwan Strait",
+            "score": 7
         },
         {
             "name": "Malacca Strait",
@@ -32,27 +32,45 @@
     "industry_risks": [
         {
             "name": "TECH",
-            "score": 160.5
+            "score": 148.0
         },
         {
             "name": "LOGISTICS",
-            "score": 112.5
+            "score": 107.5
         },
         {
             "name": "FINANCE",
-            "score": 78.0
+            "score": 71.0
         },
         {
             "name": "ENERGY",
-            "score": 43.5
+            "score": 42.0
         },
         {
             "name": "DEFENSE",
-            "score": 24.5
+            "score": 20.0
         }
     ],
     "items": {
         "GEOPOLITICS": [
+            {
+                "title": "Brent commands a war premium as Middle East supply <b>risks</b> keep oil on edge",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ygr89j4Dyub36GMpk4Yrp",
+                "summary": "Brent crude is trading above $100 a barrel as <b>geopolitical</b> tensions and supply <b>risks</b> in the Middle East sustain its premium over WTI....",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-10-10T05:59:03Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "IMF warns of rising debt and AI <b>risks</b> as global economic pressures mount",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://indonesiabusinesspost.com/7542/markets-and-finance/imf-warns-of-rising-debt-and-ai-risks-as-global-economic-pressures-mount&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2SeVNM3P5yo-nVA3RTv9sb",
+                "summary": "Georgieva said <b>geopolitical</b> conflicts, particularly in the Middle East and Ukraine, had delivered some of the most significant recent blows to global&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-10-10T03:26:37Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
             {
                 "title": "Oil Advances Amid War and Hurricane <b>Risks</b> - Rigzone",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rigzone.com/news/wire/oil_advances_amid_war_and_hurricane_risks-09-oct-2026-184819-article/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw15ouwqoRgGkaH7e1ReimgH",
@@ -63,6 +81,15 @@
                 "risk_color": "red"
             },
             {
+                "title": "Oil Prices Retreat as U.S.-Iran Diplomatic Talks Ease Supply Fears, While Gulf Hurricane ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://energynow.com/2026/10/oil-prices-retreat-as-u-s-iran-diplomatic-talks-ease-supply-fears-while-gulf-hurricane-limits-losses/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1e6MtgaM9yBWcqxwrfuUkK",
+                "summary": "Goldman Sachs estimated that Brent carried a <b>geopolitical risk</b> premium of approximately US$22 per barrel during September, reflecting concerns about&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-10-10T00:40:33Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "The Week in Oil: Escalating Middle East Attacks Threaten Supply Recovery | Morningstar",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/dow-jones/202610095295/the-week-in-oil-escalating-middle-east-attacks-threaten-supply-recovery&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0-BpjTqlvc9EUjETD29Z1U",
                 "summary": "<b>GEOPOLITICAL RISKS</b>: Oil prices have climbed sharply over the week, with Brent crude above $105 a barrel on fears of military escalation in the Middle&nbsp;......",
@@ -70,15 +97,6 @@
                 "published": "2026-10-09T22:54:18Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
-            },
-            {
-                "title": "Stagflation, Wars &amp; the Dollar: Where to Look Now - VanEck",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vaneck.com/us/en/videos/stagflation-wars-and-the-dollar-where-to-look-now/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0YZ1jL3gjSczjh7XrXEL03",
-                "summary": "Eric Fine discusses the current economic landscape, focusing on the implications of stagflation, <b>geopolitical risks</b>, and currency dynamics....",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-10-09T21:07:28Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
             },
             {
                 "title": "The war and the new <b>energy</b> narrative: How minerals redefine the Middle East's strategic position",
@@ -99,11 +117,65 @@
                 "risk_color": "green"
             },
             {
-                "title": "Thousands of wind and solar park systems sit exposed on the internet across Europe",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.helpnetsecurity.com/2026/10/09/eu-renewable-energy-cybersecurity/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2RrhMsd-9DWih-kN9WwEU_",
-                "summary": "... <b>International Energy</b> Agency has linked Ukraine's push toward decentralized power to energy <b>security</b>. The authors put the catch this way&nbsp;......",
-                "source": "Google Alert - Global Energy Security",
-                "published": "2026-10-09T17:33:04Z",
+                "title": "Israel's <b>economy</b> prospers despite years of <b>war</b>, but prices worry voters - Al Jazeera",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1f-JRI3pG_y6Zp0NQIQOo-",
+                "summary": "Tech is driving the <b>economy</b>, and investments are flowing in. But food costs are rising and debt is growing....",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-10-10T09:00:31Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "US seizes Cuba-bound fuel as Southern Command resumes murdering boat crews in the Caribbean",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsws.org/en/articles/2026/10/10/uihm-o10.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3bWl-DEWeuwZnM3W_lhuYf",
+                "summary": "Washington is waging <b>economic warfare</b> aimed at the starvation and subjugation of 10 million people, while the Cuban government has responded by&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-10-10T08:59:44Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "How U.S. Sanctions on the ICC Weaken America to Protect Netanyahu - Emerald Book",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://emeraldbook.org/news/oct-0926-3/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2cLMHKaawOnbySbYINTPTw",
+                "summary": "This sudden, total <b>economic warfare</b> is unequivocally about Israel. The catalyst was the ICC's decision to issue arrest warrants for Netanyahu and&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-10-10T06:37:42Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "US, NATO and <b>Wars</b> in Iran and Ukraine | <b>Economic</b> and Political Weekly",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.epw.in/journal/strategic-affairs/us-nato-and-wars-iran-and-ukraine.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2o_qJ73AaFU1SKYApZMKZc",
+                "summary": "Trump, in his unipolar rhetoric, where each statement constitutes an admission of international <b>war</b> crimes, added that he had \u201csettled 8 <b>wars</b>,\u201d&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-10-10T05:39:02Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Zelenskiy says letting Russia sell diesel to US is 'investment in <b>war</b>' - The <b>Economic</b> Times",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/international/world-news/zelenskiy-says-letting-russia-sell-diesel-to-us-is-investment-in-war/articleshow/134846359.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2ZEy5T29xf93M40Cy0zsTV",
+                "summary": "... <b>war</b> that must be ended.&quot; He dismissed the accord, which was announced ... <b>Economic</b> Times.) Download The <b>Economic</b> Times News App to get Daily&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-10-10T05:06:18Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "US Treasury blacklists 17 additional tankers shipping Iranian oil to Asia - The Cradle",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://thecradle.co/articles/us-treasury-blacklists-17-additional-tankers-shipping-iranian-oil-to-asia&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1ZC2vFvYsT3nPk7SyuZSBx",
+                "summary": "<b>Economic warfare</b>; Shadow fleet; Operation Epic Fury; <b>Economic war</b>; Oil tanker; Iran oil exports; Strait of Hormuz. Comments. Sort by. Newest. LOG IN&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-10-10T00:14:44Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Iran's illicit <b>economies</b> after six months of <b>war</b> | Global Initiative",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://globalinitiative.net/analysis/irans-illicit-economies-after-six-months-of-war/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3p1uktzlwgNEY02FvuhNiF",
+                "summary": "In August, the US launched Operation <b>Economic</b> Outcast (or '<b>Economic</b> D-Day') targeting five critical sectors of the Iranian <b>economy</b>, sanctioning 60 new&nbsp;......",
+                "source": "Google Alert - Economic Warfare",
+                "published": "2026-10-09T21:40:10Z",
                 "risk_score": 3,
                 "risk_color": "yellow"
             },
@@ -135,69 +207,6 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "UAE <b>economy</b> grew in first half of 2026 despite impact of Iran <b>war</b> - The National News",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thenationalnews.com/business/economy/2026/10/09/uae-economy-grew-in-first-half-of-2026-despite-impact-of-iran-war/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3H96gnZuSW8BkB0L6IDwDH",
-                "summary": "UAE <b>economy</b> grew in first half of 2026 despite impact of Iran <b>war</b> &middot; Growth was heavily driven by non-oil sector, which contributed to 79% of GDP....",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-10-09T16:49:37Z",
-                "risk_score": 1.5,
-                "risk_color": "green"
-            },
-            {
-                "title": "The Burning Tanker: Ukraine's <b>War</b> Against Russia's Shadow Fleet and the Battle for the Black Sea",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lvivherald.com/post/the-burning-tanker-ukraine-s-war-against-russia-s-shadow-fleet-and-the-battle-for-the-black-sea&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2d0N595cQsoY_ItRVbCtdB",
-                "summary": "Russia's invasion of Ukraine in February 2022 was followed by an unprecedented series of Western <b>economic</b> sanctions intended to weaken the Russian&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-10-09T16:20:12Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "The <b>war</b> you should be worrying about? It's under the sea - The Times",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thetimes.com/culture/books/article/undersea-war-international-battle-supremacy-bottom-world-elisabeth-braw-review-b99g6b97g&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2gafkqFRsAO7XL3zyDC99W",
-                "summary": "... financial transactions daily. ... Their order books are full, making acts of simultaneous sabotage a potentially deadly act of <b>economic warfare</b>....",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-10-09T13:01:48Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "After Pledging Swift Results, Trump Team Prepares for Long <b>Economic War</b> with Iran | UANI",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.unitedagainstnucleariran.com/news/after-pledging-swift-results-trump-team-prepares-for-long-economic-war-iran&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2XHp6HjB4iZ4C4Pob3kHch",
-                "summary": "Pezeshkian described economic pressure on Iran as harder to confront than military conflict, saying, 'Military war is visible, but <b>economic war</b> is not&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-10-09T12:17:43Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Israel's <b>economy</b> did not escape the <b>war</b>; it learned to operate through it - Firstpost",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/opinion/israels-economy-did-not-escape-the-war-it-learned-to-operate-through-it-14051674.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1H2v_Y0CRMZlyF609FzYzd",
-                "summary": "Israel did not escape the <b>economic</b> cost of <b>war</b>. Defence expenditure surged, public debt climbed and tourism and construction took a severe hit&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-10-09T11:54:42Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "US targets Iran's remaining oil lifelines with fresh sanctions | MEO",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://middle-east-online.com/en/us-targets-iran%25E2%2580%2599s-remaining-oil-lifelines-fresh-sanctions&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw3HPxumORWTVkRtWtXIndes",
-                "summary": "... war that has disrupted global energy markets. Friday 09/10/2026. <b>Economic warfare</b>. WASHINGTON \u2013 The US imposed fresh sanctions on&nbsp;......",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-10-09T11:34:00Z",
-                "risk_score": 3,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "After pledging swift results, Trump team prepares for long <b>economic war</b> with Iran",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonpost.com/world/2026/10/09/after-pledging-swift-results-trump-team-prepares-long-economic-war-with-iran/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0g00JqLpK4qd72hsVvzPaT",
-                "summary": "Iran's <b>economy</b> is suffering. But some of the Trump administration's dire projections have failed to come to fruition....",
-                "source": "Google Alert - Economic Warfare",
-                "published": "2026-10-09T10:32:04Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
                 "title": "DND welcomes PH's visiting forces agreement with France",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://pna.gov.ph/article/dnd-welcomes-phs-visiting-forces-agreement-with-france&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3aLVQcjfB6ZhtjoWWx5zHu",
                 "summary": "... <b>Indo</b>-<b>Pacific</b> region,&quot; it added. *Diversification of defense ... <b>security</b>. &quot;The Stratbase Institute looks forward to the effective&nbsp;......",
@@ -216,11 +225,29 @@
                 "risk_color": "green"
             },
             {
-                "title": "Krugman Warns France's <b>Debt Crisis</b> May Be &quot;Too Big to Save&quot; - BigGo Finance",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/66089143-10dd-4c13-a974-d0d1d723a5ab&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1YLRQjPTgZ-PgjZgaAc0s8",
-                "summary": "Nobel laureate in economics Paul Krugman has issued his most severe warning yet on France's fiscal condition: the <b>European</b> Union's second-largest&nbsp;......",
+                "title": "Europe's <b>Debt</b> Risks Mount As Borrowing Costs Rise, Bundesbanker Warns",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.my/2026/10/10/europes-debt-risks-mount-as-borrowing-costs-rise-bundesbanker-warns/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3LcLz0cwID6U3rQCPFvdxE",
+                "summary": "The risk of a European <b>sovereign debt crisis</b> has risen sharply amid mounting fiscal pressures and higher government borrowing costs, a Bundesbank&nbsp;......",
                 "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-10-09T18:12:56Z",
+                "published": "2026-10-10T09:28:07Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "<b>European Debt</b>-<b>Crisis</b> Risks Have Risen Sharply, Bundesbanker Says - Bloomberg",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-10-10/european-debt-crisis-risks-have-risen-sharply-bundesbanker-says%3Fsrnd%3Dhomepage-americas&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0zq-9zJMgL8WX73UZ0WAGm",
+                "summary": "Europe's most recent bond selloff is a \u201cclear warning sign\u201d that investors are getting nervous about governments' efforts to rein in <b>debt</b>,&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-10-10T06:48:42Z",
+                "risk_score": 4.5,
+                "risk_color": "red"
+            },
+            {
+                "title": "Krugman: France Headed for <b>Debt Crisis</b> Risk - Briefs Finance",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.briefs.co/news/krugman-warns-france-could-be-heading-toward-a-debt-crisis/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3drkT6_3gF9fWmg5K4j8A1",
+                "summary": "Nobel laureate Krugman warns France faces a fiscally unsustainable path as rising yields, deficits and pension stasis raise <b>sovereign debt crisis</b>&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-10-10T03:58:49Z",
                 "risk_score": 4.5,
                 "risk_color": "red"
             },
@@ -369,15 +396,6 @@
                 "risk_color": "red"
             },
             {
-                "title": "EU Commission selects 46 new strategic critical raw materials projects",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieu-monitoring.com/editorial/eu-commission-selects-46-new-strategic-critical-raw-materials-projects/1251820%3Futm_source%3Dieu-portal&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1YIBLCV6fjMcxpmCtqBkpe",
-                "summary": "Additional projects concern magnesium and tungsten for defence and aerospace applications, while four focus on <b>rare earths</b> needed for permanent&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-10-09T19:45:23Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
                 "title": "3 Tanker <b>Shipping</b> Stocks to Watch as Diesel <b>Trade Routes</b> Shift - Simply Wall St News",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/transportation/nasdaq-pxs/pyxis-tankers/news/3-tanker-shipping-stocks-to-watch-as-diesel-trade-routes-shi&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw04ZA5bfbUk6Ilp7PMLKxIu",
                 "summary": "A sudden loosening of Russian diesel sanctions has sent a fresh wave of fuel onto global waters, and tanker <b>shipping</b> stocks now sit right in the&nbsp;......",
@@ -497,22 +515,13 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "Small Commercial Insurance Market Grows to $158 Billion as Insurers Bet on Main Street Resilience",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://riskandinsurance.com/small-commercial-insurance-market-grows-to-158-billion-as-insurers-bet-on-main-street-resilience/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0i1VtBO5oWL188mibLFGg2",
-                "summary": "More from Risk &amp; Insurance. <b>Geopolitical Risk</b> Surges Into Top 10 Global Threats as Organizations Struggle With Preparedness. Aon&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-10-09T22:07:40Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Alibaba: The Bulls Are Trapped (NYSE:BABA) | Seeking Alpha",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4953000-alibaba-the-bulls-are-trapped&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1qZm7j_AAvRQ8DMufntdrB",
-                "summary": "Alibaba is a classic bull trap, as intense competition, heavy AI investments, and ongoing <b>geopolitical risks</b> squeeze its margins....",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-10-09T21:20:42Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
+                "title": "The strength of <b>energy</b> systems will be defined by how effectively they respond to rising ... - Instagram",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeRD-n7AmLX/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw19GtaKESlH0h1WfHJhtMNl",
+                "summary": "Book your delegate pass: https://bit.ly/3TAiE6k #ADIPEC #ADNOC #<b>GlobalEnergy</b> #<b>EnergySecurity</b> #EnergyInvestment &middot; View 1 comment....",
+                "source": "Google Alert - Global Energy Security",
+                "published": "2026-10-10T08:23:45Z",
+                "risk_score": 1,
+                "risk_color": "green"
             },
             {
                 "title": "Heat Pump Monitor 2026: Webinar (afternoon session) - Event - IEA",
@@ -722,24 +731,6 @@
                 "risk_color": "green"
             },
             {
-                "title": "France: <b>Debt</b> Risks Are Mounting | Seeking Alpha",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4953154-france-debt-risks-mounting&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw0zrb1eFLnHu4qO8FMbT0n6",
-                "summary": "The situation shares several features with the euro area <b>sovereign debt crisis</b> of more than a decade ago. Public debt remains elevated, and debt&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-10-09T19:20:15Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Zack Polanski is on the brink after his Holborn by-election defeat | The Spectator",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://spectator.com/article/zack-polanski-is-on-the-brink-after-his-holborn-by-election-defeat/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2hQfz7zLUedXQLeXm6ifx_",
-                "summary": "A full-on fiscal crisis, leading the government ... His book, Britain is Bust: The Coming <b>Sovereign Debt Crisis</b> and what it Will Mean for You, is out&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-10-09T17:36:50Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
                 "title": "Chautauqua County Manufacturers Learn About NY SMART I-Corridor Opportunities",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://chautauquacountyny.gov/liveworkplay/news/chautauqua-county-manufacturers-learn-about-ny-smart-i-corridor-opportunities&ct=ga&cd=CAIyGmQ5NjNiN2MwNDg4NDI3YTY6Y29tOmVuOklO&usg=AOvVaw0YF3Y4UQyS9zOw5Oo6VFf1",
                 "summary": "... details about how the NY SMART I-Corridor program can help connect local businesses to the region's growing <b>semiconductor supply chain</b> industry.)...",
@@ -848,6 +839,24 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "Europe Moves to Curb Chinese Car Imports but Remains Dependent on China's <b>Rare Earths</b>",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.koreaittimes.com/news/articleView.html%3Fidxno%3D157976&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1Iidky112deusAqui3W6ZA",
+                "summary": "<b>Rare earth elements</b> are used in electric vehicle motors, wind turbines, industrial robots, defense equipment and other advanced manufacturing&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-10-10T05:41:57Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "Greenland Approves Critical <b>Metals</b>' <b>Rare Earth</b> Mine Permit Until 2050, CEO Hails Milestone",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/en/newscontent/104149656-greenland-approves-critical-metals-rare-earth-mine-permit-until-2050-ceo-hails-milestone&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw27Bh8g2OVgJhQ6ADKBVRVm",
+                "summary": "... rare earth mine, valid until 2050. The permit authorizes mining of 19 rare earth/rare-scattered elements, including heavy <b>rare earths</b> such as Dy&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-10-10T05:27:02Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Brazilian critical minerals chain will have access to an additional line of financing",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bnamericas.com/en/analysis/brazilian-critical-minerals-chain-will-have-access-to-an-additional-line-of-financing&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2kFXbuwycfGgrJ7-yny_CZ",
                 "summary": "Recently, Australian miner Lynas <b>Rare Earths</b> announced the purchase of fellow Australian company Meteoric Resources, the project's owner, in a&nbsp;......",
@@ -862,15 +871,6 @@
                 "summary": "... <b>rare earth elements</b> \u2014 materials tied to aerospace, defense, steel alloying, and clean-energy supply chains. That positioning means NB shares can&nbsp;......",
                 "source": "Google Alert - Rare Earth Elements",
                 "published": "2026-10-10T01:38:33Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Rosen Helps Introduce Bill to Strengthen Critical Minerals Supply Chain",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rosen.senate.gov/2026/10/09/rosen-helps-introduce-bill-to-strengthen-critical-minerals-supply-chain/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1Zcn7LT6ZoKydL0TcVUJ6m",
-                "summary": "Senator Rosen has worked to solidify U.S. global leadership in critical minerals and <b>rare earth elements</b>. Earlier this year, she introduced&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-10-09T20:36:11Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -916,24 +916,6 @@
                 "summary": "... <b>port congestion</b> in the Far East has been driven by typhoons and extreme weather, and the loss of chokepoint access and, in limited numbers&nbsp;......",
                 "source": "Google Alert - Port Congestion",
                 "published": "2026-10-09T11:12:49Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
-            },
-            {
-                "title": "Trucking group bucks Manila <b>port</b> protest, cites cargo disruptions - Inquirer.net",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://newsinfo.inquirer.net/2320627/trucking-group-bucks-manila-port-protest-cites-cargo-disruptions&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw1531rMacR6yXAcwBYGi_Za",
-                "summary": "... <b>port congestion</b> and delays involving empty containers. Christopher \u201cKit\u201d Belmonte, CitizenWatch co-convener, said the long queues at ports and&nbsp;......",
-                "source": "Google Alert - Port Congestion",
-                "published": "2026-10-09T08:10:29Z",
-                "risk_score": 3.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "ICT: Hapag-Lloyd suspends Philippine bookings amid <b>port congestion</b> | Philstar.com",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.philstar.com/business/stock-commentary/2026/10/09/2562038/ict-hapag-lloyd-suspends-philippine-bookings-amid-port-congestion&ct=ga&cd=CAIyGmViYzEzY2UyNzhkZGIxMzU6Y29tOmVuOklO&usg=AOvVaw0gn0p2HIms0PuEOoIyvFqE",
-                "summary": "Hapag-Lloyd has reportedly suspended new bookings to Manila, Batangas and Subic until December 31, citing <b>port congestion</b> and constraints on&nbsp;......",
-                "source": "Google Alert - Port Congestion",
-                "published": "2026-10-09T06:17:55Z",
                 "risk_score": 2.5,
                 "risk_color": "yellow"
             },
@@ -1010,6 +992,15 @@
                 "risk_color": "green"
             },
             {
+                "title": "Global Energy <b>Price Volatility</b> Raises <b>Costs</b> for Businesses and Consumers - Bold News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://boldnewsonline.com/amp/global-energy-price-volatility-raises-costs-for-businesses-and-consumers/&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw3wak9hOJejUUdOWqkG7Q3C",
+                "summary": "Uncertainty surrounding Middle East <b>shipping</b> routes and oil supplies is putting pressure on <b>transportation</b>, manufacturing and household budgets,&nbsp;......",
+                "source": "Google Alert - Freight Rate Volatility",
+                "published": "2026-10-10T06:30:56Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "Russian Oil Loses Its Grip On India's Market - StratNews Global",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://stratnewsglobal.com/russia/russian-oil-loses-its-grip-on-indias-market/&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw38psSsiatp-1Mox9qiVBYJ",
                 "summary": "... <b>price volatility</b> and <b>shipping</b> disruptions. \u201cIndia has certainly been diversifying its crude slate, with more barrels coming from the Middle East&nbsp;......",
@@ -1026,15 +1017,6 @@
                 "published": "2026-10-09T11:13:25Z",
                 "risk_score": 1,
                 "risk_color": "green"
-            },
-            {
-                "title": "RBI may hike <b>rates</b> further as commodity inflation, global <b>volatility</b> remain concerns: Kotak Neo",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bignewsnetwork.com/news/279359448/rbi-may-hike-rates-further-as-commodity-inflation-global-volatility-remain-concerns-kotak-neo&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw1fT2X1cN8Brjecs6Mujm07",
-                "summary": "... <b>freight costs</b> and insurance premiums have pushed the actual landed cost of crude significantly above prices indicated by futures markets. He&nbsp;......",
-                "source": "Google Alert - Freight Rate Volatility",
-                "published": "2026-10-08T12:17:02Z",
-                "risk_score": 3.5,
-                "risk_color": "red"
             },
             {
                 "title": "China upholds sustainable development in <b>Arctic</b>: expert - \u5df4\u58eb\u7684\u5831",
@@ -1075,20 +1057,11 @@
         ],
         "GLOBAL ECONOMY": [
             {
-                "title": "Balancing Conviction and <b>Risk</b>: Masters in Business with Maria Vassalou | At the Money - YouTube",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DatR0-i74qZw&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1aBrR5c3yMhveZWYtEpVGy",
-                "summary": "research into global markets, and how they balance <b>geopolitical risk</b>. They also discuss China's growth as a technical innovator, and the risks to&nbsp;......",
+                "title": "Driving licence changes finally hitting South Africa, and petrol prices take a positive turn",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://businesstech.co.za/news/5-things/879246/driving-licence-changes-finally-hitting-south-africa-and-petrol-prices-take-a-positive-turn/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3AsekC9y_FbizvyES-XJWq",
+                "summary": "This is \u201ca two-way market, where <b>geopolitical risk</b> premium competes with improving physical supply dynamics,\u201d he added. 5 important things&nbsp;......",
                 "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-10-09T22:49:26Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Goldman Sachs: Oil <b>risk</b> premium hits $22 a barrel, second-highest monthly level on record",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/d4a5bc10-e9f9-4556-81f6-cb0696414b5f&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1AnsdqDW8649r2EWzSTpnV",
-                "summary": "... <b>geopolitical risk</b> as captured in news coverage. Another force supporting the risk premium comes from financial markets. Goldman found that in the&nbsp;......",
-                "source": "Google Alert - Geopolitical Risk",
-                "published": "2026-10-09T22:39:10Z",
+                "published": "2026-10-10T09:11:55Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -1120,6 +1093,24 @@
                 "risk_color": "green"
             },
             {
+                "title": "French Bond Yields Swing Wildly: Is There Cause for Concern About a <b>European Crisis</b> ...",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiae.co.kr/en/article/2026100815233765805&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2NKD0jDmEguT-B9eVqssxx",
+                "summary": "With French <b>government</b> bond yields surging recently, markets have grown increasingly concerned about the <b>financial</b> situation in Europe....",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-10-10T07:43:56Z",
+                "risk_score": 3,
+                "risk_color": "yellow"
+            },
+            {
+                "title": "Massive <b>debt</b> puts France in a bind as investor doubts deepen - Yahoo Finance UK",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://uk.finance.yahoo.com/news/massive-debt-puts-france-bind-151505306.html&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3sD36ROrACW1v-M2utf_Lc",
+                "summary": "French <b>government bonds</b> have become the bane of investors on fears that officials are unwilling or unable to rein in spending that far outstrips&nbsp;......",
+                "source": "Google Alert - Sovereign Debt Crisis",
+                "published": "2026-10-10T03:31:05Z",
+                "risk_score": 3.5,
+                "risk_color": "red"
+            },
+            {
                 "title": "Rules on Africa's <b>debt</b> must help women's rights - Bangkok Post",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bangkokpost.com/opinion/opinion/3334613/rules-on-africas-debt-must-help-womens-rights&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw3_D_-KNlmNr60xAkMI7Vfn",
                 "summary": "... national level, from gender-responsive budgets ... African debt <b>crisis</b> &middot; Imf world bank annual meetings &middot; Gender equality &middot; <b>Sovereign debt</b> restructuring&nbsp;......",
@@ -1138,29 +1129,20 @@
                 "risk_color": "yellow"
             },
             {
-                "title": "Assessing Monetary Policy Globally: Evidence from LLMs and Semi-structural Models",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.federalreserve.gov/econres/notes/feds-notes/assessing-monetary-policy-globally-evidence-from-llms-and-semi-structural-models-20261009.html&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1_5u9Lh1NEmbuBmWVi5WVL",
-                "summary": "Both measures turn dovish during the Asian Financial Crisis ... European <b>sovereign debt crisis</b>, reflecting the extraordinary easing measures adopted&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-10-09T19:19:36Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "France: <b>Debt</b> risks are mounting | MarketPulse by OANDA Group",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketpulse.com/markets/france-debt-risks-are-mounting/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1xs6-okGqoqTK6e5ElfoM7",
-                "summary": "... <b>sovereign debt crisis</b>, although lasting stability requires a credible French fiscal plan ... The situation shares several features with the euro area&nbsp;......",
-                "source": "Google Alert - Sovereign Debt Crisis",
-                "published": "2026-10-09T16:11:14Z",
-                "risk_score": 4.5,
-                "risk_color": "red"
-            },
-            {
-                "title": "Yttrium Price Per Ton China vs Western Markets - <b>Rare Earth</b> Exchanges",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://rareearthexchanges.com/news/yttrium-price-china-western-divide/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0-MSoNlVOOF54zEiLlscfp",
-                "summary": "Yttrium is a silvery metal grouped commercially with the heavy <b>rare earths</b>. Its compounds protect turbine engines and chipmaking equipment and support&nbsp;......",
+                "title": "Government to announce a policy on stockpiling of critical minerals - The Times of India",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/business/india-business/government-to-announce-a-policy-on-stockpiling-of-critical-minerals/articleshow/134850751.cms&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3hVAxgzfwWej68ytVylZ9m",
+                "summary": "Critical minerals such as copper, lithium, nickel, cobalt and <b>rare earth elements</b> are essential for clean energy technologies and are increasingly&nbsp;......",
                 "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-10-09T19:35:21Z",
+                "published": "2026-10-10T08:58:07Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
+                "title": "NioCorp Developments (NASDAQ:NB) Upgraded to &quot;Sell&quot; at Wall Street Zen - MarketBeat",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketbeat.com/instant-alerts/analyst-niocorp-developments-nasdaq-nb-upgraded-to-sell-at-wall-street-zen-2026-10-10/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1C1EiTRoXngp2wXKLesmi9",
+                "summary": "NioCorp is developing Nebraska's Elk Creek project to produce niobium, scandium, titanium and potentially <b>rare earth elements</b>. Interested in&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-10-10T05:38:13Z",
                 "risk_score": 1,
                 "risk_color": "green"
             },
@@ -1208,15 +1190,6 @@
                 "published": "2026-10-09T13:54:38Z",
                 "risk_score": 2.5,
                 "risk_color": "yellow"
-            },
-            {
-                "title": "Nigeria proposes petrol <b>price</b> cap to curb fuel <b>cost volatility</b> - Reuters",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/nigeria-proposes-petrol-price-cap-curb-fuel-cost-volatility-2026-10-08/&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw0HXAoqY0WM6bdnGH1jJifq",
-                "summary": "Soaring <b>freight rates</b> threaten Asia's appetite for US crude &middot; Soho Square, a crude oil tanker, is at anchor in the Galveston Bay. 5 hours ago&nbsp;......",
-                "source": "Google Alert - Freight Rate Volatility",
-                "published": "2026-10-09T06:40:04Z",
-                "risk_score": 2.5,
-                "risk_color": "yellow"
             }
         ],
         "LEADERSHIP": [
@@ -1249,6 +1222,15 @@
             }
         ],
         "GENERAL UPDATES": [
+            {
+                "title": "Indian needs to reduce its import dependence on pharma-adjacent chemical inputs",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pharmabiz.com/NewsDetails.aspx%3Faid%3D191166%26sid%3D1&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2VBMN-7Ka0rrbGH1pb4QyC",
+                "summary": "Excessive reliance on overseas suppliers exposes manufacturers to supply disruptions, price volatility and <b>geopolitical risks</b>. ... risk. The&nbsp;......",
+                "source": "Google Alert - Geopolitical Risk",
+                "published": "2026-10-10T08:30:28Z",
+                "risk_score": 2.5,
+                "risk_color": "yellow"
+            },
             {
                 "title": "LNG Procurement Strategy: Navigating Global Supply <b>Risks</b> - Grand View Research",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.grandviewresearch.com/research-insights/lng-procurement-strategy-global-supply-risks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3rnyhYUZzM1vpwtLVj_rXX",
@@ -1313,6 +1295,15 @@
                 "risk_color": "yellow"
             },
             {
+                "title": "Saudi Arabia's Jabal Sayid discovery puts <b>rare</b>-<b>earth</b> ambitions to the test - Arab News",
+                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabnews.com/mining/saudi-arabias-jabal-sayid-discovery-puts-rare-earth-ambitions-to-the-test-3005438&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3NDWS9efZ_RF6a8O2XEFs3",
+                "summary": "... <b>rare earth elements</b>. The site could potentially rank fourth globally for <b>rare earths</b>, with an estimated 552,000 tonnes of heavy <b>rare earths</b> and&nbsp;......",
+                "source": "Google Alert - Rare Earth Elements",
+                "published": "2026-10-10T08:04:36Z",
+                "risk_score": 1,
+                "risk_color": "green"
+            },
+            {
                 "title": "The week in Latin America: The next investment frontiers - BNamericas",
                 "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bnamericas.com/en/news/the-week-in-latin-america-the-next-investment-frontiers&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2iuLd0Dt7QCARhRH0qX2Tq",
                 "summary": "The push extends to <b>rare earths</b>, with Aclara and CAP opening a metals demonstration plant in Chile and Brazil's state development bank weighing&nbsp;......",
@@ -1329,24 +1320,6 @@
                 "published": "2026-10-10T01:14:20Z",
                 "risk_score": 2.5,
                 "risk_color": "yellow"
-            },
-            {
-                "title": "<b>Rare earth</b> recycling can bridge US supply gap as mines face long timelines, Paladin says",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mining.com/rare-earth-recycling-can-bridge-us-supply-gap-as-mines-face-long-timelines-paladin-says/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0HAVb3b1bjxg28UI-KvqYc",
-                "summary": "... <b>rare earth elements</b> used in high-performance permanent magnets. Paladin currently produces about 40 metric tonnes of recovered material annually&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-10-09T20:32:29Z",
-                "risk_score": 1,
-                "risk_color": "green"
-            },
-            {
-                "title": "Scientists create record 16-metal framework",
-                "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.metaltechnews.com/story/2026/10/14/tech-bytes/scientists-create-record-16-metal-framework/2978.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw3DtGcZy5132MvcWUTp-i8U",
-                "summary": "University of Birmingham scientists have created a tunable metal-organic framework from 14 <b>rare earths</b>, yttrium, and indium. \u2039 \u203a Adjustable rare-earth&nbsp;......",
-                "source": "Google Alert - Rare Earth Elements",
-                "published": "2026-10-09T18:34:50Z",
-                "risk_score": 1,
-                "risk_color": "green"
             },
             {
                 "title": "The South Sudan Government is seeking to operationalise its logistics hub at the expansive ...",
