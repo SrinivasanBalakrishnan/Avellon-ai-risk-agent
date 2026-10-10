@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 09 October 2026
+**Date:** 10 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** French Power Futures Top €100 Amid <b>Geopolitical Risk</b> - Briefs Finance
+**Source News:** Oil Advances Amid War and Hurricane <b>Risks</b> - Rigzone
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** French Power Futures Top €100 Amid <b>Geopolitical Risk</b> - Briefs Finance
+- **The News:** Oil Advances Amid War and Hurricane <b>Risks</b> - Rigzone
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Trump's AI free-for-all plays into China's hands - Nikkei Asia
+**Source News:** Crude Oil Prices Jump 4% Amid Resurgent Middle East Geopolitical Risks and ... - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump's AI free-for-all plays into China's hands - Nikkei Asia
+- **The News:** Crude Oil Prices Jump 4% Amid Resurgent Middle East Geopolitical Risks and ... - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** <b>Geopolitical</b> Shocks and Inflation: The Magnitude of the Crisis Determines the Price Path
+**Source News:** Balancing Conviction and <b>Risk</b>: Masters in Business with Maria Vassalou | At the Money - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitical</b> Shocks and Inflation: The Magnitude of the Crisis Determines the Price Path
+- **The News:** Balancing Conviction and <b>Risk</b>: Masters in Business with Maria Vassalou | At the Money - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** EU <b>Geopolitical Risk</b> Update - Key Policy &amp; Regulatory Developments No. 128 | Insights
+**Source News:** EMIR 3.0: <b>Changes</b> to the Clearing Threshold <b>Regime</b> - Lexology
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** EU <b>Geopolitical Risk</b> Update - Key Policy &amp; Regulatory Developments No. 128 | Insights
+- **The News:** EMIR 3.0: <b>Changes</b> to the Clearing Threshold <b>Regime</b> - Lexology
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
