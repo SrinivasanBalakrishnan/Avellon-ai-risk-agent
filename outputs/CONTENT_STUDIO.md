@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 10 October 2026
+**Date:** 11 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Oil Advances Amid War and Hurricane <b>Risks</b> - Rigzone
+**Source News:** Fuel imports threaten SA's <b>energy security</b> - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Advances Amid War and Hurricane <b>Risks</b> - Rigzone
+- **The News:** Fuel imports threaten SA's <b>energy security</b> - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Crude Oil Prices Jump 4% Amid Resurgent Middle East Geopolitical Risks and ... - SunSirs
+**Source News:** Saudi Arabia keeps its flagship events on as airport attacks test the nerves of foreign carriers ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Crude Oil Prices Jump 4% Amid Resurgent Middle East Geopolitical Risks and ... - SunSirs
+- **The News:** Saudi Arabia keeps its flagship events on as airport attacks test the nerves of foreign carriers ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Balancing Conviction and <b>Risk</b>: Masters in Business with Maria Vassalou | At the Money - YouTube
+**Source News:** Bitcoin Price Under Pressure as Houthis Attack Saudi Arabia and Trump Signals US Involvement
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Balancing Conviction and <b>Risk</b>: Masters in Business with Maria Vassalou | At the Money - YouTube
+- **The News:** Bitcoin Price Under Pressure as Houthis Attack Saudi Arabia and Trump Signals US Involvement
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** EMIR 3.0: <b>Changes</b> to the Clearing Threshold <b>Regime</b> - Lexology
+**Source News:** Why bother with elections - Let Abhijeet Dipke and Saurav Das run India, save money spent ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** EMIR 3.0: <b>Changes</b> to the Clearing Threshold <b>Regime</b> - Lexology
+- **The News:** Why bother with elections - Let Abhijeet Dipke and Saurav Das run India, save money spent ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
