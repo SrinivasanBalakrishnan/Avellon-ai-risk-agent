@@ -1,99 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 11 October 2026
+**Date:** 12 October 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 22.5)
-- **Strait of Hormuz** (Risk Score: 3.5)
-- **Taiwan Strait** (Risk Score: 2)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 13.0)
+- **Strait of Hormuz** (Risk Score: 9.0)
+- **Taiwan Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Fuel imports threaten SA's <b>energy security</b> - YouTube**
-> *The Central <b>Energy</b> Fund has warned that reliance on imported fuel threatens <b>energy security</b> and South Africa's economic ambitions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHzQL_e8WhlQ&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1DhmezMk5BNSK7N2PxG730))
+**🟢 In the spotlight: Coventry City Council improves access to planning data through digital ...**
+> *Organisations lack data sovereignty strategy despite <b>geopolitical risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thinkdigitalpartners.com/news/2026/10/12/in-the-spotlight-coventry-city-council-improves-access-to-planning-data-through-digital-transformation/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2myM1fkTfI2HkpBOUfhseK))
 
-**🟡 The Iran War Is Fueling a Boom in Clean <b>Energy</b> | OilPrice.com**
-> *... <b>energy</b> mix. However, the vulnerabilities exposed in <b>international</b> fossil fuel trade have made diversification key to ensuring <b>energy security</b>. In&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw35Yrj6dZGVsqg6TOkhgEsd))
+**🟢 No national <b>risk</b> assessment published for more than two years despite <b>geopolitical</b> changes**
+> *Report, produced by Department of An Taoiseach, identifies most significant strategic and natural <b>risks</b> facing Ireland....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.irishtimes.com/politics/2026/10/12/no-national-risk-assessment-published-for-more-than-two-years-despite-geopolitical-changes/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1obJbTu3_YF5y1gQ-oD5ZW))
 
-**🔴 Tehran measure to stabilise goods prices set for nationwide rollout, mayor says**
-> *... war and must do everything in our power to reduce the economic pressure on the people. &quot;Zero inflation&quot; is a shield against <b>economic warfare</b> so&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.middleeasteye.net/live-blog/live-blog-update/tehran-measure-stabilise-goods-prices-set-nationwide-rollout-mayor-says&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0QFwZMBiuhqiMXjgHPUNQC))
+**🔴 Why the US-China trade truce matters | FMT**
+> *Though a modest measure, the extension of the trade truce has given an unstable world economy a reprieve ... <b>economic warfare</b>. Since the Trump&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.freemalaysiatoday.com/category/opinion/2026/10/12/why-the-us-china-trade-truce-matters&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1QXxaXM6_L3qrekuPF0mHB))
 
-**🟡 After pledging swift results, Trump team prepares for long <b>economic war</b> with Iran | World**
-> *As the Trump administration pivoted to <b>economic</b> pressure instead of military force to push Tehran back into talks, Treasury Secretary Scott&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.postguam.com/news/world/after-pledging-swift-results-trump-team-prepares-for-long-economic-war-with-iran/article_6fd50daf-4593-4dbb-be6a-e12708606d66.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw36L0EjWtUj_o7-ntsiNQPF))
+**🟢 'Winning without a fight' could spark <b>war</b> - Taipei Times**
+> *China would prefer to achieve its objectives without a devastating <b>war</b>. If intimidation, <b>economic</b> pressure and political <b>warfare</b> could persuade Taiwan&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.taipeitimes.com/News/editorials/archives/2026/10/12/2003865793&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0Nq9oCPeQcK7VouX-ix36L))
 
-**🔴 UNDERSTANDING THE NEW AGE OF <b>WAR</b> - Newspaper - DAWN.COM**
-> *Theories that once helped us understand war struggle to keep up. Attrition, technological disruption, <b>economic warfare</b> and geopolitical rivalry&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dawn.com/news/2035568/understanding-the-new-age-of-war&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0gTqOTWTgXEpZw9LLMY85_))
+**🔴 Greater power than US failed in battle with Iran - Mehr News Agency**
+> *... <b>economic warfare</b> out of desperation.” Iran, rather than the US, would determine when the confrontation ends, he said, stressing that Tehran would&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.mehrnews.com/news/248495/Greater-power-than-US-failed-in-battle-with-Iran&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0uMd6oNPSPp0MWPvPj7MpX))
 
 
 ## 🏛 CYBER & TECH
-**🔴 Saudi Arabia keeps its flagship events on as airport attacks test the nerves of foreign carriers ...**
-> *Saudi stocks pull back on <b>geopolitical risk</b> and higher rates, not a structural shift. The Tadawul fell 9.2% y-o-y, with September doing most of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://enterpriseam.com/ksa/2026/10/11/saudi-arabia-keeps-its-flagship-events-on-as-airport-attacks-test-the-nerves-of-foreign-carriers-and-executives/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3LSrPdC2q_8C2QPcbpP6mA))
+**🟢 <b>Geopolitics</b> and the cyber resilience gap belong in your <b>threat</b> model - Help Net Security**
+> *Cybersecurity is entering a new phase: AI is accelerating the <b>threat</b> landscape, <b>geopolitical</b> fragmentation is increasing systemic exposure, and cyber-&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1OxugCrYOQxCx4NyOvA_Xj))
 
-**🟢 Gold $XAU Market Analysis: Key Highlights 1. Technical Ana | TRADE FOR ME6 on Binance Square**
-> *<b>Geopolitical Risk</b>: Global economic uncertainties and political instability boost Gold's status as a traditional safe-haven asset. Central Bank&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en-IN/square/post/375758555302484&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1V0bY-MV_2qZo-DGzZAyE7))
+**🔴 Brent: Houthi escalation keeps <b>risk</b> premium elevated – Commerzbank - FXStreet**
+> *Commerzbank strategists note that Brent Oil remains above USD 100 as markets weigh heightened <b>geopolitical risk</b> from Houthi attacks on Saudi&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/brent-houthi-escalation-keeps-risk-premium-elevated-commerzbank-202610120621&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1XJ6Ncx8S9hNKUoRkKLT3r))
 
-**🟢 Nothing Left to Drain: The $22 Oil <b>Risk</b> Premium Is Starting to Look Like the Price of No Buffer**
-> *The Iran shock arrived, Middle Eastern flows became less dependable, product markets tightened and shipping lanes turned into <b>geopolitical</b> assets, but&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thedarksideoftheboom.substack.com/p/nothing-left-to-drain-the-22-oil&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ENGL8GbfLE_qmBgRi6UQA))
+**🟡 Russian diesel supply set to increase amid hopes of &quot;energy ceasefire&quot; in Ukraine - FXStreet**
+> *However, downside was limited by heightened <b>geopolitical risk</b> after renewed Houthi attacks on Saudi Arabia's main airport raised the prospect of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/analysis/russian-diesel-supply-set-to-increase-amid-hopes-of-energy-ceasefire-in-ukraine-202610120553&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw28RjJh-TsemnEJAa72BRet))
 
-**🔴 Greg Weldon's Bold Gold Forecast as Debt and Inflation <b>Risks</b> Mount - Money Metals**
-> *Weldon believes investors are approaching a period of heightened financial and <b>geopolitical</b> uncertainty. Although some of his trading models are&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moneymetalsexchange.medium.com/greg-weldons-bold-gold-forecast-as-debt-and-inflation-risks-mount-56ec3decfe4a&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3QGUI9I4l1ecXnd0Buaso0))
+**🟢 Copper Gains on Easing Rate-Hike Bets and Chile Mine Avalanche - Bloomberg.com**
+> *This came even as investors weighed <b>geopolitical risks</b> stemming from an escalation in hostilities in the Middle East, and while awaiting the mid-week&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-10-12/copper-gains-on-easing-rate-hike-bets-and-chile-mine-avalanche&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2G3_aaZ-rwTq3TtqUH_VyC))
 
-**🔴 Capital Stress and A.I. Uncertainty Fuel Management Liability <b>Risk</b> for Private Companies**
-> *<b>Geopolitical</b> and energy volatility are also adding to inflationary pressure and expenses, the report said, which could force companies to scale&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://riskandinsurance.com/capital-stress-and-a-i-uncertainty-fuel-management-liability-risk-for-private-companies/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1UdzTDtNNPu7j0m1axUfts))
+**🟢 Wheat extends drop as Trump remarks fuel Black Sea truce hopes - The Edge Malaysia**
+> *A sustained reduction in hostilities could remove some of wheat's <b>geopolitical risk</b> premium, particularly if shipping becomes safer and Black Sea&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theedgemalaysia.com/node/821456&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1mMh7sFkZxpXiB3wocdJMj))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Bitcoin Price Under Pressure as Houthis Attack Saudi Arabia and Trump Signals US Involvement**
-> *... <b>geopolitical risk</b> that could disrupt market sentiment. Saudi Arabia vowed to respond after at least 12 people were killed and more than 300&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptorank.io/news/feed/0646a-bitcoin-price-under-pressure-as-houthis-attack-saudi-arabia-and-trump-signals-us-involvement&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1FIrHJt5ErOgwzNMpwb-Jb))
+**🔴 Global Market: China stocks fall as global yields, <b>geopolitical</b> tensions weigh on sentiment**
+> *Rising bond yields have emerged as a key <b>risk</b> for equity markets, while the possibility of a debt crisis among weaker euro zone governments has added&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/markets/us-stocks/news/global-market-china-stocks-fall-as-global-yields-geopolitical-tensions-weigh-on-sentiment/articleshow/134884757.cms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2D6HngsyqiwaH5d8Ha00p6))
 
-**🟢 Bitcoin Falls Below $83000 as US Inflation Data and ETF Outflows Pose Key Tests**
-> *As Middle East <b>geopolitical risks</b> and rising energy prices cooled appetite for risk assets, climbing US Treasury yields further weighed on the market....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/940a8aae-5d70-4922-a22e-dceafe855417&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1STLiI69-j4EL4RgDe8Om5))
+**🟢 Saudi Arabia commits to uninterrupted <b>energy</b> supplies at ministerial forum in Riyadh**
+> *... Energy Minister Prince Abdulaziz bin Salman pledges uninterrupted <b>global energy</b> flows. / ... energy <b>security</b>.&quot; RelatedTRT World - US energy chief&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://trtworld.com/article/5d2dab305342%3Futm_source%3D%252Flive%252F69a2a1d4e4ba8e89ecd092dc%26utm_medium%3Dinternal%26utm_campaign%3Drecommended%26utm_content%3Dinline&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0pl6nVdOWp_Bv1Ptqc-ivp))
 
-**🟢 Kazakhstan Needs Greater Resilience For Its Oil Exports - Analysis - Eurasia Review**
-> *So, the Baku-Supsa line is not ideal if trying to minimize <b>geopolitical risk</b>. By contrast, the Baku-Tbilisi-Ceyhan pipeline carries oil across&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/11102026-kazakhstan-needs-greater-resilience-for-its-oil-exports-analysis/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Q5CcHE__w9dk7s7hHpXnO))
+**🟢 Saudi Arabia is like 'a phoenix,' Prince Abdulaziz says | Al Arabiya English | Facebook**
+> *Why Has <b>Energy Security</b> Returned to Focus? 4 hours ago · 2.3K views. In an interview with Alarabiya English, S&amp;P <b>Global</b> Vice&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/alarabiya.english/videos/saudi-arabia-is-like-a-phoenix-prince-abdulaziz-says/1106384915436623/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1w5tCEQGL5vHEt-ZmKCGG_))
 
-**🟢 <b>Energy</b> News Monitor | Volume XXIII, Issue 11 - Observer Research Foundation**
-> *... <b>energy security</b>, and lowers system costs by reducing dependence on fossil fuels. ... More than 80 SMR designs are in development <b>worldwide</b>, according to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.orfonline.org/research/energy-news-monitor-volume-xxiii-issue-11&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2pKmmkGgKpnkjHBNFIUedJ))
+**🟡 In critical October meetings, European leaders face winter <b>energy</b> squeeze amid mounting ... - E3G**
+> *... <b>energy security</b>, economic competitiveness and development. This is how <b>international</b> cooperation can deliver faster implementation and tangible&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.e3g.org/news/euco-october2026-eu-leaders/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3yg6-4SUmtLUmYXnBrIipq))
 
-**🟢 The Gulf's Troubles and the Burdens of Geography - The Media Line**
-> *Such an arrangement requires positive acceptance of the <b>international</b> community's need for <b>secure energy</b> supplies and adherence to the logic of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://themedialine.org/mideast-mindset/the-gulfs-troubles-and-the-burdens-of-geography/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2w0yx6BH4mF7rcdP6OVG-Z))
+**🟢 Energy <b>security</b> and clean energy investments face protracted decline | Lowy Institute**
+> *Less than 10% of ODF to Southeast Asia in 2024 addressed energy <b>security</b> needs ... Grace Stanhope is a former Research Fellow in the <b>Indo</b>-<b>Pacific</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lowyinstitute.org/publications/2026-southeast-asia-aid-map-report/energy-security-and-clean-energy-investments-face-protracted-decline&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0rtkkD03uAQ5bm61pmEx0W))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Why bother with elections - Let Abhijeet Dipke and Saurav Das run India, save money spent ...**
-> *Need to change the economic policy? Ask Dipke. Need to decide ... Reels, hashtags and <b>regime change</b>: The global script of 'Gen Z' protests....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thepamphlet.in/why-bother-with-elections-let-abhijeet-dipke-and-saurav-das-run-india-save-money-spent-on-conducting-elections/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0ll19px3c0fP853TOvQlm3))
+**🟡 Sunday Scrum | Carney faces criticism over C-39, Stelco layoffs continue as planned**
+> *Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder•491K views &middot; 33:46 &middot; Go to channel BBC News &middot; Democrats ahead in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dcg4PFd9pDQw&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1ksJg5XsITHU1hBtmlI-mP))
 
-**🟡 CM Afridi urges people to reach Swabi today - Pakistan - Business Recorder**
-> *Following the <b>regime change</b> operation, Pakistan's economic indicators had been moving in a negative direction. Pakistan had risen to the top of the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brecorder.com/news/amp/40443649&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2Is-Jb9lh_c2I9EH3N2IzK))
+**🟢 Why is Trump calling for Zelensky to go? | BBC Newscast - YouTube**
+> *Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder•491K views &middot; 21:37 &middot; Go to channel Ambrose Discovery. Underwater Drone&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DidUdEfzZEDM&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0imb0cBOTMHVYDf8zHHU0U))
 
-**🟢 This Timeline Needs Inspiration From Ice Cube and Queen - The Good Men Project**
-> *I'm watching the desecration of National Parks that no change in administration will be able to undo. ... <b>regime change</b> can happen to anyone, at&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://goodmenproject.com/featured-content/this-timeline-needs-inspiration-from-ice-cube-and-queen/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1fAy5jq-ReP17AR9tFp75T))
+**🟢 Bernie Sanders BLASTS Trump Over Israel, Gaza and US Foreign Policy - YouTube**
+> *... political future? #berniesanders #trump #uspolitics # ... Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dqij-CpMoCqo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3Uqu0LCI4PbGnsCwN09qxC))
 
-**🟢 Sharp's canvas of Otpor: <b>Regime change</b> 101**
-> *Sharp's canvas of Otpor: <b>Regime change</b> 101 &middot; Otpor was a Serbian youth movement that used civil resistance to help overthrow Yugoslav President&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sundayguardianlive.com/news/top-5/sharps-canvas-of-otpor-regime-change-101-303073/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3Tzi7wI2l5Ae0BDrqACsLe))
+**🟢 Brian Lehrer Weekend: Integration in NYC Schools; Disability Rights; Your Favorite TV Shows**
+> *Corruption and <b>Regime Change</b> with Anne Applebaum and Tim Snyder. Timothy Snyder•489K views &middot; 53:20 &middot; Go to channel American Experience | PBS. Nazi&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D_xlHXw_SLOA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0BzZMkLq-0O7Cnfr1xzLMq))
 
-**🟢 ECI caps individual voter deletion requests to a maximum of 10 Form-7 applications**
-> *Political party-appointed Booth Level Agents (BLAs) can submit ... From <b>Regime Change</b> to Citizen Protection: Why BJP Must Stop Tolabaji at&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://myind.net/Home/viewArticle/eci-caps-individual-voter-deletion-requests-to-a-maximum-of-10-form-7-applications&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2PJyK2VNhfwnTiNxVVM1U4))
+**🟡 STJ debate unification of imprisonment and detention sentences - Jurinews**
+> *Schietti proposes to <b>change</b> rules for unification of detention ... <b>regime</b>. Unification occurs when the inmate receives different sentences&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jurinews.com.br/index.php/en/destaque-nacional/schietti-proposes-to-change-rules-for-unification-of-detention-and-detention-sentences-in-the-stj-brandao-asks-for-view&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0AV6zbNJaxp8Pvzh5fn2wN))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 How Man City case could've played role in Friedkin Group's ultimate Everton shocker**
-> *However, as Quinn acknowledges, Premier League football club ownership has become more expensive, with external economic factors and <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.goodisonnews.com/finance/how-man-city-case-couldve-played-role-in-friedkin-groups-ultimate-everton-shocker&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0KuKtUYXjb9Sf5uQvlvK2e))
+**🔴 Chinese stocks fall as higher global yields, <b>geopolitical</b> tensions weigh - FMT**
+> *US probes into technology firms including Luxshare Precision Industry and Foxconn Industrial Internet further dented <b>risk</b> appetite....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.freemalaysiatoday.com/category/business/2026/10/12/chinese-stocks-fall-as-higher-global-yields-geopolitical-tensions-weigh&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2dVX5pDQwhWEZ4OB5jpxU1))
 
-**🟢 India's $200 billion chip ambition: Can it become a tech powerhouse? - Gulf News**
-> *Indian Army Chief General Dhiraj Seth meets Lt Gen Joel B Vowell, Deputy Commanding General. India, US tackle <b>Indo</b>-<b>Pacific security</b>, cooperation. 2m&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gulfnews.com/world/asia/india/indias-200-billion-chip-ambition-can-it-become-a-tech-powerhouse-1.500706194&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0revjoZgr438szfp4JP7et))
+**🟡 Philippines, U.S. condemn China's dangerous tactics at Second Thomas Shoal**
+> *... secure and prosperous Indo-Pacific. The vessels' dangerous ... <b>Indo</b>-<b>Pacific security</b> environment. Follow us to stay connected. Follow&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ipdefenseforum.com/2026/10/philippines-u-s-condemn-chinas-dangerous-tactics-at-second-thomas-shoal/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0sG173gjtuqZkGJ4Q6kmMa))
 
-**🟢 U.S. Ambassadors and USPACOM visit Commander, Fleet Activities Japan during <b>Indo</b> ... - DVIDS**
-> *... <b>Indo</b>-<b>Pacific</b> Ambassadorial Summit [Image 1 of 16] ... Paparo, Commander, U.S. Pacific Command hosted the delegation to discuss the <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dvidshub.net/image/10004460/us-ambassadors-and-uspacom-visit-commander-fleet-activities-japan-during-indo-pacific-ambassadorial-summit&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2Rs5j6BqT5glUccxSJEYtd))
+**🟢 Opposition proposes national entity to manage RM800b <b>rare earth</b> wealth, prevent illegal ...**
+> *KUALA LUMPUR, Oct 12 — The opposition has proposed the establishment of a national entity to manage <b>rare earth elements</b> (REE) as a new source of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.malaymail.com/news/malaysia/2026/10/12/opposition-proposes-national-entity-to-manage-rm800b-rare-earth-wealth-prevent-illegal-mining-losses/238808&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw2_gMM73hlV2X5IIYb6KqnV))
 
-**🟢 HMCS Ottawa returns after four-month deployment - Victoria Times Colonist**
-> *... <b>Indo</b>-<b>Pacific</b> and western Arctic. The ship was involved in both Operation Horizon, to support <b>security</b> and stability in the <b>Indo</b>-<b>Pacific</b>, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.timescolonist.com/local-news/hmcs-ottawa-returns-after-four-month-deployment-12880591&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0l-uJn-bQo12a6yXw-8I_D))
+**🟢 Seamount summit crusts - GeoExpro**
+> *... metals such as cobalt, nickel, and <b>rare earth elements</b>. The iron-manganese oxide crusts host diverse benthic faunal communities. The research&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://geoexpro.com/seamount-summit-crusts/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1IBE8iVNCr8l8frz3I7Oq0))
 
-**🟢 U.S. Ambassadors and USPACOM visit Commander, Fleet Activities Japan during <b>Indo</b> ...**
-> *U.S. Ambassadors and USPACOM visit Commander, Fleet Activities Japan during <b>Indo</b>-<b>Pacific</b> Ambassadorial Summit [Image 16 of 16] &middot; COMMANDER, FLEET&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dvidshub.net/image/10004477/us-ambassadors-and-uspacom-visit-commander-fleet-activities-japan-during-indo-pacific-ambassadorial-summit&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1dtp1tful5uFRFXUi-1vLE))
+**🟢 Magnum assays confirm high-value <b>rare earth</b> clusters at Piracanjuba North - TipRanks.com**
+> *The new results highlight strong grades of magnet <b>rare earths</b>, including heavy elements terbium and dysprosium and light elements neodymium and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/company-announcements/magnum-assays-confirm-high-value-rare-earth-clusters-at-piracanjuba-north&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0oXWu2sFlU-SeD1HwlhNxW))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
