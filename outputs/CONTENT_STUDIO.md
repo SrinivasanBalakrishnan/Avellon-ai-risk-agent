@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 13 October 2026
+**Date:** 14 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Zelensky says strikes on Ukraine infrastructure 'Putin's answer' to Trump on <b>energy</b> ceasefire
+**Source News:** Grading our 2026 global economic outlook, and a look at 2027 | Convera
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Zelensky says strikes on Ukraine infrastructure 'Putin's answer' to Trump on <b>energy</b> ceasefire
+- **The News:** Grading our 2026 global economic outlook, and a look at 2027 | Convera
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Asia Stocks Battered as Semiconductor Stocks Dive - WSJ
+**Source News:** Gold Price Forecast: XAU/USD looks to $4100 and US CPI inflation amid <b>geopolitical risks</b>
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia Stocks Battered as Semiconductor Stocks Dive - WSJ
+- **The News:** Gold Price Forecast: XAU/USD looks to $4100 and US CPI inflation amid <b>geopolitical risks</b>
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Gold Price Forecast: XAU/USD range play extends amid <b>geopolitics</b>, ahead of US inflation test
+**Source News:** Trump's America and Wall Street are in a dangerous spiral - SMH
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold Price Forecast: XAU/USD range play extends amid <b>geopolitics</b>, ahead of US inflation test
+- **The News:** Trump's America and Wall Street are in a dangerous spiral - SMH
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Rahul Gandhi <b>Regime Change</b>: आंदोलन की आड़ में, रिजीम चेंज का खेल ? | congress - YouTube
+**Source News:** Iranians' support for US pressure masks divisions over its cost | Iran International
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rahul Gandhi <b>Regime Change</b>: आंदोलन की आड़ में, रिजीम चेंज का खेल ? | congress - YouTube
+- **The News:** Iranians' support for US pressure masks divisions over its cost | Iran International
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
