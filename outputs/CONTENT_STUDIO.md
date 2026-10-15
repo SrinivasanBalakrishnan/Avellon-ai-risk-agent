@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 14 October 2026
+**Date:** 15 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Grading our 2026 global economic outlook, and a look at 2027 | Convera
+**Source News:** Ukraine's Zelensky Calls For Specific Details On US Security Guarantees - Sahi
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Grading our 2026 global economic outlook, and a look at 2027 | Convera
+- **The News:** Ukraine's Zelensky Calls For Specific Details On US Security Guarantees - Sahi
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold Price Forecast: XAU/USD looks to $4100 and US CPI inflation amid <b>geopolitical risks</b>
+**Source News:** Asia Open: Circling the Drain - by Stephen Innes - The Dark Side Of The Boom
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold Price Forecast: XAU/USD looks to $4100 and US CPI inflation amid <b>geopolitical risks</b>
+- **The News:** Asia Open: Circling the Drain - by Stephen Innes - The Dark Side Of The Boom
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Trump's America and Wall Street are in a dangerous spiral - SMH
+**Source News:** [MARKET ANALYSIS] Oil prices retreat and gold rallies alongside the broad <b>risk</b> off tone
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Trump's America and Wall Street are in a dangerous spiral - SMH
+- **The News:** [MARKET ANALYSIS] Oil prices retreat and gold rallies alongside the broad <b>risk</b> off tone
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Iranians' support for US pressure masks divisions over its cost | Iran International
+**Source News:** By pursuing a big 'win' in Iran, Trump is destined to lose | Responsible Statecraft
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iranians' support for US pressure masks divisions over its cost | Iran International
+- **The News:** By pursuing a big 'win' in Iran, Trump is destined to lose | Responsible Statecraft
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
