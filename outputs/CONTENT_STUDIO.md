@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 16 October 2026
+**Date:** 17 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** IMF Warns of Asia's Economic <b>Risks</b>; India Growth Forecast Raised to 7% - YouTube
+**Source News:** Ethiopia's Red Sea Strategy: Advancing Maritime Interests and Strategic Autonomy amid ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** IMF Warns of Asia's Economic <b>Risks</b>; India Growth Forecast Raised to 7% - YouTube
+- **The News:** Ethiopia's Red Sea Strategy: Advancing Maritime Interests and Strategic Autonomy amid ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Sometimes, the most consequential <b>risk</b> is the connection between <b>risks</b>
+**Source News:** Does the euro have a chance to become genuinely global? - Tomorrow's Affairs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Sometimes, the most consequential <b>risk</b> is the connection between <b>risks</b>
+- **The News:** Does the euro have a chance to become genuinely global? - Tomorrow's Affairs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** ZAWYA: ADIPEC 2026 to spotlight <b>energy security</b>, investment, tech - TradingView
+**Source News:** Crude oil surge above $100 shakes Sensex, rupee in Oct 2026 | Market News &amp; Analysis
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** ZAWYA: ADIPEC 2026 to spotlight <b>energy security</b>, investment, tech - TradingView
+- **The News:** Crude oil surge above $100 shakes Sensex, rupee in Oct 2026 | Market News &amp; Analysis
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** LIVE! Cong, allies seeking Bangladesh-like <b>regime change</b>: Rajnath - Rediff.com news
+**Source News:** DNA with Rahul Sinha: '<b>REGIME CHANGE</b>' पर सियासी संग्राम!..कांग्रेस को क्यों देनी पड़ी सफाई?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** LIVE! Cong, allies seeking Bangladesh-like <b>regime change</b>: Rajnath - Rediff.com news
+- **The News:** DNA with Rahul Sinha: '<b>REGIME CHANGE</b>' पर सियासी संग्राम!..कांग्रेस को क्यों देनी पड़ी सफाई?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
