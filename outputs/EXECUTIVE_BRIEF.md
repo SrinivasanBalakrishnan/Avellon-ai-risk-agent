@@ -1,99 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 17 October 2026
+**Date:** 18 October 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 17.5)
-- **Strait of Hormuz** (Risk Score: 7.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 7)
+- **Strait of Hormuz** (Risk Score: 19.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 9.5)
+- **Taiwan Strait** (Risk Score: 3.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟡 Ethiopia's Red Sea Strategy: Advancing Maritime Interests and Strategic Autonomy amid ...**
-> *... <b>risks</b>, piracy, shipping attacks, and <b>geopolitical</b> competition. Consequently, the security of the Red Sea is paramount to Ethiopia's economic and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ifa.gov.et/blog/778&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3JCjInMS0-6N-g79F9QNXY))
+**🟡 President Trump Signs Executive Order Waiving Key Russian Sanctions and Tariffs Under ...**
+> *... <b>geopolitical risk</b> premium. Tanker rates, insurance costs, and freight have surged; dark or AIS-off transits through key chokepoints have increased&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energynewsbeat.co/crude-oil/president-trump-signs-executive-order-waiving-key-russian-sanctions-and-tariffs-under-the-graham-act-helping-keep-oil-flowing/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw21f_jN2FDq5J9suLn5Pxgs))
 
-**🟢 Fitch Affirms Latvia at 'A-'; Outlook Stable**
-> *Key Rating Drivers. High <b>Geopolitical Risk</b>, Defence Spending: Heightened <b>geopolitical risks</b> remain given the country borders Russia and Belarus, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fitchratings.com/research/sovereigns/fitch-affirms-latvia-at-a-outlook-stable-16-10-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1a142BSrv_LTTjZL42_uf8))
+**🔴 Brent crude jumps to $110 amid fading prospects of supply relief - The Hawk**
+> *Brent crude hits $110 per barrel amid supply concerns, <b>geopolitical risks</b>, and potential sanctions on Russian oil exports....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehawk.in/news/economy-and-business/brent-crude-jumps-to-110-amid-fading-prospects-of-supply-relief&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw157zXj-9JYTNZLGOL2h9kg))
 
-**🔴 Market News Themes: Crypto Rules, Sectors, Rates, Inflation - Revista 5W**
-> *Key <b>Geopolitical Risks</b> Affecting Global Commodity Prices. Monitor Russian oil sanctions; Brent crude faces volatility below $80 if OPEC+ cuts&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.revista5w.com/market-news-themes-crypto-rules-sectors-rates-inflation-i1710r-175567&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2pzm_8FydeHXY_KdbZV0hG))
+**🟡 Hormuz reopening is positive but <b>global energy</b> crisis is not over, IMF warns**
+> *Even if benchmark prices fell, buyers could still face high costs to <b>secure</b> actual deliveries of oil and gas. Confidence would return only when ships&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nationthailand.com/business/economy/40072422&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3iLsBi9KYvU66n3WD_rSPc))
 
-**🔴 The once-obscure tech at the heart of the green <b>energy</b> trade war - Financial Times**
-> *Power inverters are central to the <b>global</b> clean electricity boom but reliance on China is triggering <b>security</b> fears....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/bc221890-6718-4792-967c-9828e96f38af%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1tedFOs6YHGKxT5l_LlPln))
+**🟡 French Envoy Warns Horn Leaders To Treat Climate Change As A <b>Security</b> Threat**
+> *... <b>global</b> investment in renewable <b>energy</b>, despite holding immense green potential. Faraco also pointed to institutional capacity gaps within some&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thereporterethiopia.com/53485/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2xfTx0WticXbJx0UD_J3HK))
 
-**🟡 How small modular reactors put nuclear <b>energy</b> back on the table for Singapore and ASEAN**
-> *... <b>global energy</b> crisis, Singapore subtly signalled its changed stance on nuclear energy. ... energy <b>security</b>. Singapore now relies on burning&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.straitstimes.com/singapore/environment/how-small-modular-reactors-put-nuclear-energy-back-on-the-table-for-singapore-and-asean&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw11vQlK7PMesfsZSmuuP3y_))
+**🟡 Trump's Russia sanctions waiver: Relief for India's oil imports, but US still wields the stick**
+> *... <b>global energy</b> supply and price scenario. India, too, was banking on it. Trump has now signed an executive order waiving key Russia-related&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indianexpress.com/article/explained/explained-economics/russian-oil-tariff-waiver-india-energy-security-trump-10925795/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2-IsWDA4rX6xrulnOaHmuo))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Does the euro have a chance to become genuinely global? - Tomorrow's Affairs**
-> *While gold offers some protection against <b>geopolitical risk</b> and crypto ... Sweden illustrates how economic integration and geopolitical shifts have&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tomorrowsaffairs.com/does-the-euro-have-a-chance-to-become-genuinely-global&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1vhCf2iWQn8wZwxSpZElhs))
+**🟢 Defending Saudi Arabia Is Key To Global Economy - OpEd - Eurasia Review**
+> *... <b>geopolitical risk</b> premium. The East-West Pipeline to Yanbu, which had been carrying roughly 4 million barrels per day as a bypass for the Strait&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/18102026-defending-saudi-arabia-is-key-to-global-economy-oped/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ie6AileyvBAmcM_TElThn))
 
-**🟢 Market Futures Themes: Commodities, Energy, Grain, Crypto - Revista 5W**
-> *However, hedging strategies should incorporate weather forecasts and crop yield projections to minimize risk. ... <b>Geopolitical Risks</b> Most Likely to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.revista5w.com/market-futures-themes-commodities-energy-grain-crypto-i1710r-175571&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ZT1m5jTdxruL9SL1n44Kd))
+**🔴 Oman's stock market retreats amid <b>geopolitical</b> uncertainty**
+> *The market came under pressure from intensifying tanker incidents in the Strait of Hormuz and <b>geopolitical</b> uncertainty. Regional tensions capped <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://timesofoman.com/article/178086-omans-stock-market-retreats-amid-geopolitical-uncertainty&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2D627vw51GO-LuXvR_jXqG))
 
-**🟡 <b>Global</b> Flow Measurement Workshop 2027 - 52865 - Tekna**
-> *... <b>energy</b> sector. Recent <b>global</b> events have highlighted how critical oil and gas remain to <b>energy security</b>, economic stability, and society's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tekna.no/en/events/global-flow-measurement-workshop-2027-52865/About/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3WzuvTzzjkknLNjnrZU7uW))
+**🟡 Nothing stops this train! | The Western Producer**
+> *Over the past four years, despite an incredible array of political and <b>geopolitical risks</b>, the stock market has been on fire. ... risk by shorting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.producer.com/farm-family/nothing-stops-this-train/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3GFc5bL4QWs4haDmoF7gKo))
 
-**🔴 Saudi Arabia has more <b>security</b> partners than ever. So why isn't it safer? - Atlantic Council**
-> *In just three days, Riyadh's <b>international</b> airport was attacked not once but three times, leaving at least twelve people dead and more than three&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.atlanticcouncil.org/dispatches/saudi-arabia-has-more-security-partners-than-ever-so-why-isnt-it-safer/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1orgkJ4YxbjgwSSp6dZZ7X))
+**🟡 Defending Saudi Arabia Is Key To <b>Global</b> Economy - OpEd - Eurasia Review**
+> *... <b>global energy</b> system. Before drone strikes forced ... Macron has said France will raise energy <b>security</b> with its G7 partners in the coming weeks....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/18102026-defending-saudi-arabia-is-key-to-global-economy-oped/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2ie6AileyvBAmcM_TElThn))
 
-**🟢 Introduction | <b>World</b> Economic Forum**
-> *<b>Security</b>, resilience, affordability and delivery are central to sustaining progress. The <b>energy</b> transition was once driven primarily by falling&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.weforum.org/publications/energy-transition-index-2026/introduction-energy-transition-index-2026&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1mqwlsNVqEpgJLKBW_fooB))
+**🔴 Ursula von der Leyen After EU Summit: <b>Energy</b>, China, Ukraine, Migration - YouTube**
+> *Her remarks covered <b>energy security</b>, China, the EU budget, Ukraine and ... <b>global</b> markets and geopolitical tensions. Here is a closer look at&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DiYf5HqVns78&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0l6-yk7baNAuORvGr74MeE))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟡 Crude oil surge above $100 shakes Sensex, rupee in Oct 2026 | Market News &amp; Analysis**
-> *... risk and supply concerns, even as prices ... One update noted crude falling to around $105 as markets assessed supply and <b>geopolitical risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.multibagg.ai/market-pulse/articles/crude-oil-surge-market-impact-cmvbt8ax9000p3euhdfcknkqy&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0cMSv2Zr15_eZKDkah1Tob))
+**🟡 3 Oil And Gas Stocks With Pricing Power As Crude Stays High - Simply Wall St News**
+> *Energy markets are back on center stage, with high crude prices, tight diesel supply and persistent <b>geopolitical risk</b> reshaping where profits and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/energy/nyse-tdw/tidewater/news/3-oil-and-gas-stocks-with-pricing-power-as-crude-stays-high&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3759JO0DPGV69r0uTprY3x))
 
-**🟢 The Analysts' Brief: The US-Russia Diesel Deal - Steptoe**
-> *The Analysts' Brief, Russia, Global Energy Markets, <b>Geopolitical Risks</b>. Overview. On October 9, the Trump administration announced a temporary&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/the-analysts-brief-the-us-russia-diesel-deal.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2xRcl7nC4wNyDtuQ-0Gwlq))
+**🟢 Shipping and Energy Newsletter - Autumn Edition 2026 | Haynes Boone - JDSupra**
+> *In shipping, we consider how design <b>risk</b> can be allocated and managed in complex first-of-a-kind shipbuilding projects, and how <b>geopolitical</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/shipping-and-energy-newsletter-autmn-1296340/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3nY3Zj3JsZxqqCZ6Uc6uym))
 
-**🟢 IMF: Global Economy Tested But Resilient - MEES**
-> *Assess future risks and opportunities. I Accept Mees Terms of Use. Unlock Content. Sections: Economics &amp; Finance <b>Geopolitical Risk</b> OPEC &amp; Global&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mees.com/2026/10/16/economics-finance/imf-global-economy-tested-but-resilient/bbc303c0-c960-11f1-8698-c3e6d80a8666&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0m2Nfr5VyYFDn2JGfZNu7U))
+**🔴 <b>Geopolitical</b> Conflicts Reshape the Hidden Network Wiring of Stock Markets**
+> *Previous research cited in the study has documented <b>geopolitical risk</b> effects on asset returns in Chinese markets, the impact of sudden shocks on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://bioengineer.org/geopolitical-conflicts-reshape-the-hidden-network-wiring-of-stock-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2R8N2kufczbMUmodcP2hO9))
 
-**🟢 Morningstar DBRS Confirms the European Union at AAA, Stable Trend**
-> *... <b>geopolitical risks</b> that weigh on economic growth prospects. EU debt is ... risk of the EU's dissolution; or (3) a downgrade of the Republic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://dbrs.morningstar.com/research/491456/morningstar-dbrs-confirms-the-european-union-at-aaa-stable-trend&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ujCPdIh-Tbpn9OIfhG6F0))
+**🔴 Crude Oil Prices Cross $110, Putting India's Urban Economy at <b>Risk</b>**
+> *The movement followed heightened <b>geopolitical</b> tensions in the Middle East and eastern Europe, including reported threats to important oil shipping&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://urbanacres.in/crude-oil-prices-cross-110-putting-indias-urban-economy-at-risk/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0yaya4VZ0RemE10CutBM4m))
 
-**🟢 The BR International Trade Report: October 2026 | Blank Rome LLP - JDSupra**
-> *... <b>geopolitical risk</b> issues impacting businesses domestically and abroad. Recent Developments. Treasury announces first outbound investment penalty&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.jdsupra.com/legalnews/the-br-international-trade-report-7819370/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0S2ETisDh8Zva-30tNGzta))
+**🟢 [WEEKLY FOCUS] <b>Global</b> diesel prices surge: How safe is South Korea's <b>energy security</b>?**
+> *Our economic correspondent Lee Ju-yeon joins us to break down these supply bottlenecks and where South Korea stands. Welcome, Ju-yeon. Thanks for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.arirang.com/news/view%3Fid%3D302005&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0P50KSlW61pVbDnFsZ9roR))
 
 
 ## 🏛 LEADERSHIP
-**🟢 DNA with Rahul Sinha: '<b>REGIME CHANGE</b>' पर सियासी संग्राम!..कांग्रेस को क्यों देनी पड़ी सफाई?**
-> *... <b>regime change</b>.&quot; <b>Regime change</b> refers to the complete overhaul of a country's governance system or the power structure. This term has traveled&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dfn6zKMNQuDA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw28-j0mjjHQfO-hzPbKENWd))
+**🟢 <b>Regime Change</b> Plot: Who Is Driving The Protests? | Media Scan - YouTube**
+> *WATCH FULL EPISODE - https://youtu.be/fGNHXdEPJfs In this discussion, the host asks Colonel Rohit Dev why a &quot;<b>regime change</b>&quot; push is being&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D41AwW3wrXZA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3h4MJRZkxcbYEWd8QeRF_P))
 
-**🟡 '<b>Regime change</b>' clash: BJP cries 'anarchy', Congress cites democratic means**
-> *Rather than merely a change of government, '<b>regime change</b>' is often understood to refer to more fundamental changes involving political systems,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.telegraphindia.com/india/regime-change-clash-bjp-cries-anarchy-congress-cites-democratic-means-prnt/cid/2185083&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2VAtifb8BF90FLbeigqjDA))
+**🟢 <b>Regime change</b> in Delhi will happen by voting only, says Prakash Raj - The Hindu**
+> *Prakash Raj urges voting-powered <b>regime change</b> in India, insisting protests will oust Delhi's regime, not via violence, but through democratic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/news/national/kerala/regime-change-in-delhi-will-happen-by-voting-only-says-prakash-raj/article71597400.ece&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0VE6vQWJ8qo4cxFhUguQjw))
 
-**🔴 Assam CM Himanta Sarma accuses 'anti-national forces' of plotting <b>regime change</b>**
-> *Assam CM Himanta Biswa Sarma accused 'anti-national forces' of seeking <b>regime change</b> through protests; Prashant Bhushan denied an opposition plot....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thenewsmill.com/2026/10/assam-cm-himanta-sarma-accuses-anti-national-forces-of-plotting-regime-change/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2MxCbclQw8BvSYqt2W9sFJ))
+**🟢 Egypt's Sissi asks parliament to authorise support for Saudi - The Korea Herald**
+> *Egypt joined the Saudi-led intervention in 2015, although its role has largely focused on securing Red <b>Sea shipping routes</b> rather than front-line&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.koreaherald.com/article/10906127&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw0J9snYSZWyc8o6Du9wLEal))
 
-**🟢 Sawant hits out at Opposition over Bhushan's '<b>regime change</b>' remarks - The Navhind Times**
-> *NT Reporter Panaji Chief Minister Pramod Sawant on Friday accused the Opposition of pursuing a <b>regime</b>-<b>change</b> agenda, citing remarks by senior&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://navhindtimes.in/goanews/sawant-hits-out-at-opposition-over-bhushans-regime-change-remarks/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3WKHmH5VGMW92Qtifq1O-j))
+**🟢 Egypt's Sisi asks parliament to authorise support for Saudi Arabia - Business Recorder**
+> *Egypt joined the Saudi-led intervention in 2015, although its role has largely focused on securing Red <b>Sea shipping routes</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brecorder.com/news/amp/40444689&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw2K4MTRjrsdT8ywB1NzWE7O))
 
-**🔴 Protest Or Anarchy? SIR, <b>Regime Change</b> And The Right To Protest - NDTV**
-> *... <b>regime change</b>&quot; has triggered a political row, with the BJP alleging that the opposition is seeking Bangladesh-style <b>regime change</b>. With Section&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtv.com/video/protest-or-anarchy-sir-regime-change-and-the-right-to-protest-1175639&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3XdpiGd851jiK-GAwN8DlY))
+**🟢 Houthis Attacks: Egypt's Sisi Asks Parliament To Authorise Support For Saudi Arabia**
+> *Egypt joined the Saudi-led intervention in 2015, although its role has largely focused on securing Red <b>Sea shipping routes</b> rather than frontline&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.channelstv.com/2026/10/17/houthis-attacks-egypts-sisi-asks-parliament-to-authorise-support-for-saudi-arabia/&ct=ga&cd=CAIyGjU4ZDM0ZGZjMDgxMDU4OTg6Y29tOmVuOklO&usg=AOvVaw3nxxbHP0Ml-_KiWzj8YYqJ))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 USS Benfold returns to Everett after 8-month <b>Indo</b>-<b>Pacific</b> deployment - Lynnwood Times**
-> *16 after more than eight months of operations supporting regional <b>security</b> and U.S. partnerships across the <b>Indo</b>-<b>Pacific</b>, the U.S. Navy announced....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://lynnwoodtimes.com/2026/10/16/uss-benfold-returns/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3RANwrnmU4X5VXnprrgg9W))
+**🟡 Texas Crude Closes at $101 for the First Time in a Month: Hormuz Mines, Houthi Missiles ...**
+> *... <b>geopolitical risk</b> premium embedded in crude prices is unlikely to dissipate quickly. Trading Economics' macro models project WTI near $95.54 by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.latintimes.com/texas-crude-closes-101-first-time-month-hormuz-mines-houthi-missiles-ukraine-drones-600278&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0aPYPQ2s1SSCYXCZ9RI9Q7))
 
-**🟢 USS Theodore Roosevelt Arrives in Yokosuka - Navy.mil**
-> *... <b>Indo</b>-<b>Pacific</b>. (U.S. Navy photo by Mass Communication Specialist 1st ... “The U.S.-Japan Alliance serves as the cornerstone of peace and <b>security</b> across&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4627146/uss-theodore-roosevelt-arrives-in-yokosuka/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3UkLtSSR9_tBtgSeUNMCNT))
+**🟢 HMAS Sydney returns to Australia after 131-day <b>Indo</b>-<b>Pacific</b> deployment - NT News**
+> *... <b>security</b> and defence ties. HMAS Sydney returned to Fleet&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ntnews.com.au/news/breaking-news/hmas-sydney-returns-to-australia-after-131day-indopacific-deployment/news-story/099eea8def9b4bca8f3662cae0596514&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw076AQZAXpAQl_5O1wJ44Xd))
 
-**🟢 Vietnam seeks deeper telecommunications technology cooperation with Nokia**
-> *​Hanoi (VNA) - Gen. Luong Tam Quang, Politburo member and Minister of Public <b>Security</b>, received Andrew Cope, Nokia's head of <b>Asia</b>-<b>Pacific</b>, in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.vietnamplus.vn/vietnam-seeks-deeper-telecommunications-technology-cooperation-with-nokia-post353782.vnp&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1e75pgQbWTH9CD-yvRJJcO))
+**🟢 Trump's second Asean summit presence comes at a price for region**
+> *... <b>Asia</b>-<b>Pacific</b> Economic Cooperation (Apec) summit in Shenzhen that same week. ... “The administration has made it clear that economic <b>security</b> is now&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/week-asia/economics/article/3371132/trumps-second-asean-summit-presence-comes-price-region%3Fpgtype%3Dlive&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1lBeNBPXP3klXK2AygumZ4))
 
-**🟢 In Forum FOIP: AUKUS in a Free and Open Indo-Pacific - 9DashLine**
-> *Rising Chinese assertiveness in the <b>South China Sea</b> and East China Sea ... This <b>tension</b> is rooted in Pacific Island countries' longstanding&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.9dashline.com/article/in-forum-foip-aukus-in-a-free-and-open-indo-pacific&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1ISfzaChuhII5jxXOo0SD5))
+**🟢 HMAS Sydney returns home after 131-day <b>Indo</b>-<b>Pacific</b> deployment - Defence**
+> *HMAS Sydney has returned to Australia following 131 days operating across the <b>Indo</b>-<b>Pacific</b> demonstrating Australia's commitment to regional <b>security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.defence.gov.au/news-events/releases/2026-10-18/hmas-sydney-returns-home-after-131-day-indo-pacific-deployment&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw38P5mWiZeuru0PyXzJ-0np))
 
-**🟢 'WELL IT SOUNDS VERY MUCH TO ME LIKE A THREAT' President Bongbong Marcos ...**
-> *... <b>tensions</b> in the West Philippine Sea. “Well it sounds very much to ... China's position on the <b>South China Sea</b> at an international forum. In&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/PhilippineSTAR/videos/well-it-sounds-very-much-to-me-like-a-threatpresident-bongbong-marcos-reacts-to-/1670178961122248/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3VWawE2KVTseo4vPpoCOx5))
+**🟢 Saab receives order for new Gripen computer | <b>Asia Pacific</b> Defence Reporter**
+> *... <b>security</b> of supply. The project will be carried out in close cooperation with FMV. The flight control computer is a central component in Gripen's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiapacificdefencereporter.com/posts/saab-receives-order-for-new-gripen-computer&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2jV2rk0UN32lu5rCQPGfON))
 
 ---
 *Generated by Avellon Risk Engine v2.0*

@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 17 October 2026
+**Date:** 18 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Ethiopia's Red Sea Strategy: Advancing Maritime Interests and Strategic Autonomy amid ...
+**Source News:** President Trump Signs Executive Order Waiving Key Russian Sanctions and Tariffs Under ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Ethiopia's Red Sea Strategy: Advancing Maritime Interests and Strategic Autonomy amid ...
+- **The News:** President Trump Signs Executive Order Waiving Key Russian Sanctions and Tariffs Under ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Does the euro have a chance to become genuinely global? - Tomorrow's Affairs
+**Source News:** Defending Saudi Arabia Is Key To Global Economy - OpEd - Eurasia Review
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Does the euro have a chance to become genuinely global? - Tomorrow's Affairs
+- **The News:** Defending Saudi Arabia Is Key To Global Economy - OpEd - Eurasia Review
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Crude oil surge above $100 shakes Sensex, rupee in Oct 2026 | Market News &amp; Analysis
+**Source News:** 3 Oil And Gas Stocks With Pricing Power As Crude Stays High - Simply Wall St News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Crude oil surge above $100 shakes Sensex, rupee in Oct 2026 | Market News &amp; Analysis
+- **The News:** 3 Oil And Gas Stocks With Pricing Power As Crude Stays High - Simply Wall St News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** DNA with Rahul Sinha: '<b>REGIME CHANGE</b>' पर सियासी संग्राम!..कांग्रेस को क्यों देनी पड़ी सफाई?
+**Source News:** <b>Regime Change</b> Plot: Who Is Driving The Protests? | Media Scan - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** DNA with Rahul Sinha: '<b>REGIME CHANGE</b>' पर सियासी संग्राम!..कांग्रेस को क्यों देनी पड़ी सफाई?
+- **The News:** <b>Regime Change</b> Plot: Who Is Driving The Protests? | Media Scan - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
