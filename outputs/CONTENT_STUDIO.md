@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 18 October 2026
+**Date:** 19 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** President Trump Signs Executive Order Waiving Key Russian Sanctions and Tariffs Under ...
+**Source News:** Brent (UKOIL) Is down 2.08% on Oct 19: Why It Happened - TradingKey
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** President Trump Signs Executive Order Waiving Key Russian Sanctions and Tariffs Under ...
+- **The News:** Brent (UKOIL) Is down 2.08% on Oct 19: Why It Happened - TradingKey
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Defending Saudi Arabia Is Key To Global Economy - OpEd - Eurasia Review
+**Source News:** Gold gains ground above $4,150 as Fed avoids policy signals, <b>geopolitical risks</b> stay in focus
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Defending Saudi Arabia Is Key To Global Economy - OpEd - Eurasia Review
+- **The News:** Gold gains ground above $4,150 as Fed avoids policy signals, <b>geopolitical risks</b> stay in focus
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** 3 Oil And Gas Stocks With Pricing Power As Crude Stays High - Simply Wall St News
+**Source News:** Gold Rises on Cautious Fed and <b>Geopolitical</b> Tensions - TradingPedia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** 3 Oil And Gas Stocks With Pricing Power As Crude Stays High - Simply Wall St News
+- **The News:** Gold Rises on Cautious Fed and <b>Geopolitical</b> Tensions - TradingPedia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** <b>Regime Change</b> Plot: Who Is Driving The Protests? | Media Scan - YouTube
+**Source News:** विपक्ष का नया सियासी हथियार '<b>REGIME CHANGE</b>' पर छिड़ी जंग |ABPLIVE - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Regime Change</b> Plot: Who Is Driving The Protests? | Media Scan - YouTube
+- **The News:** विपक्ष का नया सियासी हथियार '<b>REGIME CHANGE</b>' पर छिड़ी जंग |ABPLIVE - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
