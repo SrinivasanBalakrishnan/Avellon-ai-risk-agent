@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 20 October 2026
+**Date:** 21 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Brent crude holds near five-month high on Middle East tension - The HinduBusinessLine
+**Source News:** Britain Is Said to Approve New Gas Drilling in the North Sea - The New York Times
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brent crude holds near five-month high on Middle East tension - The HinduBusinessLine
+- **The News:** Britain Is Said to Approve New Gas Drilling in the North Sea - The New York Times
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold Price Forecast: XAU/USD sellers remain in control while below 21-day SMA - FXStreet
+**Source News:** Why gold and silver remain under pressure despite <b>geopolitical risks</b> and festive buying
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold Price Forecast: XAU/USD sellers remain in control while below 21-day SMA - FXStreet
+- **The News:** Why gold and silver remain under pressure despite <b>geopolitical risks</b> and festive buying
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil wavers near five-month high as Iran's Hormuz threats vie with flows
+**Source News:** Stronger Cost Side Drives Positive China ABS Market in Mid-October - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil wavers near five-month high as Iran's Hormuz threats vie with flows
+- **The News:** Stronger Cost Side Drives Positive China ABS Market in Mid-October - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** <b>Indonesia</b> to deploy more than 9,000 <b>security</b> officers at protests marking Prabowo's two ... - Reuters
+**Source News:** CJP Leaders' Custody Challenged in Delhi HC | RSS Chief Mohan Bhagwat - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Indonesia</b> to deploy more than 9,000 <b>security</b> officers at protests marking Prabowo's two ... - Reuters
+- **The News:** CJP Leaders' Custody Challenged in Delhi HC | RSS Chief Mohan Bhagwat - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
