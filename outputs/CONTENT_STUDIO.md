@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 23 October 2026
+**Date:** 24 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Market shows unusual patience on low oil inventory and <b>geopolitical risk</b>, Rory Johnston notes
+**Source News:** After <b>Energy Security</b>, Iran Draws Up Plans to Target Gulf Undersea Internet Cables If War ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Market shows unusual patience on low oil inventory and <b>geopolitical risk</b>, Rory Johnston notes
+- **The News:** After <b>Energy Security</b>, Iran Draws Up Plans to Target Gulf Undersea Internet Cables If War ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Watch Blackstone's Gray Says AI Demand Is 'Parabolic' - Bloomberg.com
+**Source News:** Oil Futures Post Weekly Gains on Middle East Escalation Fears - WSJ
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Watch Blackstone's Gray Says AI Demand Is 'Parabolic' - Bloomberg.com
+- **The News:** Oil Futures Post Weekly Gains on Middle East Escalation Fears - WSJ
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Rising Geopolitical Risks in the Middle East Crude Oil Price Rebound - SunSirs
+**Source News:** OIL PRICES CLIMB as Middle East Supply Fears Intensify — Brent Nears $115 and WTI ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rising Geopolitical Risks in the Middle East Crude Oil Price Rebound - SunSirs
+- **The News:** OIL PRICES CLIMB as Middle East Supply Fears Intensify — Brent Nears $115 and WTI ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** UK Government launches world-first Climate and Nature Security Taskforce
+**Source News:** Watch List: Europeans Protest Over Affordability Ahead of Elections - Steptoe
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UK Government launches world-first Climate and Nature Security Taskforce
+- **The News:** Watch List: Europeans Protest Over Affordability Ahead of Elections - Steptoe
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
