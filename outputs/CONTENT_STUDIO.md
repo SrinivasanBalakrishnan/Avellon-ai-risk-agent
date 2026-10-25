@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 24 October 2026
+**Date:** 25 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** After <b>Energy Security</b>, Iran Draws Up Plans to Target Gulf Undersea Internet Cables If War ...
+**Source News:** Shaken, not stirred | Daily Tribune
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** After <b>Energy Security</b>, Iran Draws Up Plans to Target Gulf Undersea Internet Cables If War ...
+- **The News:** Shaken, not stirred | Daily Tribune
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil Futures Post Weekly Gains on Middle East Escalation Fears - WSJ
+**Source News:** Defensive Investment Strategy Ahead Of The &quot;Big Three&quot; Events - BusinessToday Malaysia
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Futures Post Weekly Gains on Middle East Escalation Fears - WSJ
+- **The News:** Defensive Investment Strategy Ahead Of The &quot;Big Three&quot; Events - BusinessToday Malaysia
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** OIL PRICES CLIMB as Middle East Supply Fears Intensify — Brent Nears $115 and WTI ...
+**Source News:** Market recovery hinges on earnings, fund inflows - The Financial Express
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** OIL PRICES CLIMB as Middle East Supply Fears Intensify — Brent Nears $115 and WTI ...
+- **The News:** Market recovery hinges on earnings, fund inflows - The Financial Express
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Watch List: Europeans Protest Over Affordability Ahead of Elections - Steptoe
+**Source News:** Swing State: Navigating Midterm Volatility - The Dark Side Of The Boom
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Watch List: Europeans Protest Over Affordability Ahead of Elections - Steptoe
+- **The News:** Swing State: Navigating Midterm Volatility - The Dark Side Of The Boom
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
