@@ -1,99 +1,96 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 25 October 2026
+**Date:** 26 October 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 12.0)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 6.0)
-- **Taiwan Strait** (Risk Score: 3)
+- **Strait of Hormuz** (Risk Score: 13.5)
+- **Panama Canal** (Risk Score: 4.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 2.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Shaken, not stirred | Daily Tribune**
-> *... <b>geopolitical risk</b> potentially adds to the peso's downward trajectory. With new lows, it is not surprising that the local equity market, as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tribune.net.ph/2026/10/24/shaken-not-stirred&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3gn1fMqAlH1reh39KYB7_d))
+**🟡 Federal Court guidance on civil penalties for breaches of an insurer's statutory duty of utmost good**
+> *<b>Geopolitical risk</b> &amp; sanctions &middot; Connected World Blog &middot; Our People &middot; Our ... If you realise that you are in risk of breach, make genuine attempts to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.clydeco.com/en/insights/2026/10/federal-court-guidance-on-civil-penalties-for-brea&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1s9nwsKoheUe5IXXtwaR50))
 
-**🟡 Polls open for presidential election in Bulgaria dominated by <b>economic</b> hardship and the Ukraine <b>war</b>**
-> *SOFIA, Bulgaria (AP) — Bulgarians headed to the polls on Sunday to elect their next president in a campaign centered on growing <b>economic</b> hardship&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=http://www.ktvn.com/news/world/polls-open-for-presidential-election-in-bulgaria-dominated-by-economic-hardship-and-the-ukraine-war/article_801f99e4-ba2f-524f-89b9-2d20d86e2a2d.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2iv-J7C0XPuJErwLIArGJ-))
+**🔴 EUR/USD Lingers Near 1.1200 as ECB, Fed and Eurozone Inflation Data Take Centre Stage**
+> *<b>Geopolitical Risks</b> and Inflation Outlook. Geopolitical strains around the Strait of Hormuz and the Russia-Ukraine war have fed into higher energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.vtmarkets.com/en-ca/live-updates/eur-usd-lingers-near-1-1200-as-ecb-fed-and-eurozone-inflation-data-take-centre-stage/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1Uq0MZtA7ucaXuRtEp0bNn))
 
-**🔴 Polls open for presidential election in Bulgaria dominated by <b>economic</b> hardship and Ukraine <b>war</b>**
-> *Bulgarians are heading to the polls Sunday to elect their next president amid drone attacks on Black Sea shipping and growing <b>economic</b> hardships&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.audacy.com/newsradiowrva/news/world/bulgaria-president-election-energy-war-71e668caf5e926fd16395c392bc1920c&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0h7A-CP8ZByiY7GKDQSiY1))
+**🔴 WTI Futures (USOIL-F) Is down 2.04% on Oct 26: Key Drivers to Watch - TradingKey**
+> *WTI crude oil futures declined due to profit-taking and lower <b>geopolitical risks</b>.Macroeconomic caution and a stronger U.S. dollar added downward&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/news/market-movers/262238311-market-movers-usoil-f-20261026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0P3ULB-ZSSBtisTCYCMxMb))
 
-**🟡 Polls Open for Presidential Election in Bulgaria Dominated by <b>Economic</b> Hardship and Ukraine <b>War</b>**
-> *SOFIA, Bulgaria (AP) — Bulgarians are heading to the polls Sunday to elect their next president in a campaign centered on growing <b>economic</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.usnews.com/news/world/articles/2026-10-25/polls-open-for-presidential-election-in-bulgaria-dominated-by-economic-hardship-and-ukraine-war&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2dFAraNpMbSvuQn5-R4Q2q))
+**🟡 Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran - Al Jazeera**
+> *... <b>International Energy</b> Week conference. “So therefore, we all need to get prepared, taking the energy <b>security</b> as a number one priority in our&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2T4RJ0zmYkHYdXVWUaqR3L))
 
-**🔴 The invisible coup: How covert regime change is reshaping the world - Counterview**
-> *&quot;Covert activities related to propaganda; <b>economic warfare</b>; preventative direct actions, including sabotage, anti-sabotage, demolition, and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.counterview.net/2026/10/the-invisible-coup-how-covert-regime.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw06QF_tCJnQ5t_wCKBnR08w))
+**🟡 Nuclear power making a comeback—IEA chief Fatih Birol - ThePrint**
+> *... energy-<b>security</b> concerns. He added that the <b>global energy</b> system faced a major <b>security</b> challenge since the US and Israel first struck Iran in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theprint.in/economy/nuclear-power-making-comeback-as-war-driven-energy-crisis-pushes-diversification-iea-chief-fatih-birol/3081510/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0TfHJkYK0ImSl7j-KIhtde))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Defensive Investment Strategy Ahead Of The &quot;Big Three&quot; Events - BusinessToday Malaysia**
-> *... risk. The bank also favours Australian dollar-denominated corporate ... <b>geopolitical risks</b>. Bhattacharya said a diversified portfolio across&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.my/2026/10/25/defensive-investment-strategy-ahead-of-the-big-three-events/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1oNQ_lxuJDPwIid-pTkqUS))
+**🟢 [MARKET ANALYSIS] Oil prices pulled back after last Friday's surge and following mixed ...**
+> *... <b>geopolitical risk</b> cycles. What our morning note said. What's moving oil · 3 days before this headline. Benchmarks eased a touch off earlier highs&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newsquawk.com/headlines/market-analysis-oil-prices-pulled-back-after-last-fridays-surge-and-following-mixed-geopolitical-headlines-over-the-weekend&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2PdyFFJoGHJpRmptfXSnKz))
 
-**🟢 Hayes Liquidates $22.28M Crypto Book as Maelstrom Flags Macro <b>Risk</b> - BigGo Finance**
-> *Hayes confirmed the move on X, citing macroeconomic and <b>geopolitical risk</b> and saying he will wait before returning to the market. He described the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/e86ace9e-494f-4936-a9c4-50ad2d5e2add&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw16Qlhor30Uctwj5T8K1TTj))
+**🟡 Singapore Working With Saudi Arabia on Crude Storage to Boost <b>Energy Security</b>**
+> *... energy <b>security</b>. Under the proposed arrangement, crude from Saudi ... <b>global energy</b> flows due to the closure of the Strait of Hormuz--a key&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/dow-jones/2026102672/singapore-working-with-saudi-arabia-on-crude-storage-to-boost-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2pMPJXe5JeOD6ZQ9zDwuvs))
 
-**🔴 Spot Gold: Ready To Start Buying Again, After Being Pessimistic Year-To-Date (GLD)**
-> *I am turning constructive on Spot Gold, citing stagflation <b>risk</b>, persistent <b>geopolitical</b> tensions, and ongoing central bank gold accumulation as&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4957200-spot-gold-ready-to-start-buying-again-after-being-pessimistic-year-to-date&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2gwKOeAHaP5nSl052svmwT))
+**🟢 Fiji launches <b>Pacific's</b> first maritime <b>security</b> strategy - Daily Cargo News**
+> *AUSTRALIA has renewed its commitment to a free and open <b>Indo</b>-<b>Pacific</b> at the Quad foreign ministers meeting in India. Foreign minister Penny Wong&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thedcn.com.au/news/fiji-launches-pacifics-first-maritime-security-strategy&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3XHXcayQnQTkW9c3u_8Lo-))
 
-**🟢 Diamondback Energy (FANG) Shares Moved, What Is Catching Investors' Attention?**
-> *This helps explain why fresh <b>geopolitical risk</b> and the November earnings event are drawing so much attention to a stock now priced at US$205.75....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/energy/nasdaq-fang/diamondback-energy/news/diamondback-energy-fang-shares-moved-what-is-catching-invest&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0-BhBL8WypiA6DCGScVkli))
+**🟡 Inside the lab where <b>security</b> teams attack their own code with frontier AI - GovInsider**
+> *... (<b>Asia</b>-<b>Pacific</b> and Japan) at Palo Alto Networks. Image: Cogswell's LinkedIn. This story is part of GovInsider's Digital Trust &amp; Cybersecurity&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://govinsider.asia/intl-en/article/inside-the-lab-where-security-teams-attack-their-own-code-with-frontier-ai&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3v9VDqfXwohbbuYjtonwGX))
 
-**🟢 Oil Prices Are Soaring: How To Profit No Matter What Happens Next | Seeking Alpha**
-> *... <b>geopolitical risk</b> premium evaporates. However, I believe there is a much better way to play this uncertainty: owning high-quality midstream&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/article/4957221-oil-prices-are-soaring-how-to-profit-no-matter-what-happens-next&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3Olnq5eOMmM7hNb0WND9q_))
+**🟢 ETH Zurich research finds 407 cyber incidents targeting the space sector in 2025**
+> *... <b>security</b> systems. For Australia and <b>Indo</b>-<b>Pacific</b> partners, the report points to growing reliance on commercial Earth observation, satellite&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://spaceanddefense.io/eth-zurich-research-finds-407-cyber-incidents-targeting-the-space-sector-in-2025/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1ZjbMnxCazsVPv8pJVRDgf))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Market recovery hinges on earnings, fund inflows - The Financial Express**
-> *... <b>geopolitical</b> tensions pose additional <b>risks</b>. &quot;The potential escalation of conflicts involving Iran and other parts of the Middle East is a major <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thefinancialexpress.com.bd/stock/bangladesh/market-recovery-hinges-on-earnings-fund-inflows&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2wauDgPYPLHZ4VGfcAVPUZ))
+**🟡 Indian Stock Markets Fall: Crude Oil, <b>Geopolitics</b>, US Fed Policy Impact Investor Sentiment**
+> *... <b>Geopolitical Risks</b> Weigh on Sentiments. Stock Markets Today: Sensex, Nifty Decline as Crude Prices, <b>Geopolitical Risks</b> Weigh on Sentiments. Source&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.rediff.com/business/report/indian-stock-markets-fall-on-october26-crude-oil-geopolitics-us-fed-policy-impact-investor-sentiment/20261026.htm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1WhzYevGq8dhehLnJ3lOuk))
 
-**🟢 Gas Supply may pursue remedies if contract breached following Indonesia's export cuts**
-> *... energy needs amid growing concerns over energy <b>security</b>. This reduction ... <b>International Energy</b> Week conference on Oct 26. “So I would like&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.straitstimes.com/singapore/politics/gas-supply-may-pursue-remedies-if-contract-breached-following-indonesias-export-cuts-tan-see-leng&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2V9QE1raxP5D41JRCiFEa2))
+**🟡 Stock Market Today Live, October 26: Sensex falls over 400 pts, Nifty below 22,500 as oil ...**
+> *... <b>geopolitical risks</b> continuing to dominate sentiment. Brent crude ... risk premium to oil prices. Crude has since eased from Friday's highs&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0lPOuc7cficm5NUEv4HEg8))
 
-**🟡 How Jamnagar fixes the US diesel crisis - DD India**
-> *As Rubio returns to Washington, D.C., one thing is abundantly clear — the road to American economic stability and <b>global energy security</b> runs directly&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ddindia.co.in/2026/10/how-jamnagar-fixes-the-us-diesel-crisis/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2YsM51TbCv3Ll37HIvcd8Q))
+**🔴 Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears**
+> *Gold is being sold on the very <b>geopolitical risk</b> that once lifted it, as oil-driven inflation fears keep Fed hikes in play, leaving $4,000 as the line&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2cdxpUDuBw-rxBlMvc7pEg))
 
-**🟢 Iran's President to attend GECF summit in Moscow - IranOilGas Network**
-> *... <b>global energy security</b>. Leaders are also expected to discuss protecting exporters' interests amid international economic restrictions and changing&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iranoilgas.com/news/details.aspx%3Fid%3D29148%26title%3DIran%25E2%2580%2599s%2BPresident%2Bto%2Battend%2BGECF%2Bsummit%2Bin%2BMoscow&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw13De_y0mujoTxBuDKJmEe2))
+**🟡 Brent (UKOIL) Volatility Intensified on Oct 26: What to Watch - TradingKey**
+> *Brent crude prices retreated due to <b>geopolitical risk</b> recalibration and profit-taking.Macroeconomic demand headwinds and restrictive monetary&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/news/market-movers/262238402-market-movers-ukoil-20261026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw075kGkSuVNcApOteq_xdWl))
 
-**🔴 Tear gas in France and clashes in Italy test euro zone resolve - Investing.com**
-> *... <b>sovereign debt crisis</b>, extended unrest in France and Italy threatens to keep sovereign risk premiums elevated across southern European debt issuers....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/general-news/french-police-deploy-officers-as-paris-braces-for-fresh-protests-5652570&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2sWGRwB9FSVEXgmqTP7WS5))
+**🟡 OIL ABOVE $116 — WHY IS IRAQ SELLING CRUDE AT A | CWN International on Binance Square**
+> *... risks intensified. Yet Iraq reportedly sold 10 million. ... The contrast shows how <b>geopolitical risk</b> can push global benchmarks&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/381123686462309&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0j3mcr33I1k_mb4riKrqW9))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Swing State: Navigating Midterm Volatility - The Dark Side Of The Boom**
-> *... <b>geopolitical risks</b> and monetary policy are already pulling asset prices in different directions. That is the backdrop to Deutsche Bank Research's&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thedarksideoftheboom.substack.com/p/swing-state-navigating-midterm-volatility&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3KEbMVOkLjRfWfBIDmEPRj))
+**🟢 Kharge On PM Modi | BJP Vs Congress | Amit Shah | CM Yogi | Rahul Gandhi - YouTube**
+> *Go to channel News18 India &middot; Desh Ki Pathshala: <b>Regime Change</b> Plan पर PM Modi का बड़ा Action! किसकी साजिश हुई नाकाम&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DroaNk1lisVA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw17kCz1IXfcjUzw4BtBnDE_))
 
-**🟢 Desh Ki Pathshala With Sushant Sinha | देश की पाठशाला Episode 129 | PM Modi - YouTube**
-> *... <b>Regime Change</b> Gang | CJP Protest. DD News. New. 54K views &middot; 2 ... Aman Chopra Debate: Abhijeet Dipke | <b>Regime change</b> | Rahul Gandhi | CJP | Neha Bora....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYThQRDuR3ok&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2R0RMDjwO70hFMc2T95xDu))
+**🟢 BC premier-designate Doerkson says province 'chose <b>change</b>' in election | Globalnews.ca**
+> *The B.C. Conservatives have secured a majority <b>government</b> under new Premier-designate Lorne Doerkson, bringing an end to nearly a decade of NDP rule....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://globalnews.ca/news/12120641/bc-premier-lorne-doerkson-first-remarks/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0FygL2VR3l4ZCd7Uvv572c))
 
-**🟢 मोदी मैदान में आने वाले, विरोधी की पोल खोलेंगे ! <b>Regime Change</b> | Rahul Gandhi | BJP - YouTube**
-> *Special Report: मोदी मैदान में आने वाले, विरोधी की पोल खोलेंगे ! <b>Regime Change</b> | Rahul Gandhi | BJP अगला&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DFhm8Io3jZMg&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0qNeOOHa3081clyYGnhrz5))
+**🔴 Centrelink <b>change</b> leads to protests as payments stopped: 'Punishment <b>regime</b>'**
+> *Communities across Australia will protest the return of Centrelink's 'punishment <b>regime</b>' and call on the <b>government</b> to abolish the Targeted Compliance&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://au.finance.yahoo.com/news/centrelink-change-leads-to-protests-as-payments-stopped-punishment-regime-021802488.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1N-hbVrWAFdpMoxV1EH1nG))
 
-**🟢 Rahul Gandhi पर PM Modi का तीखा वार! सियासत में क्यों मची चर्चा? | Sushant Sinha - YouTube**
-> *22:21 &middot; Go to channel News18 India &middot; Aman Chopra Debate: Abhijeet Dipke | <b>Regime change</b> | Rahul Gandhi | CJP | Neha Bora. News18 India. New. 13K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DXR4Cc4YFelI&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0OhmfnUi5qd7ZYuRowEjvA))
-
-**🟢 राहुल की विदेश यात्रा, BJP का हमला, कांग्रेस के पास नहीं प्लान? - YouTube**
-> *22:21 &middot; Go to channel News18 India. Aman Chopra Debate: Abhijeet Dipke | <b>Regime change</b> | Rahul Gandhi | CJP | Neha Bora. News18 India. New. 8.6K views....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DoqZzDEeI3Qo&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1gUUAzfkhm5mrJ7e8jSQwG))
+**🟢 विपक्ष का <b>Regime Change</b> Plan नहीं हो पाया कामयाब, PM Modi ने उड़ा दिए सभी के होश! - YouTube**
+> *Desh Ki Pathshala: विपक्ष का <b>Regime Change</b> Plan नहीं हो पाया कामयाब, PM Modi ने उड़ा दिए सभी के होश!...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DX0UKaBahxs8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2BuaFCXSz89cCpoXAHPK50))
 
 
 ## 🏛 GENERAL UPDATES
-**🔴 The dashboard spy: inside Malaysia's Waze ban | FMT**
-> *While ordinary citizens use navigation apps without a second thought, the technology poses a distinct national security risk ... If <b>geopolitical risks</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.freemalaysiatoday.com/category/opinion/2026/10/24/the-dashboard-spy-inside-malaysia-s-waze-ban&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0qO7_d0AmNg-gwmnug7YdX))
+**🟢 Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday | Reuters**
+> *... <b>Security</b> Council on regional <b>security</b>. Advertisement · Scroll to ... <b>Asia Pacific</b>category &middot; South Korea's Lee says unlikely to join Pacific&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw00jKCf7atGs0l5W5n-kXIi))
 
-**🟢 Economist: China's new quality productive forces benefit <b>Asia</b>-<b>Pacific</b> - CGTN**
-> *Ahead of the APEC meeting in November, Alfred Schipke, director of the East Asian Institute at the National University of Singapore,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.cgtn.com/news/2026-10-24/Economist-China-s-new-quality-productive-forces-benefit-Asia-Pacific-1RvcKkowSAM/share_amp.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0zsI4VUyzoRj1eycIfkZJw))
+**🟢 WATCH: Philippine Defense Secretary Gilberto Teodoro Jr. says regional <b>security</b> issues - Facebook**
+> *... <b>Indo</b>-<b>Pacific</b> and the West Philippine Sea. As Manila deepens defense partnerships and expands multilateral cooperation, ASEAN defense mechanisms&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/rapplerdotcom/posts/watch-philippine-defense-secretary-gilberto-teodoro-jr-says-regional-security-is/1672573498238045/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3SOk0GDk9lwTq0ooahhHZx))
 
-**🟢 India <b>China Tension</b> : अरुणाचल बॉर्डर पर भारत-चीन आमने-सामने...मचा हलचल ? | ITBP DG ...**
-> *India China <b>Tension</b> ... ITBP DG ने China की पोल खोली, Arunachal से <b>South China Sea</b> तक, कहां थमेगी Jinping की सनक?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DLxJUkF9X3T4&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3yYg8b2kt4J9Zt4PkEFKgF))
+**🟢 Japan navigates varying agendas in Southeast <b>Asia security</b> cooperation push**
+> *... <b>Indo</b>-<b>Pacific</b> region, based on the National <b>Security</b> Strategy announced in 2022. Similarly, Japan and Indonesia are discussing the possible&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://japantoday.com/category/politics/focus-japan-navigates-varying-agendas-in-southeast-asia-security-cooperation-push&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1IvtF29Uyxc_aaXzDXchw5))
 
-**🟢 लोकतंत्र में जनादेश बड़ा या जनआंदोलन? | Congress | CJP - YouTube**
-> *Round Table With Anjana Om Kashyap Full Show: लोकतंत्र में जनादेश बड़ा या जनआंदोलन? | Congress | CJP &middot; Comments....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DkkcvGsSYwf8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0xj76UDbTZgHEZvjJM3mme))
+**🟢 Merz in <b>Asia</b>: The race for Europe's future - Table.Briefings**
+> *The chancellor wants to deepen economic and <b>security</b> cooperation with Singapore, Japan and South Korea. But <b>Asia</b> expects concrete investment and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://table.media/en/china/talk-of-the-town/merz-in-asia-the-race-for-europes-future&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1JdXdqRqfDO7TXjrHCj_FS))
 
-**🟢 Aclara Resources And 2 Canadian <b>Rare Earth</b> Stocks To Watch - Yahoo Finance**
-> *... <b>elements</b> used in high tech devices, defense systems and electric vehicles. ... Ucore <b>Rare Metals</b> is a Canada based <b>rare earth</b> developer focused&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/markets/stocks/articles/aclara-resources-2-canadian-rare-220935144.html&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw0TDPdCTYZnXHEH6ZYa-ZWN))
+**🟢 <b>Rare Earths</b> Americas, Inc.'s Lock-Up Period To Expire on November 2nd (NYSEAMERICAN:REA)**
+> *<b>Rare Earths</b> Americas' (NYSEAMERICAN:REA - Get Free Report) lock-up period is set to end on Monday, November 2nd. <b>Rare Earths</b> Americas had issued&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.marketbeat.com/instant-alerts/lockup-rare-earths-americas-incs-lock-up-period-to-expire-on-november-2nd-nyseamerican-rea-2026-10-26/&ct=ga&cd=CAIyGjk0MmY0ZTBhZDE4NmMxY2Q6Y29tOmVuOklO&usg=AOvVaw1p92-pBwuBz_Swwr2BH40N))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
