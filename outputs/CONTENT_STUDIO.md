@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 28 October 2026
+**Date:** 29 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Conflict in the Black Sea is Escalating: Outlook and Implications for Regional Security ...
+**Source News:** Why <b>geopolitical</b> readiness breaks down in execution - Kearney
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Conflict in the Black Sea is Escalating: Outlook and Implications for Regional Security ...
+- **The News:** Why <b>geopolitical</b> readiness breaks down in execution - Kearney
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** UMC vs S&amp;P 500: Which Stock to Watch - Bybit
+**Source News:** Are banks turning to Chinese AI models to cut costs? - The Banker
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** UMC vs S&amp;P 500: Which Stock to Watch - Bybit
+- **The News:** Are banks turning to Chinese AI models to cut costs? - The Banker
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Markets price a Fed hold as elections, <b>Geopolitics</b> and Oil threaten the next macro shock
+**Source News:** US Fed Holds Rates, But Another Hike Looms: What It Means For Indian Stock Market - NDTV Profit
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Markets price a Fed hold as elections, <b>Geopolitics</b> and Oil threaten the next macro shock
+- **The News:** US Fed Holds Rates, But Another Hike Looms: What It Means For Indian Stock Market - NDTV Profit
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Courtesy Call on State Minister NAKASONE by the European Parliament Committee on ...
+**Source News:** ASEAN centrality cornerstone of India's Act East Policy, <b>Indo</b>-<b>Pacific</b> vision: Rajnath Singh
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Courtesy Call on State Minister NAKASONE by the European Parliament Committee on ...
+- **The News:** ASEAN centrality cornerstone of India's Act East Policy, <b>Indo</b>-<b>Pacific</b> vision: Rajnath Singh
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

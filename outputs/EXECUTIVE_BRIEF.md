@@ -1,98 +1,100 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 28 October 2026
+**Date:** 29 October 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 16.5)
-- **Panama Canal** (Risk Score: 2)
+- **Taiwan Strait** (Risk Score: 17.5)
+- **Strait of Hormuz** (Risk Score: 8.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 6)
+- **Malacca Strait** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Conflict in the Black Sea is Escalating: Outlook and Implications for Regional Security ...**
-> *Black Sea, Russia-Ukraine war, NATO, <b>Geopolitical Risks</b>. Overview. Over ... risk” zones – categorized almost the entirety of the Black Sea as a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/conflict-in-the-black-sea-is-escalating-outlook-and-implications-for-regional-security-shipping-and-trade.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0hmTSspRHm_oZDJdohm17J))
+**🟡 Why <b>geopolitical</b> readiness breaks down in execution - Kearney**
+> *Companies can diagnose <b>geopolitical risk</b>, but struggle to mobilize around it. Business leaders are well aware of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kearney.com/service/foresight/why-geopolitical-readiness-breaks-down-in-execution&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3xacoV9aAPUMZwbHRr4Y7z))
 
-**🟢 Australia &amp; India can Accelerate <b>Global</b> Clean <b>Energy</b> Transition: Australian Diplomat**
-> *... <b>energy</b> has helped reduce electricity prices over the past year, strengthening the case for <b>energy security</b> through clean power. Australia also&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pv-magazine-india.com/press-releases/australia-india-can-accelerate-global-clean-energy-transition-australian-diplomat/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3iJdX8Cy8ULBg9XRpg4Frl))
+**🟡 Priced for <b>risk</b> - KSA - EnterpriseAM**
+> *Moubayed sees demand holding up because sovereign bonds have shown limited sensitivity to <b>geopolitical risk</b> amid regional military escalation. She&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://enterpriseam.com/ksa/2026/10/29/115742/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3RcaFgkh11hCrsgzmxrFb4))
 
-**🔴 The American Government's Shameful <b>Economic Warfare</b> Against Cuba - OpEd**
-> *By Dr. Birsen Filip. Key Takeaways: The Trump administration has continued coercive <b>economic</b> measures against Cuba and, through recent statements&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/28102026-the-american-governments-shameful-economic-warfare-against-cuba-oped/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1ElF1GvzHF-OWYcqTbdWM6))
+**🟡 Iran's Araghchi warns 'renewed aggression' could disrupt <b>global energy</b> markets | News.az**
+> *... <b>global</b> gas markets and <b>energy security</b>. The summit, held in Moscow on Tuesday, also provided an opportunity for Iran and Russia to explore ways to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.az/news/iran-s-araghchi-warns-renewed-aggression-could-disrupt-global-energy-markets&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2RVaCg2BlS4Rw0DXOgD_DN))
 
-**🟡 UK's 'Be Ready' campaign: Is Britain preparing for <b>war</b> amid Wes Streeting's warning over ...**
-> *By 2030 their force strength and <b>war economy</b> could put them in a position to attack. ... <b>Economic</b> Times.) Download The <b>Economic</b> Times News App to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/international/world-news/uks-be-ready-campaign-is-britain-preparing-for-war-amid-wes-streetings-warning-over-putins-russia-threat/articleshow/135237221.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1R65-gak2doIHavkSioor5))
+**🟢 New Zealand: three years of systematic climate policy rollbacks**
+> *Climate action and policy is central to the country's economic resilience, <b>energy security</b> and ability to adapt to a warmer and more volatile <b>world</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://climateactiontracker.org/publications/new-zealand-climate-policy-rollbacks/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw18ULl1ujgm8g40A0sShxGF))
 
-**🟡 Leader Sets Out Priorities for Security, <b>Economy</b>, <b>War</b> Strategy**
-> *... <b>economic warfare</b> including economic pressure and a naval blockade. He said Ayatollah Khamenei stressed that &quot;the key to victory is unity in word&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://kayhan.ir/en/news/155188/leader-sets-out-priorities-for-security-economy-war-strategy&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw1eWlI7N5PdaQF0woj5wrRJ))
+**🟡 Recent Developments in <b>Energy</b> and Nuclear Power in Japan - Belfer Center**
+> *<b>International Security</b>. Language. English العربية 简体中文 Français ... Japan's current <b>energy</b> policies are working against its decarbonization and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.belfercenter.org/research-analysis/recent-developments-energy-and-nuclear-power-japan&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0K_umQapiHbZt6ejR98VWL))
 
 
 ## 🏛 CYBER & TECH
-**🟢 UMC vs S&amp;P 500: Which Stock to Watch - Bybit**
-> *Compare UMC stock vs S&amp;P 500 performance, <b>risks</b>, and returns. Analyze dividend yield, <b>geopolitical</b> exposure, and semiconductor cycle impact for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bybit.com/zh-TW/wiki/article/umc-vs-s-p-500-which-stock-to-watch/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1jD9UyaAYgUOKyIG2Hhm82))
+**🟢 Are banks turning to Chinese AI models to cut costs? - The Banker**
+> *Some Chinese models cost up to 90% less than US rivals, but <b>geopolitical risks</b> could hinder adoption....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thebanker.com/content/bd71c0a0-94cc-4bd3-a873-6ee261b329cf&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3jHSseA4TmmokVUbevWwsb))
 
-**🟢 Monetary Policy Meeting – October 2026 - Banco Central de Chile**
-> *The latter reflect, among other factors, strong financing demand associated with investment in AI, increased <b>geopolitical risk</b> and heightened&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.bcentral.cl/en/web/banco-central/contenido/-/detalle/prensa/comunicados-rpm/comunicado-reunion-de-politica-monetaria-octubre-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0OtmKW05DKZdTo9cTLjdYJ))
+**🔴 <b>Geopolitical</b> tensions and supply disruptions fuel polymer price volatility in packaging**
+> *The Middle East conflict in 2026 illustrated these <b>risks</b>. Shipping constraints, production interruptions and higher logistics costs disrupted polymer&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.packaging-gateway.com/features/geopolitical-tensions-and-supply-disruptions-fuel-polymer-price-volatility-in-packaging/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3MPiju3RlD6lstw2bhDUYn))
 
-**🟡 What gold and platinum are telling us about the stock market's direction - Morningstar**
-> *... geopolitical uncertainty. A higher ratio therefore means that <b>geopolitical risk</b> is higher, and in turn that the stock market's expected future&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/marketwatch/20261027106/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1s9oan3jHjnGq-MtmeTSmc))
+**🟡 Polypropylene Expected to Remain Volatile at High Levels in the Near Term - Sunsirs**
+> *... <b>geopolitical risk</b> premium. Although actual crude oil exports from the Middle East have not been completely halted, the need for vessels to take&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-37231.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0HXoBf6Twb-ldyu9nE7DZj))
 
-**🟡 Need more resilient <b>energy</b> supply chains amid growing <b>global</b> disruptions: Minister Naik**
-> *Union Minister Shripad Yesso Naik emphasizes diversifying <b>energy</b> sources to bolster <b>security</b> in the face of <b>global</b> disruptions....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/small-biz/sustainability/need-more-resilient-energy-supply-chains-amid-growing-global-disruptions-minister-naik/articleshow/135251542.cms&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw25PgEmsSPapfP94mk3Kd7t))
+**🟢 Investors urged to build <b>geopolitical</b> analysis into every deal**
+> *Investors who treat <b>geopolitics</b> as something they cannot adapt to are making a mistake, according to <b>geopolitical</b> and security <b>risk</b> adviser Hagai M....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.investordaily.com.au/investors-urged-to-build-geopolitical-analysis-into-every-deal/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2qHHQQm0b2KA-YxVYHUjpW))
 
-**🟢 Iran calls on gas exporters to strengthen cooperation, safeguard <b>energy security</b>**
-> *Speaking as the Forum marked its 25th anniversary, Bovard said the <b>global energy</b> system is passing through one of its most complex periods of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tehrantimes.com/news/531586/Iran-calls-on-gas-exporters-to-strengthen-cooperation-safeguard&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1hpjlpvHNh0VETZ-c6rQ-W))
+**🟢 Top 10: Cyber Leaders**
+> *3. Jean-Dominique Nollet. Title: <b>Global</b> Chief Information <b>Security</b> Officer Company: TotalEnergies. Industry: <b>Energy</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cybermagazine.com/top10/top-10-cyber-leaders&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0s8S8XIMFQieb5nf73SdZW))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Markets price a Fed hold as elections, <b>Geopolitics</b> and Oil threaten the next macro shock**
-> *His assessment of inflation stickiness; His view on <b>geopolitical risk</b>; His stance on balance‑sheet runoff; His language around liquidity conditions&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/analysis/markets-price-a-fed-hold-as-elections-geopolitics-and-oil-threaten-the-next-macro-shock-202610271927&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0BVvfQnXxraTmTwPZguAUF))
+**🟢 US Fed Holds Rates, But Another Hike Looms: What It Means For Indian Stock Market - NDTV Profit**
+> *... risk appetite or ... The outlook for Indian stocks will depend on how inflation, global liquidity and <b>geopolitical risks</b> evolve from here....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtvprofit.com/markets/indian-stock-market-today-impact-after-us-fed-holds-rates-another-hike-looms-us-bond-yields-oil-prices-nse-bse-sensex-today-us-iran-war-12251380&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0Gc2G-1NH1ChNrqeVzatKg))
 
-**🟢 Gold climbs above $4050 as Wall Street rallies ahead of Fed decision - Kitco PM Report**
-> *... <b>geopolitical risk</b> premium in energy markets, while stronger U.S. economic data and a firmer dollar limited bullion's advance. At the latest&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kitco.com/news/article/2026-10-27/gold-climbs-above-4050-wall-street-rallies-ahead-fed-decision-kitco-pm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2C0UjPoL7O-onvUOoWmnvx))
+**🟢 Ice flow weathers <b>geopolitics</b> and supply storms - <b>Risk</b>.net**
+> *Having witnessed the slew of career-defining <b>geopolitical</b> upheavals energy traders have endured in recent years, Trabue Bland no longer worries&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.risk.net/markets/7964353/ice-flow-weathers-geopolitics-and-supply-storms&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0O5mGH-DVb2wEufWDBjJoF))
 
-**🟢 Bitcoin dips below $80k as ETF inflows return, but oil and <b>geopolitical risks</b> weigh**
-> *Bitcoin $BTC dipped below $80000 on Tuesday, but renewed demand for spot exchange-traded funds offered a potential source of support after three&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptonews.net/news/bitcoin/33656078/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1idTih8RfReNPqZ-AOCik8))
+**🟢 <b>Geopolitics</b> Is Redefining Diversification - MSCI**
+> *... capital finds its most productive use. As <b>geopolitics</b> disrupts that, market-cap indexes can inadvertently concentrate <b>risk</b> in particular markets....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.msci.com/research-and-insights/blog-post/geopolitics-is-redefining-diversification&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1FimxsNB2ikdg8cthJtyBB))
 
-**🟢 Mbappé backlash highlights China's economic leverage over global markets**
-> *Isaac Stone Fish, founder of the <b>geopolitical risk</b> consultancy Strategy Risks, joins The World's Host Marco Werman to discuss. Sign up for our&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://theworld.org/segments/2026/10/27/mbappe-backlash-highlights-chinas-economic-leverage-over-global-markets&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw31qCwdPWoG2EnVgWdl1ZQe))
+**🟡 The Three Events That Could Move Markets in November - The Common Sense**
+> *... risk of conflict,which in turn creates the political foundations from ... <b>geopolitical risk</b>, with implications for equity markets, energy&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thecommonsense.co.za/Economics%2520%26%2520Policy/three-events-could-move-markets-november&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0uCDHTYdZUwx8ZgzOE6tNd))
 
-**🟢 COP31 must bridge ambition and action as <b>world</b> leaders face risks from climate target overshoot**
-> *As all countries address major challenges including economic and <b>energy security</b>, competitiveness and climate impacts, E3G sets out three tests&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.e3g.org/news/cop31-bridge-ambition-action/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3ZMqyabwsI_evbb0waL8Go))
+**🟢 EU <b>energy</b> ministers to discuss soaring fuel prices as winter looms - Reuters**
+> *... <b>global energy</b> industry. Sign up here. &quot;We ​are in a very serious situation now. It does not look like we ​have a <b>security</b> of supply issue but I&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/eu-energy-ministers-discuss-soaring-fuel-prices-winter-looms-2026-10-29/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1xubjuT67JQwE3dq4l7nMw))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Courtesy Call on State Minister NAKASONE by the European Parliament Committee on ...**
-> *... <b>security</b> environments surrounding the <b>Indo</b>-<b>Pacific</b> and the Euro-Atlantic are severe and closely connected to each other, and that he would like to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mofa.go.jp/press/release/pressite_000001_02794.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0SeuIGO9INvsRvvcnzEEe6))
+**🟢 ASEAN centrality cornerstone of India's Act East Policy, <b>Indo</b>-<b>Pacific</b> vision: Rajnath Singh**
+> *'Shared <b>security</b>'. “I express my sincere gratitude to the Philippines for the successful conduct of the 30th ASEAN Defence Ministers' Meeting&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gulfnews.com/world/asia/india/asean-centrality-cornerstone-of-indias-act-east-policy-indo-pacific-vision-rajnath-singh-1.500727715&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2lrvu62XImAvX2la-aqXCR))
 
-**🟢 EP-462 with UP BJP chief Pankaj Chaudhary premieres today at 5 PM IST - YouTube**
-> *” “अगर आपको <b>regime change</b> करना है, तो ... '<b>Regime Change</b>' की कोशिशों को पुलिस कैसे पहचाने?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHgX1Pcq1QKY&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3YYX62RP3HdqPk2aU7rl-2))
+**🟢 'Asean cornerstone of India's Act East policy': Rajnath calls for stronger <b>Indo</b>-<b>Pacific</b> defence ...**
+> *At the 13th Asean Defence Ministers' meeting-Plus in Cebu, Singh stresses regional <b>security</b>, mutual trust and a stronger <b>Indo</b>-<b>Pacific</b> partnership....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/world/asean-cornerstone-of-indias-act-east-policy-rajnath-calls-for-stronger-indo-pacific-defence-cooperation-14056189.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0ryLlxoQml4k8wNxqIQoBw))
 
-**🟢 '<b>Regime Change</b>' पर Republic Bharat के मंच पर क्या बोलीं Smriti Irani? | Rashtra Sarvopari**
-> *'<b>Regime Change</b>' पर Republic Bharat के मंच पर क्या बोलीं Smriti Irani? | Rashtra Sarvopari | Delhi....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTRhly2ur3h0&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw096MwR4pIVLUOASn9p428D))
+**🟡 'No Jobs For Violent <b>Regime Change</b> Plotters': CM Yogi Govt Tightens Character Verification**
+> *... <b>regime change</b> will be considered ineligible for government jobs. Candidates will not be rejected solely because of their political beliefs, and a&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrmcM-adPNKY&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0mQQn3T5cn0Z9TfXbxdPmh))
 
-**🟢 Emotional <b>regime change</b> galvanizes Baylor**
-> *Emotional <b>regime change</b> galvanizes Baylor ... It has been an emotional four days for the Baylor football program. Former head coach Dave Aranda gave the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://baylorlariat.com/2026/10/27/emotional-regime-change-galvanizes-baylor/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2c8hGy49YvGpe7cSRnkFub))
+**🔴 UP Government bars candidates involved in violent <b>regime</b>-<b>change</b> activities from government jobs**
+> *The move comes amid controversy over calls for a “<b>regime change</b>” during a recent protest and has drawn criticism from the Opposition Samajwadi Party (&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thestatesman.com/uttar-pradesh/up-government-bars-candidates-involved-in-violent-regime-change-activities-from-government-jobs-1503656510.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2qGj1JLwmvmzyej-lM74t_))
 
-**🟡 Israel election results live: Netanyahu calls for a right-wing <b>government</b> - Al Jazeera**
-> *Israeli opposition bloc leader Gadi Eisenkot says millions of Israelis voted for <b>change</b>, tired of Prime Minister Benjamin Netanyahu's “lies”. In&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1qN5ejOUrEPAD0lzg2NQls))
+**🔴 UP govt bars those advocating 'violent <b>regime change</b>' from govt jobs - The Hawk**
+> *The move comes amid controversy over calls for '<b>regime change</b>' during a recent protest and has drawn criticism from the Opposition Samajwadi Party and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehawk.in/news/india/up-govt-bars-those-advocating-violent-regime-change-from-govt-jobs&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3sZF2lDzKdzup-hzs_UEa1))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 Can investors put a number on <b>geopolitics</b>? - Economist Intelligence Unit**
-> *News-sentiment models offer one alternative, but can reflect the volume of coverage as much as the underlying political relationship. Country-<b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.eiu.com/n/can-investors-put-a-number-on-geopolitics/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1I871Pd9CovvCWgDQkfK74))
+**🟢 India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners**
+> *... partners. He emphasized the importance of collective efforts in ensuring maritime <b>security</b> in the <b>Indo</b>-<b>Pacific</b> region....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://government.economictimes.indiatimes.com/news/defence/india-ready-to-share-battle-tested-anti-terror-expertise-with-asean-its-dialogue-partners-rajnath-singh/135293172&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1oJaJwUu8HwunvRQF9oyDm))
 
-**🔴 &quot;Collateral damage' | Philstar.com**
-> *Recent drone and missile attacks on pipelines and refineries have kept the structural <b>geopolitical risk</b> premium elevated. The crisis is&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.philstar.com/business/2026/10/28/2566122/collateral-damage&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3bPpaELJ3H51MIopNXG5yM))
+**🟢 India's Maritime <b>Security</b> Strategy and Its Significance for the Arabian Gulf States – A Review**
+> *Sixty-One Years of the Commonwealth's <b>Indo</b>-<b>Pacific Security</b> Debate &middot; The Limits of the Indo-Pacific Strategy: A View from China &middot; The New Logic of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indiasworld.in/indias-maritime-security-strategy-and-its-significance-for-the-arabian-gulf-states-a-review/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2JCv41lcZmhYbSVFuKttiw))
 
-**🟢 WATCH: US Defense Secretary Pete Hegseth arrives in Cebu late Tuesday, October 27, for ...**
-> *... <b>security</b> and stability. His remarks come at a time when <b>security</b> concerns across the <b>Indo</b>-<b>Pacific</b> continue to intensify amid China's rapid&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/rapplerdotcom/posts/watch-us-defense-secretary-pete-hegseth-arrives-in-cebu-late-tuesday-october-27-/1674901144671947/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3bZPBpMcZLOKi7oiXzZgLU))
+**🟢 Rajnath Singh Cites Op Sindoor, Proposes 'India-ASEAN Youth Bridge' in ADMM-Plus**
+> *... <b>Indo</b>-<b>Pacific security</b>. With Japan's Defence Minister Shinjiro Koizumi, he reviewed progress since their previous meeting in August and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://openthemagazine.com/world/rajnath-singh-cites-op-sindoor-proposes-india-asean-youth-bridge-in-admm-plus&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2-WsqQHRv6qQSFbStNM-O5))
 
-**🟢 Defence Minister To Push <b>Indo</b>-<b>Pacific Security</b> Agenda At ADMM-Plus, Hold Key Talks With ...**
-> *Defence Minister Rajnath Singh has arrived in Cebu, Philippines, to participate in the 13th ASEAN Defence Ministers' Meeting-Plus (ADMM-Plus),&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indiandefensenews.in/2026/10/defence-minister-to-push-indo-pacific.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1ITCK9AlnMd_X7vvIimFa-))
+**🟢 Hegseth Seeks to Reassure Southeast <b>Asia</b> of US <b>Security</b> Commitment to the Region**
+> *Trans-Pacific View | <b>Security</b> | Southeast Asia. Hegseth Seeks to ... Asia and in the broader <b>Indo</b>-<b>Pacific</b> region.” Ad. Even then, the erratic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thediplomat.com/2026/10/hegseth-seeks-to-reassure-southeast-asia-of-us-security-commitment-to-the-region/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw11C4jzDVj0COvGdlPz6Yr2))
 
-**🟢 USS Canberra arrives in Colombo for Second Visit in 2026 - PACOM**
-> *<b>Indo</b>-<b>Pacific</b> health alliance for <b>security</b> - IPhas &middot; Women, Peace ... <b>security</b> and prosperity across the Indian Ocean and the broader <b>Indo</b>-<b>Pacific</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pacom.mil/Media/News/News-Articles/Article/4635115/uss-canberra-arrives-in-colombo-for-second-visit-in-2026/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1n788f_yS05DpmrjX1H9DP))
+**🟢 PH spotlights <b>South China Sea</b>, 'fragmenting world' in ASEAN defense chiefs' meeting**
+> *Teodoro was clearly referring to the disputes over the <b>South China Sea</b> that has seen increasing <b>tension</b> between China and. 00:15ASEAN nations. 00&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dailymotion.com/video/xbrsfim&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw2_SYoj7sXk1L4BN1sDuTdC))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
