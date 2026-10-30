@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 29 October 2026
+**Date:** 30 October 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Why <b>geopolitical</b> readiness breaks down in execution - Kearney
+**Source News:** Refining Has Highest <b>Geopolitical Risk</b> In The Global Petroleum System - Forbes
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Why <b>geopolitical</b> readiness breaks down in execution - Kearney
+- **The News:** Refining Has Highest <b>Geopolitical Risk</b> In The Global Petroleum System - Forbes
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Are banks turning to Chinese AI models to cut costs? - The Banker
+**Source News:** 'The $100 level is ours for awhile': Oil won't be getting cheap anytime soon, no matter what ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Are banks turning to Chinese AI models to cut costs? - The Banker
+- **The News:** 'The $100 level is ours for awhile': Oil won't be getting cheap anytime soon, no matter what ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** US Fed Holds Rates, But Another Hike Looms: What It Means For Indian Stock Market - NDTV Profit
+**Source News:** What Would a Midterm Democrat Sweep Mean for USA Oil, Gas? | Rigzone
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US Fed Holds Rates, But Another Hike Looms: What It Means For Indian Stock Market - NDTV Profit
+- **The News:** What Would a Midterm Democrat Sweep Mean for USA Oil, Gas? | Rigzone
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** ASEAN centrality cornerstone of India's Act East Policy, <b>Indo</b>-<b>Pacific</b> vision: Rajnath Singh
+**Source News:** Guinea appoints new Areeba leadership amid <b>financial crisis</b> - Developing Telecoms
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** ASEAN centrality cornerstone of India's Act East Policy, <b>Indo</b>-<b>Pacific</b> vision: Rajnath Singh
+- **The News:** Guinea appoints new Areeba leadership amid <b>financial crisis</b> - Developing Telecoms
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
