@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 31 October 2026
+**Date:** 01 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Iraq: Political violence and the post-conflict future - WTW
+**Source News:** The Road to eInvoicing: Practical Readiness for UAE Businesses - 17 November 2026
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iraq: Political violence and the post-conflict future - WTW
+- **The News:** The Road to eInvoicing: Practical Readiness for UAE Businesses - 17 November 2026
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Govt braces for US-Iran fallout - Bangkok Post
+**Source News:** Standard Chartered Turns Cautious Over Equities, Favours Bonds And Gold Amid Market Uncertainty
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Govt braces for US-Iran fallout - Bangkok Post
+- **The News:** Standard Chartered Turns Cautious Over Equities, Favours Bonds And Gold Amid Market Uncertainty
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil moves higher just before midterms | Oil &amp; Gas Journal
+**Source News:** Rubio's Iran SOS To <b>World</b>, 'Begs' For Help? Watch His Big Admission On US Being Hit ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil moves higher just before midterms | Oil &amp; Gas Journal
+- **The News:** Rubio's Iran SOS To <b>World</b>, 'Begs' For Help? Watch His Big Admission On US Being Hit ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Israel Election Results Big Update: Netanyahu नहीं छोड़ेंगे कुर्सी ? इजरायल में फिर होंगे चुनाव
+**Source News:** Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Israel Election Results Big Update: Netanyahu नहीं छोड़ेंगे कुर्सी ? इजरायल में फिर होंगे चुनाव
+- **The News:** Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
