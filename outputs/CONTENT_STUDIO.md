@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 02 November 2026
+**Date:** 03 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** China MTBE Market Experiences Slight Downward Trend - SunSirs
+**Source News:** South Korean banks struggling for talent to counter AI cyber <b>threat</b> - The Banker
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** China MTBE Market Experiences Slight Downward Trend - SunSirs
+- **The News:** South Korean banks struggling for talent to counter AI cyber <b>threat</b> - The Banker
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Brent (UKOIL) Is down by 2.00% on Nov 2: Is the Demand Outlook Changing? - TradingKey
+**Source News:** Middle East Daily - MUFG Research
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brent (UKOIL) Is down by 2.00% on Nov 2: Is the Demand Outlook Changing? - TradingKey
+- **The News:** Middle East Daily - MUFG Research
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Dalal Street Week Ahead: US midterm elections, jobs data, Q2 earnings, PMI numbers, oil ...
+**Source News:** Central bank buying and ETF inflows support gold demand in Q3 | World Gold Council
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Dalal Street Week Ahead: US midterm elections, jobs data, Q2 earnings, PMI numbers, oil ...
+- **The News:** Central bank buying and ETF inflows support gold demand in Q3 | World Gold Council
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Church attacked in West Bengal during inauguration ceremony - The Hindu
+**Source News:** Iran News in Brief – November 3, 2026 - NCRI
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Church attacked in West Bengal during inauguration ceremony - The Hindu
+- **The News:** Iran News in Brief – November 3, 2026 - NCRI
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 

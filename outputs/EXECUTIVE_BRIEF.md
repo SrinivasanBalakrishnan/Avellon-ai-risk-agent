@@ -1,99 +1,98 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 02 November 2026
+**Date:** 03 November 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 13.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
+- **Strait of Hormuz** (Risk Score: 5)
 - **Taiwan Strait** (Risk Score: 4)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🟢 China MTBE Market Experiences Slight Downward Trend - SunSirs**
-> *These supply concerns have increased the <b>geopolitical risk</b> premium, providing support for higher oil prices. On the demand side, gasoline-related&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-37318.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw12BW63yhEnfTCv3X_wZ9B8))
+**🔴 South Korean banks struggling for talent to counter AI cyber <b>threat</b> - The Banker**
+> *... <b>geopolitical risks</b> could hinder adoption &middot; Banks must prepare for quantum threat now, regulators warn &middot; Stability. NOVEMBER 3. Banks must prepare for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thebanker.com/content/c8ba4b3a-6f60-451b-8125-f1008c180ef6&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3JApPwNaXYe34OtfzBW7xn))
 
-**🟡 Gold rebounds toward $3,900 as dip buyers emerge, Iran <b>risks</b> persist By Investing.com**
-> *... <b>geopolitical risks</b> and a global technology stock selloff continued to cloud the outlook. At 20:01 ET (01:01 GMT), spot gold rose 0.6% to $3,900.05&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-5670109&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1KmPhopOFIfP_l59uBB09u))
+**🟢 Crude Oil Trading Alert: <b>Geopolitical</b> premium eases as US-Iran negotiations continue**
+> *... <b>geopolitical risk</b> premium embedded in oil prices. Recent positive diplomatic news has already pared back part of this premium, and with market&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/news/post/1003256616/crude-oil-trading-alert-geopolitical-premium-eases-as-us-iran&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw088Z-TCy1pdwj_oKz47Hng))
 
-**🔴 'The world has eroded its supply buffers': ADNOC chief warns of <b>global energy</b> crisis at ADIPEC 2026**
-> *<b>Global energy security</b> must be fundamentally rebuilt as disruptions to the Strait of Hormuz drain oil inventories and send shipping costs soaring,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.arabianbusiness.com/abnews/the-world-has-eroded-its-supply-buffers-adnoc-chief-warns-of-global-energy-crisis-at-adipec-2026&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3cBP6S1obeIJBaRTZoD4BI))
+**🔴 <b>World's energy</b> supply buffers have been eroded, ADNOC CEO says | Reuters**
+> *The <b>world</b> has eroded its supply buffers by draining nearly 1 billion oil barrels from <b>global</b> ​inventories since the US-Israeli war on Iran&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/nearly-1-billion-oil-barrels-drained-global-inventories-since-hormuz-disruption-2026-11-02/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw04NITyx8yRQ4jsWpiz5gnF))
 
-**🔴 Dr Sultan Al Jaber urges <b>energy security</b> overhaul as nearly billion barrels drawn from oil markets**
-> *The Iran war severely disrupted <b>energy</b> flows through the Strait of Hormuz and exposed weaknesses in <b>global</b> supply chains, he said. “For years, our&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thenationalnews.com/business/energy/2026/11/02/dr-sultan-al-jaber-urges-energy-security-overhaul-as-nearly-billion-barrels-drawn-from-oil-markets/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw03hL1q6656cE2qqTI3w3W1))
+**🟡 <b>War</b> and the limits of <b>economic</b> growth - GIS Reports**
+> *Military spending lifts official output and enriches contractors, yet households pay through forgone goods, higher taxes, debt and inflation....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gisreportsonline.com/r/war-and-economic-growth/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0yj3FZJ99s7AyKJq12C3gk))
 
-**🔴 Israeli Squatters' <b>War</b> on the Palestinian Olive Harvest**
-> *This year, they added to their tactic of <b>economic warfare</b>, including stealing livestock and other animals, by targeting the olive harvest. Not&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.juancole.com/2026/11/israeli-squatters-palestinian-harvest.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0N8JmWLoj_KXpzB0wsBNib))
+**🔴 Russian strikes choke Ukraine's <b>economy</b> as steel shuts down and grain exports stall**
+> *Ukraine's <b>economy</b> is struggling as Russia's air <b>war</b> targets industries, logistics networks and ports needed for exports....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.independent.co.uk/news/ukraine-black-sea-kyiv-donald-trump-europe-b3078013.html&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw0LCjjSlrl0hEEcNiAd6UaH))
 
 
 ## 🏛 CYBER & TECH
-**🟡 Brent (UKOIL) Is down by 2.00% on Nov 2: Is the Demand Outlook Changing? - TradingKey**
-> *Brent crude futures declined due to reduced <b>geopolitical risk</b> premiums in the Middle East.OPEC+ agreed to maintain existing output targets through&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/news/market-movers/262263302-market-movers-ukoil-20261102&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3RUIM6zQVKFvfpEjrRMsOc))
+**🟢 Middle East Daily - MUFG Research**
+> *Middle East Daily. COMMODITIES / ENERGY. Oil slumps as prospect of US-Iran diplomacy eases <b>geopolitical risk</b> premium. Oil prices fell sharply&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mufgresearch.com/macro/middle-east-daily-03-november-2026/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3JKkiIYTexjVT_pO5xu6Ie))
 
-**🟢 Oil-Yield Link Breaks Down as BlackRock Says AI <b>Risk</b> Has Overtaken <b>Geopolitics</b> as ...**
-> *... <b>geopolitical risk</b> behind AI risk. Google lost $500 billion in market value in a single day and the Nasdaq plunged, sending Treasury yields lower&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/9a76c5a3-601c-4894-ad8a-be073b3f6cbd&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-Dd5UhV4EYT_XeKVo7IJg))
+**🔴 Bitcoin Price Crashes as Iran Strike and Crypto Hack Spree Shake Markets - TradingView**
+> *Bitcoin is now caught between <b>geopolitical risk</b> and a growing security crisis within its own industry. The latest reported US strikes added&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/cryptonews:f6fde3f9c094b:0-bitcoin-price-crashes-as-iran-strike-and-crypto-hack-spree-shake-markets/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0N5ZVrAtAsHEkm4jP2fZwg))
 
-**🟢 [MARKET UPDATE] US equity futures are marginally higher at the reopen as they ... - Newsquawk**
-> *... <b>geopolitical risk</b> premium out of the front of the oil curve, since de-escalation signals compress the tail risk embedded in prompt spreads and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newsquawk.com/headlines/market-update-us-equity-futures-are-marginally-higher-at-the-reopen-as-they-regain-some-composure-after-last-fridays-tech-sell-off-while-oil-futures-retreat-following-iran-talks-with-qatari-mediators-in-doha&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2V8-jeI4zojdNvYBRqt464))
+**🟢 Oil edges up after report of US strike on Iran's Qeshm Island | Reuters**
+> *However, the inability of prices to sustain those gains suggests that a substantial ​<b>geopolitical risk</b> premium is already embedded in oil prices&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3nm6EEwFmIvgb4mipw3Rxz))
 
-**🟢 Applying AI for maximum impact and value creation in a <b>world</b> seeking <b>energy security</b>**
-> *Dennis Jol, CEO of AIQ, outlines how AI has become one of the most powerful tools available for driving <b>energy security</b> as efficiently as possible&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.energyconnects.com/opinion/interviews/2026/november/applying-ai-for-maximum-impact-and-value-creation-in-a-world-seeking-energy-security/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1Z63mQuHlPMINVz0nVFcok))
+**🔴 The investing mistake 45pc of Australians regret making - AFR**
+> *Investors said <b>geopolitical risks</b> were among their leading concerns, alongside inflation, recession, the cost of living and market volatility....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/wealth/personal-finance/the-investing-mistake-45pc-of-australians-regret-making-20261103-p61aig&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1dRg1pvpsq5h8kk7CCgKg1))
 
-**🟢 ADIPEC 2026 LIVE: Energy Giants Tackle AI's Power Demand and <b>Global Energy Security</b>**
-> *ADIPEC 2026 opens in Abu Dhabi, bringing together <b>global energy</b> leaders, ministers and industry giants to discuss energy <b>security</b>, rising global&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DzWsSJGy5Zrg&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3clzzVPvaVl9V-Tb1hbeAg))
+**🟢 European natural gas prices fall more than 10% amid hopes for US-Iran talks**
+> *... <b>geopolitical risk</b> premium that had pushed energy prices sharply higher. READ MORE: Living costs, housing, job uncertainty fuel European youth&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.chinadailyasia.com/article/642167&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0YDOYTlDJQVUvtuK99TKvn))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Dalal Street Week Ahead: US midterm elections, jobs data, Q2 earnings, PMI numbers, oil ...**
-> *... risk appetite, while domestic PMI data and second-quarter earnings will drive stock-specific movements. With <b>geopolitical risks</b> resurfacing and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-us-midterm-elections-jobs-data-q2-earnings-pmi-numbers-oil-prices-among-10-key-factors-to-watch-14065576.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3S2HCB2nh60-6FyqYG2cza))
+**🟢 Central bank buying and ETF inflows support gold demand in Q3 | World Gold Council**
+> *While rising interest rates and mixed inflation expectations present potential headwinds, the combined shadows of <b>geopolitical risk</b> and financial&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gold.org/news-and-events/press-releases/central-bank-buying-and-etf-inflows-support-gold-demand-q3&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2KSlSwyL_xUqEmPfq5LRgC))
 
-**🟢 The Commodities Feed: US midterm elections key for oil market | ING THINK**
-> *If the midterms pass with neither strikes nor a deal, the key question is whether the market continues to price in a substantial <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://think.ing.com/articles/the-commodities-feed-post-midterms-key-for-the-oil-market021126/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ewtX6wcOtoEDIMABGosKE))
+**🟡 ADNOC's Al Jaber: <b>Energy security</b> now measured by delivery, not just production**
+> *In some markets, diesel stocks are at their lowest seasonal level in 35 years, and others face a 600-Bcf LNG supply gap. “Simply put, the <b>world</b> has&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.worldoil.com/news/2026/11/2/adnoc-s-al-jaber-energy-security-now-measured-by-delivery-not-just-production/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3-IDSEzMYKkHWrmmIux-wL))
 
-**🟢 Stock market outlook today, 2 Nov: Sensex, Nifty prediction - Mint**
-> *Any tangible progress on this front could help reduce the <b>geopolitical risk</b> premium in crude oil and offer near-term support to domestic equities,”&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-2-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793580087099.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0SVLTXCm0EI0ftiDByE8RR))
+**🟢 Top <b>Energy</b> Official on UAE's Resilience, Future of <b>Energy Security</b> &amp; Fossil Fuels - YouTube**
+> *#UAE #<b>energy</b> #wion About Channel: WION The <b>World</b> is One News examines <b>global</b> issues with in-depth analysis. We provide much more than the news of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTFTZ2JVBAC0&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3DtttbVtboVamHufNn48Q9))
 
-**🟢 ADNOC urges investment in <b>energy</b> reserves and logistics**
-> *ADNOC urges investment in energy reserves and logistics ... ADNOC chief Dr Sultan Ahmed Al Jaber has called for a rethink of <b>global energy security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.logisticsmiddleeast.com/news/adnoc-urges-investment-in-energy-reserves-and-logistics&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0ydb-Q-KYjDQdF1Z4fXJup))
+**🟢 ADNOC chief says <b>global energy</b> safety margins have eroded since the Hormuz disruption**
+> *According to his speech, <b>energy security</b> would now be decided as much in transport, insurance and storage as in production. He cites oil, diesel and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://energynews.pro/en/adnoc-chief-says-global-energy-safety-margins-have-eroded-since-the-hormuz-disruption&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0CP8pYe6qhMeIK6mFtJB31))
 
-**🟢 Nine big oil firms on track to share more than £95bn profit two quarters in a row**
-> *... <b>global</b> demand, which continues to structurally rely on oil and gas to ensure <b>energy security</b> and affordable <b>energy</b> for households and the industries.”....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/business/2026/nov/02/nine-of-world-biggest-oil-firms-95bn-profit-third-quarter-iran-war&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw36CUwu-LnS3In6q60aTC9t))
+**🟢 Deeper <b>international</b> partnership must help unlock geothermal <b>globally</b>**
+> *... <b>energy security</b> and electrification is expected to dominate discussions. As <b>energy</b> prices surge across regions and disruption of <b>global</b> trade&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.catf.us/2026/11/deeper-international-partnership-must-help-unlock-geothermal-globally/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3lXXESmL03bkyIJJF8jWcG))
 
 
 ## 🏛 LEADERSHIP
-**🔴 Church attacked in West Bengal during inauguration ceremony - The Hindu**
-> *In the past few months, since the <b>regime change</b> in the State, there have been several allegations of attacks on Christian establishments&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/news/national/west-bengal/church-attacked-in-west-bengal-during-inauguration-ceremony/article71655288.ece&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2hiII-FqcAH7S5-2FilMbe))
+**🟡 Iran News in Brief – November 3, 2026 - NCRI**
+> *Toronto Rally Condemns Executions, Demands Freedom for Political Prisoners and <b>Regime Change</b> in Iran ... Toronto Rally Condemns Executions, Demands&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ncr-iran.org/en/news/iran-news-in-brief-november-3-2026/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0fTJMqDRx6RX2gog7mzO2v))
 
-**🟢 Whatever Happens on Wednesday, SA Will Be Stronger Than the - The Common Sense**
-> *This is how it must be, as the country is in the midst of a <b>regime change</b>, and that always has two parts. Part one, which has been substantially&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thecommonsense.co.za/Editorials/whatever-happens-wednesday-sa-will-be-stronger-than-doom&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0x9rCX-wnbumtfkLjf2xTR))
+**🟢 Rahul's 'Foreign Help' Charge At Modi | Amit Shah Fires Back, 'Can Never Become PM'**
+> *Dhurandhar | Amish Devgan | Operation <b>Regime Change</b> पर रंगनाथन ने ये क्या बोल दिया! Delhi Protest. Times Now Navbharat and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DiNbkOAWG81Q&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2GwsL41wj4UMOCKCZ5euNP))
 
-**🔴 60 Minutes Transcript: Intense U.S. pressure deepens Cuba's humanitarian, economic crisis**
-> *... regime has hoarded billions of dollars, but Havana's government blames the U.S. ... Rubio - the son of Cuban immigrants - has made <b>regime change</b> in Cuba&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/us-pressure-deepens-cubas-humanitarian-economic-crisis-60-minutes-transcript/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0gPknbpfvWwHAE6HuyFMA3))
+**🟢 Dhurandhar शो में <b>Regime Change</b> वाले स्टिंग ऑपरेशन पर इमरान मसूद क्या बोले - YouTube**
+> *Amish Devagan Show: Dhurandhar शो में <b>Regime Change</b> वाले स्टिंग ऑपरेशन पर इमरान मसूद क्या बोले ?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/-D0oe8OZrfw&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2ll0pfhplJpQwnLjO-h2jX))
 
-**🟢 Serbia after the student landslide: The black box in parliament - Aliran**
-> *... regime. But just a few days after the elections, many are rightly ... They are central to what <b>political change</b> should mean in the first place....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://aliran.com/web-specials/serbia-after-the-student-landslide-the-black-box-in-parliament&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1P9-CELpZn2uZN312XPhqJ))
+**🟢 Remembering Mons. Munzihirwa: Congolese Urged to Emulate Courageous Catholic ... - ACI Africa**
+> *... <b>regime change</b>”. Born in 1926, Munzihirwa became the Local Ordinary of Bukavu Archdiocese on 27 March 1994, only a month before the Rwandan&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aciafrica.org/news/25085/remembering-mons-munzihirwa-congolese-urged-to-emulate-courageous-catholic-archbishop-murdered-in-fight-for-peace&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw09TTtOMwSiVaraVkTCFoUU))
 
-**🟢 Operation <b>Regime Change</b> में बड़ा खुलासा करेंगे Amish Devgan, Dhurandhar सिर्फ Times Now ...**
-> *Operation <b>Regime Change</b> | Amish Devgan New Show | Amish Devgan Show | Dhurandhar | Times Now Navbharat सियासत में हलचल मचाने&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DP811XlUAoJ8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3GJFTkZ6yeP7HE3nwb2DPo))
+**🟢 How South African Politics <b>Changed</b> over the Past Two Decades - The Common Sense**
+> *When South Africans voted in the local <b>government</b> elections of March 2006, the <b>political</b> landscape was almost unrecognisable from the one that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thecommonsense.co.za/Economics/how-south-african-politics-changed-over-past-two-decades&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2IfB2YcTLufoWwZbb70hye))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 ASA SC highlights <b>geopolitical risks</b> to seafarers while tackling workforce and regulatory challenges**
-> *Seafarers must not become collateral victims of <b>geopolitical</b> conflicts. The Committee supports IMO-led actions to protect crews in high-<b>risk</b> areas,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cyprusshippingnews.com/2026/11/02/asa-sc-highlights-geopolitical-risks-to-seafarers-while-tackling-workforce-and-regulatory-challenges/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2BZiSxGAMEp7XXOV5LiaHC))
+**🟡 Working collaboratively to fight scams in <b>Asia Pacific</b> - Google Blog**
+> *Google fights APAC scams using built-in Android protections, industry partnerships, and $6M in new funding. See how we <b>secure</b> communities in 2026....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1OznIPf7GaQmmny1VRc-cq))
 
-**🟢 Eurasia Group strengthens Asia presence with Japan hires and regional summits - Yahoo Finance**
-> *TOKYO, Nov. 01, 2026 (GLOBE NEWSWIRE) -- Eurasia Group, a leading <b>geopolitical risk</b> advisory and research firm, today announced the appointments&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/economy/policy/articles/eurasia-group-strengthens-asia-presence-000000462.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2Cu7OZKBPoRjz7b4OQshWd))
+**🟢 VIEWPOINT: Why frontline computing needs a layered approach**
+> *<b>Security</b> therefore depends on how the device is ... Industry insight, expert analysis and exclusive features from Australia and the <b>Asia</b>-<b>Pacific</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiapacificdefencereporter.com/posts/viewpoint-why-frontline-computing-needs-a-layered-approach&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2LcwT_xAav2B2oq0VOHOCI))
 
-**🟢 LOOK: United States Ambassador to the Philippines reaffirmed its &quot;enduring commitment&quot; to ...**
-> *U.S. Defense Chief Reaffirms Ironclad Alliance with the Philippines in Landmark <b>Indo</b>-<b>Pacific</b> Visit In a pivotal moment for regional <b>security</b>, U.S.&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/gmanews/posts/look-united-states-ambassador-to-the-philippines-reaffirmed-its-enduring-commitm/1765600168944966/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2HOx38jtvb2CFw1dzLpSS8))
+**🟢 Australian Defense Minister says the rules-based order is under pressure in the <b>Indo</b>-<b>Pacific</b>**
+> *... <b>security</b>, but also to provide for the rules-based order here. And I ... <b>Indo</b>-<b>Pacific</b>. @APArchive No likes 1 view 7 min ago. more....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dyj-FU0m9WdM&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2S70EG6-oknaEvfUI2B2I6))
 
-**🟡 Quad not 'anti-China', says Rubio as first summit in two years set before Trump-Xi talks**
-> *... <b>security</b> and disaster response. ... In June, the US renamed the <b>Indo</b>-<b>Pacific</b> Command the Pacific Command, reversing a designation made in 2018....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.koreatimes.co.kr/amp/world/20261102/quad-not-anti-china-says-rubio-as-first-summit-in-two-years-set-before-trump-xi-talks&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3qF_AM0Q0rygeVg_vEzf5D))
+**🟢 Japan, Australia pledge closer <b>security</b> and economic cooperation - Islands Business**
+> *Motegi stressed the importance of closer cooperation between Tokyo and Canberra in advancing an updated vision of a Free and Open <b>Indo</b>-<b>Pacific</b> (FOIP)....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://islandsbusiness.com/news-break/japan-australia-pledge-closer-security-and-economic-cooperation-in-the-pacific/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0rgI7Xr3dp4wyL5N1flJE2))
 
-**🟢 Regional Neorealism: Rethinking Geography and Geopolitical Competition**
-> *The Arctic's calm may be temporary, and the <b>South China Sea's tensions</b> may intensify, but the logic of regional neorealism endures: geography&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.e-ir.org/p/regional-neorealism-rethinking-geography&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw03ShXNOkpkiobrPLy6T4G7))
+**🟢 Why We Don't Drop By Anymore - The New Indian Express**
+> *Urmila Sagar, 61, a retired <b>government</b> employee from Pitampura remembers a similar sense of community. ... For Sagar, the <b>change</b> is partly a consequence&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.newindianexpress.com/cities/delhi/2026/Nov/03/why-we-dont-drop-by-anymore&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2ObJSjiKqli7QMMu7GLNeJ))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
