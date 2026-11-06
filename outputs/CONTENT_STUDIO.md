@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 05 November 2026
+**Date:** 06 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes | Reuters
+**Source News:** Spot LNG price may rise further toward winter on weather, <b>geopolitical risks</b>: Tokyo Gas CEO
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes | Reuters
+- **The News:** Spot LNG price may rise further toward winter on weather, <b>geopolitical risks</b>: Tokyo Gas CEO
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** How the AI Boom Is Challenging Central Banking - Steptoe
+**Source News:** Ethylene Glycol Prices Fluctuated Sharply in October - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** How the AI Boom Is Challenging Central Banking - Steptoe
+- **The News:** Ethylene Glycol Prices Fluctuated Sharply in October - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Asia FX Talk - MUFG Research
+**Source News:** Election Expectations Drive Decline in Risk Premium; Crude Oil Plunges Over 8 ... - Sunsirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asia FX Talk - MUFG Research
+- **The News:** Election Expectations Drive Decline in Risk Premium; Crude Oil Plunges Over 8 ... - Sunsirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** US midterms - a decisive win for the Democrats. What now? | St. James's Place
+**Source News:** BJP Counters Rahul Gandhi With NDA's Election Strike Rate Under Two CECs | News18 - YouTube
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US midterms - a decisive win for the Democrats. What now? | St. James's Place
+- **The News:** BJP Counters Rahul Gandhi With NDA's Election Strike Rate Under Two CECs | News18 - YouTube
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
