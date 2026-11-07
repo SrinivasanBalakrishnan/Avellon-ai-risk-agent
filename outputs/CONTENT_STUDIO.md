@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 06 November 2026
+**Date:** 07 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Spot LNG price may rise further toward winter on weather, <b>geopolitical risks</b>: Tokyo Gas CEO
+**Source News:** A new age of economic warfare - Investment Executive
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Spot LNG price may rise further toward winter on weather, <b>geopolitical risks</b>: Tokyo Gas CEO
+- **The News:** A new age of economic warfare - Investment Executive
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Ethylene Glycol Prices Fluctuated Sharply in October - SunSirs
+**Source News:** <b>Geopolitics</b> Is No Longer a Footnote in Medtech Strategy — It's the Plan
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Ethylene Glycol Prices Fluctuated Sharply in October - SunSirs
+- **The News:** <b>Geopolitics</b> Is No Longer a Footnote in Medtech Strategy — It's the Plan
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Election Expectations Drive Decline in Risk Premium; Crude Oil Plunges Over 8 ... - Sunsirs
+**Source News:** What Investors Need to Watch as Congress Returns: Debt Ceiling, Iran - Bloomberg.com
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Election Expectations Drive Decline in Risk Premium; Crude Oil Plunges Over 8 ... - Sunsirs
+- **The News:** What Investors Need to Watch as Congress Returns: Debt Ceiling, Iran - Bloomberg.com
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** BJP Counters Rahul Gandhi With NDA's Election Strike Rate Under Two CECs | News18 - YouTube
+**Source News:** Israel's 2026 Elections: Coalition Scenarios and Implications for Regional Stability - Steptoe
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** BJP Counters Rahul Gandhi With NDA's Election Strike Rate Under Two CECs | News18 - YouTube
+- **The News:** Israel's 2026 Elections: Coalition Scenarios and Implications for Regional Stability - Steptoe
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
