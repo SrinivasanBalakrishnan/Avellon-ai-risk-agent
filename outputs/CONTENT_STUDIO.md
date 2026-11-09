@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 08 November 2026
+**Date:** 09 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** U.S. military launches Iran commerce crackdown task force - Traders Union
+**Source News:** Oil steadies after Trump signals restraint on Iran, Hormuz <b>risks</b> persist | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** U.S. military launches Iran commerce crackdown task force - Traders Union
+- **The News:** Oil steadies after Trump signals restraint on Iran, Hormuz <b>risks</b> persist | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** <b>Geopolitics</b>, cyber threats key <b>risks</b> to financial stability: CBO survey - Oman Observer
+**Source News:** Japan's Hitachi Deploys AI Agents in Procurement Operations, Cutting Delivery ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** <b>Geopolitics</b>, cyber threats key <b>risks</b> to financial stability: CBO survey - Oman Observer
+- **The News:** Japan's Hitachi Deploys AI Agents in Procurement Operations, Cutting Delivery ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** US-Iran Peace Talks Show First Glimmer as Oil Prices Plunge 17% in a Week, Worst Since Pandemic
+**Source News:** QatarEnergy turns to US LNG as buyers weigh delivery security alongside price
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US-Iran Peace Talks Show First Glimmer as Oil Prices Plunge 17% in a Week, Worst Since Pandemic
+- **The News:** QatarEnergy turns to US LNG as buyers weigh delivery security alongside price
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Gold price holds the 4,000 USD/ounce mark, <b>risk</b> of reversal still present
+**Source News:** Why Nvidia stock is falling: Can Jensen Huang's Chinese honeytrap scandal deepen the selloff?
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold price holds the 4,000 USD/ounce mark, <b>risk</b> of reversal still present
+- **The News:** Why Nvidia stock is falling: Can Jensen Huang's Chinese honeytrap scandal deepen the selloff?
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
