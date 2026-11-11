@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 10 November 2026
+**Date:** 11 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Brent Crude Oil Prices Plunge Over 5% Amid US-Iran Diplomatic Hopes, ETAuto
+**Source News:** AI advances, <b>geopolitical</b> tensions fuel growing cyber threats across EU: Cybersecurity agency
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Brent Crude Oil Prices Plunge Over 5% Amid US-Iran Diplomatic Hopes, ETAuto
+- **The News:** AI advances, <b>geopolitical</b> tensions fuel growing cyber threats across EU: Cybersecurity agency
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** US Government Lenders Sour on Mine Deal Backed by Trump Sons - Bloomberg.com
+**Source News:** With Strong Fundamental Resilience, Copper Price Volatility Remained at a High Level - SunSirs
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US Government Lenders Sour on Mine Deal Backed by Trump Sons - Bloomberg.com
+- **The News:** With Strong Fundamental Resilience, Copper Price Volatility Remained at a High Level - SunSirs
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Asian stocks climb as sliding oil prices buoy sentiment - Reuters
+**Source News:** Oil and natural gas diverge as <b>geopolitical risks</b> ease and winter demand increases
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Asian stocks climb as sliding oil prices buoy sentiment - Reuters
+- **The News:** Oil and natural gas diverge as <b>geopolitical risks</b> ease and winter demand increases
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** INTERVIEW| 'Evening courts in Bihar, Delhi &amp; Andhra soon' - The New Indian Express
+**Source News:** Institutions: the tools for keeping vital relations stable amid domestic upheaval
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** INTERVIEW| 'Evening courts in Bihar, Delhi &amp; Andhra soon' - The New Indian Express
+- **The News:** Institutions: the tools for keeping vital relations stable amid domestic upheaval
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
