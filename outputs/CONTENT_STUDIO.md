@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 13 November 2026
+**Date:** 14 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Wars, <b>energy security</b> reshape <b>global</b> climate debate at COP31 - The Economic Times
+**Source News:** Oil prices post second straight weekly drop on signs of growing supply surplus - CNBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Wars, <b>energy security</b> reshape <b>global</b> climate debate at COP31 - The Economic Times
+- **The News:** Oil prices post second straight weekly drop on signs of growing supply surplus - CNBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Oil Holds Gain as Trump Says US Doesn't Need a Deal With Iran - Bloomberg.com
+**Source News:** Trump States Qatar UAE And Bahrain Request Waiting Period On Iran - Sahi
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil Holds Gain as Trump Says US Doesn't Need a Deal With Iran - Bloomberg.com
+- **The News:** Trump States Qatar UAE And Bahrain Request Waiting Period On Iran - Sahi
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** H1 2026 Recap: US Real Estate | Alvarez &amp; Marsal | Management Consulting
+**Source News:** ASEAN unity faces test as <b>energy</b> crisis, regional conflicts loom over summit | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** H1 2026 Recap: US Real Estate | Alvarez &amp; Marsal | Management Consulting
+- **The News:** ASEAN unity faces test as <b>energy</b> crisis, regional conflicts loom over summit | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** India, Europe look to expand defence ties in <b>Indo</b>-<b>Pacific</b> - The Tribune
+**Source News:** Urgent climate finance pleas at COP31 face a non-urgent response | Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** India, Europe look to expand defence ties in <b>Indo</b>-<b>Pacific</b> - The Tribune
+- **The News:** Urgent climate finance pleas at COP31 face a non-urgent response | Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
