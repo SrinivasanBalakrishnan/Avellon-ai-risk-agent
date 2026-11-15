@@ -1,93 +1,96 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 14 November 2026
+**Date:** 15 November 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 9.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 8.5)
-- **Taiwan Strait** (Risk Score: 3)
+- **Strait of Hormuz** (Risk Score: 17.0)
+- **Taiwan Strait** (Risk Score: 13.5)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Oil prices post second straight weekly drop on signs of growing supply surplus - CNBC**
-> *... danger. Abdulmonam Eassa | Getty Images. Oil weakened on Friday ... With lower <b>geopolitical risk</b> from the U.S.-Israeli war against Iran and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1rv5I2thfGeQG-aD3dUZrb))
+**🔴 Iran retains 1,500-2,500 missiles despite months of US-Israeli attacks: Report**
+> *Bilal Saab, senior managing director at <b>geopolitical risk</b> firm Trends US, said Iran's military threat depended not only on the size of its arsenal&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/world/iran-retains-1-500-2-500-missiles-despite-months-of-us-israeli-attacks-report-article-14080448.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1I-6qeuAQATYYz4wnTAvcf))
 
-**🔴 Brent Holds Near $96 as Supply Glut Battles War <b>Risk</b> Premium - BigGo Finance**
-> *... <b>geopolitical risk</b> premium. WTI closed at $88.74. The rally came despite bearish fundamentals: the International Energy Agency says the market&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/706c6b9d-933b-40df-a8df-79a51731cb4f&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1pXKCO1pt19iRdIyPL7j1h))
+**🟡 Iran War Accelerates Southeast Asia's Renewable <b>Energy</b> Push | OilPrice.com**
+> *The <b>International</b> Energy Agency (IEA) has previously pointed out ... energy capacity to strengthen <b>energy security</b>. Between February 28 and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0yJ80vBmwVn1wxOA-oH-58))
 
-**🟢 Priced out before going green? How carbon border adjustments test Africa's industrial ambitions**
-> *... <b>geopolitical risk</b> advisory. Topics: Geopolitics and Strategic Partnerships Trade and Regional Integration. APRI does not take institutional&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://afripoli.org/priced-out-before-going-green-how-carbon-border-adjustments-test-africas-industrial-ambitions&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0ORbV0yC9LmUrt2E_Dud4x))
+**🔴 US Iran <b>War</b> | Iran Accuses US Of '<b>Economic</b> Terrorism', Says Blockade Threatens ... - NDTV**
+> *Iran has sharply criticised US <b>economic</b> sanctions and the blockade, accusing Washington of using <b>economic</b> pressure to threaten the livelihoods of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtv.com/video/us-iran-war-iran-accuses-us-of-economic-terrorism-says-blockade-threatens-livelihoods-of-people-1191594&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2dfYEX1JjapSrsO0qhj99N))
 
-**🔴 Iran war live: US says shot down 2 drones over Bahrain, denies radar strike - Al Jazeera**
-> *Analysts say the market is going through a major shift with lower <b>geopolitical risk</b> from the Iran war and the release on Friday of an International&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ceczqmSefx4fbUPFpIfJI))
+**🔴 Iran Accuses US Of '<b>Economic</b> Terrorism', Says Blockade Threatens Livelihoods Of People**
+> *US Iran <b>War</b> | Iran Accuses US Of '<b>Economic</b> Terrorism', Says Blockade Threatens Livelihoods Of People. @NDTV1 like8 views5 minutes ago more....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DCyEnsupddhI&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw37MNPc9Q6I4sdVTgm91h2i))
 
-**🔴 Oil and gas: Persisting upward pressures across all hydrocarbon markets in October**
-> *... risk of re-escalation in the Gulf conflict. Added to this <b>geopolitical risk</b> premium is a regional component for gas: the beginning of the winter&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://economic-research.bnpparibas.com/html/en-US/Persisting-upward-pressures-across-hydrocarbon-markets-October-11/13/2026,53937&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw27vs10eQu3H-4vDhlLBJ40))
+**🟢 Myanmar Embassy joins London Panel on West Asia <b>War</b>, Asian <b>Economies</b>**
+> *The image shows the discussion on the impact of the West Asia <b>War</b> on Asian <b>Economies</b> and the Future of UK-Asia Business. U Win Zeyar Tun, Chargé d'&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gnlm.com.mm/myanmar-embassy-joins-london-panel-on-west-asia-war-asian-economies/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw294Tkl7bfuHr0SB1LeX6CX))
 
 
 ## 🏛 CYBER & TECH
-**🟡 Trump States Qatar UAE And Bahrain Request Waiting Period On Iran - Sahi**
-> *An extended timeline in West Asia sustains a baseline <b>geopolitical risk</b> premium across global crude oil markets and logistics channels. Indian&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sahi.com/news/trump-states-qatar-uae-and-bahrain-request-waiting-period-on-iran&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0lNqVMFKwpssoyRDKjuFfl))
+**🟢 Hyundai LNG Shipping wins 6 Nov nod - Oil &amp; Gas Middle East**
+> *... <b>geopolitical risk</b> in the Middle East, the outlet reported. Deal terms and closing date. The IMM Private Equity and IMM Investment consortium will&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.oilandgasmiddleeast.com/news/hyundai-lng-shipping-sinar-mas&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0AJzST6AZr5kF38fC1ZJp7))
 
-**🟢 Who's afraid of the blue wave? | UBS Global**
-> *Markets have reassessed many <b>risks</b> in recent days, from AI euphoria and <b>geopolitics</b> to monetary and fiscal policy, while fundamentals still appear&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ubs.com/global/en/wealthmanagement/insights/marketnews/article.4009996.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3lMwT398eF4nzLNY5zOPcY))
+**🟢 Why Maersk's latest hack matters more than it looks - Container News**
+> *<b>geopolitical risks</b> &middot; Facebook &middot; Twitter &middot; WhatsApp &middot; Linkedin &middot; Email. Previous articleKMTC to launch own South Korea–Vietnam container service in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://container-news.com/why-maersks-latest-hack-matters-more-than-it-looks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0aR0M4QdnnSzTTw_ZY5RmJ))
 
-**🟡 Daily: Rising yields raise the portfolio appeal of bonds and diversified investing | UBS Global**
-> *... <b>geopolitical risk</b> into the year ahead. Completion assets can address different risks. Uncertainty and the need to think in terms of market&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-13112026.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3iJ29NnAAeqIrUthorLt-l))
+**🟢 European energy groups strengthen infrastructure defenses amid sabotage <b>risks</b>**
+> *European energy firms ramp up security and <b>geopolitical</b> measures as sabotage and cyber <b>risks</b> grow, with Brussels updating energy security in 2024....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/companies/show/4251106-european-energy-infrastructure-defenses/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FlnB_the-8vVoV9qqr8UE))
 
-**🟢 European shares end best week since June as strong earnings lift sentiment | Reuters**
-> *... a rotation out of tech globally helped investors look past <b>geopolitical risks</b> and the volatility involving AI stocks....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/markets/europe/european-shares-retreat-record-highs-ai-uncertainty-weighs-2026-11-13/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw31fthn274MLK7prnkZwLIf))
+**🔴 Bitcoin Crash Deepens as $597M in Futures Positions Get Wiped - CryptoRank**
+> *About $597 million in Bitcoin futures positions were liquidated, while concerns about Federal Reserve rate hikes and <b>geopolitical risks</b> added to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptorank.io/news/feed/d34f6-bitcoin-crash-deepens-as-597m-in-futures-positions-get-wiped&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0H2UlHR7NqJFkfCWV5wpxS))
 
-**🟢 'Major breakthrough': China digs deep to boost natural gas production, <b>energy security</b>**
-> *... <b>security</b> of <b>global energy</b> flows. Advertisement. Against this backdrop, Beijing has identified deepwater, deep underground and other unconventional&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/economy/article/3374347/major-breakthrough-china-digs-deep-boost-natural-gas-production-energy-security&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0A2RNGw8AF0c_Hw2pRSjOA))
+**🔴 Worried about mutual fund losses? Expert shares 5 ways to reduce portfolio <b>risk</b> and ... - Mint**
+> *... <b>risks</b>. (iStockphoto). AI Quick Read. Over the last 1 year, due to <b>geopolitical</b> tensions and the ongoing US-Iran dispute, which have&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/money/personal-finance/worried-about-mutual-fund-losses-expert-shares-5-ways-to-reduce-portfolio-risk-and-navigate-equity-market-volatility-11794706231329.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2rahELSXH1_kNmSEcthvvb))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 ASEAN unity faces test as <b>energy</b> crisis, regional conflicts loom over summit | Reuters**
-> *The Reuters Power Up newsletter by columnist Ron Bousso provides everything you need to know about the <b>global</b> energy industry. ... <b>energy security</b>, with&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/asean-unity-faces-test-energy-crisis-regional-conflicts-loom-over-summit-2026-11-13/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2cETgige4XgZM7Y-9cLv1Q))
+**🟢 Korea's Fuel Exports Surge to Australia, Europe Amid Supply Shocks**
+> *The figures indicate that Korean petroleum product exports have contributed to global energy security at a time of heightened <b>geopolitical risk</b> from&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.sedaily.com/business/2026/11/15/koreas-fuel-exports-surge-to-australia-europe-amid-supply&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2l1MciREUy89eNRYT05Nkp))
 
-**🟢 Oil Market Report - November 2026 - IEA**
-> *Oil Market Report - November 2026 - Analysis and key findings. A report by the <b>International Energy</b> Agency....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.iea.org/reports/oil-market-report-november-2026&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1FB4kY1spLs6SOryW2ia2a))
+**🟢 Oil heads for second weekly fall as US stocks rise offset Gulf <b>risks</b> - Ticker News**
+> *... <b>risk</b> premium that can accompany <b>geopolitical</b> stress. That has left benchmark futures little changed in early trade, even as security <b>risks</b> persist....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tickernews.co/oil-heads-for-second-weekly-fall-as-u-s-stocks-rise-offset-gulf-risks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-T6eCC3VSFLsH6fFvdNUR))
 
-**🟢 Permanent Mission of the Russian Federation to the United Nations - russiaun.ru**
-> *... <b>global</b> economy facing serious challenges, particularly to food and <b>energy security</b>. ... The <b>International</b> Atomic Energy Agency (IAEA) has never&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://russiaun.ru/en/news/0113112026&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0fjlaYIYs096RUZDuExCYe))
+**🟢 Following United Nations summit, Governor Newsom brings California's climate work to ...**
+> *... <b>energy security</b>. The Governor ... The <b>global</b> energy crisis has reinforced the need to accelerate clean energy deployment and electrification....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gov.ca.gov/2026/11/14/following-united-nations-summit-governor-newsom-brings-californias-climate-work-to-poland-launches-new-partnership/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2WZHUoXCqdSZEB635Dl2QF))
 
-**🟢 Gargash: Fitch rating shows UAE economy's strength during regional <b>crisis</b> - Gulf News**
-> *... national economy and the strength of its financial position despite the ongoing regional <b>crisis</b>. ... <b>government debt</b>, substantial net external&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://gulfnews.com/business/gargash-fitch-rating-shows-uae-economys-strength-during-regional-crisis-1.500747025&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw2K3OAC7vr5xYs4cqTwdW8a))
+**🟢 A new WEF report highlights technologies that could deliver cleaner, more <b>secure energy</b>**
+> *As <b>world</b> leaders gather at COP31 to advance <b>global</b> climate action, the <b>World</b> Economic Forum today released Top 10 Emerging Technologies for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wam.ae/en/article/c392k0e-new-wef-report-highlights-technologies-that-could&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw30lTFpYMsHzOAJfDjaZWyx))
 
-**🟡 The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week**
-> *Selling pressure rippled across international <b>sovereign debt</b> markets, following the path of U.S. Treasuries. ... financial <b>crisis</b>... Those were&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/stocktwits:c4c94b419094b:0-the-weekly-spread-what-shaped-us-treasury-yields-and-the-dollar-this-week/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1sG2CsETJegsZT3I8J9riI))
+**🔴 Gulf attacks threaten <b>global energy</b>, food supplies - Channel Africa**
+> *Escalating attacks on commercial shipping and disruptions around key Gulf waterways are threatening <b>global</b> trade, <b>energy</b> supplies and food <b>security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.channelafrica.co.za/channelafrica/news/gulf-attacks-threaten-global-energy-food-supplies/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3kQ47cP0jHbEWVs-PWYIKs))
 
 
 ## 🏛 LEADERSHIP
-**🟢 Urgent climate finance pleas at COP31 face a non-urgent response | Reuters**
-> *... change, nature loss and other environmental, social and governance (ESG) ... <b>regime changes</b>, finance minister says &middot; Boards, Policy &amp; Regulation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/sustainability/cop/urgent-climate-finance-pleas-cop31-face-non-urgent-response-2026-11-13/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1L67YpXACJWCv3PI_Qppo6))
+**🟢 Rahul Gandhi पर Pradeep Bhandari का तीखा हमला, बोले- 'विदेशी ताकतों के Puppet' - YouTube**
+> *Rahul Gandhi पर Pradeep Bhandari का तीखा हमला, बोले- 'विदेशी ताकतों के Puppet' | <b>Regime Change</b>. @news18india No likes&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DqGmHz1pNRfM&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0Ex3r_FB54aJv_pOZwh4cz))
 
-**🟢 क्या बांग्लादेश को लेकर पाकिस्तान का कोई बड़ा प्लान है? | Sheikh Hasina | N18G - YouTube**
-> *Bangladesh Burns As Hasina's Return Sparks Unrest | Rahul Gandhi's '<b>Regime Change</b>' Rhetoric In Focus. CNN-News18. New. 12K views &middot; 48:14 &middot; Go to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAut0HsF4W8A&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0S45rLliYXm_xkh0ogxHON))
+**🟢 Rahul Gandhi Targets BJP Over Electoral System, Accuses Ruling Party Of Using Money Power**
+> *... political system,' leaving the opposition in shock and creating a ... <b>regime change</b>,' and that Congress is 'anti-India.' On-screen graphics&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ndtv/videos/rahulgandhi_democracy_558909/1488166359848525/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2BE83U8L4sgJlcWBudVHuO))
 
-**🔴 Chile Ends Trucker Strike With a 142-Peso Diesel Cut and a <b>Price</b> Freeze Through 2027**
-> *<b>Transport</b> workers staged the protest to denounce increasing operating <b>costs</b> ... <b>price volatility</b> mid-contract. CHILE-<b>TRANSPORT</b>-PROTEST. A member of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.latintimes.com/chile-truckers-strike-diesel-price-cut-agreement-601319&ct=ga&cd=CAIyGjBjOWVhY2UzOTkyNDQyNGY6Y29tOmVuOklO&usg=AOvVaw2_ZJ4jgDybZ6y91NPu1rnM))
+**🟢 What Bharat Summit means for Congress at home and abroad? | Capital Beat - The Federal**
+> *Will the BJP use this to allege that the Congress is seeking <b>regime change</b>? ... changed and that money power was now closely associated with political&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thefederal.com/category/news/rahul-gandhi-bharat-summit-vote-chori-adani-262951&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0T37NqqF5UafnsF-uB_9wt))
+
+**🟢 UN climate chief urges speed as COP31 confronts fossil fuel divide | Reuters**
+> *... change. Turkey hosts UN Climate Change Conference (COP31) in Antalya ... <b>regime changes</b>, finance minister says &middot; Boards, Policy &amp; Regulation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw37dt50RSHt4NHsRkdzJS-P))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 Dollar hits highest since April 2025 | Convera**
-> *Mexico's peso faces pressure from a surprise rate cut and <b>geopolitical risks</b>, affecting its carry advantage. ... risk. A hot Canadian CPI print&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://convera.com/blog/market-insights/fx-research/daily-market-updates/dollar-hits-highest-since-april-2025/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1QK1x8nWBb8Mo5Afb9Acro))
+**🟡 US Diesel Prices Fall Below $6 For First Time In Two Months**
+> *This has reduced the <b>geopolitical risk</b> premium that had pushed crude and refined fuel prices higher. Diesel demand typically softens during autumn&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.timesnownews.com/business-economy/economy/us-diesel-prices-fall-below-6-for-first-time-in-two-months-article-156512374&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-hPemTj11ZhsRz6ZIwcEV))
 
-**🟢 Canadian Prime Minister Mark Carney is now in Manila for the ASEAN Leaders ... - Facebook**
-> *... <b>security</b>, and economics. ... Philippine President Ferdinand Marcos Jr. meets with Mark Carney to discuss Canada's increasing engagement in the <b>Indo</b>-&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/videos/canadian-prime-minister-mark-carney-is-now-in-manila-for-the-asean-leaders-summi/1160425326508576/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3f7zCulmtIlUOrM-iWWGaF))
+**🟡 Intellicheck Mobilisia Faces Cost Pressures and Revenue <b>Risks</b> from <b>Geopolitical</b> Instability ...**
+> *... <b>risk</b>, in the Economy &amp; Political Environment category. Intellicheck Mobilisia may face rising operating costs if <b>geopolitical</b> instability, export&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/8842484/intellicheck-mobilisia-faces-cost-pressures-and-revenue-risks-from-geopolitical-instability-and-weak-consumer-demand/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2n6DCURPZ6Puz3qpkddglJ))
 
-**🟢 INS Sahyadri Concludes Malabar 2026 Exercise in Yokosuka, Reinforcing <b>Indo</b>-<b>Pacific Security</b>**
-> *INS Sahyadri Concludes Malabar 2026 Exercise in Yokosuka, Reinforcing <b>Indo</b>-<b>Pacific Security</b> - India's advanced guided-missile stealth frigate,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.lokmattimes.com/national/ins-sahyadri-concludes-malabar-2026-exercise-in-yokosuka-reinforcing-indo-pacific-security-a001-w01/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1DqUIaLkoMYVshnEP6leCL))
+**🔴 Drone ownership ban comes into force in Beijing over <b>security</b> concerns - The Japan Times**
+> *<b>ASIA PACIFIC</b>. Drone ownership ban comes into force in Beijing over <b>security</b> concerns. A Chinese national flag flies in front of skyscrapers of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/beijing-drone-ban/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw31tJzJDkMiF3PFv6UH7XLA))
 
-**🟢 The challenge of holding the Quad together - The Hindu**
-> *Analysis of Quad dynamics, leadership shifts, and looming Manila summit shaping <b>Indo</b>-<b>Pacific security</b> under Trump's stance....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1UrEx4HcwUkmawfhrVa8NI))
+**🟢 The challenge of holding the Quad together - Observer Research Foundation**
+> *... Pacific by renaming the U.S. Pacific Command to U.S. <b>Indo</b>-<b>Pacific</b> Command. ... <b>Indo</b>-<b>Pacific</b> maritime <b>security</b> &middot; <b>Indo</b>-<b>Pacific</b> strategy &middo...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.orfonline.org/research/the-challenge-of-holding-the-quad-together&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2unLGhEpEmEQ70sKjo4o6l))
 
-**🟢 Zambales fisherfolk oppose US ammunition factory ahead of Trump's ASEAN visit**
-> *The issue comes as the Philippines continues to strengthen defense cooperation with Washington amid <b>tensions</b> in the <b>South China Sea</b>, including&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://canadianinquirer.net/2026/11/13/zambales-fisherfolk-oppose-us-ammunition-factory-ahead-of-trumps-asean-visit/&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw01ZN9WwnAkLAtgq3--gzli))
+**🟢 The Philippines and Australia signed a Defense Cooperation Agreement on Sunday ... - Facebook**
+> *Australia, Philippines Seal Historic Defense Pact for <b>Indo</b>-<b>Pacific Security</b>. Boycott Chinese products support domestic product. 14w · Public&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/pnagovph/posts/the-philippines-and-australia-signed-a-defense-cooperation-agreement-on-sunday-u/1561094492733666/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0BLr3D1U6lC4vMJqgLpG6l))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
