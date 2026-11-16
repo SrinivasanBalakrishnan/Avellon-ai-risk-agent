@@ -1,96 +1,82 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 15 November 2026
+**Date:** 16 November 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 17.0)
-- **Taiwan Strait** (Risk Score: 13.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 1)
+- **Taiwan Strait** (Risk Score: 21.0)
+- **Strait of Hormuz** (Risk Score: 8.0)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Iran retains 1,500-2,500 missiles despite months of US-Israeli attacks: Report**
-> *Bilal Saab, senior managing director at <b>geopolitical risk</b> firm Trends US, said Iran's military threat depended not only on the size of its arsenal&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/world/iran-retains-1-500-2-500-missiles-despite-months-of-us-israeli-attacks-report-article-14080448.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1I-6qeuAQATYYz4wnTAvcf))
+**🔴 Oil prices fall on expectations of coming supply surplus - Reuters**
+> *Oil closed lower on Friday as the market weighed signs of lowering <b>geopolitical risk</b> ​from the US-Israeli war against Iran, now in its ninth month....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0WgrI7sZoyanraEm-yXDgp))
 
-**🟡 Iran War Accelerates Southeast Asia's Renewable <b>Energy</b> Push | OilPrice.com**
-> *The <b>International</b> Energy Agency (IEA) has previously pointed out ... energy capacity to strengthen <b>energy security</b>. Between February 28 and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0yJ80vBmwVn1wxOA-oH-58))
+**🔴 Iran targets US military base in Bahrain with drone attack | FXStreet**
+> *Risk sentiment FAQs ... Meanwhile, the US Dollar remains bullish near a 19-month high amid certainty of Fed rate hikes and <b>geopolitical risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/iran-targets-us-military-base-in-bahrain-with-drone-attack-202611152229&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3f0UOyWvfTeUqNsXmomwn4))
 
-**🔴 US Iran <b>War</b> | Iran Accuses US Of '<b>Economic</b> Terrorism', Says Blockade Threatens ... - NDTV**
-> *Iran has sharply criticised US <b>economic</b> sanctions and the blockade, accusing Washington of using <b>economic</b> pressure to threaten the livelihoods of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ndtv.com/video/us-iran-war-iran-accuses-us-of-economic-terrorism-says-blockade-threatens-livelihoods-of-people-1191594&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw2dfYEX1JjapSrsO0qhj99N))
+**🟡 Asia Is Building 73% of the <b>World's</b> New Nuclear Capacity - Yahoo Finance**
+> *China is a <b>global</b> leader in coal, renewables, and nuclear power additions and planned projects as its primary goal is <b>energy security</b> and fewer fossil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/energy/articles/asia-building-73-worlds-nuclear-220000205.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2Fja5ILhIPyJImF4UJrV_o))
 
-**🔴 Iran Accuses US Of '<b>Economic</b> Terrorism', Says Blockade Threatens Livelihoods Of People**
-> *US Iran <b>War</b> | Iran Accuses US Of '<b>Economic</b> Terrorism', Says Blockade Threatens Livelihoods Of People. @NDTV1 like8 views5 minutes ago more....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DCyEnsupddhI&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw37MNPc9Q6I4sdVTgm91h2i))
+**🟡 Asia Is Building 73% of the <b>World's</b> New Nuclear Capacity | OilPrice.com**
+> *... <b>energy security</b> and generating electricity with homegrown resources. ... <b>world</b>, according to the <b>Global</b> Energy Monitor (GEM) data. China leads&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Alternative-Energy/Nuclear-Power/Asia-Is-Building-73-of-the-Worlds-New-Nuclear-Capacity.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2a0aAe_wXtfFtKTW3zUBG5))
 
-**🟢 Myanmar Embassy joins London Panel on West Asia <b>War</b>, Asian <b>Economies</b>**
-> *The image shows the discussion on the impact of the West Asia <b>War</b> on Asian <b>Economies</b> and the Future of UK-Asia Business. U Win Zeyar Tun, Chargé d'&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gnlm.com.mm/myanmar-embassy-joins-london-panel-on-west-asia-war-asian-economies/&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw294Tkl7bfuHr0SB1LeX6CX))
+**🟡 UN warns of human, economic losses from breaching 1.5°C threshold**
+> *<b>Energy security</b>, clean investments. Stiell stressed the interconnection ... <b>global</b> price fluctuations. He noted that clean energy investments&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sana.sy/en/international/2359071/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw20iOmTcKZtBLbnGbuNN0qP))
 
 
 ## 🏛 CYBER & TECH
-**🟢 Hyundai LNG Shipping wins 6 Nov nod - Oil &amp; Gas Middle East**
-> *... <b>geopolitical risk</b> in the Middle East, the outlet reported. Deal terms and closing date. The IMM Private Equity and IMM Investment consortium will&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.oilandgasmiddleeast.com/news/hyundai-lng-shipping-sinar-mas&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0AJzST6AZr5kF38fC1ZJp7))
+**🟢 US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed | Reuters**
+> *&quot;The outlook over the next 6-12 months offers no comfort; the global tightening cycle, ​persistent <b>geopolitical risk</b> to energy markets and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/india/us-iran-deal-uncertainty-weigh-rupee-bonds-fed-rbi-rate-paths-eyed-2026-11-16/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1gyZt04xF0b-0NzzWNLuSC))
 
-**🟢 Why Maersk's latest hack matters more than it looks - Container News**
-> *<b>geopolitical risks</b> &middot; Facebook &middot; Twitter &middot; WhatsApp &middot; Linkedin &middot; Email. Previous articleKMTC to launch own South Korea–Vietnam container service in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://container-news.com/why-maersks-latest-hack-matters-more-than-it-looks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0aR0M4QdnnSzTTw_ZY5RmJ))
+**🔴 Oil prices fall on expectations of coming supply surplus - CNBC**
+> *Oil closed lower on Friday as the market weighed signs of lowering <b>geopolitical risk</b> ... Rates remain high because of the risks the tankers face&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/11/16/oil-prices-fall-on-expectations-of-coming-supply-surplus.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0MPdwuFv6UTbhinUOxujoL))
 
-**🟢 European energy groups strengthen infrastructure defenses amid sabotage <b>risks</b>**
-> *European energy firms ramp up security and <b>geopolitical</b> measures as sabotage and cyber <b>risks</b> grow, with Brussels updating energy security in 2024....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/companies/show/4251106-european-energy-infrastructure-defenses/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3FlnB_the-8vVoV9qqr8UE))
+**🟡 British Pound struggles near September lows as bears eye 1.3200 break amid firmer USD**
+> *The December Fed rate hike certainty and <b>geopolitical risks</b> underpin the safe-haven buck. ... Moreover, the <b>geopolitical risk</b> premium remains in play&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tmgm.com/en-in/analysis/market-news/article/british-pound-struggles-near-september-lows-as-bears-eye-13200-break-amid-firmer-usd-202611160116&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3jCdkn2fellXA3CadOV3C_))
 
-**🔴 Bitcoin Crash Deepens as $597M in Futures Positions Get Wiped - CryptoRank**
-> *About $597 million in Bitcoin futures positions were liquidated, while concerns about Federal Reserve rate hikes and <b>geopolitical risks</b> added to&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cryptorank.io/news/feed/d34f6-bitcoin-crash-deepens-as-597m-in-futures-positions-get-wiped&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0H2UlHR7NqJFkfCWV5wpxS))
+**🟢 Watch the special coverage of ABS-CBN News for Day 2 of the 49th ASEAN Summit and ...**
+> *... <b>global</b> digital economy. Para 'yong as the <b>world's</b> first region ... On <b>energy security</b> we will designing of all member states of the MOU on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/videos/live-49th-asean-summit-and-related-summits-the-abs-cbn-news-special-coverage-nov/1749668416575885/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw29Ld8GF0g6NOOXTnDGnxgj))
 
-**🔴 Worried about mutual fund losses? Expert shares 5 ways to reduce portfolio <b>risk</b> and ... - Mint**
-> *... <b>risks</b>. (iStockphoto). AI Quick Read. Over the last 1 year, due to <b>geopolitical</b> tensions and the ongoing US-Iran dispute, which have&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/money/personal-finance/worried-about-mutual-fund-losses-expert-shares-5-ways-to-reduce-portfolio-risk-and-navigate-equity-market-volatility-11794706231329.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2rahELSXH1_kNmSEcthvvb))
+**🔴 Middle East latest: Bahrain says it intercepted Iranian aerial attacks after nationwide alert**
+> *- We strongly condemned Iran's attacks against its neighbors and the disruption of <b>international</b> trade, <b>energy security</b>, and the <b>global</b> economy caused&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thenationalnews.com/news/mena/2026/11/15/iran-war-live-bahrain-nationwide-threat-alert/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0yqiMV2O0mzHmNEmmzblIA))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 Korea's Fuel Exports Surge to Australia, Europe Amid Supply Shocks**
-> *The figures indicate that Korean petroleum product exports have contributed to global energy security at a time of heightened <b>geopolitical risk</b> from&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://en.sedaily.com/business/2026/11/15/koreas-fuel-exports-surge-to-australia-europe-amid-supply&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2l1MciREUy89eNRYT05Nkp))
+**🔴 Asia Outlook 2027: Growth broadens, capital gets selective | ING THINK**
+> *The key lesson from 2026 is that tariffs and geopolitical tensions are ... While occasional US-Iran tensions should keep some <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://think.ing.com/articles/asia-outlook-2027-draft/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ncRv3K7iSm1pt3rEeiO0d))
 
-**🟢 Oil heads for second weekly fall as US stocks rise offset Gulf <b>risks</b> - Ticker News**
-> *... <b>risk</b> premium that can accompany <b>geopolitical</b> stress. That has left benchmark futures little changed in early trade, even as security <b>risks</b> persist....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tickernews.co/oil-heads-for-second-weekly-fall-as-u-s-stocks-rise-offset-gulf-risks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-T6eCC3VSFLsH6fFvdNUR))
+**🔴 UAE petrol prices: Will December bring second drop amid shifting oil supply?**
+> *Markets have also become less concerned about an immediate escalation of the US-Iran conflict, reducing some of the <b>geopolitical risk</b> premium&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.khaleejtimes.com/business/uae-petrol-prices-will-december-bring-second-drop-amid-shifting-oil-supply&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0N7vIrS94dxYrWDGMUto-t))
 
-**🟢 Following United Nations summit, Governor Newsom brings California's climate work to ...**
-> *... <b>energy security</b>. The Governor ... The <b>global</b> energy crisis has reinforced the need to accelerate clean energy deployment and electrification....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gov.ca.gov/2026/11/14/following-united-nations-summit-governor-newsom-brings-californias-climate-work-to-poland-launches-new-partnership/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2WZHUoXCqdSZEB635Dl2QF))
+**🟢 Today's Market Recap: Nasdaq Falls Nearly 1%, Nvidia Drops Over 2%, AMD Slumps Over 8%**
+> *Crude oil fell for a second week amid oversupply and <b>geopolitical risks</b>. Meanwhile, SpaceX successfully executed the first orbital return catch of its&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/analysis/stocks/us-stocks/262306091-nasdaq-fell-nvda-amd-drop-starship-orbital-capture-tradingkey&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3QodDdWk7ubphK2MxKhGGL))
 
-**🟢 A new WEF report highlights technologies that could deliver cleaner, more <b>secure energy</b>**
-> *As <b>world</b> leaders gather at COP31 to advance <b>global</b> climate action, the <b>World</b> Economic Forum today released Top 10 Emerging Technologies for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.wam.ae/en/article/c392k0e-new-wef-report-highlights-technologies-that-could&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw30lTFpYMsHzOAJfDjaZWyx))
+**🟢 Ensuring Security in Food, Energy, and Oil & Gas — A Three-Fold Perspective on ... - SunSirs**
+> *With <b>global</b> food markets experiencing heightened volatility—driven by factors such as geopolitical conflicts and extreme weather, which impact&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-37679.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw14QFfXfuReIienFn7tIk2D))
 
-**🔴 Gulf attacks threaten <b>global energy</b>, food supplies - Channel Africa**
-> *Escalating attacks on commercial shipping and disruptions around key Gulf waterways are threatening <b>global</b> trade, <b>energy</b> supplies and food <b>security</b>,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.channelafrica.co.za/channelafrica/news/gulf-attacks-threaten-global-energy-food-supplies/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3kQ47cP0jHbEWVs-PWYIKs))
-
-
-## 🏛 LEADERSHIP
-**🟢 Rahul Gandhi पर Pradeep Bhandari का तीखा हमला, बोले- 'विदेशी ताकतों के Puppet' - YouTube**
-> *Rahul Gandhi पर Pradeep Bhandari का तीखा हमला, बोले- 'विदेशी ताकतों के Puppet' | <b>Regime Change</b>. @news18india No likes&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DqGmHz1pNRfM&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0Ex3r_FB54aJv_pOZwh4cz))
-
-**🟢 Rahul Gandhi Targets BJP Over Electoral System, Accuses Ruling Party Of Using Money Power**
-> *... political system,' leaving the opposition in shock and creating a ... <b>regime change</b>,' and that Congress is 'anti-India.' On-screen graphics&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ndtv/videos/rahulgandhi_democracy_558909/1488166359848525/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2BE83U8L4sgJlcWBudVHuO))
-
-**🟢 What Bharat Summit means for Congress at home and abroad? | Capital Beat - The Federal**
-> *Will the BJP use this to allege that the Congress is seeking <b>regime change</b>? ... changed and that money power was now closely associated with political&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thefederal.com/category/news/rahul-gandhi-bharat-summit-vote-chori-adani-262951&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0T37NqqF5UafnsF-uB_9wt))
-
-**🟢 UN climate chief urges speed as COP31 confronts fossil fuel divide | Reuters**
-> *... change. Turkey hosts UN Climate Change Conference (COP31) in Antalya ... <b>regime changes</b>, finance minister says &middot; Boards, Policy &amp; Regulation&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw37dt50RSHt4NHsRkdzJS-P))
+**🟡 The Philippines led discussions at the ASEAN Summit on regional oil stockpiling, an ... - Facebook**
+> *... <b>energy security</b> amid disruptions to <b>global</b> oil supplies. Link in the comment section &middot; May be an image of text &middot; 1. 1 reaction ·. 1 comment. ·. 1&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/gmanews/posts/the-philippines-led-discussions-at-the-asean-summit-on-regional-oil-stockpiling-/1786289803542669/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw04kC2rq7F3Fgf-x1VtdxfW))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 US Diesel Prices Fall Below $6 For First Time In Two Months**
-> *This has reduced the <b>geopolitical risk</b> premium that had pushed crude and refined fuel prices higher. Diesel demand typically softens during autumn&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.timesnownews.com/business-economy/economy/us-diesel-prices-fall-below-6-for-first-time-in-two-months-article-156512374&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2-hPemTj11ZhsRz6ZIwcEV))
+**🟢 GBP/USD Hovers Near One-Month Low Amid Strong USD Index | KuCoin**
+> *Recent CFT measures further underscore dollar strength amid <b>geopolitical risks</b>. ... <b>geopolitical risk</b> aversion. 1.3200 serves as the short-term key&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/flash/gbp-usd-hovers-near-one-month-low-amid-strong-usd-index&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0PYp1ZQCFMXtBLrA_6kBgn))
 
-**🟡 Intellicheck Mobilisia Faces Cost Pressures and Revenue <b>Risks</b> from <b>Geopolitical</b> Instability ...**
-> *... <b>risk</b>, in the Economy &amp; Political Environment category. Intellicheck Mobilisia may face rising operating costs if <b>geopolitical</b> instability, export&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/8842484/intellicheck-mobilisia-faces-cost-pressures-and-revenue-risks-from-geopolitical-instability-and-weak-consumer-demand/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2n6DCURPZ6Puz3qpkddglJ))
+**🟡 Risky Future Summit to Explore Emerging Threats, Technology, <b>Risk</b> Management for Insurers**
+> *... <b>geopolitical</b> instability and increasingly costly natural catastrophes, the property/casualty insurance industry faces a rapidly evolving <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.carriermanagement.com/news/2026/11/15/294144.htm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1CdVLeUj3tPgAYats50nb6))
 
-**🔴 Drone ownership ban comes into force in Beijing over <b>security</b> concerns - The Japan Times**
-> *<b>ASIA PACIFIC</b>. Drone ownership ban comes into force in Beijing over <b>security</b> concerns. A Chinese national flag flies in front of skyscrapers of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/beijing-drone-ban/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw31tJzJDkMiF3PFv6UH7XLA))
+**🟢 ASEAN Summit 2026: India's Big Play For The <b>Indo</b>-<b>Pacific</b> | Ground Report - YouTube**
+> *The Philippines is hosting the Association of Southeast Asian Nations (ASEAN) Summit from November 15 to 17 in Manila....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D_1jGJz5fD-0&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2w_IIVp_xpQGADzHRWQAFv))
 
-**🟢 The challenge of holding the Quad together - Observer Research Foundation**
-> *... Pacific by renaming the U.S. Pacific Command to U.S. <b>Indo</b>-<b>Pacific</b> Command. ... <b>Indo</b>-<b>Pacific</b> maritime <b>security</b> &middot; <b>Indo</b>-<b>Pacific</b> strategy &middo...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.orfonline.org/research/the-challenge-of-holding-the-quad-together&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2unLGhEpEmEQ70sKjo4o6l))
+**🟢 'Quad belongs to fading era': Jeffrey Sachs says India should leave Quad | Interview**
+> *... <b>security</b>, and damages India's relations with China ... Whatever its communiqués say about a free and open <b>Indo</b>-<b>Pacific</b>, the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/world/jeffrey-sachs-interview-quad-china-us-trump-india-indo-pacific-west-asia-ai-bubble-14060099.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1k2A_xTXCts6fBBMw0wn43))
 
-**🟢 The Philippines and Australia signed a Defense Cooperation Agreement on Sunday ... - Facebook**
-> *Australia, Philippines Seal Historic Defense Pact for <b>Indo</b>-<b>Pacific Security</b>. Boycott Chinese products support domestic product. 14w · Public&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/pnagovph/posts/the-philippines-and-australia-signed-a-defense-cooperation-agreement-on-sunday-u/1561094492733666/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0BLr3D1U6lC4vMJqgLpG6l))
+**🟢 <b>South China Sea</b>: The Philippines and Australia strengthen their cooperation**
+> *A new agreement is intended to facilitate joint operations and exercises. This move comes in response to China's actions in the <b>South China Sea</b>. NW....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://table.media/en/china/news/south-china-sea-the-philippines-and-australia-strengthen-their-cooperation&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1I8Cp3jowc_0wiEd-lwu6g))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
