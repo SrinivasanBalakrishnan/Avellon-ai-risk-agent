@@ -1,82 +1,99 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 16 November 2026
+**Date:** 17 November 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Taiwan Strait** (Risk Score: 21.0)
-- **Strait of Hormuz** (Risk Score: 8.0)
+- **Strait of Hormuz** (Risk Score: 22.5)
+- **Taiwan Strait** (Risk Score: 22.5)
 - **Bab el-Mandeb (Red Sea)** (Risk Score: 4.5)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Oil prices fall on expectations of coming supply surplus - Reuters**
-> *Oil closed lower on Friday as the market weighed signs of lowering <b>geopolitical risk</b> ​from the US-Israeli war against Iran, now in its ninth month....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0WgrI7sZoyanraEm-yXDgp))
+**🟢 Southeast Asia's bet on small nuclear reactors fuels big energy security <b>risks</b>**
+> *Once a country chooses a supplier, it effectively adopts a 60-year '<b>geopolitical</b> package' involving fuel cycles, safety frameworks, financing terms&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://greencentralbanking.com/2026/11/17/southeast-asias-bet-on-small-nuclear-reactors-fuels-big-energy-security-risks/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3jn6fQeYUy3Hs_uXnIQomi))
 
-**🔴 Iran targets US military base in Bahrain with drone attack | FXStreet**
-> *Risk sentiment FAQs ... Meanwhile, the US Dollar remains bullish near a 19-month high amid certainty of Fed rate hikes and <b>geopolitical risks</b>....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/iran-targets-us-military-base-in-bahrain-with-drone-attack-202611152229&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3f0UOyWvfTeUqNsXmomwn4))
+**🟢 The Great Reconfiguration: Key Themes for 2027 | S&amp;P Global**
+> *... <b>Geopolitical Risk</b> Brief: September 2026. BLOG — Nov. 16, 2026. The Great Reconfiguration. Strategic themes for 2027. 2027 will be shaped by&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/11/great-reconfiguration-key-themes-2027&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0HSDPVRW1pI_umUkis-6N6))
 
-**🟡 Asia Is Building 73% of the <b>World's</b> New Nuclear Capacity - Yahoo Finance**
-> *China is a <b>global</b> leader in coal, renewables, and nuclear power additions and planned projects as its primary goal is <b>energy security</b> and fewer fossil&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/energy/articles/asia-building-73-worlds-nuclear-220000205.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2Fja5ILhIPyJImF4UJrV_o))
+**🟢 Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Supply Exceeds Demand**
+> *Traders ignore <b>geopolitical risks</b> and focus on strong supply ... Interestingly, traders are also ready to ignore the risk of a restart of the military&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-dives-as-supply-exceeds-demand-1644956&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2JSl9e9GRgwCAl-IoanBz9))
 
-**🟡 Asia Is Building 73% of the <b>World's</b> New Nuclear Capacity | OilPrice.com**
-> *... <b>energy security</b> and generating electricity with homegrown resources. ... <b>world</b>, according to the <b>Global</b> Energy Monitor (GEM) data. China leads&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Alternative-Energy/Nuclear-Power/Asia-Is-Building-73-of-the-Worlds-New-Nuclear-Capacity.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2a0aAe_wXtfFtKTW3zUBG5))
+**🟡 ICS Chair warns rising <b>geopolitical risks</b> threaten global trade and freedom of navigation at ...**
+> *... <b>geopolitical</b>, economic and maritime <b>risks</b>. John Denholm, Chairman of the International Chamber of Shipping. Addressing the 250 plus delegates John&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.hellenicshippingnews.com/ics-chair-warns-rising-geopolitical-risks-threaten-global-trade-and-freedom-of-navigation-at-hong-kong-global-maritime-trade-summit/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0XA8zXj_vcJ76c0OfQ6MHH))
 
-**🟡 UN warns of human, economic losses from breaching 1.5°C threshold**
-> *<b>Energy security</b>, clean investments. Stiell stressed the interconnection ... <b>global</b> price fluctuations. He noted that clean energy investments&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://sana.sy/en/international/2359071/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw20iOmTcKZtBLbnGbuNN0qP))
+**🟢 Marcos backs nuclear power as Japan pitches Asian <b>energy</b> body | Philippine News Agency**
+> *... security, even as Japanese Prime Minister Sanae Takaichi proposed an Asian <b>energy security</b> body modeled after the <b>International</b> Energy Agency (IEA)....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pna.gov.ph/article/marcos-backs-nuclear-power-as-japan-pitches-asian-energy-body&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2rmbLZ9x7YRtVwjAiQELRx))
 
 
 ## 🏛 CYBER & TECH
-**🟢 US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed | Reuters**
-> *&quot;The outlook over the next 6-12 months offers no comfort; the global tightening cycle, ​persistent <b>geopolitical risk</b> to energy markets and the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/india/us-iran-deal-uncertainty-weigh-rupee-bonds-fed-rbi-rate-paths-eyed-2026-11-16/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1gyZt04xF0b-0NzzWNLuSC))
+**🟡 Gold Price Forecast: XAU/USD stays vulnerable amid Fed hike bets, <b>geopolitical</b> uncertainty**
+> *US Dollar renews 19-month highs amid US-Iran woes and hawkish Fed rhetoric. Gold's daily technical setup suggests downside <b>risks</b> remain ahead of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-stays-vulnerable-amid-fed-hike-bets-geopolitical-uncertainty-202611170337&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0rd8wYmWlSpidPqTfhVGqs))
 
-**🔴 Oil prices fall on expectations of coming supply surplus - CNBC**
-> *Oil closed lower on Friday as the market weighed signs of lowering <b>geopolitical risk</b> ... Rates remain high because of the risks the tankers face&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/11/16/oil-prices-fall-on-expectations-of-coming-supply-surplus.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0MPdwuFv6UTbhinUOxujoL))
+**🟢 U.S. works to close loophole that let China access advanced AI chips | PBS News**
+> *That's a <b>geopolitical risk</b> advisory firm. Liza, welcome back to the &quot;News Hour.&quot; Thanks for being with us. Liza Tobin: Thanks for having me, Amna&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0AmoQHDjns6KGtspLkfmZH))
 
-**🟡 British Pound struggles near September lows as bears eye 1.3200 break amid firmer USD**
-> *The December Fed rate hike certainty and <b>geopolitical risks</b> underpin the safe-haven buck. ... Moreover, the <b>geopolitical risk</b> premium remains in play&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tmgm.com/en-in/analysis/market-news/article/british-pound-struggles-near-september-lows-as-bears-eye-13200-break-amid-firmer-usd-202611160116&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3jCdkn2fellXA3CadOV3C_))
+**🟢 Oil slips as recovering Mideast exports blunt Gulf tensions - Reuters**
+> *&quot;The <b>geopolitical risk</b> premium from the US-Iran conflict ​has not disappeared, but it is clearly taking a back seat for now,&quot; KCM Trade's Waterer said&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/oil-slips-supply-surplus-outlook-despite-gulf-tensions-2026-11-17/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3LAkuo1bGXKeSlY2BzYODU))
 
-**🟢 Watch the special coverage of ABS-CBN News for Day 2 of the 49th ASEAN Summit and ...**
-> *... <b>global</b> digital economy. Para 'yong as the <b>world's</b> first region ... On <b>energy security</b> we will designing of all member states of the MOU on&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/abscbnNEWS/videos/live-49th-asean-summit-and-related-summits-the-abs-cbn-news-special-coverage-nov/1749668416575885/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw29Ld8GF0g6NOOXTnDGnxgj))
+**🟢 Australia Japan Business Council WA Keynote | The Hon Madeleine King MP**
+> *<b>Energy security</b> remains central. It is important to acknowledge that ... The technologies that will underpin the <b>global</b> energy transition&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.minister.industry.gov.au/king/media/australia-japan-business-council-wa-keynote&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1fJq_pGp0UVYq0NgjwDO73))
 
-**🔴 Middle East latest: Bahrain says it intercepted Iranian aerial attacks after nationwide alert**
-> *- We strongly condemned Iran's attacks against its neighbors and the disruption of <b>international</b> trade, <b>energy security</b>, and the <b>global</b> economy caused&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thenationalnews.com/news/mena/2026/11/15/iran-war-live-bahrain-nationwide-threat-alert/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0yqiMV2O0mzHmNEmmzblIA))
+**🟢 Is deglobalisation reshaping where <b>energy</b> infrastructure gets built? | Macquarie Groups**
+> *Investment is rising across critical energy infrastructure. <b>Global</b> energy ... <b>Energy security</b> as industrial policy. Clean energy supply chain&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.macquarie.com/au/en/insights/deglobalisation-energy-infrastructure-investment.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2trsfOQHiP6uB1BCQwMBPl))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🔴 Asia Outlook 2027: Growth broadens, capital gets selective | ING THINK**
-> *The key lesson from 2026 is that tariffs and geopolitical tensions are ... While occasional US-Iran tensions should keep some <b>geopolitical risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://think.ing.com/articles/asia-outlook-2027-draft/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ncRv3K7iSm1pt3rEeiO0d))
+**🟡 Supertanker rates sink 60%-plus from record highs as Middle East <b>geopolitical risk</b> unwinds**
+> *The cost of shipping oil in very large crude carriers has plunged since the beginning of November, Reuters reported Monday, reflecting weaker&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/seekingalpha:69405967e094b:0-supertanker-rates-sink-60-plus-from-record-highs-as-middle-east-geopolitical-risk-unwinds/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2rFL7dHin1Kud8IsMVqNGq))
 
-**🔴 UAE petrol prices: Will December bring second drop amid shifting oil supply?**
-> *Markets have also become less concerned about an immediate escalation of the US-Iran conflict, reducing some of the <b>geopolitical risk</b> premium&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.khaleejtimes.com/business/uae-petrol-prices-will-december-bring-second-drop-amid-shifting-oil-supply&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0N7vIrS94dxYrWDGMUto-t))
+**🟡 US Army seeks 17 concrete bunkers in Middle East within 45 days as Iran <b>threat</b> persists**
+> *That supports keeping a <b>geopolitical risk</b> premium in crude. This is not a market-moving headline, but it supports the view that the conflict will&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://investinglive.com/commodities/us-army-seeks-17-concrete-bunkers-in-middle-east-within-45-days-as-iran-threat-persists/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0SmJrFR9j_rv3CCZthDnJE))
 
-**🟢 Today's Market Recap: Nasdaq Falls Nearly 1%, Nvidia Drops Over 2%, AMD Slumps Over 8%**
-> *Crude oil fell for a second week amid oversupply and <b>geopolitical risks</b>. Meanwhile, SpaceX successfully executed the first orbital return catch of its&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/analysis/stocks/us-stocks/262306091-nasdaq-fell-nvda-amd-drop-starship-orbital-capture-tradingkey&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3QodDdWk7ubphK2MxKhGGL))
+**🟢 Japan proposes Asia oil <b>security</b> task force at ASEAN summit - Reuters**
+> *... <b>global energy</b> industry. Sign up here. &quot;We intend to promote it as ​an equivalent of an Asian version of the <b>International Energy</b> Agency,&quot; ⁠she&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/energy/japan-propose-asia-oil-security-task-force-azec-summit-media-reports-2026-11-17/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw327dZjUCJb5keA2TbLNkIE))
 
-**🟢 Ensuring Security in Food, Energy, and Oil & Gas — A Three-Fold Perspective on ... - SunSirs**
-> *With <b>global</b> food markets experiencing heightened volatility—driven by factors such as geopolitical conflicts and extreme weather, which impact&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.sunsirs.com/commodity-news/petail-37679.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw14QFfXfuReIienFn7tIk2D))
+**🟢 Belém Mission to 1.5 Report highlights climate solutions ready to scale**
+> *... <b>energy security</b>, economic diversification and jobs. The report contributes to <b>global</b> efforts to achieve the goals of the Paris Agreement&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://cop30.br/en/news-about-cop30/belem-mission-to-1-5-report-highlights-climate-solutions-ready-to-scale&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw18kAmmHAvLzjyRiIdtSv7M))
 
-**🟡 The Philippines led discussions at the ASEAN Summit on regional oil stockpiling, an ... - Facebook**
-> *... <b>energy security</b> amid disruptions to <b>global</b> oil supplies. Link in the comment section &middot; May be an image of text &middot; 1. 1 reaction ·. 1 comment. ·. 1&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/gmanews/posts/the-philippines-led-discussions-at-the-asean-summit-on-regional-oil-stockpiling-/1786289803542669/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw04kC2rq7F3Fgf-x1VtdxfW))
+**🟢 Philippines, Republic of Korea discuss <b>energy security</b>, trade on sidelines of ASEAN Summit**
+> *Philippines, Republic of Korea discuss <b>energy security</b>, trade on sidelines of ASEAN Summit | ANC ... TOUCHDOWN! <b>Global</b> Leaders Land In Manila for High-&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D5o4DQzXOeXg&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3KXr9lbLAcOp0Wo5na5e4s))
+
+
+## 🏛 LEADERSHIP
+**🟢 नीति आयोग ने PM Modi के 25 सालों के कार्यकाल पर जारी की 5 राष्ट्रीय कार्याशाला की श्रृंखला**
+> *... Congress' Vote Chori Charge At Bharat Summit|'Foreign Hand' For '<b>Regime Change</b>'? Times Now. New. 26K views &middot; 48:29 &middot; Go to channel News18 UP&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dr-kOPsNNnWg&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw37lzQ8uzYWx7FYRLnMylnA))
+
+**🟢 UP Draft Voter List 2026: 19 Lakh Names Added - YouTube**
+> *... political debate over voter deletions. Here's everything you need to ... <b>Regime Change</b>'? Times Now. New. 25K views &middot; 10:59 &middot; Go to channel CNN-News18&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DzsPA-gMtfX8&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw3-417QqME9JmQvAt-zXdIJ))
+
+**🟢 अखिलेश हुए राजी? कांग्रेस-सपा गठबंधन में इतनी सीटें तय? - YouTube**
+> *... political news , latest news today, latest news in hindi , abp news. ... <b>Regime Change</b>'? Times Now. New. 24K views &middot; 18:28 &middot; Go to channel DD News&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTkW2mKFjtpM&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2fhjpDf5c5tzddC6ceu1CB))
+
+**🟢 Foreign Interference Row: Plea In Supreme Court Seeks Probe Into Congress Summit**
+> *... political participation in India's ... Italian Neta Echoes Congress' Vote Chori Charge At Bharat Summit|'Foreign Hand' For '<b>Regime Change</b>'?...* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfxSErXTTVhA&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2GqAEBHmiA2Ku7I854MYwf))
+
+**🟡 'Visa Rules Can't Be Ignored': Anand Ranganathan On Italian Leader's Remark Row**
+> *... political activities, he argued that the current controversy exposes what he ... <b>Regime Change</b>'? Times Now. New. 19K views &middot; 38:27 &middot; Go to channel NDTV&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DiXA_gGTbjdM&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw319BcESE9km6HRunY63R5P))
 
 
 ## 🏛 GENERAL UPDATES
-**🟢 GBP/USD Hovers Near One-Month Low Amid Strong USD Index | KuCoin**
-> *Recent CFT measures further underscore dollar strength amid <b>geopolitical risks</b>. ... <b>geopolitical risk</b> aversion. 1.3200 serves as the short-term key&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/flash/gbp-usd-hovers-near-one-month-low-amid-strong-usd-index&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw0PYp1ZQCFMXtBLrA_6kBgn))
+**🟢 PM Modi to attend 23rd ASEAN-India Summit and 21st East <b>Asia</b> Summit in Manila today**
+> *The discussions are expected to focus on peace, stability, <b>security</b> and cooperation in the <b>Indo</b>-<b>Pacific</b> region. India and ASEAN are observing 2026&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://newsonair.gov.in/pm-modi-to-attend-23rd-asean-india-summit-and-21st-east-asia-summit-in-manila-today/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1jPyXECxvBTaEPXw6Oyw19))
 
-**🟡 Risky Future Summit to Explore Emerging Threats, Technology, <b>Risk</b> Management for Insurers**
-> *... <b>geopolitical</b> instability and increasingly costly natural catastrophes, the property/casualty insurance industry faces a rapidly evolving <b>risk</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.carriermanagement.com/news/2026/11/15/294144.htm&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1CdVLeUj3tPgAYats50nb6))
+**🟢 Japan, China, South Korea talk <b>Indo</b>-<b>Pacific security</b>, cooperation in ASEAN summit**
+> *Japan, China, South Korea talk <b>Indo</b>-<b>Pacific security</b>, cooperation in ASEAN summit #japanlife #china #southkorea #indopacific #aseansummit #live&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DNrNt2IM--hA&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1Litvi7OcCrOEGGA_BiPpJ))
 
-**🟢 ASEAN Summit 2026: India's Big Play For The <b>Indo</b>-<b>Pacific</b> | Ground Report - YouTube**
-> *The Philippines is hosting the Association of Southeast Asian Nations (ASEAN) Summit from November 15 to 17 in Manila....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D_1jGJz5fD-0&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2w_IIVp_xpQGADzHRWQAFv))
+**🟢 EPAA report flags quantum-safe readiness gaps in payments**
+> *... <b>Asia Pacific Security</b>, Featured, TechTime. The Emerging Payments Association Asia (EPAA) has released a report examining what it describes as a gap&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.asiapacificsecuritymagazine.com/epaa-report-flags-quantum-safe-readiness-gaps-in-payments/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw3DYlpagtHbA122BufzW4wv))
 
-**🟢 'Quad belongs to fading era': Jeffrey Sachs says India should leave Quad | Interview**
-> *... <b>security</b>, and damages India's relations with China ... Whatever its communiqués say about a free and open <b>Indo</b>-<b>Pacific</b>, the&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/world/jeffrey-sachs-interview-quad-china-us-trump-india-indo-pacific-west-asia-ai-bubble-14060099.html&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1k2A_xTXCts6fBBMw0wn43))
+**🟢 Manila Widens Security Partnerships Beyond US - BusinessWorld Online - Ground News**
+> *Teodoro confident US would help PH if <b>South China Sea tension</b> escalates &middot; Defense Secretary Gilberto Teodoro Jr. on Monday expressed confidence that&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ground.news/article/teodoro-confident-us-would-help-ph-if-south-china-sea-tension-escalates&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw04fuqOQgWkhX1vYR43SziS))
 
-**🟢 <b>South China Sea</b>: The Philippines and Australia strengthen their cooperation**
-> *A new agreement is intended to facilitate joint operations and exercises. This move comes in response to China's actions in the <b>South China Sea</b>. NW....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://table.media/en/china/news/south-china-sea-the-philippines-and-australia-strengthen-their-cooperation&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw1I8Cp3jowc_0wiEd-lwu6g))
+**🟢 PM Modi at ASEAN Summit: What is the grouping and what role does India play?**
+> *The meetings are being held under the theme 'Navigating Our Future, Together'. Maritime security, <b>tensions</b> in the <b>South China Sea</b>, the situation in&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://english.mathrubhumi.com/amp/news/india/asean-east-asia-summit-explained-history-members-india-role-pm5nbmta&ct=ga&cd=CAIyGmQxMDEzNWQyYThlOGM3NmE6Y29tOmVuOklO&usg=AOvVaw3lDaRELFs2jzeZpXZVWFF3))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
