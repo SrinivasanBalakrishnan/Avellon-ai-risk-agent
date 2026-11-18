@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 17 November 2026
+**Date:** 18 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Southeast Asia's bet on small nuclear reactors fuels big energy security <b>risks</b>
+**Source News:** Strategic: Strengthen your core | UBS Singapore
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Southeast Asia's bet on small nuclear reactors fuels big energy security <b>risks</b>
+- **The News:** Strategic: Strengthen your core | UBS Singapore
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** Gold Price Forecast: XAU/USD stays vulnerable amid Fed hike bets, <b>geopolitical</b> uncertainty
+**Source News:** International SOS <b>Risk</b> Outlook 2027: <b>Geopolitics</b>, Extreme Weather and AI Threats Raise ...
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Gold Price Forecast: XAU/USD stays vulnerable amid Fed hike bets, <b>geopolitical</b> uncertainty
+- **The News:** International SOS <b>Risk</b> Outlook 2027: <b>Geopolitics</b>, Extreme Weather and AI Threats Raise ...
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Supertanker rates sink 60%-plus from record highs as Middle East <b>geopolitical risk</b> unwinds
+**Source News:** Oil prices fall as higher US crude stocks temper supply <b>risks</b> - Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Supertanker rates sink 60%-plus from record highs as Middle East <b>geopolitical risk</b> unwinds
+- **The News:** Oil prices fall as higher US crude stocks temper supply <b>risks</b> - Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** नीति आयोग ने PM Modi के 25 सालों के कार्यकाल पर जारी की 5 राष्ट्रीय कार्याशाला की श्रृंखला
+**Source News:** Rahul Gandhi Questions Election Funding and Credibility of Electoral Process at Columbia University
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** नीति आयोग ने PM Modi के 25 सालों के कार्यकाल पर जारी की 5 राष्ट्रीय कार्याशाला की श्रृंखला
+- **The News:** Rahul Gandhi Questions Election Funding and Credibility of Electoral Process at Columbia University
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
