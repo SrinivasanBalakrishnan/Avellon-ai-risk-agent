@@ -1,18 +1,18 @@
 # AVELLON MARKETING STUDIO
-**Date:** 20 November 2026
+**Date:** 21 November 2026
 **Goal:** Thought Leadership & Lead Gen
 **Strategy:** Translate risk into business value.
 
 ---
 ## 📝 DRAFT POST: Geopolitics Angle
-**Source News:** Iran war live: Houthis escalate attacks on Saudi capital | News - Al Jazeera
+**Source News:** Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday By Reuters
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Iran war live: Houthis escalate attacks on Saudi capital | News - Al Jazeera
+- **The News:** Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday By Reuters
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -20,14 +20,14 @@
 ---
 
 ## 📝 DRAFT POST: Cyber & Tech Angle
-**Source News:** US Government restricts remote access to advanced AI chips through overseas data centres
+**Source News:** Cursor tells lawmakers it is considering phasing out Chinese AI models | MLQ.ai
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** US Government restricts remote access to advanced AI chips through overseas data centres
+- **The News:** Cursor tells lawmakers it is considering phasing out Chinese AI models | MLQ.ai
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -35,14 +35,14 @@
 ---
 
 ## 📝 DRAFT POST: Global Economy Angle
-**Source News:** Oil settles flat as Hormuz disruptions offset global surplus fears - Yahoo! Finance Canada
+**Source News:** An early breakdown in the polar vortex is threatening already depleted gas stocks - CNBC
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Oil settles flat as Hormuz disruptions offset global surplus fears - Yahoo! Finance Canada
+- **The News:** An early breakdown in the polar vortex is threatening already depleted gas stocks - CNBC
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
@@ -50,14 +50,14 @@
 ---
 
 ## 📝 DRAFT POST: Leadership Angle
-**Source News:** Liberal residue and illiberal innovation for conflict management in the Middle East - CIDOB
+**Source News:** In a <b>regime</b> of rule <b>change</b>, H-1B visa workers abandon US dream - HR News
 
 **LinkedIn Hook Options:**
 1. 🛑 Supply chain alert: Critical chokepoint activity detected...
 2. 💡 Why logistics leaders are watching this waterway today...
 
 **Draft Body Structure:**
-- **The News:** Liberal residue and illiberal innovation for conflict management in the Middle East - CIDOB
+- **The News:** In a <b>regime</b> of rule <b>change</b>, H-1B visa workers abandon US dream - HR News
 - **The Insight:** This isn't just political; it's a warning signal for market stability.
 - **The Avellon View:** Resilience is the new currency. How is your organization preparing?
 
