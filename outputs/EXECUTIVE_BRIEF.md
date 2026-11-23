@@ -1,93 +1,82 @@
 # AVELLON INTELLIGENCE: DAILY EXECUTIVE BRIEF
-**Date:** 22 November 2026
+**Date:** 23 November 2026
 **Classification:** INTERNAL USE ONLY
 **Focus:** Global Risk & Strategic Opportunity
 
 ---
 ## ⚓ CRITICAL CHOKEPOINTS (Daily Scan)
-- **Strait of Hormuz** (Risk Score: 21.5)
-- **Taiwan Strait** (Risk Score: 4.5)
-- **Bab el-Mandeb (Red Sea)** (Risk Score: 3)
+- **Bab el-Mandeb (Red Sea)** (Risk Score: 12.5)
+- **Strait of Hormuz** (Risk Score: 11.0)
+- **Taiwan Strait** (Risk Score: 6.0)
 
 ---
 
 ## 🏛 GEOPOLITICS
-**🔴 Shenzhen was not Yalta, but a clear sign of a massive <b>geopolitical</b> shift | Opinion - The Vibes**
-> *... <b>geopolitical</b> shift The concrete ... The alternative is endless friction, wasted resources and the <b>risk</b> of miscalculation among nuclear powers....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thevibes.com/articles/opinion/129793/shenzhen-was-not-yalta-but-a-clear-sign-of-a-massive-geopolitical-shift&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw14FSWMXKkxQXyEgGFlYw8y))
+**🟡 Underground empire: China's plan to weaponize infrastructure gear - Asia Times**
+> *... geopolitical weapon: strict export controls on tunnel boring. ... Dr. Johnson Juncheng Li is an independent researcher focusing on <b>geopolitical risk</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/2026/11/underground-empire-chinas-plan-to-weaponize-infrastructure-gear/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3r9RshCaPIrUdP64Co6Vzi))
 
-**🔴 Oil gains on Iran war worries - Markets - Business Recorder**
-> *<b>Geopolitical risk</b> could once again drive up prices, said Aldo Spanjer, commodity strategist at BNP Paribas. “The prices are correct if you believe&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.brecorder.com/news/40450152/oil-gains-on-iran-war-worries&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1iStzcom1DYX7V1UbmR_Al))
+**🔴 Is the <b>geopolitical</b> premium fading? IEA warns of 2 million barrel surplus as WTI crude faces ...**
+> *Traders weighed signs of strengthening crude oil exports against the <b>risk</b> of escalating Middle East conflicts; expectations of a global oversupply of&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/news/post/1005447971/is-the-geopolitical-premium-fading-iea-warns-of-2-million&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1ZHCgeodg9DigoXlQleH3C))
 
-**🟡 Italian Arbitration Day 2026: Arbitration in the Age of Economic and Legal Disruption of ...**
-> *The principal <b>risk</b> areas identified for international arbitration were <b>geopolitics</b>, economic sanctions and digital transformation. He observed&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://legalblogs.wolterskluwer.com/arbitration-blog/italian-arbitration-day-2026-arbitration-in-the-age-of-economic-and-legal-disruption-of-tariffs-sanctions-and-global-uncertainty/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2UxzbR3cJj3qObnizZQiF6))
+**🔴 UN Climate Talks Fizzle Out Without an Overarching Agreement - The <b>Energy</b> Mix**
+> *<b>International</b> Security &amp; War &middot; Legal &amp; Regulatory &middot; Research &amp; Innovation ... <b>energy security</b>. We can't put out the fire while pouring fuel on it&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.theenergymix.com/un-climate-talks-fizzle-out-without-an-overarching-agreement/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2XxR5VnSVbzBay_oYa_BRD))
 
-**🟢 Three <b>global</b> powers sign historic peace declaration in southern China - PrimaMedia.ru**
-> *... a southern Chinese city. They signed a joint declaration on peace, outlining agreements on <b>global security</b>, <b>energy</b>, and nuclear risk reduction....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://primamedia.ru/news/2689585/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1QfoUt3vczx0dZDCi7gDzN))
+**🟢 UN Climate Change Reports 2026 | ClearIAS**
+> *Greater policy integration: &middot; Whole-of-society participation: &middot; Influence of the <b>Global</b> Stocktake: &middot; <b>Energy security</b>: ; Progress towards NDC&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.clearias.com/un-climate-change-reports-2026/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw25apKdxfQuVJRh_siT-r8K))
 
-**🟡 IPCC and IEA say CCUS needed to meet the 1.5-degree net-zero target - tanahair.net**
-> *He believes that accelerating electrification and the transition to renewable <b>energy</b> are key priorities for preventing <b>global</b> warming from exceeding&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://tanahair.net/ipcc-and-iea-say-ccus-needed-to-meet-the-1-5-degree-net-zero-target/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw0VNH08sQYlS8JVDoIxE56P))
+**🔴 US power in Asia hits weakest point against China since 2018 as Iran <b>war</b> ... - The <b>Economic</b> Times**
+> *... <b>war</b>. In contrast, India's diplomatic stature ... Instead of a single indicator, the index consists of eight indicators of military and <b>economic</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/international/world-news/us-power-in-asia-hits-weakest-point-against-china-since-2018-as-iran-war-reshapes-power-balance-report-finds/articleshow/136076949.cms&ct=ga&cd=CAIyGjgxMjA0MDc5MDFkOTQxMjU6Y29tOmVuOklO&usg=AOvVaw203cpJSAlFqGylvYbvGw30))
 
 
 ## 🏛 CYBER & TECH
-**🟡 Gold crashes 31%, silver plunges 64%: How much is ₹10 lakh investment shrunk since January ...**
-> *... <b>geopolitical risks</b> and central-bank buying may support gold ... The biggest risk, he said, is sustained selling of physically backed gold and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/money/personal-finance/gold-crashes-31-silver-plunges-64-how-a-10-lakh-investment-has-shrunk-since-january-peak-what-lies-ahead-11795324704458.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1nPiIzBAGIrTpOeY8iCO0N))
+**🔴 Oil holds in tight range as Gulf attacks sustain <b>risk</b> premium | Miami Herald**
+> *&quot;The ebb and flow of threats and harsher rhetoric from Washington and Tehran will likely continue to drive the marginal <b>geopolitical risk</b> premium&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.miamiherald.com/news/business/article318207394.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3sQAToygzWR-hou2XaKBH6))
 
-**🟡 Chinese AI models powered SpaceX-owned Cursor | Why does it now want to dump them?**
-> *... SpaceX-Owned Cursor Considers Phasing Out Chinese AI Models Over <b>Geopolitical Risks</b> ... risk”, CNBC reported, citing a report&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/ai/artificial-intelligence/chinese-ai-models-powered-spacex-owned-cursor-why-does-it-now-want-to-dump-them-11795314307610.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2SN4IlmSk2Lw7avPVUT0gi))
+**🟢 Taiwan <b>risk</b> may threaten tech stocks like Apple and Nvidia - CNBC**
+> *Jupiter Asset Management's Sam Konrad says that this <b>geopolitical risk</b> is to some extent prices into Taiwanese tech stocks but perhaps not for&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/video/2026/11/23/taiwan-risk-may-threaten-tech-stocks-like-apple-and-nvidia.html&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1jOFefDsAyJrUob2zmzYJn))
 
-**🟢 Cursor may drop Chinese AI models as India's Sarvam starts selling them - TNW**
-> *Cursor plans to explore dropping Chinese open-weight AI models because of “<b>geopolitical risk</b>”, a House investigation says. The SpaceX-owned coding&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://thenextweb.com/news/cursor-chinese-ai-models-house-report-sarvam-deepseek&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2ZN8Sgku3Y1SLsCYrd7FfF))
+**🔴 Saudi Arabia, Bahrain report new attacks as tensions rise - FXStreet**
+> *Risk sentiment FAQs. What do the terms&quot;risk-on&quot; and &quot;risk-off&quot; mean ... <b>geopolitical risks</b> limit losses. Haresh Menghani. British Pound edges&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.fxstreet.com/news/saudi-arabia-bahrain-report-new-attacks-as-tensions-rise-202611230010&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw00nTSkRG93ss0EN4ReZCWW))
 
-**🟢 Goldman is out with its 2027 forecast for Brent oil prices By Investing.com**
-> *... <b>geopolitical risks</b> driving prices higher. The positions could benefit ... Risk Disclosure: Trading in financial instruments and/or cryptocurrencies&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://in.investing.com/news/commodities-news/goldman-is-out-with-its-2027-forecast-for-brent-oil-prices-5719242&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2YxTxvROetJ3-pznB4fRyC))
+**🔴 Crude Oil Futures Extend Losses as AI Selloff Spills Over; Ship Attacks Near Hormuz Provide Support**
+> *Partially offsetting the price decline is <b>geopolitical risk</b> in the Middle East. The Houthis, allied with Iran, claimed on Nov. 22 to have attacked&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/db818886-e213-4412-a5ad-c35b8a4b67fa&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw1rg6g5nppSvi79G_y91bFP))
 
-**🟡 House Flags Chinese AI Models: Cursor Weighs Shift - CASRAI**
-> *... geopolitical supply-chain risks across research and enterprise ... <b>geopolitical risk</b>, though no formal replacement timeline has been established....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2lna4PosFN79Pgz8h33uoo))
+**🟢 ISC Science Diplomacy Survey Finds Capacity Gaps - CASRAI**
+> *Conversely, internal risk mitigation remains limited: only 40% provide direct advisory support to researchers navigating <b>geopolitical risks</b>, and just&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://casrai.org/news/isc-science-diplomacy-survey-63-percent-lack-dedicated-units-2026&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3clzJR9YXPD4vnwmPv3G39))
 
 
 ## 🏛 GLOBAL ECONOMY
-**🟢 India doubles down on critical minerals amid <b>global energy</b> transition - The Hawk**
-> *India expands its critical minerals mission with new auctions, processing incentives and 15+ agreements to <b>secure</b> resources for the <b>energy</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.thehawk.in/news/world/india-doubles-down-on-critical-minerals-amid-global-energy-transition&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1pp15C0BVKtu7NjbpgT0pM))
+**🟡 Three Middle East Conflict Scenarios Put Indonesia's Energy Security at <b>Risk</b>**
+> *Indonesian Stocks Sink Below 6,000 at Midday as Oil, <b>Geopolitical Risks</b> Weigh &middot; Business Oct 12, 2026 | 2:16 pm. The Latest&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://jakartaglobe.id/business/three-middle-east-conflict-scenarios-put-indonesias-energy-security-at-risk&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw2eQFdvIqdWlLgp-gT7FyPs))
 
-**🟢 India doubles down on critical minerals amid <b>global energy</b> transition - IANS LIVE**
-> *These include 1,200 domestic exploration projects led by the Geological Survey of India, with plans to <b>secure</b> 26 foreign mining assets through PSUs&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ianslive.in/india-doubles-down-on-critical-minerals-amid-global-energy-transition--20261121181606&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1UXtZ5xJFj1nalJjwHGtCP))
+**🟢 COP31 Outcomes - your questions answered - GOV.UK**
+> *Department for <b>Energy Security</b> and Net Zero; Published: 22 November 2026 ... <b>international</b> summit to negotiate and advance <b>global</b> cooperation on climate&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw3RXxk2BmCQ8NW-wwfBF2Qd))
 
-**🟢 IRH <b>Global</b> Trading Eyes Doubling Business in Egypt's Petroleum Sector**
-> *... <b>energy security</b> and improve supply flexibility. Badawi stressed the importance of expanding cooperation with IRH, citing the company's expertise&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://egyptoil-gas.com/news/irh-global-trading-eyes-doubling-business-in-egypts-petroleum-sector/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2CTn_8qe6VkwJ1GQiGkMP6))
+**🟢 India, Netherlands deepen cooperation in <b>energy</b>, <b>security</b>, technology, water management**
+> *... <b>energy</b>, <b>security</b>, technology, water management and agriculture ... Our discussions also covered other <b>global</b> and regional issues of mutual interest....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/world/asia/india-netherlands-deepen-cooperation-in-energy-security-technology-water-management-dutch-fm20261123041529/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw1g-NRRQWNoh0LyJRZBZbmI))
 
-**🟢 Trump Takes the Spotlight, but Xi Emerges Stronger From the Summit - Modern Diplomacy**
-> *MD Briefing delivers expert analysis across five <b>global</b> fronts — the Indo-Pacific, <b>energy</b>, geoeconomics, European <b>security</b>, and the Middle East —&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/11/21/trump-takes-the-spotlight-but-xi-emerges-stronger-from-the-summit/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw24aQn5M-EI5v4-KrKnjUuF))
+**🟢 U.S. <b>Energy</b> Exports Hit Records as <b>Global</b> Competition Intensifies | OilPrice.com**
+> *... <b>global</b> energy trade flows. In the oil market, the OPEC+ ... The U.S. will further boost energy export volumes, but geopolitics, <b>energy security</b>&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://oilprice.com/Energy/Energy-General/US-Energy-Exports-Hit-Records-as-Global-Competition-Intensifies.html&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2ueZPRL2AZ1As5C_m-72Ha))
 
-**🟡 Rising <b>government debt</b> unlikely to trigger broad sovereign <b>crisis</b> in 2027: UBS**
-> *<b>Government</b> borrowing and <b>debt</b>-servicing costs are likely to escalate challenges for major economies by 2027. UBS reports that pressure stems from&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/news/economy/indicators/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs/articleshow/136070395.cms&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw1i8qYfspNvC48NWGk3fGJD))
-
-
-## 🏛 LEADERSHIP
-**🟢 Trump Seeks 'Permanent' Iran Deal, Rules Out <b>Regime Change</b> | Can Qatar Revive Peace Talks?**
-> *... <b>regime change</b>, saying his administration had already dealt with successive groups of Iranian leaders. -newsn18oc_india News18 Mobile App - https&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.news18.com/videos/breaking-news/trump-seeks-permanent-iran-deal-rules-out-regime-change-can-qatar-revive-peace-talks-news18-10435879.html&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2nNtbLb66v5pq5iyOvtiZ7))
-
-**🟢 Bangladesh फिर सुलगा! <b>Regime Change</b> Gang का भारत Connection? | Sheikh Hasina | Sushant Sinha**
-> *Bangladesh फिर सुलगा! <b>Regime Change</b> Gang का भारत Connection? | Sheikh Hasina | Sushant Sinha &middot; Comments....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DN1aOvHPjK3U&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1AJ3koGvT7EHB9OSD2-FV3))
-
-**🟢 Trump intends to secure 'permanent deal' with Iran - World - DAWN.COM**
-> *Trump also addressed suggestions that Washington was pursuing <b>regime change</b> in Tehran, saying his administration had already dealt with successive&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.dawn.com/news/2046200/trump-intends-to-secure-permanent-deal-with-iran&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw2OkBooteetTxZqMGVR7H03))
+**🟢 POWER SHIFT: Why the <b>world's energy</b> future will never be the same - Business Mirror**
+> *Parliamentarians from ASEAN nations have agreed to strengthen maritime security cooperation, uphold <b>international</b> ... <b>Energy security</b> concerns, however,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://businessmirror.com.ph/2026/11/23/power-shift-why-the-worlds-energy-future-will-never-be-the-same/&ct=ga&cd=CAIyGmY4YWFlOTU0M2U2NzdjODE6Y29tOmVuOklO&usg=AOvVaw2mcvTPMyY9HPzeCou8fChm))
 
 
 ## 🏛 GENERAL UPDATES
-**🟡 Behind Closed Doors, Central Banks Build a Case for Bitcoin—But With Gold**
-> *Key Takeaways. Central banks increasingly see gold held in foreign vaults as a <b>geopolitical risk</b>, reinforcing the case for self-custody....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://news.bitcoin.com/finance/behind-closed-doors-central-banks-build-case-bitcoin-gold/&ct=ga&cd=CAIyGjVlZGE0Y2JlMjU4YjYwYzk6Y29tOmVuOklO&usg=AOvVaw3ykLAxNOuOveQ4I7tIG3s4))
+**🟢 From Supplier to Partner: South Korea's Gulf <b>Security</b> Moment - ORF Middle East**
+> *South Korea should assume a more active role in regional maritime <b>security</b>. Such engagement would be consistent with Seoul's <b>Indo</b>-<b>Pacific</b> Strategy,&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://orfme.org/expert-speak/from-supplier-to-partner-south-koreas-gulf-security-moment/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1k8BF_6QSfbcIvPxi9kXoM))
 
-**🟢 SC tightens <b>security</b>, restricts gate access - Barta 24**
-> *The United States on Saturday expressed its willingness to expand defence cooperation with Bangladesh and advance a free and open <b>Indo</b>-<b>Pacific</b> through&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://barta24.com/english/details/national-en/285699&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2ajqApld7CvKdnbQCdnE8E))
+**🟢 From Manila, a question: Does Quad membership translate into influence?**
+> *For Japan, the summit was important for its objective to be a principal <b>security</b> pillar in the <b>Indo</b>-<b>Pacific</b> with increased defence outlay....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://indianexpress.com/article/opinion/columns/quad-summit-manila-india-strategic-autonomy-10974080/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw0eCW-lXSYVsrIRDhWKQjUo))
 
-**🟢 Three powers, one table and the future of global governance - Deccan Herald**
-> *In contrast, the US National <b>Security</b> Strategy considered China a near-peer economic, technological and <b>Indo</b>-<b>Pacific</b> competitor (2025). Earlier&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.deccanherald.com/amp/story/opinion/three-powers-one-table-and-the-future-of-global-governance-4227068&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw2JNQidj6XuaV-FYfPBSlN8))
+**🟢 Capitalising on Minilaterals: India's Role in the Evolving <b>Indo</b>-<b>Pacific</b> Defence Landscape**
+> *... Asia, China and Australia, while integrating economic ties with broader <b>security</b> cooperation. India's approach to the <b>Indo</b>-<b>Pacific</b> is structured&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.indianarrative.com/opinion/capitalising-on-minilaterals-indias-role-in-the-evolving-indo-pacific-defence-landscape/&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1bVU5PIk5wZgpH1OcEabg0))
 
-**🔴 The Next Crash Will Be Worse Than 2008 | Schiff <b>Sovereign</b>**
-> *All the ingredients for a much bigger <b>financial crisis</b> than 2008 are here, and nobody's talking about it. Just like 2008....* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.schiffsovereign.com/video/the-next-crash-will-be-worse-than-2008/&ct=ga&cd=CAIyGmIyNmM2NjZjNTY0ZDgyZTY6Y29tOmVuOklO&usg=AOvVaw394Nh5G0bwPVfvxTKxLgyE))
+**🟡 North Korea's Kim says country seeks <b>security</b>, not supremacy - Global News**
+> *The ceremony followed Kim's rejection of US President Donald Trump's overtures last week during Trump's visit to China for the <b>Asia</b>-<b>Pacific</b> Economic&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://globalnation.inquirer.net/349571/north-koreas-kim-says-country-seeks-security-not-supremacy&ct=ga&cd=CAIyGjg4MzllYTRmZGY4MDc0ODg6Y29tOmVuOklO&usg=AOvVaw1HlthBazIsGw3yHjyKmhv0))
 
-**🟢 Israel's next <b>government</b> may be closer than anyone thinks - Ynet News**
-> *... government. I hope those elected to the Knesset on a promise of <b>political change</b> will tell these hypocrites to go to hell. MAKE ynetGlobal MY&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://www.ynetnews.com/opinions-analysis/article/sjnnrggj7e&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw0Sv_e_lRua7z_wFvtrOIwn))
+**🟢 MUSEVENI'S NEXT BIG LISTS: Ambassadors, RDCs – Inside the <b>Political</b> Anxiety Over Who ...**
+> *With the Permanent Secretary <b>changes</b> announced and the Cabinet already sworn in, the next major developments will be closely watched in <b>political</b> and&nbsp;......* ([Source](https://www.google.com/url?rct=j&sa=t&url=https://ugdiplomat.com/musevenis-next-big-lists-ambassadors-rdcs-inside-the-political-anxiety-over-who-makes-the-cut/&ct=ga&cd=CAIyGmYwNGZmMjEzOWZlNTRjMDk6Y29tOmVuOklO&usg=AOvVaw1_7oL5PXoAtxblrjf2pNwX))
 
 ---
 *Generated by Avellon Risk Engine v2.0*
